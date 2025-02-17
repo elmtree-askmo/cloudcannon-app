@@ -24,35 +24,29 @@ file_name: what-are-the-most-common-side-effects-associated-with-antipsychotics.
 url: /learn/medicine/questions/what-are-the-most-common-side-effects-associated-with-antipsychotics
 score: -1.0
 related_article1:
-    id: 104591
-    title: >-
-        How do phenothiazines differ from nonphenothiazines in terms of chemical structure and effects?
-    subject: Medicine
-    url: /learn/medicine/questions/how-do-phenothiazines-differ-from-nonphenothiazines-in-terms-of-chemical-structure-and-effects
-related_article2:
-    id: 104599
-    title: >-
-        What is the primary purpose of anxiolytics in psychiatric treatment?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-the-primary-purpose-of-anxiolytics-in-psychiatric-treatment
-related_article3:
-    id: 104592
-    title: >-
-        What is Extrapyramidal Syndrome and how is it related to antipsychotic use?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-extrapyramidal-syndrome-and-how-is-it-related-to-antipsychotic-use
-related_article4:
     id: 104602
     title: >-
         What distinguishes primary anxiety from secondary anxiety?
     subject: Psychology
     url: /learn/psychology/questions/what-distinguishes-primary-anxiety-from-secondary-anxiety
-related_article5:
-    id: 104610
+related_article2:
+    id: 104588
     title: >-
-        What role does lithium play as a mood stabilizer and what are its side effects?
+        What are the main differences between typical and atypical antipsychotics?
     subject: Medicine
-    url: /learn/medicine/questions/what-role-does-lithium-play-as-a-mood-stabilizer-and-what-are-its-side-effects
+    url: /learn/medicine/questions/what-are-the-main-differences-between-typical-and-atypical-antipsychotics
+related_article3:
+    id: 104596
+    title: >-
+        What is Tardive Dyskinesia and how can it be prevented or treated?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-tardive-dyskinesia-and-how-can-it-be-prevented-or-treated
+related_article4:
+    id: 104598
+    title: >-
+        What special considerations should be taken into account when prescribing antipsychotics to older adults?
+    subject: Medicine
+    url: /learn/medicine/questions/what-special-considerations-should-be-taken-into-account-when-prescribing-antipsychotics-to-older-adults
 ---
 
 &nbsp;

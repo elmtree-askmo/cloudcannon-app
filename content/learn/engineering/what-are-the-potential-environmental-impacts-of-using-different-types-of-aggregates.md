@@ -24,35 +24,35 @@ file_name: what-are-the-potential-environmental-impacts-of-using-different-types
 url: /learn/engineering/questions/what-are-the-potential-environmental-impacts-of-using-different-types-of-aggregates
 score: -1.0
 related_article1:
-    id: 120425
+    id: 120404
     title: >-
-        How do aggregates from different geological origins compare in terms of performance?
+        Can you explain the mineralogical composition of aggregates derived from igneous rocks?
     subject: Engineering
-    url: /learn/engineering/questions/how-do-aggregates-from-different-geological-origins-compare-in-terms-of-performance
+    url: /learn/engineering/questions/can-you-explain-the-mineralogical-composition-of-aggregates-derived-from-igneous-rocks
 related_article2:
-    id: 120409
+    id: 120416
     title: >-
-        How are aggregates classified based on particle size?
+        How is laboratory testing of aggregates conducted and what parameters are typically assessed?
     subject: Engineering
-    url: /learn/engineering/questions/how-are-aggregates-classified-based-on-particle-size
+    url: /learn/engineering/questions/how-is-laboratory-testing-of-aggregates-conducted-and-what-parameters-are-typically-assessed
 related_article3:
-    id: 120427
+    id: 120405
     title: >-
-        How do aggregates affect the thermal properties of concrete?
+        What are the characteristics of aggregates derived from sedimentary rocks?
     subject: Engineering
-    url: /learn/engineering/questions/how-do-aggregates-affect-the-thermal-properties-of-concrete
+    url: /learn/engineering/questions/what-are-the-characteristics-of-aggregates-derived-from-sedimentary-rocks
 related_article4:
-    id: 120421
+    id: 120417
     title: >-
-        How do harmful substances in aggregates impact the durability of concrete?
+        Why is particle size distribution important in the context of aggregates?
     subject: Engineering
-    url: /learn/engineering/questions/how-do-harmful-substances-in-aggregates-impact-the-durability-of-concrete
+    url: /learn/engineering/questions/why-is-particle-size-distribution-important-in-the-context-of-aggregates
 related_article5:
-    id: 120413
+    id: 120426
     title: >-
-        What chemical properties of aggregates are crucial for their use in construction?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-chemical-properties-of-aggregates-are-crucial-for-their-use-in-construction
+        What are the latest advancements in testing methods for aggregates?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-latest-advancements-in-testing-methods-for-aggregates
 ---
 
 &nbsp;

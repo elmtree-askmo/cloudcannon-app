@@ -24,35 +24,35 @@ file_name: what-is-the-role-of-public-health-nurses-and-librarians-in-virtual-ea
 url: /learn/health-studies/questions/what-is-the-role-of-public-health-nurses-and-librarians-in-virtual-early-childhood-programs
 score: -1.0
 related_article1:
-    id: 116970
+    id: 116963
     title: >-
-        How do virtual programs support newcomer families?
+        What are the core services and mission of early childhood virtual programs?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-virtual-programs-support-newcomer-families
+    url: /learn/education-studies/questions/what-are-the-core-services-and-mission-of-early-childhood-virtual-programs
 related_article2:
-    id: 116955
-    title: >-
-        How does collaboration with Early Abilities enhance support for children with special needs?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-collaboration-with-early-abilities-enhance-support-for-children-with-special-needs
-related_article3:
-    id: 116958
-    title: >-
-        What are the benefits of offering evening and weekend programs for families?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-benefits-of-offering-evening-and-weekend-programs-for-families
-related_article4:
     id: 116961
     title: >-
         How can virtual programs foster family interaction and community building?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-virtual-programs-foster-family-interaction-and-community-building
-related_article5:
-    id: 116956
+related_article3:
+    id: 116966
     title: >-
-        What specific support is available for children with special needs in virtual programs?
+        How does the Baby and Me program adapt to virtual learning?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-specific-support-is-available-for-children-with-special-needs-in-virtual-programs
+    url: /learn/education-studies/questions/how-does-the-baby-and-me-program-adapt-to-virtual-learning
+related_article4:
+    id: 116950
+    title: >-
+        How do location and convenience impact program accessibility for families?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-location-and-convenience-impact-program-accessibility-for-families
+related_article5:
+    id: 116968
+    title: >-
+        How can programs effectively engage families and caregivers in a virtual setting?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-programs-effectively-engage-families-and-caregivers-in-a-virtual-setting
 ---
 
 &nbsp;

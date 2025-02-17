@@ -29,6 +29,12 @@ related_article1:
         How do good time credit and gain time credit work in reducing sentences?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/how-do-good-time-credit-and-gain-time-credit-work-in-reducing-sentences
+related_article2:
+    id: 122102
+    title: >-
+        How do retribution, incapacitation, deterrence, rehabilitation, and restoration differ as goals of sentencing?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-do-retribution-incapacitation-deterrence-rehabilitation-and-restoration-differ-as-goals-of-sentencing
 ---
 
 &nbsp;

@@ -30,17 +30,29 @@ related_article1:
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-differences-between-maintenance-and-elaborative-rehearsal
 related_article2:
-    id: 112490
+    id: 112484
     title: >-
-        What are declarative memories and how are they categorized?
+        What is the encoding specificity principle?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-declarative-memories-and-how-are-they-categorized
+    url: /learn/psychology/questions/what-is-the-encoding-specificity-principle
 related_article3:
     id: 112474
     title: >-
         Can you explain the role of sensory memory in the Atkinson-Shiffrin Model?
     subject: Psychology
     url: /learn/psychology/questions/can-you-explain-the-role-of-sensory-memory-in-the-atkinsonshiffrin-model
+related_article4:
+    id: 112485
+    title: >-
+        What are the components of the working memory model?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-components-of-the-working-memory-model
+related_article5:
+    id: 112490
+    title: >-
+        What are declarative memories and how are they categorized?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-declarative-memories-and-how-are-they-categorized
 ---
 
 &nbsp;

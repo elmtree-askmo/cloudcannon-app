@@ -30,29 +30,29 @@ related_article1:
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/how-did-the-equal-pay-act-of-1963-address-employment-discrimination
 related_article2:
-    id: 123001
-    title: >-
-        How do antitrust laws intersect with labor laws in the U.S.?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-do-antitrust-laws-intersect-with-labor-laws-in-the-us
-related_article3:
-    id: 122996
-    title: >-
-        What is the legal framework surrounding labor lockouts?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-the-legal-framework-surrounding-labor-lockouts
-related_article4:
     id: 123006
     title: >-
         What are the key requirements for the initial sale of securities under the Securities Act of 1933?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-are-the-key-requirements-for-the-initial-sale-of-securities-under-the-securities-act-of-1933
-related_article5:
-    id: 123002
+related_article3:
+    id: 122989
     title: >-
-        What was the significance of the Standard Oil of New Jersey vs United States case in antitrust law?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-was-the-significance-of-the-standard-oil-of-new-jersey-vs-united-states-case-in-antitrust-law
+        What is the significance of the quasi-legislative power of the NLRB?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-is-the-significance-of-the-quasilegislative-power-of-the-nlrb
+related_article4:
+    id: 122994
+    title: >-
+        What constitutes an unfair labor practice under U.S. labor laws?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-constitutes-an-unfair-labor-practice-under-us-labor-laws
+related_article5:
+    id: 122998
+    title: >-
+        What are the key differences between disparate treatment and disparate impact under the Civil Rights Act of 1964?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-are-the-key-differences-between-disparate-treatment-and-disparate-impact-under-the-civil-rights-act-of-1964
 ---
 
 &nbsp;

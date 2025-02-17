@@ -24,11 +24,11 @@ file_name: how-did-the-economic-and-cultural-changes-in-1970s-san-francisco-affe
 url: /learn/sociology/questions/how-did-the-economic-and-cultural-changes-in-1970s-san-francisco-affect-its-sociopolitical-climate
 score: -1.0
 related_article1:
-    id: 123826
+    id: 123842
     title: >-
-        What role did the rise of the gay rights movement play in the socio-political climate of 1970s San Francisco?
-    subject: Sociology
-    url: /learn/sociology/questions/what-role-did-the-rise-of-the-gay-rights-movement-play-in-the-sociopolitical-climate-of-1970s-san-francisco
+        How did the political tensions in San Francisco contribute to the events leading to the assassinations?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-political-tensions-in-san-francisco-contribute-to-the-events-leading-to-the-assassinations
 related_article2:
     id: 123828
     title: >-
@@ -36,23 +36,23 @@ related_article2:
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-the-public-react-to-the-assassinations-of-george-moscone-and-harvey-milk
 related_article3:
-    id: 123832
+    id: 123831
     title: >-
-        What was the "Twinkie Defense" and how did it play a role in Dan White's defense strategy?
+        What were the legal proceedings in Dan White's trial?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-was-the-twinkie-defense-and-how-did-it-play-a-role-in-dan-whites-defense-strategy
+    url: /learn/criminal-or-civil-law/questions/what-were-the-legal-proceedings-in-dan-whites-trial
 related_article4:
-    id: 123838
+    id: 123822
     title: >-
-        What was the media coverage like following the assassinations and the trial?
+        What events led to the assassinations of George Moscone and Harvey Milk?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-media-coverage-like-following-the-assassinations-and-the-trial
+    url: /learn/history-of-the-world/questions/what-events-led-to-the-assassinations-of-george-moscone-and-harvey-milk
 related_article5:
-    id: 123844
+    id: 123836
     title: >-
-        How did the socio-political climate of the 1970s influence the public's reaction to the trial and verdict?
+        What were the long-term effects of the assassinations on politics and society?
     subject: Sociology
-    url: /learn/sociology/questions/how-did-the-sociopolitical-climate-of-the-1970s-influence-the-publics-reaction-to-the-trial-and-verdict
+    url: /learn/sociology/questions/what-were-the-longterm-effects-of-the-assassinations-on-politics-and-society
 ---
 
 &nbsp;

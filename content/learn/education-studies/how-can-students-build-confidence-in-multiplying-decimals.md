@@ -24,29 +24,29 @@ file_name: how-can-students-build-confidence-in-multiplying-decimals.md
 url: /learn/education-studies/questions/how-can-students-build-confidence-in-multiplying-decimals
 score: -1.0
 related_article1:
-    id: 99051
+    id: 99059
     title: >-
-        What are the basic steps for multiplying decimals with whole numbers?
+        Are there any specific rules to follow when multiplying decimals?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-basic-steps-for-multiplying-decimals-with-whole-numbers
+    url: /learn/mathematics/questions/are-there-any-specific-rules-to-follow-when-multiplying-decimals
 related_article2:
-    id: 99074
+    id: 99054
     title: >-
-        How can students apply their knowledge of decimal multiplication in everyday situations?
+        How do you handle the decimal point when multiplying decimals with whole numbers?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-students-apply-their-knowledge-of-decimal-multiplication-in-everyday-situations
+    url: /learn/mathematics/questions/how-do-you-handle-the-decimal-point-when-multiplying-decimals-with-whole-numbers
 related_article3:
+    id: 99075
+    title: >-
+        What are some mnemonic devices to help remember the steps in decimal multiplication?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-mnemonic-devices-to-help-remember-the-steps-in-decimal-multiplication
+related_article4:
     id: 99078
     title: >-
         How can group activities enhance the learning of decimal multiplication?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-group-activities-enhance-the-learning-of-decimal-multiplication
-related_article4:
-    id: 99058
-    title: >-
-        What are some tips for ensuring accuracy when multiplying decimals?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-tips-for-ensuring-accuracy-when-multiplying-decimals
 ---
 
 &nbsp;

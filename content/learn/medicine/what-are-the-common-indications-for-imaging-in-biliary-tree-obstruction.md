@@ -24,29 +24,29 @@ file_name: what-are-the-common-indications-for-imaging-in-biliary-tree-obstructi
 url: /learn/medicine/questions/what-are-the-common-indications-for-imaging-in-biliary-tree-obstruction
 score: -1.0
 related_article1:
-    id: 118067
+    id: 118076
     title: >-
-        How are neuroendocrine tumors in the pancreas detected through imaging?
+        How do imaging modalities assist in treatment planning for biliary and pancreatic diseases?
     subject: Medicine
-    url: /learn/medicine/questions/how-are-neuroendocrine-tumors-in-the-pancreas-detected-through-imaging
+    url: /learn/medicine/questions/how-do-imaging-modalities-assist-in-treatment-planning-for-biliary-and-pancreatic-diseases
 related_article2:
-    id: 118054
+    id: 118057
     title: >-
-        What are the risks associated with PTC in biliary imaging?
+        What is the role of EUS in pancreatic imaging?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-risks-associated-with-ptc-in-biliary-imaging
+    url: /learn/medicine/questions/what-is-the-role-of-eus-in-pancreatic-imaging
 related_article3:
-    id: 118052
+    id: 118073
     title: >-
-        What are the advantages of using EUS for biliary tree imaging?
+        What role does imaging play in identifying pathology in the biliary tree and pancreas?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-advantages-of-using-eus-for-biliary-tree-imaging
+    url: /learn/medicine/questions/what-role-does-imaging-play-in-identifying-pathology-in-the-biliary-tree-and-pancreas
 related_article4:
-    id: 118075
+    id: 118064
     title: >-
-        What imaging techniques are used for intervention and sampling in biliary and pancreatic conditions?
+        What imaging modalities are preferred for diagnosing pancreatic cancer?
     subject: Medicine
-    url: /learn/medicine/questions/what-imaging-techniques-are-used-for-intervention-and-sampling-in-biliary-and-pancreatic-conditions
+    url: /learn/medicine/questions/what-imaging-modalities-are-preferred-for-diagnosing-pancreatic-cancer
 ---
 
 &nbsp;

@@ -24,29 +24,23 @@ file_name: what-is-a-dipole-moment-and-how-is-it-calculated.md
 url: /learn/chemistry/questions/what-is-a-dipole-moment-and-how-is-it-calculated
 score: -1.0
 related_article1:
+    id: 123506
+    title: >-
+        What are partial charges and how do they arise in molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-partial-charges-and-how-do-they-arise-in-molecules
+related_article2:
     id: 123500
     title: >-
         How does electronegativity vary across a period in the periodic table?
     subject: Chemistry
     url: /learn/chemistry/questions/how-does-electronegativity-vary-across-a-period-in-the-periodic-table
-related_article2:
+related_article3:
     id: 123505
     title: >-
         Can you provide examples of polar bonds and explain why they are polar?
     subject: Chemistry
     url: /learn/chemistry/questions/can-you-provide-examples-of-polar-bonds-and-explain-why-they-are-polar
-related_article3:
-    id: 123516
-    title: >-
-        What are the implications of electronegativity on chemical reactivity?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-implications-of-electronegativity-on-chemical-reactivity
-related_article4:
-    id: 123509
-    title: >-
-        How can one determine the polarity of a molecule?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-can-one-determine-the-polarity-of-a-molecule
 ---
 
 &nbsp;

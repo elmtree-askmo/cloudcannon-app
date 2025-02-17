@@ -30,17 +30,11 @@ related_article1:
     subject: Physics
     url: /learn/physics/questions/how-do-absorption-lines-help-in-identifying-the-chemical-composition-of-stars
 related_article2:
-    id: 117672
+    id: 117679
     title: >-
-        How was the Hertzsprung-Russell Diagram developed, and why is it significant?
+        How does the Harvard Classification Scheme categorize stars?
     subject: Physics
-    url: /learn/physics/questions/how-was-the-hertzsprungrussell-diagram-developed-and-why-is-it-significant
-related_article3:
-    id: 117673
-    title: >-
-        What defines the main sequence on the Hertzsprung-Russell Diagram?
-    subject: Physics
-    url: /learn/physics/questions/what-defines-the-main-sequence-on-the-hertzsprungrussell-diagram
+    url: /learn/physics/questions/how-does-the-harvard-classification-scheme-categorize-stars
 ---
 
 &nbsp;

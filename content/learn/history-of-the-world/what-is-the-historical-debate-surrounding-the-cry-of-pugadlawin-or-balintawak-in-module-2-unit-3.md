@@ -13,7 +13,7 @@ seo:
   page_description: >-
     The Cry of Pugadlawin, a pivotal event in the Philippine Revolution, symbolizes the struggle for freedom and national identity. Debates surround its significance regarding location, the role of the Katipunan, historical memory, and the consequences of the revolutionary actions led by Andrs Bonifacio.
   page_keywords: >-
-    Cry of Pugadlawin, Grito de Pugad Lawin, Philippine Revolution, Andrés Bonifacio, Katipunan, historical debate, national identity, colonization, freedom, armed revolt
+    Cry of Pugadlawin, Grito de Pugad Lawin, Philippine Revolution, Andrs Bonifacio, Katipunan, historical debate, national identity, colonization, freedom, armed revolt
 author: QuickTakes
 question: >-
     What is the historical debate surrounding the Cry of Pugadlawin or Balintawak in Module 2, Unit 3?
@@ -24,17 +24,17 @@ file_name: what-is-the-historical-debate-surrounding-the-cry-of-pugadlawin-or-ba
 url: /learn/history-of-the-world/questions/what-is-the-historical-debate-surrounding-the-cry-of-pugadlawin-or-balintawak-in-module-2-unit-3
 score: -1.0
 related_article1:
+    id: 104232
+    title: >-
+        What is the final requirement for the course related to local history?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-is-the-final-requirement-for-the-course-related-to-local-history
+related_article2:
     id: 104214
     title: >-
         How should students approach the analysis of primary sources in Tasks 2, 3, and 4?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-should-students-approach-the-analysis-of-primary-sources-in-tasks-2-3-and-4
-related_article2:
-    id: 104215
-    title: >-
-        What are the key points of debate for Task 5: Site of the First Easter Sunday Mass?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-key-points-of-debate-for-task-5-site-of-the-first-easter-sunday-mass
 related_article3:
     id: 104209
     title: >-

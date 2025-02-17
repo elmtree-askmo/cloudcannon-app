@@ -24,35 +24,35 @@ file_name: what-were-the-key-differences-in-economic-strategies-between-china-an
 url: /learn/economics/questions/what-were-the-key-differences-in-economic-strategies-between-china-and-india-during-the-industrial-revolution
 score: -1.0
 related_article1:
-    id: 123024
+    id: 123039
     title: >-
-        How did India's textile production compare to Britain's during the Industrial Revolution?
+        What were the major shifts in global trade routes due to industrialization?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-indias-textile-production-compare-to-britains-during-the-industrial-revolution
+    url: /learn/history-of-the-world/questions/what-were-the-major-shifts-in-global-trade-routes-due-to-industrialization
 related_article2:
-    id: 123045
-    title: >-
-        What lessons can be learned from the Industrial Revolution for future economic development?
-    subject: Economics
-    url: /learn/economics/questions/what-lessons-can-be-learned-from-the-industrial-revolution-for-future-economic-development
-related_article3:
     id: 123033
     title: >-
         What were the environmental impacts of increased coal usage during the Industrial Revolution?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-the-environmental-impacts-of-increased-coal-usage-during-the-industrial-revolution
+related_article3:
+    id: 123027
+    title: >-
+        What arguments exist regarding European cultural superiority during the Industrial Revolution?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-arguments-exist-regarding-european-cultural-superiority-during-the-industrial-revolution
 related_article4:
-    id: 123036
+    id: 123044
     title: >-
-        How did China's economic policies affect its industrial potential?
-    subject: Economics
-    url: /learn/economics/questions/how-did-chinas-economic-policies-affect-its-industrial-potential
+        How did the Industrial Revolution affect global power dynamics?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-industrial-revolution-affect-global-power-dynamics
 related_article5:
-    id: 123016
+    id: 123032
     title: >-
-        What were the key technological innovations during the Industrial Revolution?
-    subject: Engineering
-    url: /learn/engineering/questions/what-were-the-key-technological-innovations-during-the-industrial-revolution
+        How did the development of the steam engine affect transportation and industry?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-development-of-the-steam-engine-affect-transportation-and-industry
 ---
 
 &nbsp;

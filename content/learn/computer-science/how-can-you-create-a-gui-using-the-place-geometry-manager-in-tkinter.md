@@ -24,29 +24,29 @@ file_name: how-can-you-create-a-gui-using-the-place-geometry-manager-in-tkinter.
 url: /learn/computer-science/questions/how-can-you-create-a-gui-using-the-place-geometry-manager-in-tkinter
 score: -1.0
 related_article1:
-    id: 119407
+    id: 119392
     title: >-
-        What is an overview of SQL and its components?
+        What types of widgets are available in Tkinter?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-an-overview-of-sql-and-its-components
+    url: /learn/computer-science/questions/what-types-of-widgets-are-available-in-tkinter
 related_article2:
-    id: 119409
+    id: 119401
     title: >-
-        How have user interfaces evolved over time?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-have-user-interfaces-evolved-over-time
+        How can the grid layout manager be used to create a profile entry UI in Tkinter?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-can-the-grid-layout-manager-be-used-to-create-a-profile-entry-ui-in-tkinter
 related_article3:
-    id: 119400
+    id: 119399
     title: >-
-        Can you provide an example of a simple survey UI using the grid layout manager in Tkinter?
+        What is the grid layout manager in Tkinter and what are its key parameters?
     subject: Computer Science
-    url: /learn/computer-science/questions/can-you-provide-an-example-of-a-simple-survey-ui-using-the-grid-layout-manager-in-tkinter
+    url: /learn/computer-science/questions/what-is-the-grid-layout-manager-in-tkinter-and-what-are-its-key-parameters
 related_article4:
-    id: 119390
+    id: 119384
     title: >-
-        How does the Tkinter library in Python facilitate GUI development?
+        Who was Douglas Engelbart and what was his contribution to early GUI development?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-tkinter-library-in-python-facilitate-gui-development
+    url: /learn/computer-science/questions/who-was-douglas-engelbart-and-what-was-his-contribution-to-early-gui-development
 related_article5:
     id: 119402
     title: >-

@@ -24,35 +24,35 @@ file_name: how-is-hepatic-hydrothorax-managed-in-cirrhosis-patients.md
 url: /learn/medicine/questions/how-is-hepatic-hydrothorax-managed-in-cirrhosis-patients
 score: -1.0
 related_article1:
-    id: 98978
+    id: 98975
     title: >-
-        What is hepatic hydrothorax and how is it related to liver disease?
+        What are the long-term management strategies for variceal bleeding?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-hepatic-hydrothorax-and-how-is-it-related-to-liver-disease
+    url: /learn/medicine/questions/what-are-the-longterm-management-strategies-for-variceal-bleeding
 related_article2:
-    id: 98980
+    id: 98987
     title: >-
-        How does acute kidney injury occur in patients with cirrhosis?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-acute-kidney-injury-occur-in-patients-with-cirrhosis
-related_article3:
-    id: 98991
-    title: >-
-        How does ascites affect the quality of life in cirrhosis patients?
+        What role does lifestyle modification play in the management of cirrhosis?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-ascites-affect-the-quality-of-life-in-cirrhosis-patients
+    url: /learn/health-studies/questions/what-role-does-lifestyle-modification-play-in-the-management-of-cirrhosis
+related_article3:
+    id: 98989
+    title: >-
+        How is the severity of cirrhosis assessed in clinical practice?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-the-severity-of-cirrhosis-assessed-in-clinical-practice
 related_article4:
-    id: 98972
+    id: 98974
     title: >-
-        How does cirrhosis lead to the development of ascites?
+        How is acute variceal bleeding managed in patients with liver disease?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-cirrhosis-lead-to-the-development-of-ascites
+    url: /learn/medicine/questions/how-is-acute-variceal-bleeding-managed-in-patients-with-liver-disease
 related_article5:
-    id: 98996
+    id: 98988
     title: >-
-        What are the indications for liver transplantation in cirrhosis patients?
+        What are the diagnostic criteria for cirrhosis?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-indications-for-liver-transplantation-in-cirrhosis-patients
+    url: /learn/medicine/questions/what-are-the-diagnostic-criteria-for-cirrhosis
 ---
 
 &nbsp;

@@ -24,35 +24,29 @@ file_name: what-are-the-limitations-of-mathematical-models-in-explaining-the-uni
 url: /learn/mathematics/questions/what-are-the-limitations-of-mathematical-models-in-explaining-the-universe
 score: -1.0
 related_article1:
+    id: 117944
+    title: >-
+        Can you explain the minimum principle and its role in physics?
+    subject: Physics
+    url: /learn/physics/questions/can-you-explain-the-minimum-principle-and-its-role-in-physics
+related_article2:
+    id: 117953
+    title: >-
+        What are some historical examples of the interplay between mathematics and physics?
+    subject: Physics
+    url: /learn/physics/questions/what-are-some-historical-examples-of-the-interplay-between-mathematics-and-physics
+related_article3:
     id: 117942
     title: >-
         How do Newton's Laws form the foundation of classical mechanics?
     subject: Physics
     url: /learn/physics/questions/how-do-newtons-laws-form-the-foundation-of-classical-mechanics
-related_article2:
-    id: 117936
-    title: >-
-        What are the key differences between Babylonian and Greek mathematical traditions?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-key-differences-between-babylonian-and-greek-mathematical-traditions
-related_article3:
-    id: 117937
-    title: >-
-        How do fundamental principles lead to consequential statements in physics?
-    subject: Physics
-    url: /learn/physics/questions/how-do-fundamental-principles-lead-to-consequential-statements-in-physics
 related_article4:
-    id: 117943
+    id: 117946
     title: >-
-        What is the local field method and how is it applied in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-local-field-method-and-how-is-it-applied-in-physics
-related_article5:
-    id: 117933
-    title: >-
-        How is mathematical language used to describe physical laws?
-    subject: Physics
-    url: /learn/physics/questions/how-is-mathematical-language-used-to-describe-physical-laws
+        How do mathematical models help in predicting physical phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
 ---
 
 &nbsp;

@@ -24,23 +24,23 @@ file_name: how-do-emotions-play-a-role-in-the-dynamics-of-social-movements.md
 url: /learn/sociology/questions/how-do-emotions-play-a-role-in-the-dynamics-of-social-movements
 score: -1.0
 related_article1:
-    id: 119437
-    title: >-
-        What are the legal implications of protester violence?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-implications-of-protester-violence
-related_article2:
-    id: 119419
-    title: >-
-        How does state violence impact the outcomes of social movements?
-    subject: Sociology
-    url: /learn/sociology/questions/how-does-state-violence-impact-the-outcomes-of-social-movements
-related_article3:
     id: 119412
     title: >-
         What is crowd psychology and how does it influence group behavior?
     subject: Psychology
     url: /learn/psychology/questions/what-is-crowd-psychology-and-how-does-it-influence-group-behavior
+related_article2:
+    id: 119437
+    title: >-
+        What are the legal implications of protester violence?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-implications-of-protester-violence
+related_article3:
+    id: 119414
+    title: >-
+        What are the main criticisms of Relative Deprivation Theory?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-main-criticisms-of-relative-deprivation-theory
 ---
 
 &nbsp;

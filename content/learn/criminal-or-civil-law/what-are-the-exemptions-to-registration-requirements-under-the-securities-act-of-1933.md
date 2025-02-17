@@ -24,35 +24,35 @@ file_name: what-are-the-exemptions-to-registration-requirements-under-the-securi
 url: /learn/criminal-or-civil-law/questions/what-are-the-exemptions-to-registration-requirements-under-the-securities-act-of-1933
 score: -1.0
 related_article1:
-    id: 122995
+    id: 123001
     title: >-
-        How does the concept of a runaway shop affect labor relations?
+        How do antitrust laws intersect with labor laws in the U.S.?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-does-the-concept-of-a-runaway-shop-affect-labor-relations
+    url: /learn/criminal-or-civil-law/questions/how-do-antitrust-laws-intersect-with-labor-laws-in-the-us
 related_article2:
-    id: 122986
+    id: 122988
     title: >-
-        What were the key provisions of the National Railway Act and Norris-LaGuardia Act of 1932?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-were-the-key-provisions-of-the-national-railway-act-and-norrislaguardia-act-of-1932
+        What role did the National Labor Relations Board (NLRB) play after its creation in 1935?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-role-did-the-national-labor-relations-board-nlrb-play-after-its-creation-in-1935
 related_article3:
-    id: 123004
+    id: 123003
     title: >-
-        What are tie-in arrangements and exclusive dealing arrangements under antitrust laws?
+        How do price fixing and division of markets violate the Clayton Antitrust Act?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-tiein-arrangements-and-exclusive-dealing-arrangements-under-antitrust-laws
+    url: /learn/criminal-or-civil-law/questions/how-do-price-fixing-and-division-of-markets-violate-the-clayton-antitrust-act
 related_article4:
-    id: 122996
+    id: 123015
     title: >-
-        What is the legal framework surrounding labor lockouts?
+        What is the short swing profit rule and how does it apply to insiders?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-the-legal-framework-surrounding-labor-lockouts
+    url: /learn/criminal-or-civil-law/questions/what-is-the-short-swing-profit-rule-and-how-does-it-apply-to-insiders
 related_article5:
-    id: 122989
+    id: 123012
     title: >-
-        What is the significance of the quasi-legislative power of the NLRB?
+        What are the disclosure requirements under the Securities Exchange Act of 1934?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-the-significance-of-the-quasilegislative-power-of-the-nlrb
+    url: /learn/criminal-or-civil-law/questions/what-are-the-disclosure-requirements-under-the-securities-exchange-act-of-1934
 ---
 
 &nbsp;

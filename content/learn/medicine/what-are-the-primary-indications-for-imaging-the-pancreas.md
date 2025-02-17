@@ -24,35 +24,35 @@ file_name: what-are-the-primary-indications-for-imaging-the-pancreas.md
 url: /learn/medicine/questions/what-are-the-primary-indications-for-imaging-the-pancreas
 score: -1.0
 related_article1:
-    id: 118042
+    id: 118044
     title: >-
-        What role does contrast material play in CT and MRI imaging of the hepatobiliary system?
+        What are the latest advancements in CT and MRI imaging technology for the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/what-role-does-contrast-material-play-in-ct-and-mri-imaging-of-the-hepatobiliary-system
+    url: /learn/medicine/questions/what-are-the-latest-advancements-in-ct-and-mri-imaging-technology-for-the-hepatobiliary-system
 related_article2:
-    id: 118039
-    title: >-
-        How does the cost of CT imaging compare to MRI imaging for the hepatobiliary system?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-cost-of-ct-imaging-compare-to-mri-imaging-for-the-hepatobiliary-system
-related_article3:
-    id: 118021
-    title: >-
-        What are the disadvantages of using CT imaging for the hepatobiliary system?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-disadvantages-of-using-ct-imaging-for-the-hepatobiliary-system
-related_article4:
     id: 118046
     title: >-
         What are the common challenges faced in imaging the hepatobiliary system?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-common-challenges-faced-in-imaging-the-hepatobiliary-system
-related_article5:
-    id: 118043
+related_article3:
+    id: 118036
     title: >-
-        How do patient factors, such as age and health conditions, influence the choice of imaging technique for the hepatobiliary system?
+        What are the typical findings in MRI imaging of the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-patient-factors-such-as-age-and-health-conditions-influence-the-choice-of-imaging-technique-for-the-hepatobiliary-system
+    url: /learn/medicine/questions/what-are-the-typical-findings-in-mri-imaging-of-the-hepatobiliary-system
+related_article4:
+    id: 118045
+    title: >-
+        How do CT and MRI imaging techniques aid in the management and treatment planning of hepatic pathologies?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-ct-and-mri-imaging-techniques-aid-in-the-management-and-treatment-planning-of-hepatic-pathologies
+related_article5:
+    id: 118031
+    title: >-
+        What imaging findings are associated with hepatocellular carcinoma?
+    subject: Medicine
+    url: /learn/medicine/questions/what-imaging-findings-are-associated-with-hepatocellular-carcinoma
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: what-payment-mechanisms-are-most-commonly-used-in-ebusiness.md
 url: /learn/business-and-management/questions/what-payment-mechanisms-are-most-commonly-used-in-ebusiness
 score: -1.0
 related_article1:
+    id: 98567
+    title: >-
+        How has the evolution of e-business influenced outsourcing practices?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-has-the-evolution-of-ebusiness-influenced-outsourcing-practices
+related_article2:
     id: 98549
     title: >-
         How do internationalisation and globalisation impact e-business?
     subject: Business and Management
     url: /learn/business-and-management/questions/how-do-internationalisation-and-globalisation-impact-ebusiness
-related_article2:
-    id: 98555
-    title: >-
-        What are the primary benefits of e-business for business organisations?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-primary-benefits-of-ebusiness-for-business-organisations
 related_article3:
-    id: 98558
+    id: 98548
     title: >-
-        What are the typical steps involved in online transactions?
+        What role does outsourcing play in modern business strategies?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-typical-steps-involved-in-online-transactions
+    url: /learn/business-and-management/questions/what-role-does-outsourcing-play-in-modern-business-strategies
 related_article4:
-    id: 98547
+    id: 98571
     title: >-
-        How has digitisation transformed traditional business practices?
+        How is the scope of e-business expected to change in the future?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-has-digitisation-transformed-traditional-business-practices
+    url: /learn/business-and-management/questions/how-is-the-scope-of-ebusiness-expected-to-change-in-the-future
 related_article5:
-    id: 98546
+    id: 98570
     title: >-
-        What are the key learning objectives when studying emerging modes of business?
+        What are the security concerns specific to e-business that differ from traditional business?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-key-learning-objectives-when-studying-emerging-modes-of-business
+    url: /learn/business-and-management/questions/what-are-the-security-concerns-specific-to-ebusiness-that-differ-from-traditional-business
 ---
 
 &nbsp;

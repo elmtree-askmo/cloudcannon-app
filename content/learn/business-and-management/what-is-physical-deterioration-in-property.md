@@ -24,35 +24,35 @@ file_name: what-is-physical-deterioration-in-property.md
 url: /learn/business-and-management/questions/what-is-physical-deterioration-in-property
 score: -1.0
 related_article1:
-    id: 96972
+    id: 96985
     title: >-
-        What is functional obsolescence in property?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-is-functional-obsolescence-in-property
+        What is panic selling in real estate?
+    subject: Economics
+    url: /learn/economics/questions/what-is-panic-selling-in-real-estate
 related_article2:
-    id: 96974
+    id: 96966
     title: >-
-        What are the different appraisal methods used in real estate?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-different-appraisal-methods-used-in-real-estate
+        How does scarcity affect property value?
+    subject: Economics
+    url: /learn/economics/questions/how-does-scarcity-affect-property-value
 related_article3:
-    id: 96967
+    id: 96981
     title: >-
-        What role does transferability play in property value?
-    subject: Economics
-    url: /learn/economics/questions/what-role-does-transferability-play-in-property-value
+        What is the history and enactment of fair housing laws?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-is-the-history-and-enactment-of-fair-housing-laws
 related_article4:
-    id: 96958
+    id: 96984
     title: >-
-        What is eminent domain and how does it affect property ownership?
+        What is blockbusting and how does it relate to fair housing?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-eminent-domain-and-how-does-it-affect-property-ownership
+    url: /learn/criminal-or-civil-law/questions/what-is-blockbusting-and-how-does-it-relate-to-fair-housing
 related_article5:
-    id: 96968
+    id: 96976
     title: >-
-        How does utility influence property value?
-    subject: Economics
-    url: /learn/economics/questions/how-does-utility-influence-property-value
+        What is the cost replacement approach in property appraisal?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/what-is-the-cost-replacement-approach-in-property-appraisal
 ---
 
 &nbsp;

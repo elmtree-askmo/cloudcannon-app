@@ -24,12 +24,30 @@ file_name: what-are-the-challenges-in-implementing-adhd-support-measures-in-scho
 url: /learn/education-studies/questions/what-are-the-challenges-in-implementing-adhd-support-measures-in-schools
 score: -1.0
 related_article1:
+    id: 124203
+    title: >-
+        How do cultural perceptions of ADHD affect support and treatment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-cultural-perceptions-of-adhd-affect-support-and-treatment
+related_article2:
+    id: 124191
+    title: >-
+        What are the main phases of the Jockey Club Joyful@School Project?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-main-phases-of-the-jockey-club-joyfulschool-project
+related_article3:
     id: 124196
     title: >-
         How is diversity expressed in inclusive learning environments?
     subject: Education Studies
     url: /learn/education-studies/questions/how-is-diversity-expressed-in-inclusive-learning-environments
-related_article2:
+related_article4:
+    id: 124190
+    title: >-
+        What is the role of the Hong Kong Jockey Club Charities Trust in supporting ADHD initiatives?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-role-of-the-hong-kong-jockey-club-charities-trust-in-supporting-adhd-initiatives
+related_article5:
     id: 124197
     title: >-
         What strategies are used to create an inclusive environment for ADHD students?

@@ -24,35 +24,35 @@ file_name: what-does-an-abnormal-large-bowel-loop-indicate.md
 url: /learn/medicine/questions/what-does-an-abnormal-large-bowel-loop-indicate
 score: -1.0
 related_article1:
-    id: 118153
+    id: 118164
     title: >-
-        How can you differentiate between large and small bowel on an X-ray?
+        What challenges are associated with contrast studies in GI radiology?
     subject: Medicine
-    url: /learn/medicine/questions/how-can-you-differentiate-between-large-and-small-bowel-on-an-xray
+    url: /learn/medicine/questions/what-challenges-are-associated-with-contrast-studies-in-gi-radiology
 related_article2:
-    id: 118155
+    id: 118148
     title: >-
-        What does a barium meal reveal about the GI anatomy?
+        What role does angiography play in GI radiology?
     subject: Medicine
-    url: /learn/medicine/questions/what-does-a-barium-meal-reveal-about-the-gi-anatomy
+    url: /learn/medicine/questions/what-role-does-angiography-play-in-gi-radiology
 related_article3:
+    id: 118165
+    title: >-
+        How do you decide between using barium and water-soluble contrast?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-you-decide-between-using-barium-and-watersoluble-contrast
+related_article4:
+    id: 118143
+    title: >-
+        Can you explain the procedure and purpose of a barium swallow?
+    subject: Medicine
+    url: /learn/medicine/questions/can-you-explain-the-procedure-and-purpose-of-a-barium-swallow
+related_article5:
     id: 118147
     title: >-
         How does computed tomography (CT) enhance GI imaging?
     subject: Medicine
     url: /learn/medicine/questions/how-does-computed-tomography-ct-enhance-gi-imaging
-related_article4:
-    id: 118156
-    title: >-
-        How is the small bowel anatomy assessed through imaging?
-    subject: Medicine
-    url: /learn/medicine/questions/how-is-the-small-bowel-anatomy-assessed-through-imaging
-related_article5:
-    id: 118141
-    title: >-
-        How do plain films contribute to GI radiology?
-    subject: Medicine
-    url: /learn/medicine/questions/how-do-plain-films-contribute-to-gi-radiology
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: how-does-the-parody-song-king-tut-reflect-snls-approach-to-comedic-mu
 url: /learn/american-culture/questions/how-does-the-parody-song-king-tut-reflect-snls-approach-to-comedic-music-videos
 score: -1.0
 related_article1:
-    id: 1020
+    id: 1013
     title: >-
-        How did Stuart Smalley become a notable guest host character on SNL?
+        What made The Weeknd's performance of 'Can't Feel My Face' memorable on SNL?
     subject: American Culture
-    url: /learn/american-culture/questions/how-did-stuart-smalley-become-a-notable-guest-host-character-on-snl
+    url: /learn/american-culture/questions/what-made-the-weeknds-performance-of-cant-feel-my-face-memorable-on-snl
 related_article2:
-    id: 1005
+    id: 1015
     title: >-
-        What is the comedic technique used in the 'Word Association' sketch?
+        How has Kenan Thompson contributed to SNL as a long-serving cast member?
     subject: American Culture
-    url: /learn/american-culture/questions/what-is-the-comedic-technique-used-in-the-word-association-sketch
+    url: /learn/american-culture/questions/how-has-kenan-thompson-contributed-to-snl-as-a-longserving-cast-member
 related_article3:
-    id: 1019
-    title: >-
-        What are the key traits of the Spartan Cheerleaders as recurring characters on SNL?
-    subject: American Culture
-    url: /learn/american-culture/questions/what-are-the-key-traits-of-the-spartan-cheerleaders-as-recurring-characters-on-snl
-related_article4:
-    id: 1010
-    title: >-
-        Why was Nirvana's performance of 'Smells Like Teen Spirit' on SNL considered iconic?
-    subject: American Culture
-    url: /learn/american-culture/questions/why-was-nirvanas-performance-of-smells-like-teen-spirit-on-snl-considered-iconic
-related_article5:
     id: 1024
     title: >-
         How does 'Celebrity Jeopardy!' utilize parody to create humor?
     subject: American Culture
     url: /learn/american-culture/questions/how-does-celebrity-jeopardy-utilize-parody-to-create-humor
+related_article4:
+    id: 1014
+    title: >-
+        Why is George Carlin's role as the first host of SNL historically significant?
+    subject: American Culture
+    url: /learn/american-culture/questions/why-is-george-carlins-role-as-the-first-host-of-snl-historically-significant
+related_article5:
+    id: 1004
+    title: >-
+        In what ways does the 'Single Ladies' parody on SNL differ from the original performance?
+    subject: American Culture
+    url: /learn/american-culture/questions/in-what-ways-does-the-single-ladies-parody-on-snl-differ-from-the-original-performance
 ---
 
 &nbsp;

@@ -24,29 +24,29 @@ file_name: what-are-common-attendance-policies-in-higher-education-institutions.
 url: /learn/education-studies/questions/what-are-common-attendance-policies-in-higher-education-institutions
 score: -1.0
 related_article1:
-    id: 98704
-    title: >-
-        How can review sessions be structured to reinforce lecture material?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-review-sessions-be-structured-to-reinforce-lecture-material
-related_article2:
     id: 98688
     title: >-
         How can a lecturer structure the main content to maximize understanding?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-a-lecturer-structure-the-main-content-to-maximize-understanding
-related_article3:
+related_article2:
     id: 98702
     title: >-
         How can students identify key points during a lecture?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-students-identify-key-points-during-a-lecture
-related_article4:
-    id: 98690
+related_article3:
+    id: 98696
     title: >-
-        What are the most popular note-taking methods among students?
+        What should be included in a comprehensive course syllabus?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-most-popular-notetaking-methods-among-students
+    url: /learn/education-studies/questions/what-should-be-included-in-a-comprehensive-course-syllabus
+related_article4:
+    id: 98687
+    title: >-
+        What are the key components of an effective lecture introduction?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-components-of-an-effective-lecture-introduction
 ---
 
 &nbsp;

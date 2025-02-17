@@ -24,35 +24,29 @@ file_name: how-do-the-legs-support-locomotion-and-weightbearing.md
 url: /learn/health-studies/questions/how-do-the-legs-support-locomotion-and-weightbearing
 score: -1.0
 related_article1:
-    id: 100382
+    id: 100360
     title: >-
-        How does the pelvis connect the spine to the lower limbs?
+        What are the main components of the axial skeleton?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-the-pelvis-connect-the-spine-to-the-lower-limbs
+    url: /learn/medicine/questions/what-are-the-main-components-of-the-axial-skeleton
 related_article2:
-    id: 100383
-    title: >-
-        What are the major bones in the legs and their functions?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-major-bones-in-the-legs-and-their-functions
-related_article3:
-    id: 100373
-    title: >-
-        How do the arms facilitate movement and dexterity?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-the-arms-facilitate-movement-and-dexterity
-related_article4:
     id: 100381
     title: >-
         What are the structural differences between the upper and lower limbs?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-structural-differences-between-the-upper-and-lower-limbs
-related_article5:
-    id: 100362
+related_article3:
+    id: 100368
     title: >-
-        Can you describe the detailed anatomy of the skull?
-    subject: Medicine
-    url: /learn/medicine/questions/can-you-describe-the-detailed-anatomy-of-the-skull
+        Why is the femur considered an important bone in the body?
+    subject: Health Studies
+    url: /learn/health-studies/questions/why-is-the-femur-considered-an-important-bone-in-the-body
+related_article4:
+    id: 100366
+    title: >-
+        How does the pelvis support the body?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-pelvis-support-the-body
 ---
 
 &nbsp;

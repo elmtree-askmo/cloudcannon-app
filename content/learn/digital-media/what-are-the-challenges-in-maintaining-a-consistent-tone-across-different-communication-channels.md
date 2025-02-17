@@ -24,29 +24,29 @@ file_name: what-are-the-challenges-in-maintaining-a-consistent-tone-across-diffe
 url: /learn/digital-media/questions/what-are-the-challenges-in-maintaining-a-consistent-tone-across-different-communication-channels
 score: -1.0
 related_article1:
-    id: 120746
+    id: 120723
     title: >-
-        What are some examples of communication pitfalls in professional settings?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-some-examples-of-communication-pitfalls-in-professional-settings
+        Can you provide examples of how tone can impact behavior in communication?
+    subject: Psychology
+    url: /learn/psychology/questions/can-you-provide-examples-of-how-tone-can-impact-behavior-in-communication
 related_article2:
-    id: 120722
+    id: 120728
     title: >-
-        What are some common communication pitfalls that people encounter?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-some-common-communication-pitfalls-that-people-encounter
+        What are the key elements to consider in a case study analysis of communication?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-are-the-key-elements-to-consider-in-a-case-study-analysis-of-communication
 related_article3:
-    id: 120738
+    id: 120747
     title: >-
-        What are the differences between verbal and non-verbal communication in terms of tone?
+        How can empathy be incorporated into communication strategies?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-differences-between-verbal-and-nonverbal-communication-in-terms-of-tone
+    url: /learn/psychology/questions/how-can-empathy-be-incorporated-into-communication-strategies
 related_article4:
-    id: 120744
+    id: 120737
     title: >-
-        What are the benefits of using case studies in communication training?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-benefits-of-using-case-studies-in-communication-training
+        How can feedback be used to improve communication skills?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-feedback-be-used-to-improve-communication-skills
 ---
 
 &nbsp;

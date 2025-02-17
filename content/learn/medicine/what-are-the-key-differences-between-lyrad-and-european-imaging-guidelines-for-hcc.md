@@ -24,29 +24,35 @@ file_name: what-are-the-key-differences-between-lyrad-and-european-imaging-guide
 url: /learn/medicine/questions/what-are-the-key-differences-between-lyrad-and-european-imaging-guidelines-for-hcc
 score: -1.0
 related_article1:
-    id: 118089
+    id: 118103
     title: >-
-        What specific features are looked for in PET-CT imaging of HCC?
+        What are the challenges in interpreting imaging results for HCC?
     subject: Medicine
-    url: /learn/medicine/questions/what-specific-features-are-looked-for-in-petct-imaging-of-hcc
+    url: /learn/medicine/questions/what-are-the-challenges-in-interpreting-imaging-results-for-hcc
 related_article2:
+    id: 118082
+    title: >-
+        What are the most commonly used imaging modalities for diagnosing HCC?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-most-commonly-used-imaging-modalities-for-diagnosing-hcc
+related_article3:
+    id: 118094
+    title: >-
+        How is hemangioma differentiated from HCC in imaging studies?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-hemangioma-differentiated-from-hcc-in-imaging-studies
+related_article4:
+    id: 118098
+    title: >-
+        Which organisms are most frequently associated with liver abscesses?
+    subject: Medicine
+    url: /learn/medicine/questions/which-organisms-are-most-frequently-associated-with-liver-abscesses
+related_article5:
     id: 118091
     title: >-
         How is the effectiveness of surgical resection and transplantation monitored in HCC patients?
     subject: Health Studies
     url: /learn/health-studies/questions/how-is-the-effectiveness-of-surgical-resection-and-transplantation-monitored-in-hcc-patients
-related_article3:
-    id: 118104
-    title: >-
-        How do imaging characteristics of HCC change with different stages of the disease?
-    subject: Medicine
-    url: /learn/medicine/questions/how-do-imaging-characteristics-of-hcc-change-with-different-stages-of-the-disease
-related_article4:
-    id: 118095
-    title: >-
-        What imaging characteristics help distinguish cholangiocarcinoma from HCC?
-    subject: Medicine
-    url: /learn/medicine/questions/what-imaging-characteristics-help-distinguish-cholangiocarcinoma-from-hcc
 ---
 
 &nbsp;

@@ -24,35 +24,29 @@ file_name: what-are-the-limitations-of-using-random-variables-in-statistical-ana
 url: /learn/mathematics/questions/what-are-the-limitations-of-using-random-variables-in-statistical-analysis
 score: -1.0
 related_article1:
-    id: 102696
+    id: 102698
     title: >-
-        What are some real-world applications of random variables?
+        Can you provide examples of random variables in different fields such as finance, engineering, or biology?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-realworld-applications-of-random-variables
+    url: /learn/mathematics/questions/can-you-provide-examples-of-random-variables-in-different-fields-such-as-finance-engineering-or-biology
 related_article2:
-    id: 102684
+    id: 102685
     title: >-
-        What is a random variable in the context of probability and statistics?
+        How do random variables differ from deterministic variables?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-a-random-variable-in-the-context-of-probability-and-statistics
+    url: /learn/mathematics/questions/how-do-random-variables-differ-from-deterministic-variables
 related_article3:
-    id: 102713
+    id: 102697
     title: >-
-        What are the educational resources available for learning more about random variables?
+        How are random variables used in statistical modeling?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-educational-resources-available-for-learning-more-about-random-variables
+    url: /learn/mathematics/questions/how-are-random-variables-used-in-statistical-modeling
 related_article4:
-    id: 102691
+    id: 102711
     title: >-
-        How are random variables classified in practice?
+        What are the mathematical properties of random variables?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-are-random-variables-classified-in-practice
-related_article5:
-    id: 102687
-    title: >-
-        What are the main types of random variables?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-main-types-of-random-variables
+    url: /learn/mathematics/questions/what-are-the-mathematical-properties-of-random-variables
 ---
 
 &nbsp;

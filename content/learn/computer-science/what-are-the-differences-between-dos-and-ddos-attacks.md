@@ -24,35 +24,29 @@ file_name: what-are-the-differences-between-dos-and-ddos-attacks.md
 url: /learn/computer-science/questions/what-are-the-differences-between-dos-and-ddos-attacks
 score: -1.0
 related_article1:
-    id: 122297
+    id: 122275
     title: >-
-        How does biometric authentication work and what are its benefits?
+        What role does physical security play in protecting network infrastructure?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-biometric-authentication-work-and-what-are-its-benefits
+    url: /learn/computer-science/questions/what-role-does-physical-security-play-in-protecting-network-infrastructure
 related_article2:
-    id: 122276
+    id: 122298
     title: >-
-        Why are login credentials critical in network security?
+        What is the importance of input validation and sanitization in software security?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-are-login-credentials-critical-in-network-security
+    url: /learn/computer-science/questions/what-is-the-importance-of-input-validation-and-sanitization-in-software-security
 related_article3:
-    id: 122287
+    id: 122279
     title: >-
-        How can user training and awareness improve network security?
+        How can viruses and malware be effectively mitigated?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-user-training-and-awareness-improve-network-security
+    url: /learn/computer-science/questions/how-can-viruses-and-malware-be-effectively-mitigated
 related_article4:
-    id: 122270
+    id: 122292
     title: >-
-        How does spam and phishing pose a threat to network security?
+        How does secure software development contribute to network security?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-spam-and-phishing-pose-a-threat-to-network-security
-related_article5:
-    id: 122277
-    title: >-
-        How can network media security be ensured?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-network-media-security-be-ensured
+    url: /learn/computer-science/questions/how-does-secure-software-development-contribute-to-network-security
 ---
 
 &nbsp;

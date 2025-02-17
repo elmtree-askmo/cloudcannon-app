@@ -24,17 +24,17 @@ file_name: what-are-the-main-components-of-the-appendicular-skeleton.md
 url: /learn/health-studies/questions/what-are-the-main-components-of-the-appendicular-skeleton
 score: -1.0
 related_article1:
-    id: 100382
+    id: 100377
     title: >-
-        How does the pelvis connect the spine to the lower limbs?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-the-pelvis-connect-the-spine-to-the-lower-limbs
+        How does the axial skeleton differ from the appendicular skeleton in terms of function?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-axial-skeleton-differ-from-the-appendicular-skeleton-in-terms-of-function
 related_article2:
-    id: 100378
+    id: 100380
     title: >-
-        What are the specific bones included in the thorax?
+        What are the major bones in the arms and their functions?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-specific-bones-included-in-the-thorax
+    url: /learn/medicine/questions/what-are-the-major-bones-in-the-arms-and-their-functions
 related_article3:
     id: 100356
     title: >-
@@ -42,17 +42,17 @@ related_article3:
     subject: Nursing
     url: /learn/nursing/questions/how-does-the-skeleton-provide-support-and-protection-to-the-body
 related_article4:
-    id: 100358
+    id: 100376
     title: >-
-        What roles do bones play in blood production?
+        What are the unique characteristics of the femur compared to other bones?
     subject: Medicine
-    url: /learn/medicine/questions/what-roles-do-bones-play-in-blood-production
+    url: /learn/medicine/questions/what-are-the-unique-characteristics-of-the-femur-compared-to-other-bones
 related_article5:
-    id: 100384
+    id: 100374
     title: >-
-        How does the skeletal system change with age or disease?
+        What is the importance of the pelvis in terms of weight distribution?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-skeletal-system-change-with-age-or-disease
+    url: /learn/health-studies/questions/what-is-the-importance-of-the-pelvis-in-terms-of-weight-distribution
 ---
 
 &nbsp;

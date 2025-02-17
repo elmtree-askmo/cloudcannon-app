@@ -24,35 +24,35 @@ file_name: what-are-the-future-trends-in-semiconductor-electronics.md
 url: /learn/computer-science/questions/what-are-the-future-trends-in-semiconductor-electronics
 score: -1.0
 related_article1:
+    id: 116360
+    title: >-
+        What were the key historical milestones in the development of semiconductor electronics?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-key-historical-milestones-in-the-development-of-semiconductor-electronics
+related_article2:
+    id: 116381
+    title: >-
+        How do semiconductors enable the functionality of integrated circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-semiconductors-enable-the-functionality-of-integrated-circuits
+related_article3:
+    id: 116370
+    title: >-
+        What is a p-n junction and why is it fundamental to semiconductor devices?
+    subject: Physics
+    url: /learn/physics/questions/what-is-a-pn-junction-and-why-is-it-fundamental-to-semiconductor-devices
+related_article4:
     id: 116359
     title: >-
         How did the transition from vacuum tubes to solid-state devices impact the electronics industry?
     subject: Computer Science
     url: /learn/computer-science/questions/how-did-the-transition-from-vacuum-tubes-to-solidstate-devices-impact-the-electronics-industry
-related_article2:
-    id: 116361
-    title: >-
-        Who were the pioneering scientists and engineers in the field of semiconductor electronics?
-    subject: Engineering
-    url: /learn/engineering/questions/who-were-the-pioneering-scientists-and-engineers-in-the-field-of-semiconductor-electronics
-related_article3:
+related_article5:
     id: 116374
     title: >-
         What are some examples of modern electronic devices that rely on semiconductor technology?
     subject: Engineering
     url: /learn/engineering/questions/what-are-some-examples-of-modern-electronic-devices-that-rely-on-semiconductor-technology
-related_article4:
-    id: 116380
-    title: >-
-        What are the latest advancements in semiconductor technology?
-    subject: Engineering
-    url: /learn/engineering/questions/what-are-the-latest-advancements-in-semiconductor-technology
-related_article5:
-    id: 116373
-    title: >-
-        How has semiconductor physics revolutionized modern electronics?
-    subject: Physics
-    url: /learn/physics/questions/how-has-semiconductor-physics-revolutionized-modern-electronics
 ---
 
 &nbsp;

@@ -23,18 +23,7 @@ subject: Health Studies
 file_name: what-are-effective-study-techniques-for-understanding-muscle-contraction-mechanisms.md
 url: /learn/health-studies/questions/what-are-effective-study-techniques-for-understanding-muscle-contraction-mechanisms
 score: -1.0
-related_article1:
-    id: 121817
-    title: >-
-        How does gym attendance impact physical health and fitness?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-gym-attendance-impact-physical-health-and-fitness
-related_article2:
-    id: 121804
-    title: >-
-        How does the cross bridge cycle contribute to muscle contraction?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-cross-bridge-cycle-contribute-to-muscle-contraction
+
 ---
 
 &nbsp;

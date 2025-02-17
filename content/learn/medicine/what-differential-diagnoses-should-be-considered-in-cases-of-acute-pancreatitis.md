@@ -24,29 +24,29 @@ file_name: what-differential-diagnoses-should-be-considered-in-cases-of-acute-pa
 url: /learn/medicine/questions/what-differential-diagnoses-should-be-considered-in-cases-of-acute-pancreatitis
 score: -1.0
 related_article1:
-    id: 118117
+    id: 118130
     title: >-
-        What are the common treatment and management approaches for acute cholecystitis?
+        How are different imaging techniques integrated in the diagnosis and management of hepatobiliary conditions?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-treatment-and-management-approaches-for-acute-cholecystitis
+    url: /learn/medicine/questions/how-are-different-imaging-techniques-integrated-in-the-diagnosis-and-management-of-hepatobiliary-conditions
 related_article2:
-    id: 118134
+    id: 118133
     title: >-
-        How does imaging assist in the early detection of hepatobiliary diseases?
+        What are the latest advancements in imaging techniques for hepatobiliary diagnosis?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-imaging-assist-in-the-early-detection-of-hepatobiliary-diseases
+    url: /learn/medicine/questions/what-are-the-latest-advancements-in-imaging-techniques-for-hepatobiliary-diagnosis
 related_article3:
-    id: 118112
+    id: 118128
     title: >-
-        Can you provide details on a case study involving hepatocellular carcinoma, including patient presentation and imaging findings?
+        What role does imaging play in detecting complications of pancreatitis?
     subject: Medicine
-    url: /learn/medicine/questions/can-you-provide-details-on-a-case-study-involving-hepatocellular-carcinoma-including-patient-presentation-and-imaging-findings
+    url: /learn/medicine/questions/what-role-does-imaging-play-in-detecting-complications-of-pancreatitis
 related_article4:
-    id: 118120
+    id: 118131
     title: >-
-        What are the typical treatment and management strategies for acute pancreatitis?
+        What are the key imaging modalities used in the diagnosis of hepatocellular carcinoma?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-typical-treatment-and-management-strategies-for-acute-pancreatitis
+    url: /learn/medicine/questions/what-are-the-key-imaging-modalities-used-in-the-diagnosis-of-hepatocellular-carcinoma
 ---
 
 &nbsp;

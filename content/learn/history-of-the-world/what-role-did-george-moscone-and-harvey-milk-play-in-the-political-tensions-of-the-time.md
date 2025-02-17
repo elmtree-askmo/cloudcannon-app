@@ -24,29 +24,35 @@ file_name: what-role-did-george-moscone-and-harvey-milk-play-in-the-political-te
 url: /learn/history-of-the-world/questions/what-role-did-george-moscone-and-harvey-milk-play-in-the-political-tensions-of-the-time
 score: -1.0
 related_article1:
-    id: 123840
+    id: 123833
     title: >-
-        How did the LGBTQ+ community in the Castro district react to the events?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-lgbtq-community-in-the-castro-district-react-to-the-events
+        What was the verdict and sentencing in Dan White's trial?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-was-the-verdict-and-sentencing-in-dan-whites-trial
 related_article2:
-    id: 123832
+    id: 123825
     title: >-
-        What was the "Twinkie Defense" and how did it play a role in Dan White's defense strategy?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-was-the-twinkie-defense-and-how-did-it-play-a-role-in-dan-whites-defense-strategy
+        How did the economic and cultural changes in 1970s San Francisco affect its socio-political climate?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-economic-and-cultural-changes-in-1970s-san-francisco-affect-its-sociopolitical-climate
 related_article3:
-    id: 123848
+    id: 123847
     title: >-
-        How did the legacy of the assassinations shape future political and social movements in San Francisco?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-legacy-of-the-assassinations-shape-future-political-and-social-movements-in-san-francisco
-related_article4:
-    id: 123831
-    title: >-
-        What were the legal proceedings in Dan White's trial?
+        What were the broader societal implications of the "Twinkie Defense" in legal proceedings?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-were-the-legal-proceedings-in-dan-whites-trial
+    url: /learn/criminal-or-civil-law/questions/what-were-the-broader-societal-implications-of-the-twinkie-defense-in-legal-proceedings
+related_article4:
+    id: 123827
+    title: >-
+        What were the political tensions in San Francisco during the 1970s?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-political-tensions-in-san-francisco-during-the-1970s
+related_article5:
+    id: 123842
+    title: >-
+        How did the political tensions in San Francisco contribute to the events leading to the assassinations?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-political-tensions-in-san-francisco-contribute-to-the-events-leading-to-the-assassinations
 ---
 
 &nbsp;

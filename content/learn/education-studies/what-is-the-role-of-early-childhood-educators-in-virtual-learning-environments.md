@@ -24,35 +24,35 @@ file_name: what-is-the-role-of-early-childhood-educators-in-virtual-learning-env
 url: /learn/education-studies/questions/what-is-the-role-of-early-childhood-educators-in-virtual-learning-environments
 score: -1.0
 related_article1:
-    id: 116948
+    id: 116974
     title: >-
-        How can families be effectively connected and supported in a virtual learning environment?
+        How does reflective practice contribute to continuous improvement in virtual learning?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-families-be-effectively-connected-and-supported-in-a-virtual-learning-environment
+    url: /learn/education-studies/questions/how-does-reflective-practice-contribute-to-continuous-improvement-in-virtual-learning
 related_article2:
-    id: 116950
-    title: >-
-        How do location and convenience impact program accessibility for families?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-location-and-convenience-impact-program-accessibility-for-families
-related_article3:
-    id: 116972
-    title: >-
-        How is dental hygiene and literacy promotion integrated into virtual programs?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-is-dental-hygiene-and-literacy-promotion-integrated-into-virtual-programs
-related_article4:
-    id: 116961
-    title: >-
-        How can virtual programs foster family interaction and community building?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-virtual-programs-foster-family-interaction-and-community-building
-related_article5:
     id: 116975
     title: >-
         What is the importance of using inclusive language in virtual early childhood programs?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-importance-of-using-inclusive-language-in-virtual-early-childhood-programs
+related_article3:
+    id: 116964
+    title: >-
+        How do drop-in programs function in a virtual learning framework?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-dropin-programs-function-in-a-virtual-learning-framework
+related_article4:
+    id: 116950
+    title: >-
+        How do location and convenience impact program accessibility for families?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-location-and-convenience-impact-program-accessibility-for-families
+related_article5:
+    id: 116962
+    title: >-
+        What strategies are effective in promoting friendships and community among families in virtual settings?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-strategies-are-effective-in-promoting-friendships-and-community-among-families-in-virtual-settings
 ---
 
 &nbsp;

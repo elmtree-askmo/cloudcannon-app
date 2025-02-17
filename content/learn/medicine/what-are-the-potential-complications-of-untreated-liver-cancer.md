@@ -24,35 +24,35 @@ file_name: what-are-the-potential-complications-of-untreated-liver-cancer.md
 url: /learn/medicine/questions/what-are-the-potential-complications-of-untreated-liver-cancer
 score: -1.0
 related_article1:
-    id: 97064
+    id: 97068
     title: >-
-        What are the common symptoms of Metastatic Liver Cancer?
+        What role do imaging techniques play in the diagnosis of liver cancer?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-symptoms-of-metastatic-liver-cancer
+    url: /learn/medicine/questions/what-role-do-imaging-techniques-play-in-the-diagnosis-of-liver-cancer
 related_article2:
-    id: 97060
-    title: >-
-        How does the etiology of HCC differ from other liver cancers?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-the-etiology-of-hcc-differ-from-other-liver-cancers
-related_article3:
     id: 97075
     title: >-
         What lifestyle changes are recommended for liver cancer patients?
     subject: Health Studies
     url: /learn/health-studies/questions/what-lifestyle-changes-are-recommended-for-liver-cancer-patients
+related_article3:
+    id: 97069
+    title: >-
+        What are the common laboratory tests used in the investigation of liver cancer?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-common-laboratory-tests-used-in-the-investigation-of-liver-cancer
 related_article4:
-    id: 97063
+    id: 97064
     title: >-
-        What are the challenges in diagnosing Cholangiocarcinoma?
+        What are the common symptoms of Metastatic Liver Cancer?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-challenges-in-diagnosing-cholangiocarcinoma
+    url: /learn/medicine/questions/what-are-the-common-symptoms-of-metastatic-liver-cancer
 related_article5:
-    id: 97073
+    id: 97071
     title: >-
-        How does liver cancer impact overall liver function?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-liver-cancer-impact-overall-liver-function
+        What are the survival rates for different types of liver cancer?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-survival-rates-for-different-types-of-liver-cancer
 ---
 
 &nbsp;

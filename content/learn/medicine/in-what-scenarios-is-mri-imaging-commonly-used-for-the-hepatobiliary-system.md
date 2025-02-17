@@ -24,29 +24,35 @@ file_name: in-what-scenarios-is-mri-imaging-commonly-used-for-the-hepatobiliary-
 url: /learn/medicine/questions/in-what-scenarios-is-mri-imaging-commonly-used-for-the-hepatobiliary-system
 score: -1.0
 related_article1:
-    id: 118040
+    id: 118024
     title: >-
-        What are the limitations of ultrasound imaging for the hepatobiliary system?
+        What are the disadvantages of using MRI imaging for the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-limitations-of-ultrasound-imaging-for-the-hepatobiliary-system
+    url: /learn/medicine/questions/what-are-the-disadvantages-of-using-mri-imaging-for-the-hepatobiliary-system
 related_article2:
-    id: 118036
+    id: 118020
     title: >-
-        What are the typical findings in MRI imaging of the hepatobiliary system?
+        What are the main advantages of CT imaging for the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-typical-findings-in-mri-imaging-of-the-hepatobiliary-system
+    url: /learn/medicine/questions/what-are-the-main-advantages-of-ct-imaging-for-the-hepatobiliary-system
 related_article3:
-    id: 118039
+    id: 118048
     title: >-
-        How does the cost of CT imaging compare to MRI imaging for the hepatobiliary system?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-cost-of-ct-imaging-compare-to-mri-imaging-for-the-hepatobiliary-system
-related_article4:
-    id: 118045
-    title: >-
-        How do CT and MRI imaging techniques aid in the management and treatment planning of hepatic pathologies?
+        What are the common artifacts or errors encountered in CT and MRI imaging of the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-ct-and-mri-imaging-techniques-aid-in-the-management-and-treatment-planning-of-hepatic-pathologies
+    url: /learn/medicine/questions/what-are-the-common-artifacts-or-errors-encountered-in-ct-and-mri-imaging-of-the-hepatobiliary-system
+related_article4:
+    id: 118033
+    title: >-
+        What are the key imaging techniques used for the hepatobiliary system?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-key-imaging-techniques-used-for-the-hepatobiliary-system
+related_article5:
+    id: 118038
+    title: >-
+        What are the radiation risks associated with CT imaging of the hepatobiliary system?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-radiation-risks-associated-with-ct-imaging-of-the-hepatobiliary-system
 ---
 
 &nbsp;

@@ -23,12 +23,7 @@ subject: Health Studies
 file_name: how-do-hematopoietic-nutrients-influence-overall-animal-health-and-productivity.md
 url: /learn/health-studies/questions/how-do-hematopoietic-nutrients-influence-overall-animal-health-and-productivity
 score: -1.0
-related_article1:
-    id: 112549
-    title: >-
-        How does the iron content of feeds impact animal health?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-iron-content-of-feeds-impact-animal-health
+
 ---
 
 &nbsp;

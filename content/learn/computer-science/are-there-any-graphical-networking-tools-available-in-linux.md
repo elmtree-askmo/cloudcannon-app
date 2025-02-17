@@ -24,35 +24,29 @@ file_name: are-there-any-graphical-networking-tools-available-in-linux.md
 url: /learn/computer-science/questions/are-there-any-graphical-networking-tools-available-in-linux
 score: -1.0
 related_article1:
-    id: 116121
+    id: 116144
     title: >-
-        How do Linux distributions differ from one another?
+        What are the latest trends in firewall technology for Linux?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-linux-distributions-differ-from-one-another
+    url: /learn/computer-science/questions/what-are-the-latest-trends-in-firewall-technology-for-linux
 related_article2:
-    id: 116118
+    id: 116125
     title: >-
-        What are the fundamental concepts of basic networking?
+        What are the main differences between TCP and UDP protocols?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-fundamental-concepts-of-basic-networking
+    url: /learn/computer-science/questions/what-are-the-main-differences-between-tcp-and-udp-protocols
 related_article3:
-    id: 116122
+    id: 116139
     title: >-
-        What are the most commonly used command line networking tools in Linux?
+        How does Linux handle network traffic management?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-most-commonly-used-command-line-networking-tools-in-linux
+    url: /learn/computer-science/questions/how-does-linux-handle-network-traffic-management
 related_article4:
-    id: 116120
+    id: 116126
     title: >-
-        What are the key features of the Linux operating system?
+        How do HTTP and HTTPS protocols ensure secure communication?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-features-of-the-linux-operating-system
-related_article5:
-    id: 116138
-    title: >-
-        What are the advantages of using Linux for server configuration?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-advantages-of-using-linux-for-server-configuration
+    url: /learn/computer-science/questions/how-do-http-and-https-protocols-ensure-secure-communication
 ---
 
 &nbsp;

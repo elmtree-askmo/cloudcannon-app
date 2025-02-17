@@ -24,17 +24,17 @@ file_name: how-is-the-ucc-used-in-legal-practice.md
 url: /learn/criminal-or-civil-law/questions/how-is-the-ucc-used-in-legal-practice
 score: -1.0
 related_article1:
-    id: 112088
-    title: >-
-        How does the UCC compare with the International Sale of Goods?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-does-the-ucc-compare-with-the-international-sale-of-goods
-related_article2:
     id: 112101
     title: >-
         What are the goals for students taking the course?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-are-the-goals-for-students-taking-the-course
+related_article2:
+    id: 112088
+    title: >-
+        How does the UCC compare with the International Sale of Goods?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-does-the-ucc-compare-with-the-international-sale-of-goods
 ---
 
 &nbsp;

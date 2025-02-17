@@ -30,29 +30,29 @@ related_article1:
     subject: Engineering
     url: /learn/engineering/questions/what-role-do-aggregates-play-in-the-sustainability-of-construction-materials
 related_article2:
-    id: 120424
+    id: 120420
     title: >-
-        What are the potential environmental impacts of using different types of aggregates?
+        What measures can be taken to prevent alkali-aggregate reactivity in concrete?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-potential-environmental-impacts-of-using-different-types-of-aggregates
+    url: /learn/engineering/questions/what-measures-can-be-taken-to-prevent-alkaliaggregate-reactivity-in-concrete
 related_article3:
-    id: 120422
+    id: 120425
     title: >-
-        What are the best practices for ensuring the quality of aggregates used in construction?
+        How do aggregates from different geological origins compare in terms of performance?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-best-practices-for-ensuring-the-quality-of-aggregates-used-in-construction
+    url: /learn/engineering/questions/how-do-aggregates-from-different-geological-origins-compare-in-terms-of-performance
 related_article4:
-    id: 120423
+    id: 120415
     title: >-
-        How does the granulometry of aggregates influence the workability of concrete?
+        What are the common methods for field sampling of aggregates?
     subject: Engineering
-    url: /learn/engineering/questions/how-does-the-granulometry-of-aggregates-influence-the-workability-of-concrete
+    url: /learn/engineering/questions/what-are-the-common-methods-for-field-sampling-of-aggregates
 related_article5:
-    id: 120406
+    id: 120412
     title: >-
-        How do metamorphic rocks contribute to the mineralogical composition of aggregates?
+        What are the key physical properties of aggregates that are important for construction?
     subject: Engineering
-    url: /learn/engineering/questions/how-do-metamorphic-rocks-contribute-to-the-mineralogical-composition-of-aggregates
+    url: /learn/engineering/questions/what-are-the-key-physical-properties-of-aggregates-that-are-important-for-construction
 ---
 
 &nbsp;

@@ -24,29 +24,29 @@ file_name: how-do-ct-and-mri-imaging-techniques-differ-in-terms-of-patient-prepa
 url: /learn/health-studies/questions/how-do-ct-and-mri-imaging-techniques-differ-in-terms-of-patient-preparation-and-procedure-time
 score: -1.0
 related_article1:
-    id: 118048
+    id: 118043
     title: >-
-        What are the common artifacts or errors encountered in CT and MRI imaging of the hepatobiliary system?
+        How do patient factors, such as age and health conditions, influence the choice of imaging technique for the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-artifacts-or-errors-encountered-in-ct-and-mri-imaging-of-the-hepatobiliary-system
+    url: /learn/medicine/questions/how-do-patient-factors-such-as-age-and-health-conditions-influence-the-choice-of-imaging-technique-for-the-hepatobiliary-system
 related_article2:
-    id: 118034
+    id: 118020
     title: >-
-        What are the typical findings in ultrasound imaging of the hepatobiliary system?
+        What are the main advantages of CT imaging for the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-typical-findings-in-ultrasound-imaging-of-the-hepatobiliary-system
+    url: /learn/medicine/questions/what-are-the-main-advantages-of-ct-imaging-for-the-hepatobiliary-system
 related_article3:
-    id: 118028
+    id: 118042
     title: >-
-        What are the primary indications for imaging the pancreas?
+        What role does contrast material play in CT and MRI imaging of the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-primary-indications-for-imaging-the-pancreas
+    url: /learn/medicine/questions/what-role-does-contrast-material-play-in-ct-and-mri-imaging-of-the-hepatobiliary-system
 related_article4:
-    id: 118029
+    id: 118038
     title: >-
-        What are the common hepatic pathologies that can be identified through imaging?
+        What are the radiation risks associated with CT imaging of the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-hepatic-pathologies-that-can-be-identified-through-imaging
+    url: /learn/medicine/questions/what-are-the-radiation-risks-associated-with-ct-imaging-of-the-hepatobiliary-system
 ---
 
 &nbsp;

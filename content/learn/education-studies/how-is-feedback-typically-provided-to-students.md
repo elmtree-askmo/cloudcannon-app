@@ -30,11 +30,11 @@ related_article1:
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-final-reminders-students-should-keep-in-mind-regarding-submission-deadlines
 related_article2:
-    id: 97866
+    id: 97876
     title: >-
-        What is the process for submitting essays?
+        Can you provide an analysis of Example 3?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-process-for-submitting-essays
+    url: /learn/education-studies/questions/can-you-provide-an-analysis-of-example-3
 ---
 
 &nbsp;

@@ -13,7 +13,7 @@ seo:
   page_description: >-
     Differentiated thyroid carcinoma (DTC) is the most common form of thyroid cancer characterized by its resemblance to normal thyroid cells, various histological subtypes, favorable prognosis, and the importance of a multidisciplinary management approach.
   page_keywords: >-
-    differentiated thyroid carcinoma, DTC, thyroid cancer, papillary thyroid carcinoma, follicular thyroid carcinoma, Hürthle cell carcinoma, cancer characteristics, histological features, prevalence, risk factors, clinical presentation, diagnosis, management, prognosis, multidisciplinary approach
+    differentiated thyroid carcinoma, DTC, thyroid cancer, papillary thyroid carcinoma, follicular thyroid carcinoma, Hrthle cell carcinoma, cancer characteristics, histological features, prevalence, risk factors, clinical presentation, diagnosis, management, prognosis, multidisciplinary approach
 author: QuickTakes
 question: >-
     What are the characteristics of differential thyroid carcinoma?
@@ -24,29 +24,35 @@ file_name: what-are-the-characteristics-of-differential-thyroid-carcinoma.md
 url: /learn/medicine/questions/what-are-the-characteristics-of-differential-thyroid-carcinoma
 score: -1.0
 related_article1:
-    id: 123993
+    id: 123987
     title: >-
-        How is the prognosis of thyroid cancer determined?
+        How is well-differentiated thyroid cancer different from medullary and anaplastic thyroid cancer?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-the-prognosis-of-thyroid-cancer-determined
+    url: /learn/medicine/questions/how-is-welldifferentiated-thyroid-cancer-different-from-medullary-and-anaplastic-thyroid-cancer
 related_article2:
-    id: 123970
+    id: 123971
     title: >-
-        How does the prevalence of thyroid nodules vary across different demographics?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-prevalence-of-thyroid-nodules-vary-across-different-demographics
+        What are the primary factors influencing the prevalence of thyroid nodules?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-primary-factors-influencing-the-prevalence-of-thyroid-nodules
 related_article3:
-    id: 123972
+    id: 123979
     title: >-
-        Can you explain the differences between simple goiter, toxic goiter, and neoplastic goiter?
+        How is ultrasound used in the assessment of thyroid nodules?
     subject: Medicine
-    url: /learn/medicine/questions/can-you-explain-the-differences-between-simple-goiter-toxic-goiter-and-neoplastic-goiter
+    url: /learn/medicine/questions/how-is-ultrasound-used-in-the-assessment-of-thyroid-nodules
 related_article4:
-    id: 123981
+    id: 123973
     title: >-
-        How does molecular testing contribute to the investigation of thyroid nodules?
+        What is thyroiditis and how does it relate to thyroid nodules?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-thyroiditis-and-how-does-it-relate-to-thyroid-nodules
+related_article5:
+    id: 123991
+    title: >-
+        How is lymph node management approached in thyroid cancer treatment?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-molecular-testing-contribute-to-the-investigation-of-thyroid-nodules
+    url: /learn/medicine/questions/how-is-lymph-node-management-approached-in-thyroid-cancer-treatment
 ---
 
 &nbsp;

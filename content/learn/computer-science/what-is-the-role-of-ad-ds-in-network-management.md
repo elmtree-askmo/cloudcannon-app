@@ -24,35 +24,35 @@ file_name: what-is-the-role-of-ad-ds-in-network-management.md
 url: /learn/computer-science/questions/what-is-the-role-of-ad-ds-in-network-management
 score: -1.0
 related_article1:
-    id: 122320
+    id: 122321
     title: >-
-        What are the main components of an email system?
+        How do MUA, MTA, and MDA interact in an email system?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-components-of-an-email-system
+    url: /learn/computer-science/questions/how-do-mua-mta-and-mda-interact-in-an-email-system
 related_article2:
-    id: 122323
+    id: 122319
     title: >-
-        How do file services integrate with other network services?
+        How does LDAP facilitate single sign-on solutions?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-file-services-integrate-with-other-network-services
+    url: /learn/computer-science/questions/how-does-ldap-facilitate-single-signon-solutions
 related_article3:
-    id: 122312
+    id: 122300
     title: >-
-        How do dynamic content and web applications influence web server requirements?
+        How do HTTP, FTP, SCP, SMB/CIFS, and NFS differ in terms of file service protocols?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-dynamic-content-and-web-applications-influence-web-server-requirements
+    url: /learn/computer-science/questions/how-do-http-ftp-scp-smbcifs-and-nfs-differ-in-terms-of-file-service-protocols
 related_article4:
-    id: 122301
+    id: 122303
     title: >-
-        What are the key considerations when implementing file services in a network?
+        How does a print server facilitate network printing?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-considerations-when-implementing-file-services-in-a-network
+    url: /learn/computer-science/questions/how-does-a-print-server-facilitate-network-printing
 related_article5:
-    id: 122306
+    id: 122304
     title: >-
-        How does software development impact network printing solutions?
+        What are the main advantages of using network printing over traditional printing methods?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-software-development-impact-network-printing-solutions
+    url: /learn/computer-science/questions/what-are-the-main-advantages-of-using-network-printing-over-traditional-printing-methods
 ---
 
 &nbsp;

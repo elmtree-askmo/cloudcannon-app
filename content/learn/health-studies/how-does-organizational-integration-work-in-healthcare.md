@@ -24,23 +24,17 @@ file_name: how-does-organizational-integration-work-in-healthcare.md
 url: /learn/health-studies/questions/how-does-organizational-integration-work-in-healthcare
 score: -1.0
 related_article1:
-    id: 112039
-    title: >-
-        How does managed care affect the quality of care provided?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-managed-care-affect-the-quality-of-care-provided
-related_article2:
     id: 112028
     title: >-
         How is financing structured in managed care systems?
     subject: Health Studies
     url: /learn/health-studies/questions/how-is-financing-structured-in-managed-care-systems
-related_article3:
-    id: 112035
+related_article2:
+    id: 112039
     title: >-
-        How do PPO plans differ from other managed care plans?
+        How does managed care affect the quality of care provided?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-ppo-plans-differ-from-other-managed-care-plans
+    url: /learn/health-studies/questions/how-does-managed-care-affect-the-quality-of-care-provided
 ---
 
 &nbsp;

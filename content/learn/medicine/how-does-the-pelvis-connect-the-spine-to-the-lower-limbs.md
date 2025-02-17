@@ -24,23 +24,35 @@ file_name: how-does-the-pelvis-connect-the-spine-to-the-lower-limbs.md
 url: /learn/medicine/questions/how-does-the-pelvis-connect-the-spine-to-the-lower-limbs
 score: -1.0
 related_article1:
-    id: 100375
-    title: >-
-        How do the legs support locomotion and weight-bearing?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-the-legs-support-locomotion-and-weightbearing
-related_article2:
-    id: 100369
-    title: >-
-        How do bones contribute to the protection of vital organs?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-bones-contribute-to-the-protection-of-vital-organs
-related_article3:
     id: 100362
     title: >-
         Can you describe the detailed anatomy of the skull?
     subject: Medicine
     url: /learn/medicine/questions/can-you-describe-the-detailed-anatomy-of-the-skull
+related_article2:
+    id: 100373
+    title: >-
+        How do the arms facilitate movement and dexterity?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-the-arms-facilitate-movement-and-dexterity
+related_article3:
+    id: 100364
+    title: >-
+        How does the spine contribute to the overall function of the skeleton?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-spine-contribute-to-the-overall-function-of-the-skeleton
+related_article4:
+    id: 100380
+    title: >-
+        What are the major bones in the arms and their functions?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-major-bones-in-the-arms-and-their-functions
+related_article5:
+    id: 100384
+    title: >-
+        How does the skeletal system change with age or disease?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-skeletal-system-change-with-age-or-disease
 ---
 
 &nbsp;

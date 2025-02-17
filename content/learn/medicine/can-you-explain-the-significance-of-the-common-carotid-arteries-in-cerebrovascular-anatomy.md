@@ -36,17 +36,23 @@ related_article2:
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-main-components-of-the-tunica-intima-and-what-is-its-primary-function
 related_article3:
+    id: 123873
+    title: >-
+        How do the hepatic and portal systems function in the circulation of blood through the liver?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-the-hepatic-and-portal-systems-function-in-the-circulation-of-blood-through-the-liver
+related_article4:
+    id: 123865
+    title: >-
+        Can you describe the structure and function of the aortic arch and its branches?
+    subject: Medicine
+    url: /learn/medicine/questions/can-you-describe-the-structure-and-function-of-the-aortic-arch-and-its-branches
+related_article5:
     id: 123862
     title: >-
         What are the key features of intracranial vessels in terms of their function and structure?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-key-features-of-intracranial-vessels-in-terms-of-their-function-and-structure
-related_article4:
-    id: 123874
-    title: >-
-        What is the role of the internal and external iliac arteries in the pelvic arterial system?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-the-role-of-the-internal-and-external-iliac-arteries-in-the-pelvic-arterial-system
 ---
 
 &nbsp;

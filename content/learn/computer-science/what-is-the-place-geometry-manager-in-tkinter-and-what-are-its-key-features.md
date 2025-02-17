@@ -24,35 +24,29 @@ file_name: what-is-the-place-geometry-manager-in-tkinter-and-what-are-its-key-fe
 url: /learn/computer-science/questions/what-is-the-place-geometry-manager-in-tkinter-and-what-are-its-key-features
 score: -1.0
 related_article1:
-    id: 119388
-    title: >-
-        What challenges did early GUI developers face and what is the legacy of these challenges?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-challenges-did-early-gui-developers-face-and-what-is-the-legacy-of-these-challenges
-related_article2:
     id: 119398
     title: >-
         How can you create a GUI using the place geometry manager in Tkinter?
     subject: Computer Science
     url: /learn/computer-science/questions/how-can-you-create-a-gui-using-the-place-geometry-manager-in-tkinter
+related_article2:
+    id: 119401
+    title: >-
+        How can the grid layout manager be used to create a profile entry UI in Tkinter?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-can-the-grid-layout-manager-be-used-to-create-a-profile-entry-ui-in-tkinter
 related_article3:
-    id: 119387
+    id: 119394
     title: >-
-        What are some of the key innovations from Xerox that have influenced modern computing?
+        What is the pack layout manager in Tkinter and how does it work?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-of-the-key-innovations-from-xerox-that-have-influenced-modern-computing
+    url: /learn/computer-science/questions/what-is-the-pack-layout-manager-in-tkinter-and-how-does-it-work
 related_article4:
-    id: 119402
+    id: 119410
     title: >-
-        What are the steps to create a login interface using Tkinter?
+        What role does event-driven programming play in the development of GUIs?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-steps-to-create-a-login-interface-using-tkinter
-related_article5:
-    id: 119396
-    title: >-
-        Can you provide a simple example using the pack() method in Tkinter?
-    subject: Computer Science
-    url: /learn/computer-science/questions/can-you-provide-a-simple-example-using-the-pack-method-in-tkinter
+    url: /learn/computer-science/questions/what-role-does-eventdriven-programming-play-in-the-development-of-guis
 ---
 
 &nbsp;

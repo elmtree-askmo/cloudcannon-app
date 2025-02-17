@@ -24,29 +24,23 @@ file_name: what-is-the-role-of-users-in-participatory-culture.md
 url: /learn/digital-media/questions/what-is-the-role-of-users-in-participatory-culture
 score: -1.0
 related_article1:
-    id: 115959
-    title: >-
-        What opportunities did the Arab Spring present for activists?
-    subject: Sociology
-    url: /learn/sociology/questions/what-opportunities-did-the-arab-spring-present-for-activists
-related_article2:
-    id: 115963
-    title: >-
-        How do institutions influence the development of citizen journalism?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-do-institutions-influence-the-development-of-citizen-journalism
-related_article3:
     id: 115955
     title: >-
         How did the #MeToo movement utilize social media for activism?
     subject: Sociology
     url: /learn/sociology/questions/how-did-the-metoo-movement-utilize-social-media-for-activism
-related_article4:
-    id: 115938
+related_article2:
+    id: 115959
     title: >-
-        What are the key components of information disorder?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-are-the-key-components-of-information-disorder
+        What opportunities did the Arab Spring present for activists?
+    subject: Sociology
+    url: /learn/sociology/questions/what-opportunities-did-the-arab-spring-present-for-activists
+related_article3:
+    id: 115966
+    title: >-
+        What are the potential risks of activism on social media platforms?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-potential-risks-of-activism-on-social-media-platforms
 ---
 
 &nbsp;

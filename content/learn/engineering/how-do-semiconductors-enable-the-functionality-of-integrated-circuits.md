@@ -24,35 +24,29 @@ file_name: how-do-semiconductors-enable-the-functionality-of-integrated-circuits
 url: /learn/engineering/questions/how-do-semiconductors-enable-the-functionality-of-integrated-circuits
 score: -1.0
 related_article1:
-    id: 116377
+    id: 116372
     title: >-
-        How has the development of semiconductor electronics influenced global technological advancement?
+        What are the advantages of using diodes in electronic circuits?
     subject: Engineering
-    url: /learn/engineering/questions/how-has-the-development-of-semiconductor-electronics-influenced-global-technological-advancement
+    url: /learn/engineering/questions/what-are-the-advantages-of-using-diodes-in-electronic-circuits
 related_article2:
-    id: 116380
+    id: 116375
     title: >-
-        What are the latest advancements in semiconductor technology?
+        How do semiconductor materials contribute to the miniaturization of electronic components?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-latest-advancements-in-semiconductor-technology
+    url: /learn/engineering/questions/how-do-semiconductor-materials-contribute-to-the-miniaturization-of-electronic-components
 related_article3:
-    id: 116379
+    id: 116385
     title: >-
-        How do temperature and impurities affect the conductivity of semiconductors?
-    subject: Physics
-    url: /learn/physics/questions/how-do-temperature-and-impurities-affect-the-conductivity-of-semiconductors
-related_article4:
-    id: 116365
-    title: >-
-        What are the different types of semiconductors and their characteristics?
+        How do semiconductor devices compare to their vacuum tube predecessors in terms of performance and reliability?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-different-types-of-semiconductors-and-their-characteristics
-related_article5:
-    id: 116362
+    url: /learn/engineering/questions/how-do-semiconductor-devices-compare-to-their-vacuum-tube-predecessors-in-terms-of-performance-and-reliability
+related_article4:
+    id: 116369
     title: >-
-        How did World War II influence the development of semiconductor technology?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-world-war-ii-influence-the-development-of-semiconductor-technology
+        What role do dopants play in the properties of extrinsic semiconductors?
+    subject: Physics
+    url: /learn/physics/questions/what-role-do-dopants-play-in-the-properties-of-extrinsic-semiconductors
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: what-are-the-latest-advancements-in-the-development-of-antipsychotics
 url: /learn/medicine/questions/what-are-the-latest-advancements-in-the-development-of-antipsychotics-and-anxiolytics
 score: -1.0
 related_article1:
+    id: 104606
+    title: >-
+        What are the benefits and drawbacks of using Selective Serotonin Reuptake Inhibitors (SSRI)?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-benefits-and-drawbacks-of-using-selective-serotonin-reuptake-inhibitors-ssri
+related_article2:
+    id: 104598
+    title: >-
+        What special considerations should be taken into account when prescribing antipsychotics to older adults?
+    subject: Medicine
+    url: /learn/medicine/questions/what-special-considerations-should-be-taken-into-account-when-prescribing-antipsychotics-to-older-adults
+related_article3:
+    id: 104614
+    title: >-
+        How do antipsychotics interact with other medications commonly prescribed to older adults?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-antipsychotics-interact-with-other-medications-commonly-prescribed-to-older-adults
+related_article4:
     id: 104599
     title: >-
         What is the primary purpose of anxiolytics in psychiatric treatment?
     subject: Medicine
     url: /learn/medicine/questions/what-is-the-primary-purpose-of-anxiolytics-in-psychiatric-treatment
-related_article2:
-    id: 104615
-    title: >-
-        What are the long-term effects of using antipsychotics and anxiolytics?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-longterm-effects-of-using-antipsychotics-and-anxiolytics
-related_article3:
-    id: 104601
-    title: >-
-        What are the potential effects of benzodiazepine overdose and how is it treated?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-potential-effects-of-benzodiazepine-overdose-and-how-is-it-treated
-related_article4:
-    id: 104610
-    title: >-
-        What role does lithium play as a mood stabilizer and what are its side effects?
-    subject: Medicine
-    url: /learn/medicine/questions/what-role-does-lithium-play-as-a-mood-stabilizer-and-what-are-its-side-effects
 related_article5:
-    id: 104602
+    id: 104589
     title: >-
-        What distinguishes primary anxiety from secondary anxiety?
-    subject: Psychology
-    url: /learn/psychology/questions/what-distinguishes-primary-anxiety-from-secondary-anxiety
+        Can you explain the mechanism of action for both typical and atypical antipsychotics?
+    subject: Medicine
+    url: /learn/medicine/questions/can-you-explain-the-mechanism-of-action-for-both-typical-and-atypical-antipsychotics
 ---
 
 &nbsp;

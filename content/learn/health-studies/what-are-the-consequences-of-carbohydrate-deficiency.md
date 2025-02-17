@@ -24,29 +24,29 @@ file_name: what-are-the-consequences-of-carbohydrate-deficiency.md
 url: /learn/health-studies/questions/what-are-the-consequences-of-carbohydrate-deficiency
 score: -1.0
 related_article1:
-    id: 104377
+    id: 104365
     title: >-
-        How is dietary fiber classified and what are its benefits?
+        What is the recommended daily intake of protein for different age groups?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-dietary-fiber-classified-and-what-are-its-benefits
+    url: /learn/health-studies/questions/what-is-the-recommended-daily-intake-of-protein-for-different-age-groups
 related_article2:
-    id: 104352
+    id: 104364
     title: >-
-        What are the different types of carbohydrates and their characteristics?
+        What are the primary functions of proteins in the body?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-different-types-of-carbohydrates-and-their-characteristics
+    url: /learn/health-studies/questions/what-are-the-primary-functions-of-proteins-in-the-body
 related_article3:
-    id: 104366
+    id: 104376
     title: >-
-        What are the effects of protein deficiency on health?
+        What are the health risks of excessive lipid consumption?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-effects-of-protein-deficiency-on-health
+    url: /learn/health-studies/questions/what-are-the-health-risks-of-excessive-lipid-consumption
 related_article4:
-    id: 104361
+    id: 104355
     title: >-
-        What are essential amino acids and why are they important?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-essential-amino-acids-and-why-are-they-important
+        How do oligosaccharides differ from other carbohydrates?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-oligosaccharides-differ-from-other-carbohydrates
 ---
 
 &nbsp;

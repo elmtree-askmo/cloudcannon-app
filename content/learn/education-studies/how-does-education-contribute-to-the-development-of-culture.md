@@ -36,11 +36,11 @@ related_article2:
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-the-roles-of-the-house-of-representatives-and-the-senate
 related_article3:
-    id: 120568
+    id: 120566
     title: >-
-        How does religion play a role in shaping cultural norms and values?
-    subject: Sociology
-    url: /learn/sociology/questions/how-does-religion-play-a-role-in-shaping-cultural-norms-and-values
+        How does the Supreme Court influence the judicial system in the U.S.?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-does-the-supreme-court-influence-the-judicial-system-in-the-us
 ---
 
 &nbsp;

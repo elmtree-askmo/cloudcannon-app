@@ -24,29 +24,35 @@ file_name: how-can-review-sessions-be-structured-to-reinforce-lecture-material.m
 url: /learn/education-studies/questions/how-can-review-sessions-be-structured-to-reinforce-lecture-material
 score: -1.0
 related_article1:
-    id: 98688
-    title: >-
-        How can a lecturer structure the main content to maximize understanding?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-a-lecturer-structure-the-main-content-to-maximize-understanding
-related_article2:
-    id: 98703
-    title: >-
-        What are some effective summarization methods for lecture content?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-effective-summarization-methods-for-lecture-content
-related_article3:
-    id: 98701
-    title: >-
-        What tutoring services are commonly available to students?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-tutoring-services-are-commonly-available-to-students
-related_article4:
     id: 98697
     title: >-
         How is grading typically structured in university courses?
     subject: Education Studies
     url: /learn/education-studies/questions/how-is-grading-typically-structured-in-university-courses
+related_article2:
+    id: 98690
+    title: >-
+        What are the most popular note-taking methods among students?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-most-popular-notetaking-methods-among-students
+related_article3:
+    id: 98700
+    title: >-
+        How can students effectively utilize online databases for research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-students-effectively-utilize-online-databases-for-research
+related_article4:
+    id: 98699
+    title: >-
+        What library services are most beneficial for students?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-library-services-are-most-beneficial-for-students
+related_article5:
+    id: 98696
+    title: >-
+        What should be included in a comprehensive course syllabus?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-should-be-included-in-a-comprehensive-course-syllabus
 ---
 
 &nbsp;

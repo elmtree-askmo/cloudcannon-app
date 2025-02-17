@@ -23,12 +23,7 @@ subject: History of the World
 file_name: what-were-the-key-policies-of-the-harding-administration.md
 url: /learn/history-of-the-world/questions/what-were-the-key-policies-of-the-harding-administration
 score: -1.0
-related_article1:
-    id: 111387
-    title: >-
-        What were the key policies and outcomes of the 1924 election?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-policies-and-outcomes-of-the-1924-election
+
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: what-is-airtable-and-how-does-it-function-as-a-database.md
 url: /learn/computer-science/questions/what-is-airtable-and-how-does-it-function-as-a-database
 score: -1.0
 related_article1:
-    id: 118015
+    id: 117994
     title: >-
-        What are some innovative ways businesses have used Airtable?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-some-innovative-ways-businesses-have-used-airtable
+        How can users customize tables and fields in Airtable?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-can-users-customize-tables-and-fields-in-airtable
 related_article2:
+    id: 118014
+    title: >-
+        How does Airtable's customer support compare to other similar tools?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-does-airtables-customer-support-compare-to-other-similar-tools
+related_article3:
     id: 118008
     title: >-
         What are the limitations of using Airtable as a database?
     subject: Digital Media
     url: /learn/digital-media/questions/what-are-the-limitations-of-using-airtable-as-a-database
-related_article3:
-    id: 118001
-    title: >-
-        How suitable is Airtable for large companies and functional teams?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-suitable-is-airtable-for-large-companies-and-functional-teams
 related_article4:
+    id: 118018
+    title: >-
+        How does Airtable's automation engine improve workflow efficiency?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-does-airtables-automation-engine-improve-workflow-efficiency
+related_article5:
     id: 117995
     title: >-
         What types of data views are available in Airtable?
     subject: Digital Media
     url: /learn/digital-media/questions/what-types-of-data-views-are-available-in-airtable
-related_article5:
-    id: 117999
-    title: >-
-        How can users access Airtable's API and what are its capabilities?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-users-access-airtables-api-and-what-are-its-capabilities
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: how-did-the-sociopolitical-climate-of-the-1970s-influence-the-publics
 url: /learn/sociology/questions/how-did-the-sociopolitical-climate-of-the-1970s-influence-the-publics-reaction-to-the-trial-and-verdict
 score: -1.0
 related_article1:
-    id: 123834
+    id: 123823
     title: >-
-        How did the assassinations impact San Francisco as a city?
-    subject: Sociology
-    url: /learn/sociology/questions/how-did-the-assassinations-impact-san-francisco-as-a-city
+        Can you describe the day of the assassinations and the sequence of events?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/can-you-describe-the-day-of-the-assassinations-and-the-sequence-of-events
 related_article2:
-    id: 123837
+    id: 123830
     title: >-
-        How did the community respond to the assassinations and the subsequent trial?
-    subject: Sociology
-    url: /learn/sociology/questions/how-did-the-community-respond-to-the-assassinations-and-the-subsequent-trial
+        How did the police respond to the White Night Riot?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-did-the-police-respond-to-the-white-night-riot
 related_article3:
-    id: 123833
+    id: 123848
     title: >-
-        What was the verdict and sentencing in Dan White's trial?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-was-the-verdict-and-sentencing-in-dan-whites-trial
+        How did the legacy of the assassinations shape future political and social movements in San Francisco?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-legacy-of-the-assassinations-shape-future-political-and-social-movements-in-san-francisco
 related_article4:
-    id: 123836
+    id: 123824
     title: >-
-        What were the long-term effects of the assassinations on politics and society?
-    subject: Sociology
-    url: /learn/sociology/questions/what-were-the-longterm-effects-of-the-assassinations-on-politics-and-society
+        What was the immediate aftermath of the assassinations in San Francisco?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-was-the-immediate-aftermath-of-the-assassinations-in-san-francisco
 related_article5:
-    id: 123847
+    id: 123839
     title: >-
-        What were the broader societal implications of the "Twinkie Defense" in legal proceedings?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-were-the-broader-societal-implications-of-the-twinkie-defense-in-legal-proceedings
+        What were the long-term consequences of the assassinations and the White Night Riot?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-longterm-consequences-of-the-assassinations-and-the-white-night-riot
 ---
 
 &nbsp;

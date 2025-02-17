@@ -24,17 +24,23 @@ file_name: what-is-the-impact-of-credit-card-usage-on-consumer-financial-behavio
 url: /learn/economics/questions/what-is-the-impact-of-credit-card-usage-on-consumer-financial-behavior
 score: -1.0
 related_article1:
-    id: 121552
-    title: >-
-        How do credit card companies determine the interest rates they charge?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/how-do-credit-card-companies-determine-the-interest-rates-they-charge
-related_article2:
     id: 121535
     title: >-
         How does the system of borrowing work in modern economies?
     subject: Economics
     url: /learn/economics/questions/how-does-the-system-of-borrowing-work-in-modern-economies
+related_article2:
+    id: 121548
+    title: >-
+        What is the process by which Visa calculates interest on purchases?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/what-is-the-process-by-which-visa-calculates-interest-on-purchases
+related_article3:
+    id: 121552
+    title: >-
+        How do credit card companies determine the interest rates they charge?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/how-do-credit-card-companies-determine-the-interest-rates-they-charge
 ---
 
 &nbsp;

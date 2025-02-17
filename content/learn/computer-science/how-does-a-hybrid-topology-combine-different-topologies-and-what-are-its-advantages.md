@@ -24,35 +24,35 @@ file_name: how-does-a-hybrid-topology-combine-different-topologies-and-what-are-
 url: /learn/computer-science/questions/how-does-a-hybrid-topology-combine-different-topologies-and-what-are-its-advantages
 score: -1.0
 related_article1:
-    id: 116161
+    id: 116168
     title: >-
-        What roles do routers play in a network?
+        Can you explain the TCP/IP protocol suite and its significance?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-roles-do-routers-play-in-a-network
+    url: /learn/computer-science/questions/can-you-explain-the-tcpip-protocol-suite-and-its-significance
 related_article2:
-    id: 116176
+    id: 116166
     title: >-
-        How do intrusion detection systems enhance network security?
+        How does subnetting work and why is it important?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-intrusion-detection-systems-enhance-network-security
+    url: /learn/computer-science/questions/how-does-subnetting-work-and-why-is-it-important
 related_article3:
-    id: 116174
+    id: 116157
     title: >-
-        How does encryption protect data in a network?
+        What are the limitations of a bus topology in networking?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-encryption-protect-data-in-a-network
+    url: /learn/computer-science/questions/what-are-the-limitations-of-a-bus-topology-in-networking
 related_article4:
+    id: 116164
+    title: >-
+        How do access points facilitate wireless networking?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-access-points-facilitate-wireless-networking
+related_article5:
     id: 116162
     title: >-
         How do switches differ from hubs in networking?
     subject: Computer Science
     url: /learn/computer-science/questions/how-do-switches-differ-from-hubs-in-networking
-related_article5:
-    id: 116169
-    title: >-
-        What are the main functions of HTTP and HTTPS protocols?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-functions-of-http-and-https-protocols
 ---
 
 &nbsp;

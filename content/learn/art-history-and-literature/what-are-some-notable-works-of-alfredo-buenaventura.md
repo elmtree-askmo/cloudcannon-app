@@ -24,35 +24,29 @@ file_name: what-are-some-notable-works-of-alfredo-buenaventura.md
 url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-alfredo-buenaventura
 score: -1.0
 related_article1:
-    id: 116114
+    id: 116104
     title: >-
-        What are some notable works of Ryan Cayabyab?
+        What are some notable works of Rodulfo S. Cornejo?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-ryan-cayabyab
+    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-rodulfo-s-cornejo
 related_article2:
-    id: 116115
+    id: 116103
     title: >-
-        What are the main stylistic movements in contemporary Philippine music?
+        Can you provide a brief biography of Rodulfo S. Cornejo?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-main-stylistic-movements-in-contemporary-philippine-music
+    url: /learn/art-history-and-literature/questions/can-you-provide-a-brief-biography-of-rodulfo-s-cornejo
 related_article3:
+    id: 116098
+    title: >-
+        What are some notable works of Antonio J. Molina?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-antonio-j-molina
+related_article4:
     id: 116089
     title: >-
         How has Western music historically influenced Filipino music?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-has-western-music-historically-influenced-filipino-music
-related_article4:
-    id: 116092
-    title: >-
-        What are some notable works of Francisco Buen Camino Sr.?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-francisco-buen-camino-sr
-related_article5:
-    id: 116090
-    title: >-
-        What Western techniques have been assimilated into Filipino music?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-western-techniques-have-been-assimilated-into-filipino-music
 ---
 
 &nbsp;

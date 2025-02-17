@@ -24,6 +24,12 @@ file_name: what-are-appropriate-appeals-in-essay-writing-and-how-can-they-be-use
 url: /learn/education-studies/questions/what-are-appropriate-appeals-in-essay-writing-and-how-can-they-be-used-effectively
 score: -1.0
 related_article1:
+    id: 97942
+    title: >-
+        How can a writer effectively lead to the thesis statement in an introduction?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-a-writer-effectively-lead-to-the-thesis-statement-in-an-introduction
+related_article2:
     id: 97954
     title: >-
         How can feedback be effectively used to improve an essay?

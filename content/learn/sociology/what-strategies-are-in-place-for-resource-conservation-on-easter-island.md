@@ -24,23 +24,17 @@ file_name: what-strategies-are-in-place-for-resource-conservation-on-easter-isla
 url: /learn/sociology/questions/what-strategies-are-in-place-for-resource-conservation-on-easter-island
 score: -1.0
 related_article1:
-    id: 116624
-    title: >-
-        What factors contributed to the ecological collapse on Easter Island?
-    subject: Sociology
-    url: /learn/sociology/questions/what-factors-contributed-to-the-ecological-collapse-on-easter-island
-related_article2:
     id: 116634
     title: >-
         What are the economic values of ecosystem services on Easter Island?
     subject: Economics
     url: /learn/economics/questions/what-are-the-economic-values-of-ecosystem-services-on-easter-island
-related_article3:
-    id: 116641
+related_article2:
+    id: 116624
     title: >-
-        What is the theoretical upper limit of harvest for resources on Easter Island?
-    subject: Economics
-    url: /learn/economics/questions/what-is-the-theoretical-upper-limit-of-harvest-for-resources-on-easter-island
+        What factors contributed to the ecological collapse on Easter Island?
+    subject: Sociology
+    url: /learn/sociology/questions/what-factors-contributed-to-the-ecological-collapse-on-easter-island
 ---
 
 &nbsp;

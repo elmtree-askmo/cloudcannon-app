@@ -24,11 +24,11 @@ file_name: how-has-the-war-on-drugs-influenced-current-drug-policies-and-public-
 url: /learn/sociology/questions/how-has-the-war-on-drugs-influenced-current-drug-policies-and-public-perception
 score: -1.0
 related_article1:
-    id: 119137
+    id: 119122
     title: >-
-        What are the main criticisms of the criminal model in drug policy?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-main-criticisms-of-the-criminal-model-in-drug-policy
+        What are harm reduction strategies, and how do they differ from traditional drug enforcement methods?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-harm-reduction-strategies-and-how-do-they-differ-from-traditional-drug-enforcement-methods
 related_article2:
     id: 119141
     title: >-
@@ -36,11 +36,11 @@ related_article2:
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-relationship-between-trauma-and-drug-abuse-and-how-can-it-be-addressed-in-policy
 related_article3:
-    id: 119122
+    id: 119137
     title: >-
-        What are harm reduction strategies, and how do they differ from traditional drug enforcement methods?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-harm-reduction-strategies-and-how-do-they-differ-from-traditional-drug-enforcement-methods
+        What are the main criticisms of the criminal model in drug policy?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-are-the-main-criticisms-of-the-criminal-model-in-drug-policy
 ---
 
 &nbsp;

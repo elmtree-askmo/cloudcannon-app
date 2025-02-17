@@ -24,30 +24,24 @@ file_name: what-are-the-main-functions-of-the-legs-in-the-skeletal-system.md
 url: /learn/health-studies/questions/what-are-the-main-functions-of-the-legs-in-the-skeletal-system
 score: -1.0
 related_article1:
-    id: 100368
+    id: 100375
     title: >-
-        Why is the femur considered an important bone in the body?
+        How do the legs support locomotion and weight-bearing?
     subject: Health Studies
-    url: /learn/health-studies/questions/why-is-the-femur-considered-an-important-bone-in-the-body
+    url: /learn/health-studies/questions/how-do-the-legs-support-locomotion-and-weightbearing
 related_article2:
-    id: 100361
-    title: >-
-        What are the main components of the appendicular skeleton?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-components-of-the-appendicular-skeleton
-related_article3:
-    id: 100362
-    title: >-
-        Can you describe the detailed anatomy of the skull?
-    subject: Medicine
-    url: /learn/medicine/questions/can-you-describe-the-detailed-anatomy-of-the-skull
-related_article4:
     id: 100355
     title: >-
         What are the primary functions of the skeletal system?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-primary-functions-of-the-skeletal-system
-related_article5:
+related_article3:
+    id: 100381
+    title: >-
+        What are the structural differences between the upper and lower limbs?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-structural-differences-between-the-upper-and-lower-limbs
+related_article4:
     id: 100369
     title: >-
         How do bones contribute to the protection of vital organs?

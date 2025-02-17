@@ -24,35 +24,29 @@ file_name: how-can-storytelling-be-used-as-a-communication-strategy.md
 url: /learn/education-studies/questions/how-can-storytelling-be-used-as-a-communication-strategy
 score: -1.0
 related_article1:
-    id: 120723
+    id: 120737
     title: >-
-        Can you provide examples of how tone can impact behavior in communication?
+        How can feedback be used to improve communication skills?
     subject: Psychology
-    url: /learn/psychology/questions/can-you-provide-examples-of-how-tone-can-impact-behavior-in-communication
+    url: /learn/psychology/questions/how-can-feedback-be-used-to-improve-communication-skills
 related_article2:
-    id: 120749
-    title: >-
-        How can one assess the effectiveness of their communication strategies?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-can-one-assess-the-effectiveness-of-their-communication-strategies
-related_article3:
-    id: 120744
-    title: >-
-        What are the benefits of using case studies in communication training?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-benefits-of-using-case-studies-in-communication-training
-related_article4:
-    id: 120728
-    title: >-
-        What are the key elements to consider in a case study analysis of communication?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-are-the-key-elements-to-consider-in-a-case-study-analysis-of-communication
-related_article5:
     id: 120735
     title: >-
         How can technology be used to enhance communication strategies?
     subject: Digital Media
     url: /learn/digital-media/questions/how-can-technology-be-used-to-enhance-communication-strategies
+related_article3:
+    id: 120726
+    title: >-
+        What are some educational communication strategies that can be employed in various settings?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-some-educational-communication-strategies-that-can-be-employed-in-various-settings
+related_article4:
+    id: 120745
+    title: >-
+        How can one develop a communication strategy that is both effective and engaging?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-can-one-develop-a-communication-strategy-that-is-both-effective-and-engaging
 ---
 
 &nbsp;

@@ -24,23 +24,35 @@ file_name: how-do-oceans-regulate-climate-through-carbon-dioxide-and-heat-absorp
 url: /learn/health-studies/questions/how-do-oceans-regulate-climate-through-carbon-dioxide-and-heat-absorption
 score: -1.0
 related_article1:
+    id: 119355
+    title: >-
+        What are some key resources provided by oceans that influence human culture?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-some-key-resources-provided-by-oceans-that-influence-human-culture
+related_article2:
     id: 119379
     title: >-
         How does the Coriolis Effect influence atmospheric and oceanic circulation?
     subject: Physics
     url: /learn/physics/questions/how-does-the-coriolis-effect-influence-atmospheric-and-oceanic-circulation
-related_article2:
-    id: 119356
-    title: >-
-        Can you explain the concept of radioactive decay and its significance in determining Earth's age?
-    subject: Physics
-    url: /learn/physics/questions/can-you-explain-the-concept-of-radioactive-decay-and-its-significance-in-determining-earths-age
 related_article3:
-    id: 119365
+    id: 119363
     title: >-
-        What is the Wilson Cycle and how does it relate to the formation and closure of ocean basins?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-wilson-cycle-and-how-does-it-relate-to-the-formation-and-closure-of-ocean-basins
+        What evidence did Alfred Wegener present for the theory of continental drift, and why was it initially rejected?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-evidence-did-alfred-wegener-present-for-the-theory-of-continental-drift-and-why-was-it-initially-rejected
+related_article4:
+    id: 119359
+    title: >-
+        How do magnetic field reversals contribute to our understanding of Earth's geological history?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-do-magnetic-field-reversals-contribute-to-our-understanding-of-earths-geological-history
+related_article5:
+    id: 119370
+    title: >-
+        How do estuaries function as marine nurseries and what is their ecological significance?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-estuaries-function-as-marine-nurseries-and-what-is-their-ecological-significance
 ---
 
 &nbsp;

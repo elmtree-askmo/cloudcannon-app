@@ -24,11 +24,11 @@ file_name: how-does-the-lecture-topic-relate-to-current-trends-or-issues.md
 url: /learn/education-studies/questions/how-does-the-lecture-topic-relate-to-current-trends-or-issues
 score: -1.0
 related_article1:
-    id: 124171
+    id: 124151
     title: >-
-        Were there any partnerships or collaborations involved in organizing the lecture?
+        What were the key points discussed during the lecture?
     subject: Education Studies
-    url: /learn/education-studies/questions/were-there-any-partnerships-or-collaborations-involved-in-organizing-the-lecture
+    url: /learn/education-studies/questions/what-were-the-key-points-discussed-during-the-lecture
 related_article2:
     id: 124152
     title: >-
@@ -36,17 +36,17 @@ related_article2:
     subject: Education Studies
     url: /learn/education-studies/questions/how-did-the-participants-respond-to-the-lecture
 related_article3:
-    id: 124151
+    id: 124167
     title: >-
-        What were the key points discussed during the lecture?
+        Were there any follow-up activities or discussions planned after the lecture?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-were-the-key-points-discussed-during-the-lecture
+    url: /learn/education-studies/questions/were-there-any-followup-activities-or-discussions-planned-after-the-lecture
 related_article4:
-    id: 124157
+    id: 124171
     title: >-
-        How were the questions addressed during the Q&A session?
+        Were there any partnerships or collaborations involved in organizing the lecture?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-were-the-questions-addressed-during-the-qa-session
+    url: /learn/education-studies/questions/were-there-any-partnerships-or-collaborations-involved-in-organizing-the-lecture
 ---
 
 &nbsp;

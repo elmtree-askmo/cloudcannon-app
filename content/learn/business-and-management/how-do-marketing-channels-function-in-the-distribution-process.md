@@ -24,35 +24,35 @@ file_name: how-do-marketing-channels-function-in-the-distribution-process.md
 url: /learn/business-and-management/questions/how-do-marketing-channels-function-in-the-distribution-process
 score: -1.0
 related_article1:
-    id: 110221
+    id: 110233
     title: >-
-        What roles do retailers and wholesalers play in marketing channels?
+        How do companies balance online and offline marketing channels?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-roles-do-retailers-and-wholesalers-play-in-marketing-channels
+    url: /learn/business-and-management/questions/how-do-companies-balance-online-and-offline-marketing-channels
 related_article2:
-    id: 110232
+    id: 110235
     title: >-
-        What are the emerging trends in marketing channels?
+        How do companies integrate advertising and sales force efforts?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-emerging-trends-in-marketing-channels
+    url: /learn/business-and-management/questions/how-do-companies-integrate-advertising-and-sales-force-efforts
 related_article3:
-    id: 110223
+    id: 110226
     title: >-
-        How do companies decide on the size and structure of their sales force?
+        What are the ethical considerations in marketing practices?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-do-companies-decide-on-the-size-and-structure-of-their-sales-force
+    url: /learn/business-and-management/questions/what-are-the-ethical-considerations-in-marketing-practices
 related_article4:
-    id: 110215
+    id: 110220
     title: >-
-        What are the common pricing objectives companies pursue?
+        What factors influence the structure and design of marketing channels?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-common-pricing-objectives-companies-pursue
+    url: /learn/business-and-management/questions/what-factors-influence-the-structure-and-design-of-marketing-channels
 related_article5:
-    id: 110234
+    id: 110207
     title: >-
-        What are the most effective promotional strategies in today's market?
+        What are the core concepts of marketing?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-most-effective-promotional-strategies-in-todays-market
+    url: /learn/business-and-management/questions/what-are-the-core-concepts-of-marketing
 ---
 
 &nbsp;

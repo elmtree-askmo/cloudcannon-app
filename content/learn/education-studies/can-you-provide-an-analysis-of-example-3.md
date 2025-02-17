@@ -24,23 +24,17 @@ file_name: can-you-provide-an-analysis-of-example-3.md
 url: /learn/education-studies/questions/can-you-provide-an-analysis-of-example-3
 score: -1.0
 related_article1:
-    id: 97870
-    title: >-
-        How is feedback typically provided to students?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-is-feedback-typically-provided-to-students
-related_article2:
-    id: 97866
-    title: >-
-        What is the process for submitting essays?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-process-for-submitting-essays
-related_article3:
     id: 97878
     title: >-
         What are the final reminders students should keep in mind regarding submission deadlines?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-final-reminders-students-should-keep-in-mind-regarding-submission-deadlines
+related_article2:
+    id: 97870
+    title: >-
+        How is feedback typically provided to students?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-is-feedback-typically-provided-to-students
 ---
 
 &nbsp;

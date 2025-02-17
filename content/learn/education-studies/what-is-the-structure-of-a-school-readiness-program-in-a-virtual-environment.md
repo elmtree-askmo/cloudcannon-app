@@ -24,24 +24,30 @@ file_name: what-is-the-structure-of-a-school-readiness-program-in-a-virtual-envi
 url: /learn/education-studies/questions/what-is-the-structure-of-a-school-readiness-program-in-a-virtual-environment
 score: -1.0
 related_article1:
-    id: 116957
+    id: 116953
     title: >-
-        How can flexible program scheduling accommodate community needs?
+        What qualifications and experience are essential for professional staff in early childhood education?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-flexible-program-scheduling-accommodate-community-needs
+    url: /learn/education-studies/questions/what-qualifications-and-experience-are-essential-for-professional-staff-in-early-childhood-education
 related_article2:
-    id: 116961
+    id: 116975
     title: >-
-        How can virtual programs foster family interaction and community building?
+        What is the importance of using inclusive language in virtual early childhood programs?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-virtual-programs-foster-family-interaction-and-community-building
+    url: /learn/education-studies/questions/what-is-the-importance-of-using-inclusive-language-in-virtual-early-childhood-programs
 related_article3:
-    id: 116959
+    id: 116972
     title: >-
-        How has the transition to the Ministry of Education impacted early childhood programs?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-has-the-transition-to-the-ministry-of-education-impacted-early-childhood-programs
+        How is dental hygiene and literacy promotion integrated into virtual programs?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-dental-hygiene-and-literacy-promotion-integrated-into-virtual-programs
 related_article4:
+    id: 116960
+    title: >-
+        What were the reasons behind the consolidation of agencies in early childhood education?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-were-the-reasons-behind-the-consolidation-of-agencies-in-early-childhood-education
+related_article5:
     id: 116964
     title: >-
         How do drop-in programs function in a virtual learning framework?

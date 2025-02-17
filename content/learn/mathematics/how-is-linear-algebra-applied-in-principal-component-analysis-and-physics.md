@@ -24,35 +24,35 @@ file_name: how-is-linear-algebra-applied-in-principal-component-analysis-and-phy
 url: /learn/mathematics/questions/how-is-linear-algebra-applied-in-principal-component-analysis-and-physics
 score: -1.0
 related_article1:
-    id: 104650
+    id: 104668
     title: >-
-        Can you explain the difference between row-echelon form and reduced row-echelon form?
+        What role do Markov chains play in linear algebra applications?
     subject: Mathematics
-    url: /learn/mathematics/questions/can-you-explain-the-difference-between-rowechelon-form-and-reduced-rowechelon-form
+    url: /learn/mathematics/questions/what-role-do-markov-chains-play-in-linear-algebra-applications
 related_article2:
-    id: 104652
+    id: 104667
     title: >-
-        How is matrix-vector multiplication carried out?
+        How is linear algebra applied in chemical reactions and economic models?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-matrixvector-multiplication-carried-out
+    url: /learn/mathematics/questions/how-is-linear-algebra-applied-in-chemical-reactions-and-economic-models
 related_article3:
-    id: 104674
+    id: 104661
     title: >-
-        How is diagonalization related to the Jordan canonical form?
+        How are the kernel and image of a linear transformation defined?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-diagonalization-related-to-the-jordan-canonical-form
+    url: /learn/mathematics/questions/how-are-the-kernel-and-image-of-a-linear-transformation-defined
 related_article4:
-    id: 104660
+    id: 104648
     title: >-
-        What are linear transformations and their key properties?
+        How does Gaussian elimination work in solving linear equations?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-linear-transformations-and-their-key-properties
+    url: /learn/mathematics/questions/how-does-gaussian-elimination-work-in-solving-linear-equations
 related_article5:
-    id: 104662
+    id: 104672
     title: >-
-        What is the significance of isomorphisms and composition in linear transformations?
+        How does the Principal Axes Theorem provide a geometric interpretation of matrices?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-significance-of-isomorphisms-and-composition-in-linear-transformations
+    url: /learn/mathematics/questions/how-does-the-principal-axes-theorem-provide-a-geometric-interpretation-of-matrices
 ---
 
 &nbsp;

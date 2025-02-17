@@ -30,17 +30,17 @@ related_article1:
     subject: Chemistry
     url: /learn/chemistry/questions/how-can-technology-enhance-the-accuracy-of-back-titration-processes
 related_article2:
-    id: 123568
-    title: >-
-        What are some common mistakes to avoid during back titration?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-are-some-common-mistakes-to-avoid-during-back-titration
-related_article3:
     id: 123562
     title: >-
         How do you balance chemical equations in the context of back titration?
     subject: Chemistry
     url: /learn/chemistry/questions/how-do-you-balance-chemical-equations-in-the-context-of-back-titration
+related_article3:
+    id: 123568
+    title: >-
+        What are some common mistakes to avoid during back titration?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-some-common-mistakes-to-avoid-during-back-titration
 ---
 
 &nbsp;

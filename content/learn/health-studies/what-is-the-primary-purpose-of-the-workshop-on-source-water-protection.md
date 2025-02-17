@@ -24,35 +24,35 @@ file_name: what-is-the-primary-purpose-of-the-workshop-on-source-water-protectio
 url: /learn/health-studies/questions/what-is-the-primary-purpose-of-the-workshop-on-source-water-protection
 score: -1.0
 related_article1:
-    id: 94649
+    id: 94634
     title: >-
-        What potential projects and initiatives are being considered for future source water protection?
+        What is the significance of the Standard Mine Superfund Site in source water protection?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-potential-projects-and-initiatives-are-being-considered-for-future-source-water-protection
+    url: /learn/health-studies/questions/what-is-the-significance-of-the-standard-mine-superfund-site-in-source-water-protection
 related_article2:
-    id: 94639
-    title: >-
-        Who are the key stakeholders involved in source water protection?
-    subject: Health Studies
-    url: /learn/health-studies/questions/who-are-the-key-stakeholders-involved-in-source-water-protection
-related_article3:
-    id: 94643
-    title: >-
-        What are the main challenges in maintaining water quality and how can they be addressed?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-challenges-in-maintaining-water-quality-and-how-can-they-be-addressed
-related_article4:
     id: 94648
     title: >-
         What are the long-term goals for source water protection?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-longterm-goals-for-source-water-protection
-related_article5:
+related_article3:
     id: 94625
     title: >-
         What are the potential impacts of wildfires on source water quality?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-potential-impacts-of-wildfires-on-source-water-quality
+related_article4:
+    id: 94632
+    title: >-
+        What are some successful reclamation projects for mining sites?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-some-successful-reclamation-projects-for-mining-sites
+related_article5:
+    id: 94638
+    title: >-
+        What strategies are in place to mitigate flooding risks?
+    subject: Engineering
+    url: /learn/engineering/questions/what-strategies-are-in-place-to-mitigate-flooding-risks
 ---
 
 &nbsp;

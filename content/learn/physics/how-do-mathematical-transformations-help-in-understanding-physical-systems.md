@@ -24,35 +24,35 @@ file_name: how-do-mathematical-transformations-help-in-understanding-physical-sy
 url: /learn/physics/questions/how-do-mathematical-transformations-help-in-understanding-physical-systems
 score: -1.0
 related_article1:
-    id: 96691
+    id: 96714
     title: >-
-        Can you explain Newton's Law of Gravitation in mathematical terms?
-    subject: Physics
-    url: /learn/physics/questions/can-you-explain-newtons-law-of-gravitation-in-mathematical-terms
+        What is the role of geometry in the relationship between physics and mathematics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-geometry-in-the-relationship-between-physics-and-mathematics
 related_article2:
-    id: 96692
+    id: 96717
     title: >-
-        How is mathematical language used in physics?
+        How do physicists use statistical methods to analyze physical data?
     subject: Physics
-    url: /learn/physics/questions/how-is-mathematical-language-used-in-physics
+    url: /learn/physics/questions/how-do-physicists-use-statistical-methods-to-analyze-physical-data
 related_article3:
+    id: 96693
+    title: >-
+        What is the significance of force and equal areas in physics?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-significance-of-force-and-equal-areas-in-physics
+related_article4:
     id: 96707
     title: >-
         How did ancient civilizations contribute to the development of mathematical concepts used in physics?
     subject: Mathematics
     url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-concepts-used-in-physics
-related_article4:
-    id: 96701
-    title: >-
-        Can you explain Newton's Laws and their mathematical formulations?
-    subject: Physics
-    url: /learn/physics/questions/can-you-explain-newtons-laws-and-their-mathematical-formulations
 related_article5:
-    id: 96706
+    id: 96716
     title: >-
-        What role does calculus play in understanding physical laws?
-    subject: Physics
-    url: /learn/physics/questions/what-role-does-calculus-play-in-understanding-physical-laws
+        What is the impact of mathematical abstraction on the study of physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-impact-of-mathematical-abstraction-on-the-study-of-physics
 ---
 
 &nbsp;

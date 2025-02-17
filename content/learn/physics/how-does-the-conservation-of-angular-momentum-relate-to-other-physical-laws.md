@@ -24,23 +24,23 @@ file_name: how-does-the-conservation-of-angular-momentum-relate-to-other-physica
 url: /learn/physics/questions/how-does-the-conservation-of-angular-momentum-relate-to-other-physical-laws
 score: -1.0
 related_article1:
-    id: 121445
+    id: 121465
     title: >-
-        What is Faraday's Law and how does it relate to mathematics?
+        What are some examples of fundamental principles in physics that rely on mathematics?
     subject: Physics
-    url: /learn/physics/questions/what-is-faradays-law-and-how-does-it-relate-to-mathematics
+    url: /learn/physics/questions/what-are-some-examples-of-fundamental-principles-in-physics-that-rely-on-mathematics
 related_article2:
-    id: 121444
+    id: 121446
     title: >-
-        How does mathematics help us understand natural phenomena?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
+        Can you explain Newton's Law of Gravitation in mathematical terms?
+    subject: Physics
+    url: /learn/physics/questions/can-you-explain-newtons-law-of-gravitation-in-mathematical-terms
 related_article3:
-    id: 121469
+    id: 121461
     title: >-
-        What are some modern advancements in mathematical notation that have impacted physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-modern-advancements-in-mathematical-notation-that-have-impacted-physics
+        What role does calculus play in understanding physical laws?
+    subject: Physics
+    url: /learn/physics/questions/what-role-does-calculus-play-in-understanding-physical-laws
 ---
 
 &nbsp;

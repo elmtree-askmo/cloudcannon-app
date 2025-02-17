@@ -24,17 +24,17 @@ file_name: how-do-cultural-factors-influence-the-effectiveness-of-storytelling-i
 url: /learn/sociology/questions/how-do-cultural-factors-influence-the-effectiveness-of-storytelling-in-advertising
 score: -1.0
 related_article1:
-    id: 121661
-    title: >-
-        What are the primary ethical concerns associated with the consolidation of the food industry?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-primary-ethical-concerns-associated-with-the-consolidation-of-the-food-industry
-related_article2:
     id: 121677
     title: >-
         How do advertising techniques in Taco Bell commercials differ from those of other fast-food chains?
     subject: Business and Management
     url: /learn/business-and-management/questions/how-do-advertising-techniques-in-taco-bell-commercials-differ-from-those-of-other-fastfood-chains
+related_article2:
+    id: 121661
+    title: >-
+        What are the primary ethical concerns associated with the consolidation of the food industry?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-the-primary-ethical-concerns-associated-with-the-consolidation-of-the-food-industry
 ---
 
 &nbsp;

@@ -24,35 +24,29 @@ file_name: what-is-the-historical-context-of-the-minimum-principle-in-physics.md
 url: /learn/physics/questions/what-is-the-historical-context-of-the-minimum-principle-in-physics
 score: -1.0
 related_article1:
-    id: 122689
+    id: 122706
     title: >-
-        How does mathematics help us understand natural phenomena?
+        What are some examples of mathematical understanding in nature?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
+    url: /learn/mathematics/questions/what-are-some-examples-of-mathematical-understanding-in-nature
 related_article2:
+    id: 122718
+    title: >-
+        What are some contemporary debates regarding the role of mathematics in physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-contemporary-debates-regarding-the-role-of-mathematics-in-physics
+related_article3:
     id: 122708
     title: >-
         What is the importance of mathematical notation in communicating scientific ideas?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-importance-of-mathematical-notation-in-communicating-scientific-ideas
-related_article3:
+related_article4:
     id: 122690
     title: >-
         What is Faraday's Law and how does it relate to mathematics?
     subject: Physics
     url: /learn/physics/questions/what-is-faradays-law-and-how-does-it-relate-to-mathematics
-related_article4:
-    id: 122717
-    title: >-
-        How do philosophical perspectives shape our understanding of the physics-mathematics relationship?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-do-philosophical-perspectives-shape-our-understanding-of-the-physicsmathematics-relationship
-related_article5:
-    id: 122713
-    title: >-
-        How do the Babylonian and Greek traditions differ in their approach to mathematical proofs?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-the-babylonian-and-greek-traditions-differ-in-their-approach-to-mathematical-proofs
 ---
 
 &nbsp;

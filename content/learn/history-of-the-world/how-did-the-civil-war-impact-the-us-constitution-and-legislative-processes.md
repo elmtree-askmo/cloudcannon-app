@@ -24,17 +24,17 @@ file_name: how-did-the-civil-war-impact-the-us-constitution-and-legislative-proc
 url: /learn/history-of-the-world/questions/how-did-the-civil-war-impact-the-us-constitution-and-legislative-processes
 score: -1.0
 related_article1:
-    id: 120184
-    title: >-
-        What are the historical origins of the bicameral legislature in the U.S.?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-historical-origins-of-the-bicameral-legislature-in-the-us
-related_article2:
     id: 120183
     title: >-
         How did World War II impact U.S. domestic policies?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-world-war-ii-impact-us-domestic-policies
+related_article2:
+    id: 120184
+    title: >-
+        What are the historical origins of the bicameral legislature in the U.S.?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-historical-origins-of-the-bicameral-legislature-in-the-us
 ---
 
 &nbsp;

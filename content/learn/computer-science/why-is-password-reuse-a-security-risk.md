@@ -24,35 +24,35 @@ file_name: why-is-password-reuse-a-security-risk.md
 url: /learn/computer-science/questions/why-is-password-reuse-a-security-risk
 score: -1.0
 related_article1:
-    id: 122271
-    title: >-
-        What is ransomware and how does it typically infiltrate a network?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-is-ransomware-and-how-does-it-typically-infiltrate-a-network
-related_article2:
     id: 122278
     title: >-
         What are the differences between DoS and DDoS attacks?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-differences-between-dos-and-ddos-attacks
+related_article2:
+    id: 122292
+    title: >-
+        How does secure software development contribute to network security?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-secure-software-development-contribute-to-network-security
 related_article3:
-    id: 122289
+    id: 122295
     title: >-
-        How do antivirus and antimalware software protect networks?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-antivirus-and-antimalware-software-protect-networks
+        How does password complexity enhance security?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-does-password-complexity-enhance-security
 related_article4:
-    id: 122282
+    id: 122288
     title: >-
-        What are some examples of internal threats and how can they be mitigated?
+        What are the benefits of email and spam filtering in network security?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-examples-of-internal-threats-and-how-can-they-be-mitigated
+    url: /learn/computer-science/questions/what-are-the-benefits-of-email-and-spam-filtering-in-network-security
 related_article5:
-    id: 122277
+    id: 122274
     title: >-
-        How can network media security be ensured?
+        How does access control contribute to network security?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-network-media-security-be-ensured
+    url: /learn/computer-science/questions/how-does-access-control-contribute-to-network-security
 ---
 
 &nbsp;

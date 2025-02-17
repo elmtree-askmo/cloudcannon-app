@@ -24,17 +24,17 @@ file_name: what-are-some-strategies-for-crafting-effective-conclusions-in-argume
 url: /learn/education-studies/questions/what-are-some-strategies-for-crafting-effective-conclusions-in-argumentative-essays
 score: -1.0
 related_article1:
-    id: 98068
-    title: >-
-        What are some examples of new argumentative concepts that can enhance an essay?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-examples-of-new-argumentative-concepts-that-can-enhance-an-essay
-related_article2:
     id: 98061
     title: >-
         How can writing workshops assist in improving argumentative essay skills?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-writing-workshops-assist-in-improving-argumentative-essay-skills
+related_article2:
+    id: 98068
+    title: >-
+        What are some examples of new argumentative concepts that can enhance an essay?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-some-examples-of-new-argumentative-concepts-that-can-enhance-an-essay
 related_article3:
     id: 98072
     title: >-

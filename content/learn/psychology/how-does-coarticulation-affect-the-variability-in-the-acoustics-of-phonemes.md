@@ -24,11 +24,11 @@ file_name: how-does-coarticulation-affect-the-variability-in-the-acoustics-of-ph
 url: /learn/psychology/questions/how-does-coarticulation-affect-the-variability-in-the-acoustics-of-phonemes
 score: -1.0
 related_article1:
-    id: 122517
+    id: 122537
     title: >-
-        How does spatial segregation work in auditory scene analysis?
+        How does synesthesia relate to music perception?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-spatial-segregation-work-in-auditory-scene-analysis
+    url: /learn/psychology/questions/how-does-synesthesia-relate-to-music-perception
 related_article2:
     id: 122528
     title: >-
@@ -36,23 +36,23 @@ related_article2:
     subject: Psychology
     url: /learn/psychology/questions/how-is-speech-integrated-with-brain-functions
 related_article3:
-    id: 122520
-    title: >-
-        What are the key features of biosonar in bats and dolphins?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-the-key-features-of-biosonar-in-bats-and-dolphins
-related_article4:
-    id: 122516
-    title: >-
-        What is temporal segregation in auditory scene analysis?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-temporal-segregation-in-auditory-scene-analysis
-related_article5:
     id: 122511
     title: >-
         What role do interaural level differences play in sound localization?
     subject: Psychology
     url: /learn/psychology/questions/what-role-do-interaural-level-differences-play-in-sound-localization
+related_article4:
+    id: 122519
+    title: >-
+        How does auditory development progress in humans?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-auditory-development-progress-in-humans
+related_article5:
+    id: 122536
+    title: >-
+        What is the neuroanatomy of music perception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-neuroanatomy-of-music-perception
 ---
 
 &nbsp;

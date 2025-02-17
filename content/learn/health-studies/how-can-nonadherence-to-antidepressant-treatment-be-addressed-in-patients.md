@@ -24,35 +24,35 @@ file_name: how-can-nonadherence-to-antidepressant-treatment-be-addressed-in-pati
 url: /learn/health-studies/questions/how-can-nonadherence-to-antidepressant-treatment-be-addressed-in-patients
 score: -1.0
 related_article1:
-    id: 104616
-    title: >-
-        How do healthcare providers determine the appropriate class of antidepressant for a patient?
-    subject: Medicine
-    url: /learn/medicine/questions/how-do-healthcare-providers-determine-the-appropriate-class-of-antidepressant-for-a-patient
-related_article2:
-    id: 104591
-    title: >-
-        How do phenothiazines differ from nonphenothiazines in terms of chemical structure and effects?
-    subject: Medicine
-    url: /learn/medicine/questions/how-do-phenothiazines-differ-from-nonphenothiazines-in-terms-of-chemical-structure-and-effects
-related_article3:
-    id: 104617
-    title: >-
-        What are the latest advancements in the development of antipsychotics and anxiolytics?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-latest-advancements-in-the-development-of-antipsychotics-and-anxiolytics
-related_article4:
     id: 104610
     title: >-
         What role does lithium play as a mood stabilizer and what are its side effects?
     subject: Medicine
     url: /learn/medicine/questions/what-role-does-lithium-play-as-a-mood-stabilizer-and-what-are-its-side-effects
-related_article5:
-    id: 104607
+related_article2:
+    id: 104613
     title: >-
-        How do Serotonin-Norepinephrine Reuptake Inhibitors (SNRI) differ from SSRIs?
+        What are the risks of using antipsychotics in older adults and how can they be mitigated?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-serotoninnorepinephrine-reuptake-inhibitors-snri-differ-from-ssris
+    url: /learn/medicine/questions/what-are-the-risks-of-using-antipsychotics-in-older-adults-and-how-can-they-be-mitigated
+related_article3:
+    id: 104604
+    title: >-
+        What are the different classes of antidepressants and how do they differ in their mechanisms?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-different-classes-of-antidepressants-and-how-do-they-differ-in-their-mechanisms
+related_article4:
+    id: 104609
+    title: >-
+        How do Monoamine Oxidase Inhibitors (MAOIs) work and what are their dietary restrictions?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-monoamine-oxidase-inhibitors-maois-work-and-what-are-their-dietary-restrictions
+related_article5:
+    id: 104589
+    title: >-
+        Can you explain the mechanism of action for both typical and atypical antipsychotics?
+    subject: Medicine
+    url: /learn/medicine/questions/can-you-explain-the-mechanism-of-action-for-both-typical-and-atypical-antipsychotics
 ---
 
 &nbsp;

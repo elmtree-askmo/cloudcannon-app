@@ -24,29 +24,35 @@ file_name: what-are-the-latest-advancements-in-testing-methods-for-aggregates.md
 url: /learn/engineering/questions/what-are-the-latest-advancements-in-testing-methods-for-aggregates
 score: -1.0
 related_article1:
-    id: 120421
+    id: 120420
     title: >-
-        How do harmful substances in aggregates impact the durability of concrete?
+        What measures can be taken to prevent alkali-aggregate reactivity in concrete?
     subject: Engineering
-    url: /learn/engineering/questions/how-do-harmful-substances-in-aggregates-impact-the-durability-of-concrete
+    url: /learn/engineering/questions/what-measures-can-be-taken-to-prevent-alkaliaggregate-reactivity-in-concrete
 related_article2:
-    id: 120404
+    id: 120411
     title: >-
-        Can you explain the mineralogical composition of aggregates derived from igneous rocks?
+        How does the origin of aggregates affect their classification?
     subject: Engineering
-    url: /learn/engineering/questions/can-you-explain-the-mineralogical-composition-of-aggregates-derived-from-igneous-rocks
+    url: /learn/engineering/questions/how-does-the-origin-of-aggregates-affect-their-classification
 related_article3:
-    id: 120429
+    id: 120416
     title: >-
-        How can the selection of aggregates impact the overall cost of a construction project?
+        How is laboratory testing of aggregates conducted and what parameters are typically assessed?
     subject: Engineering
-    url: /learn/engineering/questions/how-can-the-selection-of-aggregates-impact-the-overall-cost-of-a-construction-project
+    url: /learn/engineering/questions/how-is-laboratory-testing-of-aggregates-conducted-and-what-parameters-are-typically-assessed
 related_article4:
-    id: 120410
+    id: 120403
     title: >-
-        What is the significance of specific gravity in the classification of aggregates?
+        What are the most common applications of aggregates in civil construction?
     subject: Engineering
-    url: /learn/engineering/questions/what-is-the-significance-of-specific-gravity-in-the-classification-of-aggregates
+    url: /learn/engineering/questions/what-are-the-most-common-applications-of-aggregates-in-civil-construction
+related_article5:
+    id: 120401
+    title: >-
+        What are aggregates and what are their main characteristics?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-aggregates-and-what-are-their-main-characteristics
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: what-were-the-motivations-behind-dan-whites-actions.md
 url: /learn/history-of-the-world/questions/what-were-the-motivations-behind-dan-whites-actions
 score: -1.0
 related_article1:
-    id: 123837
+    id: 123832
     title: >-
-        How did the community respond to the assassinations and the subsequent trial?
-    subject: Sociology
-    url: /learn/sociology/questions/how-did-the-community-respond-to-the-assassinations-and-the-subsequent-trial
-related_article2:
-    id: 123831
-    title: >-
-        What were the legal proceedings in Dan White's trial?
+        What was the "Twinkie Defense" and how did it play a role in Dan White's defense strategy?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-were-the-legal-proceedings-in-dan-whites-trial
+    url: /learn/criminal-or-civil-law/questions/what-was-the-twinkie-defense-and-how-did-it-play-a-role-in-dan-whites-defense-strategy
+related_article2:
+    id: 123840
+    title: >-
+        How did the LGBTQ+ community in the Castro district react to the events?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-lgbtq-community-in-the-castro-district-react-to-the-events
 related_article3:
-    id: 123848
+    id: 123846
     title: >-
-        How did the legacy of the assassinations shape future political and social movements in San Francisco?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-legacy-of-the-assassinations-shape-future-political-and-social-movements-in-san-francisco
-related_article4:
-    id: 123839
-    title: >-
-        What were the long-term consequences of the assassinations and the White Night Riot?
+        How did the White Night Riot affect the relationship between the LGBTQ+ community and law enforcement?
     subject: Sociology
-    url: /learn/sociology/questions/what-were-the-longterm-consequences-of-the-assassinations-and-the-white-night-riot
-related_article5:
-    id: 123820
+    url: /learn/sociology/questions/how-did-the-white-night-riot-affect-the-relationship-between-the-lgbtq-community-and-law-enforcement
+related_article4:
+    id: 123823
     title: >-
-        Who was George Moscone and what was his role in San Francisco politics?
+        Can you describe the day of the assassinations and the sequence of events?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/who-was-george-moscone-and-what-was-his-role-in-san-francisco-politics
+    url: /learn/history-of-the-world/questions/can-you-describe-the-day-of-the-assassinations-and-the-sequence-of-events
+related_article5:
+    id: 123838
+    title: >-
+        What was the media coverage like following the assassinations and the trial?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-was-the-media-coverage-like-following-the-assassinations-and-the-trial
 ---
 
 &nbsp;

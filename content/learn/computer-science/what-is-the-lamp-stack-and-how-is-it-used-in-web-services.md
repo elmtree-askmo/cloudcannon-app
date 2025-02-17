@@ -30,23 +30,29 @@ related_article1:
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-key-considerations-for-infrastructure-planning-for-web-services
 related_article2:
-    id: 122245
+    id: 122261
     title: >-
-        What are the common challenges associated with network printing?
+        How do Active Directory and LDAP function in directory services?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-common-challenges-associated-with-network-printing
+    url: /learn/computer-science/questions/how-do-active-directory-and-ldap-function-in-directory-services
 related_article3:
-    id: 122253
+    id: 122268
     title: >-
-        How is storage managed in relation to DBMS?
+        How can hands-on experience with network services be beneficial for IT professionals?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-storage-managed-in-relation-to-dbms
+    url: /learn/computer-science/questions/how-can-handson-experience-with-network-services-be-beneficial-for-it-professionals
 related_article4:
-    id: 122247
+    id: 122243
     title: >-
-        What are the advantages of using network printing over traditional printing methods?
+        How do HTTP, FTP, SCP, SMB/CIFS, and NFS differ in terms of file service protocols?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-advantages-of-using-network-printing-over-traditional-printing-methods
+    url: /learn/computer-science/questions/how-do-http-ftp-scp-smbcifs-and-nfs-differ-in-terms-of-file-service-protocols
+related_article5:
+    id: 122250
+    title: >-
+        What are the main components of a Database Management System (DBMS)?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-main-components-of-a-database-management-system-dbms
 ---
 
 &nbsp;

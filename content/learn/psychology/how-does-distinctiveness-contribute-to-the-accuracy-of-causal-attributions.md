@@ -13,7 +13,7 @@ seo:
   page_description: >-
     This content discusses how distinctiveness influences the accuracy of causal attributions in behavior assessment, through Kelleys Covariation Model, focusing on its interaction with consensus and consistency.
   page_keywords: >-
-    distinctiveness, causal attributions, Kelley’s Covariation Model, consensus, consistency, internal attribution, external attribution, situational factors, dispositional factors, accuracy of attribution, behavioral analysis
+    distinctiveness, causal attributions, Kelleys Covariation Model, consensus, consistency, internal attribution, external attribution, situational factors, dispositional factors, accuracy of attribution, behavioral analysis
 author: QuickTakes
 question: >-
     How does distinctiveness contribute to the accuracy of causal attributions?
@@ -30,17 +30,17 @@ related_article1:
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-impact-of-consistency-on-social-perception
 related_article2:
-    id: 96821
+    id: 96816
     title: >-
-        How can understanding group dynamics improve team performance?
-    subject: Psychology
-    url: /learn/psychology/questions/how-can-understanding-group-dynamics-improve-team-performance
-related_article3:
-    id: 96826
-    title: >-
-        What are the implications of group attribution error in organizational settings?
+        What are the main factors influencing group dynamics?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-implications-of-group-attribution-error-in-organizational-settings
+    url: /learn/sociology/questions/what-are-the-main-factors-influencing-group-dynamics
+related_article3:
+    id: 96832
+    title: >-
+        What are the challenges in distinguishing between external and internal attributions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-challenges-in-distinguishing-between-external-and-internal-attributions
 ---
 
 &nbsp;

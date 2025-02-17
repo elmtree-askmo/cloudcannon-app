@@ -24,11 +24,11 @@ file_name: what-are-the-main-differences-between-buck-and-boost-converters.md
 url: /learn/engineering/questions/what-are-the-main-differences-between-buck-and-boost-converters
 score: -1.0
 related_article1:
-    id: 109318
+    id: 109336
     title: >-
-        What are the non-ideal components in DC-DC converters and how do they affect performance?
+        What are the benefits of using synchronous switching over traditional methods?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-nonideal-components-in-dcdc-converters-and-how-do-they-affect-performance
+    url: /learn/engineering/questions/what-are-the-benefits-of-using-synchronous-switching-over-traditional-methods
 ---
 
 &nbsp;

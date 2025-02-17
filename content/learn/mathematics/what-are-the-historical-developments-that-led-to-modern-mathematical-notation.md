@@ -13,7 +13,7 @@ seo:
   page_description: >-
     This content discusses the historical developments that led to modern mathematical notation, tracing its evolution from verbal descriptions to symbolism influenced by various cultures and key mathematicians.
   page_keywords: >-
-    historical developments, mathematical notation, rhetorical stage, syncopated stage, symbolic stage, cultural influences, René Descartes, Isaac Newton, mathematical symbols, equality, calculus symbols, Babylonians, Greeks, mathematical ideas, concise expressions, Renaissance
+    historical developments, mathematical notation, rhetorical stage, syncopated stage, symbolic stage, cultural influences, Ren Descartes, Isaac Newton, mathematical symbols, equality, calculus symbols, Babylonians, Greeks, mathematical ideas, concise expressions, Renaissance
 author: QuickTakes
 question: >-
     What are the historical developments that led to modern mathematical notation?
@@ -24,29 +24,35 @@ file_name: what-are-the-historical-developments-that-led-to-modern-mathematical-
 url: /learn/mathematics/questions/what-are-the-historical-developments-that-led-to-modern-mathematical-notation
 score: -1.0
 related_article1:
-    id: 123804
-    title: >-
-        What are the philosophical implications of the relationship between physics and mathematics?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
-related_article2:
     id: 123813
     title: >-
         How does the Euclidean method differ from other mathematical approaches in physics?
     subject: Mathematics
     url: /learn/mathematics/questions/how-does-the-euclidean-method-differ-from-other-mathematical-approaches-in-physics
-related_article3:
-    id: 123802
+related_article2:
+    id: 123800
     title: >-
-        What is the local field method and how is it applied in physics?
+        What is the principle of conservation of angular momentum and its importance in physics?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-local-field-method-and-how-is-it-applied-in-physics
-related_article4:
-    id: 123808
+    url: /learn/physics/questions/what-is-the-principle-of-conservation-of-angular-momentum-and-its-importance-in-physics
+related_article3:
+    id: 123798
     title: >-
-        What are some examples of mathematical understanding in nature?
+        Can you describe the Euclidean method and its impact on physics?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-examples-of-mathematical-understanding-in-nature
+    url: /learn/mathematics/questions/can-you-describe-the-euclidean-method-and-its-impact-on-physics
+related_article4:
+    id: 123790
+    title: >-
+        Can you explain Faraday's Law and its significance in physics?
+    subject: Physics
+    url: /learn/physics/questions/can-you-explain-faradays-law-and-its-significance-in-physics
+related_article5:
+    id: 123815
+    title: >-
+        How do Newton's Laws apply to everyday physical phenomena?
+    subject: Physics
+    url: /learn/physics/questions/how-do-newtons-laws-apply-to-everyday-physical-phenomena
 ---
 
 &nbsp;

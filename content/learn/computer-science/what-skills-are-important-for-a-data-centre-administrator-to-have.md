@@ -24,29 +24,11 @@ file_name: what-skills-are-important-for-a-data-centre-administrator-to-have.md
 url: /learn/computer-science/questions/what-skills-are-important-for-a-data-centre-administrator-to-have
 score: -1.0
 related_article1:
-    id: 122337
+    id: 122350
     title: >-
-        What are the key responsibilities of a Network Administrator?
+        What skills are necessary for a Storage Analyst and Architect?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-responsibilities-of-a-network-administrator
-related_article2:
-    id: 122351
-    title: >-
-        What qualifications are needed for a career as a Storage Analyst?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-qualifications-are-needed-for-a-career-as-a-storage-analyst
-related_article3:
-    id: 122329
-    title: >-
-        What are the primary responsibilities of a Help Desk Analyst?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-primary-responsibilities-of-a-help-desk-analyst
-related_article4:
-    id: 122345
-    title: >-
-        What are the main responsibilities of an Infrastructure Analyst?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-responsibilities-of-an-infrastructure-analyst
+    url: /learn/computer-science/questions/what-skills-are-necessary-for-a-storage-analyst-and-architect
 ---
 
 &nbsp;

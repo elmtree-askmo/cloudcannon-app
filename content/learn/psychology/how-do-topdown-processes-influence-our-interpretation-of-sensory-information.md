@@ -24,17 +24,29 @@ file_name: how-do-topdown-processes-influence-our-interpretation-of-sensory-info
 url: /learn/psychology/questions/how-do-topdown-processes-influence-our-interpretation-of-sensory-information
 score: -1.0
 related_article1:
-    id: 116513
+    id: 116514
     title: >-
-        What role does the visual cortex play in processing visual information?
+        What are monocular depth cues and how do they affect perception?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-does-the-visual-cortex-play-in-processing-visual-information
+    url: /learn/psychology/questions/what-are-monocular-depth-cues-and-how-do-they-affect-perception
 related_article2:
     id: 116528
     title: >-
         What are the stages of auditory processing from the ear to the brain?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-stages-of-auditory-processing-from-the-ear-to-the-brain
+related_article3:
+    id: 116537
+    title: >-
+        How do individual differences affect sensory processing and perception?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-individual-differences-affect-sensory-processing-and-perception
+related_article4:
+    id: 116516
+    title: >-
+        What mechanisms are involved in sound localization?
+    subject: Psychology
+    url: /learn/psychology/questions/what-mechanisms-are-involved-in-sound-localization
 ---
 
 &nbsp;

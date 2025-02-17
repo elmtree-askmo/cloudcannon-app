@@ -30,23 +30,29 @@ related_article1:
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-educators-integrate-notetaking-techniques-into-their-teaching-methods
 related_article2:
-    id: 116270
+    id: 116274
     title: >-
-        What are some common misconceptions about home directories?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-common-misconceptions-about-home-directories
+        What are the benefits of interactive learning in computing?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-benefits-of-interactive-learning-in-computing
 related_article3:
-    id: 116273
+    id: 116297
     title: >-
-        How can the 'ls' command be used to list directory contents effectively?
+        What are the differences between absolute and relative paths in directory navigation?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-the-ls-command-be-used-to-list-directory-contents-effectively
+    url: /learn/computer-science/questions/what-are-the-differences-between-absolute-and-relative-paths-in-directory-navigation
 related_article4:
-    id: 116272
+    id: 116268
     title: >-
-        What are the typical use cases for the 'pwd' command?
+        What is the definition of a home directory in computing?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-typical-use-cases-for-the-pwd-command
+    url: /learn/computer-science/questions/what-is-the-definition-of-a-home-directory-in-computing
+related_article5:
+    id: 116276
+    title: >-
+        How can understanding directory hierarchies improve computing efficiency?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-can-understanding-directory-hierarchies-improve-computing-efficiency
 ---
 
 &nbsp;

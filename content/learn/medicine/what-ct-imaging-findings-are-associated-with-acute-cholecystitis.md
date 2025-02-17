@@ -30,29 +30,23 @@ related_article1:
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-challenges-faced-in-imaging-hepatobiliary-conditions
 related_article2:
-    id: 118115
+    id: 118125
     title: >-
-        Could you describe a case study of acute cholecystitis, focusing on patient presentation and imaging findings?
+        What are the common imaging characteristics of acute pancreatitis?
     subject: Medicine
-    url: /learn/medicine/questions/could-you-describe-a-case-study-of-acute-cholecystitis-focusing-on-patient-presentation-and-imaging-findings
+    url: /learn/medicine/questions/what-are-the-common-imaging-characteristics-of-acute-pancreatitis
 related_article3:
-    id: 118138
+    id: 118121
     title: >-
-        How does patient history and presentation influence the choice of imaging modality in hepatobiliary conditions?
+        What are the common imaging characteristics of hepatocellular carcinoma?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-patient-history-and-presentation-influence-the-choice-of-imaging-modality-in-hepatobiliary-conditions
+    url: /learn/medicine/questions/what-are-the-common-imaging-characteristics-of-hepatocellular-carcinoma
 related_article4:
-    id: 118136
+    id: 118132
     title: >-
-        How does imaging influence the treatment planning for hepatobiliary diseases?
+        How does imaging help in differentiating between benign and malignant hepatobiliary lesions?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-imaging-influence-the-treatment-planning-for-hepatobiliary-diseases
-related_article5:
-    id: 118114
-    title: >-
-        What treatment and management strategies are typically employed for hepatocellular carcinoma?
-    subject: Medicine
-    url: /learn/medicine/questions/what-treatment-and-management-strategies-are-typically-employed-for-hepatocellular-carcinoma
+    url: /learn/medicine/questions/how-does-imaging-help-in-differentiating-between-benign-and-malignant-hepatobiliary-lesions
 ---
 
 &nbsp;

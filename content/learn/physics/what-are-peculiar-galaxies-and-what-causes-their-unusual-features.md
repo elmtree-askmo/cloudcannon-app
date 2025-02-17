@@ -24,11 +24,11 @@ file_name: what-are-peculiar-galaxies-and-what-causes-their-unusual-features.md
 url: /learn/physics/questions/what-are-peculiar-galaxies-and-what-causes-their-unusual-features
 score: -1.0
 related_article1:
-    id: 117849
+    id: 117868
     title: >-
-        How does dark matter affect the formation and evolution of galaxies?
+        How does the expansion of the universe affect the distance between galaxies?
     subject: Physics
-    url: /learn/physics/questions/how-does-dark-matter-affect-the-formation-and-evolution-of-galaxies
+    url: /learn/physics/questions/how-does-the-expansion-of-the-universe-affect-the-distance-between-galaxies
 related_article2:
     id: 117861
     title: >-
@@ -36,11 +36,11 @@ related_article2:
     subject: Physics
     url: /learn/physics/questions/how-are-galaxies-distributed-in-the-universe
 related_article3:
-    id: 117868
+    id: 117849
     title: >-
-        How does the expansion of the universe affect the distance between galaxies?
+        How does dark matter affect the formation and evolution of galaxies?
     subject: Physics
-    url: /learn/physics/questions/how-does-the-expansion-of-the-universe-affect-the-distance-between-galaxies
+    url: /learn/physics/questions/how-does-dark-matter-affect-the-formation-and-evolution-of-galaxies
 ---
 
 &nbsp;

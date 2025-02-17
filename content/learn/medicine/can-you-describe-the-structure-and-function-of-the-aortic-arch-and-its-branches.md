@@ -36,23 +36,17 @@ related_article2:
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-structural-differences-between-small-and-mediumsized-veins-and-large-veins
 related_article3:
-    id: 123873
+    id: 123857
     title: >-
-        How do the hepatic and portal systems function in the circulation of blood through the liver?
+        What is the primary function of capillaries in the vascular system?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-the-hepatic-and-portal-systems-function-in-the-circulation-of-blood-through-the-liver
+    url: /learn/medicine/questions/what-is-the-primary-function-of-capillaries-in-the-vascular-system
 related_article4:
-    id: 123860
+    id: 123878
     title: >-
-        How do the vertebral arteries contribute to the blood supply of the brain?
-    subject: Medicine
-    url: /learn/medicine/questions/how-do-the-vertebral-arteries-contribute-to-the-blood-supply-of-the-brain
-related_article5:
-    id: 123858
-    title: >-
-        Can you explain the significance of the common carotid arteries in cerebrovascular anatomy?
-    subject: Medicine
-    url: /learn/medicine/questions/can-you-explain-the-significance-of-the-common-carotid-arteries-in-cerebrovascular-anatomy
+        What are some common review questions on vascular anatomy that can help reinforce understanding?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-common-review-questions-on-vascular-anatomy-that-can-help-reinforce-understanding
 ---
 
 &nbsp;

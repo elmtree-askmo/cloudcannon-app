@@ -24,17 +24,17 @@ file_name: what-are-some-mnemonic-devices-to-help-remember-the-steps-in-decimal-
 url: /learn/mathematics/questions/what-are-some-mnemonic-devices-to-help-remember-the-steps-in-decimal-multiplication
 score: -1.0
 related_article1:
-    id: 99074
+    id: 99065
     title: >-
-        How can students apply their knowledge of decimal multiplication in everyday situations?
+        What are some common challenges students face when learning to multiply decimals?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-students-apply-their-knowledge-of-decimal-multiplication-in-everyday-situations
+    url: /learn/mathematics/questions/what-are-some-common-challenges-students-face-when-learning-to-multiply-decimals
 related_article2:
-    id: 99079
+    id: 99052
     title: >-
-        What are some assessment tools for evaluating decimal multiplication skills?
+        Can you provide a simple example of multiplying a decimal with a whole number?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-assessment-tools-for-evaluating-decimal-multiplication-skills
+    url: /learn/mathematics/questions/can-you-provide-a-simple-example-of-multiplying-a-decimal-with-a-whole-number
 related_article3:
     id: 99057
     title: >-
@@ -42,11 +42,17 @@ related_article3:
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-you-determine-the-placement-of-the-decimal-point-when-multiplying-two-decimal-numbers
 related_article4:
-    id: 99062
+    id: 99053
     title: >-
-        How can technology be used to practice decimal multiplication?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-technology-be-used-to-practice-decimal-multiplication
+        What are common mistakes to avoid when multiplying decimals with whole numbers?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-common-mistakes-to-avoid-when-multiplying-decimals-with-whole-numbers
+related_article5:
+    id: 99051
+    title: >-
+        What are the basic steps for multiplying decimals with whole numbers?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-basic-steps-for-multiplying-decimals-with-whole-numbers
 ---
 
 &nbsp;

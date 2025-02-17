@@ -24,29 +24,35 @@ file_name: how-can-educators-integrate-notetaking-techniques-into-their-teaching
 url: /learn/education-studies/questions/how-can-educators-integrate-notetaking-techniques-into-their-teaching-methods
 score: -1.0
 related_article1:
+    id: 116268
+    title: >-
+        What is the definition of a home directory in computing?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-definition-of-a-home-directory-in-computing
+related_article2:
+    id: 116281
+    title: >-
+        What are the key components of a directory hierarchy?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-key-components-of-a-directory-hierarchy
+related_article3:
+    id: 116273
+    title: >-
+        How can the 'ls' command be used to list directory contents effectively?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-can-the-ls-command-be-used-to-list-directory-contents-effectively
+related_article4:
     id: 116271
     title: >-
         How does the 'cd' command function in navigating directories?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-the-cd-command-function-in-navigating-directories
-related_article2:
-    id: 116291
+related_article5:
+    id: 116272
     title: >-
-        What strategies can be employed to improve file system organization?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-strategies-can-be-employed-to-improve-file-system-organization
-related_article3:
-    id: 116297
-    title: >-
-        What are the differences between absolute and relative paths in directory navigation?
+        What are the typical use cases for the 'pwd' command?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-differences-between-absolute-and-relative-paths-in-directory-navigation
-related_article4:
-    id: 116270
-    title: >-
-        What are some common misconceptions about home directories?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-common-misconceptions-about-home-directories
+    url: /learn/computer-science/questions/what-are-the-typical-use-cases-for-the-pwd-command
 ---
 
 &nbsp;

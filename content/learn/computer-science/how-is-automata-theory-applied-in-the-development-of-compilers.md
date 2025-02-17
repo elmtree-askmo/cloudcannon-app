@@ -24,35 +24,29 @@ file_name: how-is-automata-theory-applied-in-the-development-of-compilers.md
 url: /learn/computer-science/questions/how-is-automata-theory-applied-in-the-development-of-compilers
 score: -1.0
 related_article1:
-    id: 98938
+    id: 98914
     title: >-
-        What are the limitations of Finite Automata in computational theory?
+        What is a Finite State Machine and how does it function?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-limitations-of-finite-automata-in-computational-theory
+    url: /learn/computer-science/questions/what-is-a-finite-state-machine-and-how-does-it-function
 related_article2:
-    id: 98920
+    id: 98929
     title: >-
-        How do symbols, sets, and strings form the mathematical foundation of Automata?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-symbols-sets-and-strings-form-the-mathematical-foundation-of-automata
+        Can you provide an example of a transition table for a DFA?
+    subject: Computer Science
+    url: /learn/computer-science/questions/can-you-provide-an-example-of-a-transition-table-for-a-dfa
 related_article3:
-    id: 98919
+    id: 98926
     title: >-
-        What are the key characteristics of an NFA?
+        In what ways does Automata Theory contribute to hardware design?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-characteristics-of-an-nfa
+    url: /learn/computer-science/questions/in-what-ways-does-automata-theory-contribute-to-hardware-design
 related_article4:
-    id: 98930
+    id: 98939
     title: >-
-        What are the components of a DFA diagram?
+        How do transition tables aid in the visualization and understanding of DFA?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-components-of-a-dfa-diagram
-related_article5:
-    id: 98923
-    title: >-
-        How is the cardinality of sets relevant to Automata Theory?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-is-the-cardinality-of-sets-relevant-to-automata-theory
+    url: /learn/computer-science/questions/how-do-transition-tables-aid-in-the-visualization-and-understanding-of-dfa
 ---
 
 &nbsp;

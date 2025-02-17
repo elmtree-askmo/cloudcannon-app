@@ -24,17 +24,17 @@ file_name: what-challenges-and-opportunities-do-nationstates-face-in-a-globalize
 url: /learn/sociology/questions/what-challenges-and-opportunities-do-nationstates-face-in-a-globalized-world
 score: -1.0
 related_article1:
-    id: 118313
-    title: >-
-        How do cultural identity and nationalism interact in the context of nation-states?
-    subject: Sociology
-    url: /learn/sociology/questions/how-do-cultural-identity-and-nationalism-interact-in-the-context-of-nationstates
-related_article2:
     id: 118306
     title: >-
         How do multinational corporations influence nation-states and their sovereignty?
     subject: Business and Management
     url: /learn/business-and-management/questions/how-do-multinational-corporations-influence-nationstates-and-their-sovereignty
+related_article2:
+    id: 118312
+    title: >-
+        What historical events led to the emergence of nation-states?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-historical-events-led-to-the-emergence-of-nationstates
 ---
 
 &nbsp;

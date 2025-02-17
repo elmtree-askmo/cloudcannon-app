@@ -24,35 +24,35 @@ file_name: what-are-the-common-diagnostic-methods-for-metastatic-liver-cancer.md
 url: /learn/medicine/questions/what-are-the-common-diagnostic-methods-for-metastatic-liver-cancer
 score: -1.0
 related_article1:
+    id: 97072
+    title: >-
+        What are the potential complications of untreated liver cancer?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-potential-complications-of-untreated-liver-cancer
+related_article2:
     id: 97054
     title: >-
         What is the clinical approach to identifying liver masses?
     subject: Medicine
     url: /learn/medicine/questions/what-is-the-clinical-approach-to-identifying-liver-masses
-related_article2:
-    id: 97049
-    title: >-
-        What are the most common treatment options for Hepatocellular Carcinoma (HCC)?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-most-common-treatment-options-for-hepatocellular-carcinoma-hcc
 related_article3:
-    id: 97067
+    id: 97073
     title: >-
-        How is liver cancer typically managed in clinical settings?
+        How does liver cancer impact overall liver function?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-liver-cancer-typically-managed-in-clinical-settings
+    url: /learn/medicine/questions/how-does-liver-cancer-impact-overall-liver-function
 related_article4:
-    id: 97064
+    id: 97050
     title: >-
-        What are the common symptoms of Metastatic Liver Cancer?
+        What are the key characteristics of Cholangiocarcinoma?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-symptoms-of-metastatic-liver-cancer
+    url: /learn/medicine/questions/what-are-the-key-characteristics-of-cholangiocarcinoma
 related_article5:
-    id: 97070
+    id: 97063
     title: >-
-        How does liver cancer management differ in Hong Kong compared to other regions?
+        What are the challenges in diagnosing Cholangiocarcinoma?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-liver-cancer-management-differ-in-hong-kong-compared-to-other-regions
+    url: /learn/medicine/questions/what-are-the-challenges-in-diagnosing-cholangiocarcinoma
 ---
 
 &nbsp;

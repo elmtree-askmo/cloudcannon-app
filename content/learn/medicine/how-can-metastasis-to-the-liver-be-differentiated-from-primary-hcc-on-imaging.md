@@ -24,29 +24,35 @@ file_name: how-can-metastasis-to-the-liver-be-differentiated-from-primary-hcc-on
 url: /learn/medicine/questions/how-can-metastasis-to-the-liver-be-differentiated-from-primary-hcc-on-imaging
 score: -1.0
 related_article1:
+    id: 118105
+    title: >-
+        What are the potential complications of imaging-guided interventions for liver abscesses?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-potential-complications-of-imagingguided-interventions-for-liver-abscesses
+related_article2:
     id: 118090
     title: >-
         What are the current surgical options for treating HCC?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-current-surgical-options-for-treating-hcc
-related_article2:
-    id: 118087
-    title: >-
-        What are the typical enhancement patterns of HCC on imaging studies?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-typical-enhancement-patterns-of-hcc-on-imaging-studies
 related_article3:
-    id: 118080
+    id: 118084
     title: >-
-        What are the key differences between Lyrad and European imaging guidelines for HCC?
+        What are the advantages and limitations of CT and MRI in imaging HCC?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-key-differences-between-lyrad-and-european-imaging-guidelines-for-hcc
+    url: /learn/medicine/questions/what-are-the-advantages-and-limitations-of-ct-and-mri-in-imaging-hcc
 related_article4:
-    id: 118091
+    id: 118095
     title: >-
-        How is the effectiveness of surgical resection and transplantation monitored in HCC patients?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-is-the-effectiveness-of-surgical-resection-and-transplantation-monitored-in-hcc-patients
+        What imaging characteristics help distinguish cholangiocarcinoma from HCC?
+    subject: Medicine
+    url: /learn/medicine/questions/what-imaging-characteristics-help-distinguish-cholangiocarcinoma-from-hcc
+related_article5:
+    id: 118103
+    title: >-
+        What are the challenges in interpreting imaging results for HCC?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-challenges-in-interpreting-imaging-results-for-hcc
 ---
 
 &nbsp;

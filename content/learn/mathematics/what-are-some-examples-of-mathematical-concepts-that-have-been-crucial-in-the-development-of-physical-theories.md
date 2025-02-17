@@ -24,29 +24,35 @@ file_name: what-are-some-examples-of-mathematical-concepts-that-have-been-crucia
 url: /learn/mathematics/questions/what-are-some-examples-of-mathematical-concepts-that-have-been-crucial-in-the-development-of-physical-theories
 score: -1.0
 related_article1:
-    id: 118717
+    id: 118705
     title: >-
-        Can you explain Newton's Laws and their mathematical formulations?
-    subject: Physics
-    url: /learn/physics/questions/can-you-explain-newtons-laws-and-their-mathematical-formulations
+        How does mathematics help us understand natural phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
 related_article2:
+    id: 118720
+    title: >-
+        What are the philosophical implications of the relationship between physics and mathematics?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
+related_article3:
     id: 118727
     title: >-
         How do mathematical symmetries relate to physical laws?
     subject: Physics
     url: /learn/physics/questions/how-do-mathematical-symmetries-relate-to-physical-laws
-related_article3:
-    id: 118731
-    title: >-
-        How do mathematical constants play a role in physical laws?
-    subject: Physics
-    url: /learn/physics/questions/how-do-mathematical-constants-play-a-role-in-physical-laws
 related_article4:
-    id: 118719
+    id: 118713
     title: >-
-        How does the minimum principle apply to physics and mathematics?
+        How did the Babylonian method influence the development of physics?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-babylonian-method-influence-the-development-of-physics
+related_article5:
+    id: 118715
+    title: >-
+        How does the law of gravitation demonstrate the relationship between physics and mathematics?
     subject: Physics
-    url: /learn/physics/questions/how-does-the-minimum-principle-apply-to-physics-and-mathematics
+    url: /learn/physics/questions/how-does-the-law-of-gravitation-demonstrate-the-relationship-between-physics-and-mathematics
 ---
 
 &nbsp;

@@ -24,29 +24,29 @@ file_name: how-do-you-calculate-the-density-and-partial-pressure-of-a-gas.md
 url: /learn/chemistry/questions/how-do-you-calculate-the-density-and-partial-pressure-of-a-gas
 score: -1.0
 related_article1:
-    id: 117915
+    id: 117926
     title: >-
-        What factors influence bond angles in molecules?
+        How do quantum numbers influence the properties of elements?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-factors-influence-bond-angles-in-molecules
+    url: /learn/chemistry/questions/how-do-quantum-numbers-influence-the-properties-of-elements
 related_article2:
-    id: 117927
+    id: 117906
     title: >-
-        How does Hess's Law apply to real-world chemical reactions?
+        How is electron configuration determined for an element?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-hesss-law-apply-to-realworld-chemical-reactions
+    url: /learn/chemistry/questions/how-is-electron-configuration-determined-for-an-element
 related_article3:
-    id: 117909
+    id: 117900
     title: >-
-        How are Lewis structures used to represent molecules?
+        What is the basic principle of thermochemistry?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-are-lewis-structures-used-to-represent-molecules
+    url: /learn/chemistry/questions/what-is-the-basic-principle-of-thermochemistry
 related_article4:
-    id: 117923
+    id: 117903
     title: >-
-        What factors affect solubility predictions?
+        Can you explain Hess's Law and its significance in thermochemistry?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-factors-affect-solubility-predictions
+    url: /learn/chemistry/questions/can-you-explain-hesss-law-and-its-significance-in-thermochemistry
 ---
 
 &nbsp;

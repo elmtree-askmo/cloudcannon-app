@@ -24,35 +24,35 @@ file_name: what-are-some-lesserknown-aspects-of-file-services-that-are-important
 url: /learn/digital-media/questions/what-are-some-lesserknown-aspects-of-file-services-that-are-important-to-understand
 score: -1.0
 related_article1:
-    id: 122680
+    id: 122681
     title: >-
-        How can network printing be optimized for efficiency?
+        What are the security considerations for file services and protocols?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-network-printing-be-optimized-for-efficiency
+    url: /learn/computer-science/questions/what-are-the-security-considerations-for-file-services-and-protocols
 related_article2:
+    id: 122666
+    title: >-
+        How do network printing and print servers work together?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-network-printing-and-print-servers-work-together
+related_article3:
+    id: 122683
+    title: >-
+        What are the challenges associated with managing databases in a network?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-challenges-associated-with-managing-databases-in-a-network
+related_article4:
+    id: 122674
+    title: >-
+        How does LDAP differ from other directory services?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-ldap-differ-from-other-directory-services
+related_article5:
     id: 122675
     title: >-
         What are the essential components of an email system in a network?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-essential-components-of-an-email-system-in-a-network
-related_article3:
-    id: 122682
-    title: >-
-        How do print servers manage print jobs in a network?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-print-servers-manage-print-jobs-in-a-network
-related_article4:
-    id: 122688
-    title: >-
-        How can students best prepare for lab activities in a networking course?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-students-best-prepare-for-lab-activities-in-a-networking-course
-related_article5:
-    id: 122672
-    title: >-
-        How do directory services support network management?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-directory-services-support-network-management
 ---
 
 &nbsp;

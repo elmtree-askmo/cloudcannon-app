@@ -24,29 +24,35 @@ file_name: how-does-ct-imaging-compare-to-mri-imaging-in-terms-of-accuracy-for-t
 url: /learn/medicine/questions/how-does-ct-imaging-compare-to-mri-imaging-in-terms-of-accuracy-for-the-hepatobiliary-system
 score: -1.0
 related_article1:
-    id: 118023
+    id: 118035
     title: >-
-        What are the main advantages of MRI imaging for the hepatobiliary system?
+        What are the typical findings in CT imaging of the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-main-advantages-of-mri-imaging-for-the-hepatobiliary-system
+    url: /learn/medicine/questions/what-are-the-typical-findings-in-ct-imaging-of-the-hepatobiliary-system
 related_article2:
-    id: 118045
+    id: 118032
     title: >-
-        How do CT and MRI imaging techniques aid in the management and treatment planning of hepatic pathologies?
+        How are liver abscesses typically identified through imaging?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-ct-and-mri-imaging-techniques-aid-in-the-management-and-treatment-planning-of-hepatic-pathologies
+    url: /learn/medicine/questions/how-are-liver-abscesses-typically-identified-through-imaging
 related_article3:
+    id: 118039
+    title: >-
+        How does the cost of CT imaging compare to MRI imaging for the hepatobiliary system?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-cost-of-ct-imaging-compare-to-mri-imaging-for-the-hepatobiliary-system
+related_article4:
     id: 118040
     title: >-
         What are the limitations of ultrasound imaging for the hepatobiliary system?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-limitations-of-ultrasound-imaging-for-the-hepatobiliary-system
-related_article4:
-    id: 118022
+related_article5:
+    id: 118025
     title: >-
-        In what scenarios is CT imaging commonly used for the hepatobiliary system?
+        In what scenarios is MRI imaging commonly used for the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/in-what-scenarios-is-ct-imaging-commonly-used-for-the-hepatobiliary-system
+    url: /learn/medicine/questions/in-what-scenarios-is-mri-imaging-commonly-used-for-the-hepatobiliary-system
 ---
 
 &nbsp;

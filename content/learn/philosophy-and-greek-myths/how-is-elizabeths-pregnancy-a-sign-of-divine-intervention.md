@@ -24,11 +24,11 @@ file_name: how-is-elizabeths-pregnancy-a-sign-of-divine-intervention.md
 url: /learn/philosophy-and-greek-myths/questions/how-is-elizabeths-pregnancy-a-sign-of-divine-intervention
 score: -1.0
 related_article1:
-    id: 115654
+    id: 115659
     title: >-
-        How does the Annunciation illustrate human-divine interaction?
+        What is the importance of faith and humility in the context of the Annunciation?
     subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-does-the-annunciation-illustrate-humandivine-interaction
+    url: /learn/philosophy-and-greek-myths/questions/what-is-the-importance-of-faith-and-humility-in-the-context-of-the-annunciation
 related_article2:
     id: 115644
     title: >-

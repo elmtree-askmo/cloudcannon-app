@@ -24,23 +24,29 @@ file_name: how-can-understanding-group-dynamics-improve-team-performance.md
 url: /learn/psychology/questions/how-can-understanding-group-dynamics-improve-team-performance
 score: -1.0
 related_article1:
+    id: 96831
+    title: >-
+        How does distinctiveness contribute to the accuracy of causal attributions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-distinctiveness-contribute-to-the-accuracy-of-causal-attributions
+related_article2:
     id: 96816
     title: >-
         What are the main factors influencing group dynamics?
     subject: Sociology
     url: /learn/sociology/questions/what-are-the-main-factors-influencing-group-dynamics
-related_article2:
-    id: 96813
-    title: >-
-        How does consensus play a role in Kelly's Covariation Model?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-consensus-play-a-role-in-kellys-covariation-model
 related_article3:
-    id: 96817
+    id: 96830
     title: >-
-        How does social perception impact group dynamics?
-    subject: Sociology
-    url: /learn/sociology/questions/how-does-social-perception-impact-group-dynamics
+        What is the impact of consistency on social perception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-impact-of-consistency-on-social-perception
+related_article4:
+    id: 96832
+    title: >-
+        What are the challenges in distinguishing between external and internal attributions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-challenges-in-distinguishing-between-external-and-internal-attributions
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: how-do-web-services-integrate-with-other-network-services.md
 url: /learn/computer-science/questions/how-do-web-services-integrate-with-other-network-services
 score: -1.0
 related_article1:
-    id: 122317
+    id: 122311
     title: >-
-        How do Active Directory and LDAP function in directory services?
+        What functionalities are essential for a web server?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-active-directory-and-ldap-function-in-directory-services
+    url: /learn/computer-science/questions/what-functionalities-are-essential-for-a-web-server
 related_article2:
-    id: 122319
+    id: 122309
     title: >-
-        How does LDAP facilitate single sign-on solutions?
+        What are the benefits of clustering and virtualization in database management?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-ldap-facilitate-single-signon-solutions
+    url: /learn/computer-science/questions/what-are-the-benefits-of-clustering-and-virtualization-in-database-management
 related_article3:
-    id: 122303
+    id: 122307
     title: >-
-        How does a print server facilitate network printing?
+        What are the core components of a Database Management System (DBMS)?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-a-print-server-facilitate-network-printing
+    url: /learn/computer-science/questions/what-are-the-core-components-of-a-database-management-system-dbms
 related_article4:
-    id: 122324
+    id: 122321
     title: >-
-        What security considerations should be taken into account for file services?
+        How do MUA, MTA, and MDA interact in an email system?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-security-considerations-should-be-taken-into-account-for-file-services
+    url: /learn/computer-science/questions/how-do-mua-mta-and-mda-interact-in-an-email-system
 related_article5:
-    id: 122325
+    id: 122320
     title: >-
-        How can network printing be optimized for efficiency and cost-effectiveness?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-can-network-printing-be-optimized-for-efficiency-and-costeffectiveness
+        What are the main components of an email system?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-main-components-of-an-email-system
 ---
 
 &nbsp;

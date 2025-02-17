@@ -24,35 +24,35 @@ file_name: which-organisms-are-most-frequently-associated-with-liver-abscesses.m
 url: /learn/medicine/questions/which-organisms-are-most-frequently-associated-with-liver-abscesses
 score: -1.0
 related_article1:
-    id: 118083
+    id: 118089
     title: >-
-        How does ultrasound contribute to the detection and characterization of HCC?
+        What specific features are looked for in PET-CT imaging of HCC?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-ultrasound-contribute-to-the-detection-and-characterization-of-hcc
+    url: /learn/medicine/questions/what-specific-features-are-looked-for-in-petct-imaging-of-hcc
 related_article2:
-    id: 118107
+    id: 118081
     title: >-
-        What are the criteria for selecting an imaging modality for a specific HCC case?
+        How do international guidelines influence imaging practices for HCC?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-criteria-for-selecting-an-imaging-modality-for-a-specific-hcc-case
+    url: /learn/medicine/questions/how-do-international-guidelines-influence-imaging-practices-for-hcc
 related_article3:
-    id: 118080
+    id: 118109
     title: >-
-        What are the key differences between Lyrad and European imaging guidelines for HCC?
+        What is the role of imaging in the follow-up care of HCC patients?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-key-differences-between-lyrad-and-european-imaging-guidelines-for-hcc
+    url: /learn/medicine/questions/what-is-the-role-of-imaging-in-the-followup-care-of-hcc-patients
 related_article4:
-    id: 118096
+    id: 118103
     title: >-
-        How can metastasis to the liver be differentiated from primary HCC on imaging?
+        What are the challenges in interpreting imaging results for HCC?
     subject: Medicine
-    url: /learn/medicine/questions/how-can-metastasis-to-the-liver-be-differentiated-from-primary-hcc-on-imaging
+    url: /learn/medicine/questions/what-are-the-challenges-in-interpreting-imaging-results-for-hcc
 related_article5:
-    id: 118092
+    id: 118099
     title: >-
-        What is Transarterial Chemoembolization (TACE) and how is it used in HCC treatment?
+        What imaging techniques are preferred for diagnosing liver abscesses?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-transarterial-chemoembolization-tace-and-how-is-it-used-in-hcc-treatment
+    url: /learn/medicine/questions/what-imaging-techniques-are-preferred-for-diagnosing-liver-abscesses
 ---
 
 &nbsp;

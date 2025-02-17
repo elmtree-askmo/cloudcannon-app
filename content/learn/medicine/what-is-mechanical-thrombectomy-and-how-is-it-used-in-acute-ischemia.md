@@ -24,23 +24,23 @@ file_name: what-is-mechanical-thrombectomy-and-how-is-it-used-in-acute-ischemia.
 url: /learn/medicine/questions/what-is-mechanical-thrombectomy-and-how-is-it-used-in-acute-ischemia
 score: -1.0
 related_article1:
-    id: 102166
+    id: 102165
     title: >-
-        What is the process of bypass surgery in managing acute ischemia?
+        How is embolectomy performed in the treatment of acute ischemia?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-the-process-of-bypass-surgery-in-managing-acute-ischemia
+    url: /learn/medicine/questions/how-is-embolectomy-performed-in-the-treatment-of-acute-ischemia
 related_article2:
-    id: 102177
+    id: 102162
     title: >-
-        What are the latest technological advances in vascular surgery?
+        How is clinical diagnosis of acute ischemia typically performed?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-latest-technological-advances-in-vascular-surgery
+    url: /learn/medicine/questions/how-is-clinical-diagnosis-of-acute-ischemia-typically-performed
 related_article3:
-    id: 102173
+    id: 102184
     title: >-
-        What are the common causes and risk factors for chronic ischemia?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-common-causes-and-risk-factors-for-chronic-ischemia
+        How do surgical and endovascular treatment approaches compare in terms of outcomes for acute ischemia?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-surgical-and-endovascular-treatment-approaches-compare-in-terms-of-outcomes-for-acute-ischemia
 related_article4:
     id: 102168
     title: >-

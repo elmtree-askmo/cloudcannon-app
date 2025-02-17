@@ -13,7 +13,7 @@ seo:
   page_description: >-
     The SNL parody of 'Single Ladies' features male performers in comedic roles, contrasting with the original by Beyonc. It incorporates humor, cultural commentary on gender roles, and highlights the collaboration with Beyonc herself, bringing a unique twist to the iconic dance.
   page_keywords: >-
-    Single Ladies, SNL parody, Justin Timberlake, Andy Samberg, Bobby Moynihan, comedy, gender roles, cultural commentary, Beyoncé, performance, choreography, satire, male dancers, humor, viral trends
+    Single Ladies, SNL parody, Justin Timberlake, Andy Samberg, Bobby Moynihan, comedy, gender roles, cultural commentary, Beyonc, performance, choreography, satire, male dancers, humor, viral trends
 author: QuickTakes
 question: >-
     In what ways does the 'Single Ladies' parody on SNL differ from the original performance?
@@ -24,35 +24,35 @@ file_name: in-what-ways-does-the-single-ladies-parody-on-snl-differ-from-the-ori
 url: /learn/american-culture/questions/in-what-ways-does-the-single-ladies-parody-on-snl-differ-from-the-original-performance
 score: -1.0
 related_article1:
-    id: 1025
+    id: 1022
     title: >-
-        How does the portrayal of Matt Foley contribute to his iconic status on SNL?
+        What distinguishes digital shorts from live performances in SNL's sketch formats?
     subject: American Culture
-    url: /learn/american-culture/questions/how-does-the-portrayal-of-matt-foley-contribute-to-his-iconic-status-on-snl
+    url: /learn/american-culture/questions/what-distinguishes-digital-shorts-from-live-performances-in-snls-sketch-formats
 related_article2:
-    id: 1027
+    id: 1017
     title: >-
-        How does SNL utilize celebrity impersonations to enhance its comedic impact?
+        What cultural impact did Steve Martin's 'King Tut' have on SNL?
     subject: American Culture
-    url: /learn/american-culture/questions/how-does-snl-utilize-celebrity-impersonations-to-enhance-its-comedic-impact
+    url: /learn/american-culture/questions/what-cultural-impact-did-steve-martins-king-tut-have-on-snl
 related_article3:
+    id: 1016
+    title: >-
+        What made Tina Fey's impersonation of Sarah Palin impactful in political satire?
+    subject: American Culture
+    url: /learn/american-culture/questions/what-made-tina-feys-impersonation-of-sarah-palin-impactful-in-political-satire
+related_article4:
+    id: 1005
+    title: >-
+        What is the comedic technique used in the 'Word Association' sketch?
+    subject: American Culture
+    url: /learn/american-culture/questions/what-is-the-comedic-technique-used-in-the-word-association-sketch
+related_article5:
     id: 1023
     title: >-
         What elements make the 'Delicious Dish' parody a successful talk show spoof?
     subject: American Culture
     url: /learn/american-culture/questions/what-elements-make-the-delicious-dish-parody-a-successful-talk-show-spoof
-related_article4:
-    id: 1030
-    title: >-
-        In what ways does the 'Unfrozen Caveman Lawyer' sketch incorporate historical themes?
-    subject: American Culture
-    url: /learn/american-culture/questions/in-what-ways-does-the-unfrozen-caveman-lawyer-sketch-incorporate-historical-themes
-related_article5:
-    id: 1028
-    title: >-
-        What is the significance of the 'Lazy Sunday' digital short in the evolution of SNL's sketch format?
-    subject: American Culture
-    url: /learn/american-culture/questions/what-is-the-significance-of-the-lazy-sunday-digital-short-in-the-evolution-of-snls-sketch-format
 ---
 
 &nbsp;

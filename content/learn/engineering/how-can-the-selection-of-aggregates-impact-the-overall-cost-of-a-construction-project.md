@@ -24,29 +24,29 @@ file_name: how-can-the-selection-of-aggregates-impact-the-overall-cost-of-a-cons
 url: /learn/engineering/questions/how-can-the-selection-of-aggregates-impact-the-overall-cost-of-a-construction-project
 score: -1.0
 related_article1:
-    id: 120407
-    title: >-
-        In what ways does the mineralogical composition of aggregates influence their mechanical properties?
-    subject: Engineering
-    url: /learn/engineering/questions/in-what-ways-does-the-mineralogical-composition-of-aggregates-influence-their-mechanical-properties
-related_article2:
     id: 120408
     title: >-
         How does the chemical composition of aggregates affect their performance in construction?
     subject: Chemistry
     url: /learn/chemistry/questions/how-does-the-chemical-composition-of-aggregates-affect-their-performance-in-construction
+related_article2:
+    id: 120422
+    title: >-
+        What are the best practices for ensuring the quality of aggregates used in construction?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-best-practices-for-ensuring-the-quality-of-aggregates-used-in-construction
 related_article3:
-    id: 120417
+    id: 120424
     title: >-
-        Why is particle size distribution important in the context of aggregates?
+        What are the potential environmental impacts of using different types of aggregates?
     subject: Engineering
-    url: /learn/engineering/questions/why-is-particle-size-distribution-important-in-the-context-of-aggregates
+    url: /learn/engineering/questions/what-are-the-potential-environmental-impacts-of-using-different-types-of-aggregates
 related_article4:
-    id: 120430
+    id: 120423
     title: >-
-        What are the challenges in sourcing high-quality aggregates for construction?
+        How does the granulometry of aggregates influence the workability of concrete?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-challenges-in-sourcing-highquality-aggregates-for-construction
+    url: /learn/engineering/questions/how-does-the-granulometry-of-aggregates-influence-the-workability-of-concrete
 ---
 
 &nbsp;

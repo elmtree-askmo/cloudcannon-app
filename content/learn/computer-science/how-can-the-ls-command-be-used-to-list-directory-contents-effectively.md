@@ -24,29 +24,17 @@ file_name: how-can-the-ls-command-be-used-to-list-directory-contents-effectively
 url: /learn/computer-science/questions/how-can-the-ls-command-be-used-to-list-directory-contents-effectively
 score: -1.0
 related_article1:
-    id: 116272
+    id: 116281
     title: >-
-        What are the typical use cases for the 'pwd' command?
+        What are the key components of a directory hierarchy?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-typical-use-cases-for-the-pwd-command
+    url: /learn/computer-science/questions/what-are-the-key-components-of-a-directory-hierarchy
 related_article2:
-    id: 116271
+    id: 116297
     title: >-
-        How does the 'cd' command function in navigating directories?
+        What are the differences between absolute and relative paths in directory navigation?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-cd-command-function-in-navigating-directories
-related_article3:
-    id: 116270
-    title: >-
-        What are some common misconceptions about home directories?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-common-misconceptions-about-home-directories
-related_article4:
-    id: 116283
-    title: >-
-        What role does the home directory play in user-specific settings and configurations?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-role-does-the-home-directory-play-in-userspecific-settings-and-configurations
+    url: /learn/computer-science/questions/what-are-the-differences-between-absolute-and-relative-paths-in-directory-navigation
 ---
 
 &nbsp;

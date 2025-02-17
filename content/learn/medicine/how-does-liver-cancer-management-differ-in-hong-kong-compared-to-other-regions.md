@@ -24,35 +24,23 @@ file_name: how-does-liver-cancer-management-differ-in-hong-kong-compared-to-othe
 url: /learn/medicine/questions/how-does-liver-cancer-management-differ-in-hong-kong-compared-to-other-regions
 score: -1.0
 related_article1:
-    id: 97071
+    id: 97050
     title: >-
-        What are the survival rates for different types of liver cancer?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-survival-rates-for-different-types-of-liver-cancer
+        What are the key characteristics of Cholangiocarcinoma?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-key-characteristics-of-cholangiocarcinoma
 related_article2:
-    id: 97064
+    id: 97057
     title: >-
-        What are the common symptoms of Metastatic Liver Cancer?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-symptoms-of-metastatic-liver-cancer
-related_article3:
-    id: 97061
-    title: >-
-        What are the latest advancements in the treatment of HCC?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-latest-advancements-in-the-treatment-of-hcc
-related_article4:
-    id: 97062
-    title: >-
-        How does Cholangiocarcinoma differ from other types of liver cancer?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-cholangiocarcinoma-differ-from-other-types-of-liver-cancer
-related_article5:
-    id: 97058
-    title: >-
-        What are the common risk factors for liver cancer in Hong Kong?
+        What is the prevalence of liver cancer in Hong Kong?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-common-risk-factors-for-liver-cancer-in-hong-kong
+    url: /learn/health-studies/questions/what-is-the-prevalence-of-liver-cancer-in-hong-kong
+related_article3:
+    id: 97055
+    title: >-
+        How is hepatomegaly clinically approached?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-hepatomegaly-clinically-approached
 ---
 
 &nbsp;

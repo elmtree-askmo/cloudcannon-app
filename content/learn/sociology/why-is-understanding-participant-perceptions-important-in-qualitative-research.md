@@ -23,18 +23,7 @@ subject: Sociology
 file_name: why-is-understanding-participant-perceptions-important-in-qualitative-research.md
 url: /learn/sociology/questions/why-is-understanding-participant-perceptions-important-in-qualitative-research
 score: -1.0
-related_article1:
-    id: 102764
-    title: >-
-        How are content and discourse analysis conducted in qualitative research?
-    subject: Sociology
-    url: /learn/sociology/questions/how-are-content-and-discourse-analysis-conducted-in-qualitative-research
-related_article2:
-    id: 102771
-    title: >-
-        How is qualitative research used in business settings?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-is-qualitative-research-used-in-business-settings
+
 ---
 
 &nbsp;

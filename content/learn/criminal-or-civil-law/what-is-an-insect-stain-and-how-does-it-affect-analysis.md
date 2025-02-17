@@ -24,12 +24,6 @@ file_name: what-is-an-insect-stain-and-how-does-it-affect-analysis.md
 url: /learn/criminal-or-civil-law/questions/what-is-an-insect-stain-and-how-does-it-affect-analysis
 score: -1.0
 related_article1:
-    id: 110921
-    title: >-
-        What defines an 'Impact Pattern' in bloodstain analysis?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-defines-an-impact-pattern-in-bloodstain-analysis
-related_article2:
     id: 110923
     title: >-
         How is a 'Mist Pattern' formed and what does it indicate?

@@ -24,17 +24,17 @@ file_name: how-does-competitive-contracting-work-in-the-context-of-employerspons
 url: /learn/health-studies/questions/how-does-competitive-contracting-work-in-the-context-of-employersponsored-insurance
 score: -1.0
 related_article1:
-    id: 111906
-    title: >-
-        Can you explain the key acts and regulations that have shaped employer-sponsored insurance?
-    subject: Health Studies
-    url: /learn/health-studies/questions/can-you-explain-the-key-acts-and-regulations-that-have-shaped-employersponsored-insurance
-related_article2:
     id: 111914
     title: >-
         Can you provide an overview of the PEBB and SEBB programs?
     subject: Health Studies
     url: /learn/health-studies/questions/can-you-provide-an-overview-of-the-pebb-and-sebb-programs
+related_article2:
+    id: 111906
+    title: >-
+        Can you explain the key acts and regulations that have shaped employer-sponsored insurance?
+    subject: Health Studies
+    url: /learn/health-studies/questions/can-you-explain-the-key-acts-and-regulations-that-have-shaped-employersponsored-insurance
 ---
 
 &nbsp;

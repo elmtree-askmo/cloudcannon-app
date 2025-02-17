@@ -24,29 +24,23 @@ file_name: what-were-the-key-points-discussed-during-the-lecture.md
 url: /learn/education-studies/questions/what-were-the-key-points-discussed-during-the-lecture
 score: -1.0
 related_article1:
-    id: 124155
-    title: >-
-        How does the lecture topic relate to current trends or issues?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-lecture-topic-relate-to-current-trends-or-issues
-related_article2:
     id: 124157
     title: >-
         How were the questions addressed during the Q&A session?
     subject: Education Studies
     url: /learn/education-studies/questions/how-were-the-questions-addressed-during-the-qa-session
-related_article3:
-    id: 124152
-    title: >-
-        How did the participants respond to the lecture?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-did-the-participants-respond-to-the-lecture
-related_article4:
+related_article2:
     id: 124153
     title: >-
         Were there any notable feedback or comments from the participants?
     subject: Education Studies
     url: /learn/education-studies/questions/were-there-any-notable-feedback-or-comments-from-the-participants
+related_article3:
+    id: 124171
+    title: >-
+        Were there any partnerships or collaborations involved in organizing the lecture?
+    subject: Education Studies
+    url: /learn/education-studies/questions/were-there-any-partnerships-or-collaborations-involved-in-organizing-the-lecture
 ---
 
 &nbsp;

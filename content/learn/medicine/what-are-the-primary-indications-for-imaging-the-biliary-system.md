@@ -24,29 +24,35 @@ file_name: what-are-the-primary-indications-for-imaging-the-biliary-system.md
 url: /learn/medicine/questions/what-are-the-primary-indications-for-imaging-the-biliary-system
 score: -1.0
 related_article1:
-    id: 118029
+    id: 118034
     title: >-
-        What are the common hepatic pathologies that can be identified through imaging?
+        What are the typical findings in ultrasound imaging of the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-hepatic-pathologies-that-can-be-identified-through-imaging
+    url: /learn/medicine/questions/what-are-the-typical-findings-in-ultrasound-imaging-of-the-hepatobiliary-system
 related_article2:
-    id: 118032
+    id: 118042
     title: >-
-        How are liver abscesses typically identified through imaging?
+        What role does contrast material play in CT and MRI imaging of the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/how-are-liver-abscesses-typically-identified-through-imaging
+    url: /learn/medicine/questions/what-role-does-contrast-material-play-in-ct-and-mri-imaging-of-the-hepatobiliary-system
 related_article3:
-    id: 118039
+    id: 118021
     title: >-
-        How does the cost of CT imaging compare to MRI imaging for the hepatobiliary system?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-cost-of-ct-imaging-compare-to-mri-imaging-for-the-hepatobiliary-system
+        What are the disadvantages of using CT imaging for the hepatobiliary system?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-disadvantages-of-using-ct-imaging-for-the-hepatobiliary-system
 related_article4:
     id: 118028
     title: >-
         What are the primary indications for imaging the pancreas?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-primary-indications-for-imaging-the-pancreas
+related_article5:
+    id: 118035
+    title: >-
+        What are the typical findings in CT imaging of the hepatobiliary system?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-typical-findings-in-ct-imaging-of-the-hepatobiliary-system
 ---
 
 &nbsp;

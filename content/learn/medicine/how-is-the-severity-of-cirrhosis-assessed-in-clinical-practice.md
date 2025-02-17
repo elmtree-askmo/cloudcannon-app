@@ -24,29 +24,23 @@ file_name: how-is-the-severity-of-cirrhosis-assessed-in-clinical-practice.md
 url: /learn/medicine/questions/how-is-the-severity-of-cirrhosis-assessed-in-clinical-practice
 score: -1.0
 related_article1:
-    id: 98992
+    id: 98993
     title: >-
-        What are the potential side effects of treatments for variceal bleeding?
+        How is hepatic hydrothorax managed in cirrhosis patients?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-potential-side-effects-of-treatments-for-variceal-bleeding
+    url: /learn/medicine/questions/how-is-hepatic-hydrothorax-managed-in-cirrhosis-patients
 related_article2:
-    id: 98978
+    id: 98997
     title: >-
-        What is hepatic hydrothorax and how is it related to liver disease?
+        How is the risk of acute kidney injury managed in cirrhosis patients?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-hepatic-hydrothorax-and-how-is-it-related-to-liver-disease
+    url: /learn/medicine/questions/how-is-the-risk-of-acute-kidney-injury-managed-in-cirrhosis-patients
 related_article3:
-    id: 98995
+    id: 98976
     title: >-
-        How does portal hypertension lead to variceal bleeding?
+        What are the current best practices for managing ascites in cirrhosis patients?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-portal-hypertension-lead-to-variceal-bleeding
-related_article4:
-    id: 98973
-    title: >-
-        What are the common symptoms and signs of portal hypertension?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-symptoms-and-signs-of-portal-hypertension
+    url: /learn/medicine/questions/what-are-the-current-best-practices-for-managing-ascites-in-cirrhosis-patients
 ---
 
 &nbsp;

@@ -24,11 +24,11 @@ file_name: who-were-the-pioneering-scientists-and-engineers-in-the-field-of-semi
 url: /learn/engineering/questions/who-were-the-pioneering-scientists-and-engineers-in-the-field-of-semiconductor-electronics
 score: -1.0
 related_article1:
-    id: 116358
+    id: 116377
     title: >-
-        What were the main limitations of vacuum tubes that led to the development of solid-state devices?
+        How has the development of semiconductor electronics influenced global technological advancement?
     subject: Engineering
-    url: /learn/engineering/questions/what-were-the-main-limitations-of-vacuum-tubes-that-led-to-the-development-of-solidstate-devices
+    url: /learn/engineering/questions/how-has-the-development-of-semiconductor-electronics-influenced-global-technological-advancement
 related_article2:
     id: 116369
     title: >-
@@ -36,17 +36,17 @@ related_article2:
     subject: Physics
     url: /learn/physics/questions/what-role-do-dopants-play-in-the-properties-of-extrinsic-semiconductors
 related_article3:
-    id: 116365
+    id: 116368
     title: >-
-        What are the different types of semiconductors and their characteristics?
-    subject: Engineering
-    url: /learn/engineering/questions/what-are-the-different-types-of-semiconductors-and-their-characteristics
+        How do intrinsic semiconductors differ from extrinsic semiconductors?
+    subject: Physics
+    url: /learn/physics/questions/how-do-intrinsic-semiconductors-differ-from-extrinsic-semiconductors
 related_article4:
-    id: 116385
+    id: 116379
     title: >-
-        How do semiconductor devices compare to their vacuum tube predecessors in terms of performance and reliability?
-    subject: Engineering
-    url: /learn/engineering/questions/how-do-semiconductor-devices-compare-to-their-vacuum-tube-predecessors-in-terms-of-performance-and-reliability
+        How do temperature and impurities affect the conductivity of semiconductors?
+    subject: Physics
+    url: /learn/physics/questions/how-do-temperature-and-impurities-affect-the-conductivity-of-semiconductors
 ---
 
 &nbsp;

@@ -30,29 +30,17 @@ related_article1:
     subject: Health Studies
     url: /learn/health-studies/questions/who-are-the-key-stakeholders-involved-in-source-water-protection
 related_article2:
-    id: 94645
+    id: 94643
     title: >-
-        Who are the key stakeholders in source water protection and what are their roles?
+        What are the main challenges in maintaining water quality and how can they be addressed?
     subject: Health Studies
-    url: /learn/health-studies/questions/who-are-the-key-stakeholders-in-source-water-protection-and-what-are-their-roles
+    url: /learn/health-studies/questions/what-are-the-main-challenges-in-maintaining-water-quality-and-how-can-they-be-addressed
 related_article3:
-    id: 94621
+    id: 94644
     title: >-
-        What is the primary purpose of the workshop on source water protection?
+        Why is collaboration among stakeholders important for source water protection?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-primary-purpose-of-the-workshop-on-source-water-protection
-related_article4:
-    id: 94648
-    title: >-
-        What are the long-term goals for source water protection?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-longterm-goals-for-source-water-protection
-related_article5:
-    id: 94640
-    title: >-
-        What roles do stakeholders play in protecting source water?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-roles-do-stakeholders-play-in-protecting-source-water
+    url: /learn/health-studies/questions/why-is-collaboration-among-stakeholders-important-for-source-water-protection
 ---
 
 &nbsp;

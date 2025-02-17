@@ -24,12 +24,6 @@ file_name: how-do-the-stories-of-jeremiah-and-jonah-illustrate-the-importance-of
 url: /learn/philosophy-and-greek-myths/questions/how-do-the-stories-of-jeremiah-and-jonah-illustrate-the-importance-of-repentance
 score: -1.0
 related_article1:
-    id: 113125
-    title: >-
-        How do the messages of the prophets remain relevant in contemporary times?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-do-the-messages-of-the-prophets-remain-relevant-in-contemporary-times
-related_article2:
     id: 113123
     title: >-
         How do the prophetic books address the relationship between God and humanity?

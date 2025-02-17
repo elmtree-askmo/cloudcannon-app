@@ -24,24 +24,30 @@ file_name: how-should-students-approach-the-analysis-of-primary-sources-in-tasks
 url: /learn/history-of-the-world/questions/how-should-students-approach-the-analysis-of-primary-sources-in-tasks-2-3-and-4
 score: -1.0
 related_article1:
+    id: 104230
+    title: >-
+        How is taxation addressed in Module 3, Unit 2?
+    subject: Economics
+    url: /learn/economics/questions/how-is-taxation-addressed-in-module-3-unit-2
+related_article2:
     id: 104228
     title: >-
         What socio-economic and political concerns are addressed in Module 3?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-socioeconomic-and-political-concerns-are-addressed-in-module-3
-related_article2:
-    id: 104206
-    title: >-
-        What is the recommended study schedule for students taking this course?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-recommended-study-schedule-for-students-taking-this-course
 related_article3:
-    id: 104212
+    id: 104215
     title: >-
-        Who is the facilitator for this course, and how can they be contacted?
+        What are the key points of debate for Task 5: Site of the First Easter Sunday Mass?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/who-is-the-facilitator-for-this-course-and-how-can-they-be-contacted
+    url: /learn/history-of-the-world/questions/what-are-the-key-points-of-debate-for-task-5-site-of-the-first-easter-sunday-mass
 related_article4:
+    id: 104209
+    title: >-
+        What types of summative assessments are used in the course?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-types-of-summative-assessments-are-used-in-the-course
+related_article5:
     id: 104216
     title: >-
         What are the arguments for and against the Cavite Incident of 1872 being a mutiny or revolution in Task 6?

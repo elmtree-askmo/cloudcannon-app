@@ -24,35 +24,23 @@ file_name: what-are-the-limitations-of-plain-abdominal-xrays-in-gi-imaging.md
 url: /learn/medicine/questions/what-are-the-limitations-of-plain-abdominal-xrays-in-gi-imaging
 score: -1.0
 related_article1:
-    id: 118150
+    id: 118147
     title: >-
-        What are the advantages of using MRI in GI radiology?
+        How does computed tomography (CT) enhance GI imaging?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-advantages-of-using-mri-in-gi-radiology
+    url: /learn/medicine/questions/how-does-computed-tomography-ct-enhance-gi-imaging
 related_article2:
-    id: 118142
+    id: 118140
     title: >-
-        What are the differences between barium and water-soluble contrast in GI studies?
+        What are the primary imaging modalities used in gastrointestinal radiology?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-differences-between-barium-and-watersoluble-contrast-in-gi-studies
+    url: /learn/medicine/questions/what-are-the-primary-imaging-modalities-used-in-gastrointestinal-radiology
 related_article3:
-    id: 118152
+    id: 118164
     title: >-
-        What are the key anatomical features visible on an abdominal X-ray?
+        What challenges are associated with contrast studies in GI radiology?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-key-anatomical-features-visible-on-an-abdominal-xray
-related_article4:
-    id: 118158
-    title: >-
-        What are common abnormal findings on an abdominal X-ray?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-common-abnormal-findings-on-an-abdominal-xray
-related_article5:
-    id: 118148
-    title: >-
-        What role does angiography play in GI radiology?
-    subject: Medicine
-    url: /learn/medicine/questions/what-role-does-angiography-play-in-gi-radiology
+    url: /learn/medicine/questions/what-challenges-are-associated-with-contrast-studies-in-gi-radiology
 ---
 
 &nbsp;

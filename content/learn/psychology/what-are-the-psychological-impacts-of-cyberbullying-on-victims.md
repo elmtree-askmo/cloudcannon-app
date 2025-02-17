@@ -24,29 +24,17 @@ file_name: what-are-the-psychological-impacts-of-cyberbullying-on-victims.md
 url: /learn/psychology/questions/what-are-the-psychological-impacts-of-cyberbullying-on-victims
 score: -1.0
 related_article1:
-    id: 119164
-    title: >-
-        What are the common methods of counterfeiting in the digital age?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-are-the-common-methods-of-counterfeiting-in-the-digital-age
-related_article2:
-    id: 119150
-    title: >-
-        What are the current trends in cybercrime?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-current-trends-in-cybercrime
-related_article3:
     id: 119169
     title: >-
         What are the legal and ethical implications of state-sponsored cybercrime?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-are-the-legal-and-ethical-implications-of-statesponsored-cybercrime
-related_article4:
-    id: 119155
+related_article2:
+    id: 119164
     title: >-
-        What are the different types of malware and how do they function?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-different-types-of-malware-and-how-do-they-function
+        What are the common methods of counterfeiting in the digital age?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-are-the-common-methods-of-counterfeiting-in-the-digital-age
 ---
 
 &nbsp;

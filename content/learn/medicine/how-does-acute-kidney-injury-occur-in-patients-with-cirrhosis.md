@@ -24,29 +24,35 @@ file_name: how-does-acute-kidney-injury-occur-in-patients-with-cirrhosis.md
 url: /learn/medicine/questions/how-does-acute-kidney-injury-occur-in-patients-with-cirrhosis
 score: -1.0
 related_article1:
-    id: 98990
-    title: >-
-        What are the latest advancements in the treatment of cirrhosis complications?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-latest-advancements-in-the-treatment-of-cirrhosis-complications
-related_article2:
     id: 98979
     title: >-
         What are the risk factors for portal vein thrombosis in cirrhosis patients?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-risk-factors-for-portal-vein-thrombosis-in-cirrhosis-patients
-related_article3:
-    id: 98987
+related_article2:
+    id: 98992
     title: >-
-        What role does lifestyle modification play in the management of cirrhosis?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-role-does-lifestyle-modification-play-in-the-management-of-cirrhosis
-related_article4:
-    id: 98971
-    title: >-
-        What are the primary causes of cirrhosis?
+        What are the potential side effects of treatments for variceal bleeding?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-primary-causes-of-cirrhosis
+    url: /learn/medicine/questions/what-are-the-potential-side-effects-of-treatments-for-variceal-bleeding
+related_article3:
+    id: 98975
+    title: >-
+        What are the long-term management strategies for variceal bleeding?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-longterm-management-strategies-for-variceal-bleeding
+related_article4:
+    id: 98983
+    title: >-
+        What are the potential complications of advanced liver disease?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-potential-complications-of-advanced-liver-disease
+related_article5:
+    id: 98990
+    title: >-
+        What are the latest advancements in the treatment of cirrhosis complications?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-latest-advancements-in-the-treatment-of-cirrhosis-complications
 ---
 
 &nbsp;

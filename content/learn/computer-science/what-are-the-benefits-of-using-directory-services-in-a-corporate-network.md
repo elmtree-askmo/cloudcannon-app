@@ -24,11 +24,11 @@ file_name: what-are-the-benefits-of-using-directory-services-in-a-corporate-netw
 url: /learn/computer-science/questions/what-are-the-benefits-of-using-directory-services-in-a-corporate-network
 score: -1.0
 related_article1:
-    id: 122671
+    id: 122677
     title: >-
-        What are the potential dangers associated with using stacks in web services?
+        What are some common lab activities in a networking course related to these topics?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-potential-dangers-associated-with-using-stacks-in-web-services
+    url: /learn/computer-science/questions/what-are-some-common-lab-activities-in-a-networking-course-related-to-these-topics
 related_article2:
     id: 122660
     title: >-
@@ -36,23 +36,23 @@ related_article2:
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-http-function-as-a-file-service-protocol
 related_article3:
-    id: 122676
+    id: 122675
     title: >-
-        What protocols are commonly used in email services?
+        What are the essential components of an email system in a network?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-protocols-are-commonly-used-in-email-services
+    url: /learn/computer-science/questions/what-are-the-essential-components-of-an-email-system-in-a-network
 related_article4:
-    id: 122670
+    id: 122662
     title: >-
-        Can you explain the concept of virtual hosting in web services?
+        Can you explain how SCP differs from other file service protocols?
     subject: Computer Science
-    url: /learn/computer-science/questions/can-you-explain-the-concept-of-virtual-hosting-in-web-services
+    url: /learn/computer-science/questions/can-you-explain-how-scp-differs-from-other-file-service-protocols
 related_article5:
-    id: 122677
+    id: 122687
     title: >-
-        What are some common lab activities in a networking course related to these topics?
+        What are the latest trends in network services and protocols?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-common-lab-activities-in-a-networking-course-related-to-these-topics
+    url: /learn/computer-science/questions/what-are-the-latest-trends-in-network-services-and-protocols
 ---
 
 &nbsp;

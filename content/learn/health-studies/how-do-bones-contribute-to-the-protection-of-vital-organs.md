@@ -23,30 +23,7 @@ subject: Health Studies
 file_name: how-do-bones-contribute-to-the-protection-of-vital-organs.md
 url: /learn/health-studies/questions/how-do-bones-contribute-to-the-protection-of-vital-organs
 score: -1.0
-related_article1:
-    id: 100359
-    title: >-
-        How is the skeletal system divided into axial and appendicular components?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-is-the-skeletal-system-divided-into-axial-and-appendicular-components
-related_article2:
-    id: 100361
-    title: >-
-        What are the main components of the appendicular skeleton?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-components-of-the-appendicular-skeleton
-related_article3:
-    id: 100364
-    title: >-
-        How does the spine contribute to the overall function of the skeleton?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-spine-contribute-to-the-overall-function-of-the-skeleton
-related_article4:
-    id: 100358
-    title: >-
-        What roles do bones play in blood production?
-    subject: Medicine
-    url: /learn/medicine/questions/what-roles-do-bones-play-in-blood-production
+
 ---
 
 &nbsp;

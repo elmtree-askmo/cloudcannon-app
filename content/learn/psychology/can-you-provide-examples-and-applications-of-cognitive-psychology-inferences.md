@@ -24,17 +24,17 @@ file_name: can-you-provide-examples-and-applications-of-cognitive-psychology-inf
 url: /learn/psychology/questions/can-you-provide-examples-and-applications-of-cognitive-psychology-inferences
 score: -1.0
 related_article1:
-    id: 123632
-    title: >-
-        What is the historical context of cognitive psychology?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-historical-context-of-cognitive-psychology
-related_article2:
     id: 123646
     title: >-
         How does cognitive psychology influence behavior in practical settings?
     subject: Psychology
     url: /learn/psychology/questions/how-does-cognitive-psychology-influence-behavior-in-practical-settings
+related_article2:
+    id: 123632
+    title: >-
+        What is the historical context of cognitive psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-historical-context-of-cognitive-psychology
 related_article3:
     id: 123639
     title: >-

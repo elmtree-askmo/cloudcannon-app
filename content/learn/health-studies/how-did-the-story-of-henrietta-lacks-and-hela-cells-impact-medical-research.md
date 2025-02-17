@@ -24,17 +24,17 @@ file_name: how-did-the-story-of-henrietta-lacks-and-hela-cells-impact-medical-re
 url: /learn/health-studies/questions/how-did-the-story-of-henrietta-lacks-and-hela-cells-impact-medical-research
 score: -1.0
 related_article1:
-    id: 115310
-    title: >-
-        How did Executive Order 9981 impact the U.S. military?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-executive-order-9981-impact-the-us-military
-related_article2:
     id: 115335
     title: >-
         How did the desegregation of sports impact the careers of African American athletes?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-the-desegregation-of-sports-impact-the-careers-of-african-american-athletes
+related_article2:
+    id: 115310
+    title: >-
+        How did Executive Order 9981 impact the U.S. military?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-executive-order-9981-impact-the-us-military
 ---
 
 &nbsp;

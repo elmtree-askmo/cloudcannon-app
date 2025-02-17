@@ -24,35 +24,35 @@ file_name: what-is-the-importance-of-mathematical-proofs-in-physics.md
 url: /learn/physics/questions/what-is-the-importance-of-mathematical-proofs-in-physics
 score: -1.0
 related_article1:
-    id: 118560
+    id: 118578
     title: >-
-        How does mathematics help us understand natural phenomena?
+        How did ancient civilizations contribute to the development of mathematical concepts used in physics?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
+    url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-concepts-used-in-physics
 related_article2:
-    id: 118585
+    id: 118574
     title: >-
-        What are some challenges in translating physical concepts into mathematical language?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-challenges-in-translating-physical-concepts-into-mathematical-language
-related_article3:
-    id: 118565
-    title: >-
-        How has modern mathematical notation evolved over time?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-over-time
-related_article4:
-    id: 118575
-    title: >-
-        What are the philosophical implications of the relationship between physics and mathematics?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
-related_article5:
-    id: 118587
-    title: >-
-        What is the role of geometry in understanding physical phenomena?
+        How does the minimum principle apply to physics and mathematics?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-role-of-geometry-in-understanding-physical-phenomena
+    url: /learn/physics/questions/how-does-the-minimum-principle-apply-to-physics-and-mathematics
+related_article3:
+    id: 118561
+    title: >-
+        What is Faraday's Law and how does it relate to mathematics?
+    subject: Physics
+    url: /learn/physics/questions/what-is-faradays-law-and-how-does-it-relate-to-mathematics
+related_article4:
+    id: 118564
+    title: >-
+        What is the significance of force and equal areas in physics?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-significance-of-force-and-equal-areas-in-physics
+related_article5:
+    id: 118583
+    title: >-
+        What is the historical significance of the relationship between physics and mathematics?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-historical-significance-of-the-relationship-between-physics-and-mathematics
 ---
 
 &nbsp;

@@ -30,29 +30,29 @@ related_article1:
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-the-environmental-impacts-of-increased-coal-usage-during-the-industrial-revolution
 related_article2:
-    id: 123037
+    id: 123041
     title: >-
-        What were the technological and economic barriers to industrialization in India?
+        What were the key differences in economic strategies between China and India during the Industrial Revolution?
     subject: Economics
-    url: /learn/economics/questions/what-were-the-technological-and-economic-barriers-to-industrialization-in-india
+    url: /learn/economics/questions/what-were-the-key-differences-in-economic-strategies-between-china-and-india-during-the-industrial-revolution
 related_article3:
-    id: 123042
+    id: 123022
     title: >-
-        How did the Industrial Revolution contribute to the rise of capitalism?
-    subject: Economics
-    url: /learn/economics/questions/how-did-the-industrial-revolution-contribute-to-the-rise-of-capitalism
+        What are the Eurocentric explanations for the Industrial Revolution?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-eurocentric-explanations-for-the-industrial-revolution
 related_article4:
-    id: 123035
+    id: 123021
     title: >-
-        What were the criticisms of Eurocentric explanations of the Industrial Revolution?
+        What were the wage comparisons between industrial workers in Britain and other countries during the Industrial Revolution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-criticisms-of-eurocentric-explanations-of-the-industrial-revolution
+    url: /learn/history-of-the-world/questions/what-were-the-wage-comparisons-between-industrial-workers-in-britain-and-other-countries-during-the-industrial-revolution
 related_article5:
-    id: 123038
+    id: 123025
     title: >-
-        How did changes in agriculture during the Industrial Revolution affect rural communities?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-changes-in-agriculture-during-the-industrial-revolution-affect-rural-communities
+        What were the global impacts of industrialization on agriculture?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-were-the-global-impacts-of-industrialization-on-agriculture
 ---
 
 &nbsp;

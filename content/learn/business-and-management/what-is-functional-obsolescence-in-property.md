@@ -24,29 +24,35 @@ file_name: what-is-functional-obsolescence-in-property.md
 url: /learn/business-and-management/questions/what-is-functional-obsolescence-in-property
 score: -1.0
 related_article1:
-    id: 96963
+    id: 96961
     title: >-
-        What is joint tenancy and how does it work?
+        What is ownership in severalty?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-joint-tenancy-and-how-does-it-work
+    url: /learn/criminal-or-civil-law/questions/what-is-ownership-in-severalty
 related_article2:
-    id: 96957
+    id: 96965
     title: >-
-        How does the government exercise police power over property?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-does-the-government-exercise-police-power-over-property
+        What are the essential elements of value in property?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-essential-elements-of-value-in-property
 related_article3:
-    id: 96976
+    id: 96971
     title: >-
-        What is the cost replacement approach in property appraisal?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-is-the-cost-replacement-approach-in-property-appraisal
+        What is economic obsolescence and how does it affect property value?
+    subject: Economics
+    url: /learn/economics/questions/what-is-economic-obsolescence-and-how-does-it-affect-property-value
 related_article4:
-    id: 96978
+    id: 96984
     title: >-
-        What is the difference between a deed and a title in real estate?
+        What is blockbusting and how does it relate to fair housing?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-the-difference-between-a-deed-and-a-title-in-real-estate
+    url: /learn/criminal-or-civil-law/questions/what-is-blockbusting-and-how-does-it-relate-to-fair-housing
+related_article5:
+    id: 96986
+    title: >-
+        What is redlining and how does it violate fair housing laws?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-redlining-and-how-does-it-violate-fair-housing-laws
 ---
 
 &nbsp;

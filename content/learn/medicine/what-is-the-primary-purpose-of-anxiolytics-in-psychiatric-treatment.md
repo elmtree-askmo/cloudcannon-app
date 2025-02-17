@@ -13,7 +13,7 @@ seo:
   page_description: >-
     Anxiolytics are medications used in psychiatric treatment to alleviate anxiety symptoms like excessive worry and panic attacks, enabling individuals to lead more productive lives. They offer quick and long-term relief and can enhance the effectiveness of other mental health treatments.
   page_keywords: >-
-    anxiolytics, psychiatric treatment, anxiety symptoms, anti-anxiety medications, anxiety disorders, mental health, benzodiazepines, azapirones, β-blockers, antidepressants, habit formation, therapy, psychotherapy, acute anxiety episodes, treatment effectiveness
+    anxiolytics, psychiatric treatment, anxiety symptoms, anti-anxiety medications, anxiety disorders, mental health, benzodiazepines, azapirones, -blockers, antidepressants, habit formation, therapy, psychotherapy, acute anxiety episodes, treatment effectiveness
 author: QuickTakes
 question: >-
     What is the primary purpose of anxiolytics in psychiatric treatment?
@@ -24,35 +24,23 @@ file_name: what-is-the-primary-purpose-of-anxiolytics-in-psychiatric-treatment.m
 url: /learn/medicine/questions/what-is-the-primary-purpose-of-anxiolytics-in-psychiatric-treatment
 score: -1.0
 related_article1:
-    id: 104592
+    id: 104606
     title: >-
-        What is Extrapyramidal Syndrome and how is it related to antipsychotic use?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-extrapyramidal-syndrome-and-how-is-it-related-to-antipsychotic-use
+        What are the benefits and drawbacks of using Selective Serotonin Reuptake Inhibitors (SSRI)?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-benefits-and-drawbacks-of-using-selective-serotonin-reuptake-inhibitors-ssri
 related_article2:
-    id: 104605
+    id: 104600
     title: >-
-        How do Tricyclic Antidepressants (TCA) function in treating depression?
+        How do benzodiazepines work to alleviate anxiety symptoms?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-tricyclic-antidepressants-tca-function-in-treating-depression
+    url: /learn/medicine/questions/how-do-benzodiazepines-work-to-alleviate-anxiety-symptoms
 related_article3:
-    id: 104589
+    id: 104615
     title: >-
-        Can you explain the mechanism of action for both typical and atypical antipsychotics?
-    subject: Medicine
-    url: /learn/medicine/questions/can-you-explain-the-mechanism-of-action-for-both-typical-and-atypical-antipsychotics
-related_article4:
-    id: 104590
-    title: >-
-        What are the most common side effects associated with antipsychotics?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-most-common-side-effects-associated-with-antipsychotics
-related_article5:
-    id: 104607
-    title: >-
-        How do Serotonin-Norepinephrine Reuptake Inhibitors (SNRI) differ from SSRIs?
-    subject: Medicine
-    url: /learn/medicine/questions/how-do-serotoninnorepinephrine-reuptake-inhibitors-snri-differ-from-ssris
+        What are the long-term effects of using antipsychotics and anxiolytics?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-longterm-effects-of-using-antipsychotics-and-anxiolytics
 ---
 
 &nbsp;

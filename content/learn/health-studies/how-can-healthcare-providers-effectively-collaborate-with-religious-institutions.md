@@ -29,12 +29,6 @@ related_article1:
         How does a holistic approach to patient care benefit overall health outcomes?
     subject: Health Studies
     url: /learn/health-studies/questions/how-does-a-holistic-approach-to-patient-care-benefit-overall-health-outcomes
-related_article2:
-    id: 111675
-    title: >-
-        What are the clinical implications of fluid imbalance in diabetic patients?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-clinical-implications-of-fluid-imbalance-in-diabetic-patients
 ---
 
 &nbsp;

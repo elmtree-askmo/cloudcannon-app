@@ -24,29 +24,29 @@ file_name: how-is-a-sophisticated-network-built-within-the-brain.md
 url: /learn/psychology/questions/how-is-a-sophisticated-network-built-within-the-brain
 score: -1.0
 related_article1:
-    id: 116494
-    title: >-
-        What is the role of imagination in understanding brain function and structure?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-imagination-in-understanding-brain-function-and-structure
-related_article2:
-    id: 116500
-    title: >-
-        What are the latest research findings on neuroplasticity and its implications?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-latest-research-findings-on-neuroplasticity-and-its-implications
-related_article3:
-    id: 116479
-    title: >-
-        How do the soma and axon work together to send messages in neurons?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-the-soma-and-axon-work-together-to-send-messages-in-neurons
-related_article4:
     id: 116484
     title: >-
         What role does the neocortex play in brain function?
     subject: Psychology
     url: /learn/psychology/questions/what-role-does-the-neocortex-play-in-brain-function
+related_article2:
+    id: 116492
+    title: >-
+        What mechanisms are involved in coordinating movement within the nervous system?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-mechanisms-are-involved-in-coordinating-movement-within-the-nervous-system
+related_article3:
+    id: 116490
+    title: >-
+        What is the function of the autonomic nervous system within the peripheral nervous system?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-function-of-the-autonomic-nervous-system-within-the-peripheral-nervous-system
+related_article4:
+    id: 116500
+    title: >-
+        What are the latest research findings on neuroplasticity and its implications?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-latest-research-findings-on-neuroplasticity-and-its-implications
 ---
 
 &nbsp;

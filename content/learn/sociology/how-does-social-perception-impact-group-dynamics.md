@@ -24,29 +24,35 @@ file_name: how-does-social-perception-impact-group-dynamics.md
 url: /learn/sociology/questions/how-does-social-perception-impact-group-dynamics
 score: -1.0
 related_article1:
-    id: 96826
-    title: >-
-        What are the implications of group attribution error in organizational settings?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-implications-of-group-attribution-error-in-organizational-settings
-related_article2:
-    id: 96821
-    title: >-
-        How can understanding group dynamics improve team performance?
-    subject: Psychology
-    url: /learn/psychology/questions/how-can-understanding-group-dynamics-improve-team-performance
-related_article3:
-    id: 96816
-    title: >-
-        What are the main factors influencing group dynamics?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-main-factors-influencing-group-dynamics
-related_article4:
     id: 96831
     title: >-
         How does distinctiveness contribute to the accuracy of causal attributions?
     subject: Psychology
     url: /learn/psychology/questions/how-does-distinctiveness-contribute-to-the-accuracy-of-causal-attributions
+related_article2:
+    id: 96830
+    title: >-
+        What is the impact of consistency on social perception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-impact-of-consistency-on-social-perception
+related_article3:
+    id: 96818
+    title: >-
+        What is the relationship between individual beliefs and group beliefs?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-relationship-between-individual-beliefs-and-group-beliefs
+related_article4:
+    id: 96832
+    title: >-
+        What are the challenges in distinguishing between external and internal attributions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-challenges-in-distinguishing-between-external-and-internal-attributions
+related_article5:
+    id: 96821
+    title: >-
+        How can understanding group dynamics improve team performance?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-understanding-group-dynamics-improve-team-performance
 ---
 
 &nbsp;

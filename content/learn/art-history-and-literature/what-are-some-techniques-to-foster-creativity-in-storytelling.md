@@ -30,17 +30,23 @@ related_article1:
     subject: Digital Media
     url: /learn/digital-media/questions/how-can-storytellers-balance-the-use-of-personal-stories-and-statistics
 related_article2:
+    id: 120776
+    title: >-
+        How can a call to action be tailored to different audiences?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-can-a-call-to-action-be-tailored-to-different-audiences
+related_article3:
+    id: 120777
+    title: >-
+        What are the cultural influences on storytelling techniques?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-the-cultural-influences-on-storytelling-techniques
+related_article4:
     id: 120772
     title: >-
         How does a call to action drive the narrative forward in storytelling?
     subject: Digital Media
     url: /learn/digital-media/questions/how-does-a-call-to-action-drive-the-narrative-forward-in-storytelling
-related_article3:
-    id: 120752
-    title: >-
-        What is the impact of anecdotes on the effectiveness of storytelling?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-is-the-impact-of-anecdotes-on-the-effectiveness-of-storytelling
 ---
 
 &nbsp;

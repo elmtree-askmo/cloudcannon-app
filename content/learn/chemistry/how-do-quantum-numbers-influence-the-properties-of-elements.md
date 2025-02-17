@@ -24,29 +24,29 @@ file_name: how-do-quantum-numbers-influence-the-properties-of-elements.md
 url: /learn/chemistry/questions/how-do-quantum-numbers-influence-the-properties-of-elements
 score: -1.0
 related_article1:
-    id: 117902
+    id: 117917
     title: >-
-        What is the heat of combustion and how is it measured?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-heat-of-combustion-and-how-is-it-measured
-related_article2:
-    id: 117910
-    title: >-
-        What methods are used to predict molecular geometry?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-methods-are-used-to-predict-molecular-geometry
-related_article3:
-    id: 117925
-    title: >-
-        What is freezing point depression and how is it calculated?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-is-freezing-point-depression-and-how-is-it-calculated
-related_article4:
-    id: 117901
-    title: >-
-        How is heat calculated for a temperature change in a substance?
+        What is the relationship between volume and temperature in gases?
     subject: Physics
-    url: /learn/physics/questions/how-is-heat-calculated-for-a-temperature-change-in-a-substance
+    url: /learn/physics/questions/what-is-the-relationship-between-volume-and-temperature-in-gases
+related_article2:
+    id: 117927
+    title: >-
+        How does Hess's Law apply to real-world chemical reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-hesss-law-apply-to-realworld-chemical-reactions
+related_article3:
+    id: 117916
+    title: >-
+        How is gas pressure calculated in different conditions?
+    subject: Physics
+    url: /learn/physics/questions/how-is-gas-pressure-calculated-in-different-conditions
+related_article4:
+    id: 117908
+    title: >-
+        What is the difference between diamagnetism and paramagnetism?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-difference-between-diamagnetism-and-paramagnetism
 ---
 
 &nbsp;

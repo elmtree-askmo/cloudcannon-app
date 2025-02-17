@@ -24,29 +24,35 @@ file_name: how-does-reviewing-related-literature-contribute-to-the-research-proc
 url: /learn/education-studies/questions/how-does-reviewing-related-literature-contribute-to-the-research-process
 score: -1.0
 related_article1:
-    id: 102740
+    id: 102715
     title: >-
-        How can concept mapping be used as a practical activity in research education?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-concept-mapping-be-used-as-a-practical-activity-in-research-education
-related_article2:
-    id: 102737
-    title: >-
-        What role does research play in the Humanities and Social Sciences?
-    subject: Sociology
-    url: /learn/sociology/questions/what-role-does-research-play-in-the-humanities-and-social-sciences
-related_article3:
-    id: 102720
-    title: >-
-        What makes research analytical, and how is this characteristic applied?
-    subject: Sociology
-    url: /learn/sociology/questions/what-makes-research-analytical-and-how-is-this-characteristic-applied
-related_article4:
-    id: 102731
-    title: >-
-        What are some common ethical codes and policies researchers must adhere to?
+        How does research impact daily life and decision-making?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-some-common-ethical-codes-and-policies-researchers-must-adhere-to
+    url: /learn/psychology/questions/how-does-research-impact-daily-life-and-decisionmaking
+related_article2:
+    id: 102738
+    title: >-
+        How is research applied in the field of sports?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-research-applied-in-the-field-of-sports
+related_article3:
+    id: 102736
+    title: >-
+        How is research conducted in the Arts and Design field?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-is-research-conducted-in-the-arts-and-design-field
+related_article4:
+    id: 102743
+    title: >-
+        What strategies are effective for problem identification and solution proposal in research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-strategies-are-effective-for-problem-identification-and-solution-proposal-in-research
+related_article5:
+    id: 102726
+    title: >-
+        How is a research design developed, and what factors are considered?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-is-a-research-design-developed-and-what-factors-are-considered
 ---
 
 &nbsp;

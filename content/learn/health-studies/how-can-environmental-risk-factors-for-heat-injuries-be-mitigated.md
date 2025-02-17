@@ -24,17 +24,17 @@ file_name: how-can-environmental-risk-factors-for-heat-injuries-be-mitigated.md
 url: /learn/health-studies/questions/how-can-environmental-risk-factors-for-heat-injuries-be-mitigated
 score: -1.0
 related_article1:
-    id: 109807
-    title: >-
-        What role does clothing play in thermoregulation and preventing heat or cold injuries?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-role-does-clothing-play-in-thermoregulation-and-preventing-heat-or-cold-injuries
-related_article2:
     id: 109792
     title: >-
         How can heat syncope be recognized and what are the recommended treatments?
     subject: Health Studies
     url: /learn/health-studies/questions/how-can-heat-syncope-be-recognized-and-what-are-the-recommended-treatments
+related_article2:
+    id: 109807
+    title: >-
+        What role does clothing play in thermoregulation and preventing heat or cold injuries?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-role-does-clothing-play-in-thermoregulation-and-preventing-heat-or-cold-injuries
 ---
 
 &nbsp;

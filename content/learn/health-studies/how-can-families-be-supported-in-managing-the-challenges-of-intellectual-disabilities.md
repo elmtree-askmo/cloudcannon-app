@@ -24,17 +24,17 @@ file_name: how-can-families-be-supported-in-managing-the-challenges-of-intellect
 url: /learn/health-studies/questions/how-can-families-be-supported-in-managing-the-challenges-of-intellectual-disabilities
 score: -1.0
 related_article1:
-    id: 108329
-    title: >-
-        What are the long-term outcomes for individuals with genetic syndromes and intellectual disabilities?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-longterm-outcomes-for-individuals-with-genetic-syndromes-and-intellectual-disabilities
-related_article2:
     id: 108324
     title: >-
         How do social behaviors in Williams syndrome differ from those in other genetic syndromes?
     subject: Psychology
     url: /learn/psychology/questions/how-do-social-behaviors-in-williams-syndrome-differ-from-those-in-other-genetic-syndromes
+related_article2:
+    id: 108329
+    title: >-
+        What are the long-term outcomes for individuals with genetic syndromes and intellectual disabilities?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-longterm-outcomes-for-individuals-with-genetic-syndromes-and-intellectual-disabilities
 ---
 
 &nbsp;

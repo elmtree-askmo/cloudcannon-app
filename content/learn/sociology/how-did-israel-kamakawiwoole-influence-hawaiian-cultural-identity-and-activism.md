@@ -24,35 +24,35 @@ file_name: how-did-israel-kamakawiwoole-influence-hawaiian-cultural-identity-and
 url: /learn/sociology/questions/how-did-israel-kamakawiwoole-influence-hawaiian-cultural-identity-and-activism
 score: -1.0
 related_article1:
-    id: 104621
+    id: 104637
     title: >-
-        What is the history and significance of the Hawaiian sovereignty movement?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-history-and-significance-of-the-hawaiian-sovereignty-movement
+        How do social and health issues impact Native Hawaiian communities today?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-social-and-health-issues-impact-native-hawaiian-communities-today
 related_article2:
-    id: 104644
+    id: 104643
     title: >-
-        How do personal narratives and community experiences shape the understanding of historical trauma?
+        What are the key elements of Hawaiian cultural activism?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-personal-narratives-and-community-experiences-shape-the-understanding-of-historical-trauma
+    url: /learn/sociology/questions/what-are-the-key-elements-of-hawaiian-cultural-activism
 related_article3:
-    id: 104635
+    id: 104639
     title: >-
-        What are the contemporary challenges facing Hawaiian cultural identity?
+        What are the hopes and strategies for ensuring cultural continuity in Hawaii?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-contemporary-challenges-facing-hawaiian-cultural-identity
+    url: /learn/sociology/questions/what-are-the-hopes-and-strategies-for-ensuring-cultural-continuity-in-hawaii
 related_article4:
-    id: 104642
+    id: 104624
     title: >-
-        How is intergenerational knowledge being passed down in Hawaiian communities?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-is-intergenerational-knowledge-being-passed-down-in-hawaiian-communities
-related_article5:
-    id: 104640
-    title: >-
-        How do personal narratives contribute to the understanding of Hawaiian identity?
+        How are traditional Hawaiian practices being preserved and revitalized today?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-personal-narratives-contribute-to-the-understanding-of-hawaiian-identity
+    url: /learn/sociology/questions/how-are-traditional-hawaiian-practices-being-preserved-and-revitalized-today
+related_article5:
+    id: 104619
+    title: >-
+        How did the population of Hawaii decline during the colonial period?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-population-of-hawaii-decline-during-the-colonial-period
 ---
 
 &nbsp;

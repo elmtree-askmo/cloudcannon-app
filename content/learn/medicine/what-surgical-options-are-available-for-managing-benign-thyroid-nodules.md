@@ -24,35 +24,35 @@ file_name: what-surgical-options-are-available-for-managing-benign-thyroid-nodul
 url: /learn/medicine/questions/what-surgical-options-are-available-for-managing-benign-thyroid-nodules
 score: -1.0
 related_article1:
-    id: 123998
+    id: 123981
     title: >-
-        What are some examples of personalized management strategies for thyroid cancer?
+        How does molecular testing contribute to the investigation of thyroid nodules?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-some-examples-of-personalized-management-strategies-for-thyroid-cancer
+    url: /learn/medicine/questions/how-does-molecular-testing-contribute-to-the-investigation-of-thyroid-nodules
 related_article2:
-    id: 123970
+    id: 123974
     title: >-
-        How does the prevalence of thyroid nodules vary across different demographics?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-prevalence-of-thyroid-nodules-vary-across-different-demographics
+        How is nodular goiter different from benign follicular adenoma?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-nodular-goiter-different-from-benign-follicular-adenoma
 related_article3:
-    id: 123971
+    id: 123983
     title: >-
-        What are the primary factors influencing the prevalence of thyroid nodules?
+        What are the indications for treating benign thyroid nodules?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-primary-factors-influencing-the-prevalence-of-thyroid-nodules
+    url: /learn/medicine/questions/what-are-the-indications-for-treating-benign-thyroid-nodules
 related_article4:
-    id: 123977
+    id: 123973
     title: >-
-        How often are thyroid nodules found incidentally?
-    subject: Medicine
-    url: /learn/medicine/questions/how-often-are-thyroid-nodules-found-incidentally
-related_article5:
-    id: 123994
-    title: >-
-        What factors are considered in risk group stratification for thyroid cancer prognosis?
+        What is thyroiditis and how does it relate to thyroid nodules?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-factors-are-considered-in-risk-group-stratification-for-thyroid-cancer-prognosis
+    url: /learn/health-studies/questions/what-is-thyroiditis-and-how-does-it-relate-to-thyroid-nodules
+related_article5:
+    id: 123985
+    title: >-
+        What non-surgical options exist for the management of benign thyroid nodules?
+    subject: Medicine
+    url: /learn/medicine/questions/what-nonsurgical-options-exist-for-the-management-of-benign-thyroid-nodules
 ---
 
 &nbsp;

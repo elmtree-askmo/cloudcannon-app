@@ -24,29 +24,35 @@ file_name: what-are-some-modern-advancements-in-mathematical-notation-that-have-
 url: /learn/mathematics/questions/what-are-some-modern-advancements-in-mathematical-notation-that-have-impacted-physics
 score: -1.0
 related_article1:
+    id: 124214
+    title: >-
+        How has modern mathematical notation evolved over time?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-over-time
+related_article2:
+    id: 124230
+    title: >-
+        What are some examples of fundamental principles in physics that rely on mathematics?
+    subject: Physics
+    url: /learn/physics/questions/what-are-some-examples-of-fundamental-principles-in-physics-that-rely-on-mathematics
+related_article3:
     id: 124232
     title: >-
         What is the importance of mathematical notation in communicating complex physical concepts?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-importance-of-mathematical-notation-in-communicating-complex-physical-concepts
-related_article2:
-    id: 124238
-    title: >-
-        What are some philosophical questions raised by the interplay of physics and mathematics?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-some-philosophical-questions-raised-by-the-interplay-of-physics-and-mathematics
-related_article3:
-    id: 124218
-    title: >-
-        What is the Euclidean method and its role in physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-euclidean-method-and-its-role-in-physics
 related_article4:
-    id: 124216
+    id: 124235
     title: >-
-        What are fundamental principles and consequential statements in physics?
+        How do the concepts of force and equal areas relate to Kepler's laws?
     subject: Physics
-    url: /learn/physics/questions/what-are-fundamental-principles-and-consequential-statements-in-physics
+    url: /learn/physics/questions/how-do-the-concepts-of-force-and-equal-areas-relate-to-keplers-laws
+related_article5:
+    id: 124210
+    title: >-
+        What is Faraday's Law and how does it relate to mathematics?
+    subject: Physics
+    url: /learn/physics/questions/what-is-faradays-law-and-how-does-it-relate-to-mathematics
 ---
 
 &nbsp;

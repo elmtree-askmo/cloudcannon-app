@@ -23,12 +23,7 @@ subject: Health Studies
 file_name: what-are-the-consequences-of-vitamin-k-deficiency.md
 url: /learn/health-studies/questions/what-are-the-consequences-of-vitamin-k-deficiency
 score: -1.0
-related_article1:
-    id: 112594
-    title: >-
-        How does calcium metabolism contribute to bone health?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-calcium-metabolism-contribute-to-bone-health
+
 ---
 
 &nbsp;

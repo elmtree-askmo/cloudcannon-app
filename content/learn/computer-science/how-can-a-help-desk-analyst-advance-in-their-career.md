@@ -24,35 +24,35 @@ file_name: how-can-a-help-desk-analyst-advance-in-their-career.md
 url: /learn/computer-science/questions/how-can-a-help-desk-analyst-advance-in-their-career
 score: -1.0
 related_article1:
+    id: 122349
+    title: >-
+        What are the key duties of a Storage Analyst?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-key-duties-of-a-storage-analyst
+related_article2:
     id: 122338
     title: >-
         What skills are crucial for a Network Administrator to possess?
     subject: Computer Science
     url: /learn/computer-science/questions/what-skills-are-crucial-for-a-network-administrator-to-possess
-related_article2:
-    id: 122357
-    title: >-
-        What are the main duties of someone in Application Services?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-duties-of-someone-in-application-services
 related_article3:
-    id: 122344
+    id: 122336
     title: >-
-        What is the career path for a Data Centre Administrator?
+        What is the typical career progression for someone in Deskside Services?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-career-path-for-a-data-centre-administrator
+    url: /learn/computer-science/questions/what-is-the-typical-career-progression-for-someone-in-deskside-services
 related_article4:
-    id: 122355
+    id: 122331
     title: >-
-        What qualifications are generally required for an IT Security Analyst role?
+        What qualifications are typically required for a Help Desk Analyst role?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-qualifications-are-generally-required-for-an-it-security-analyst-role
+    url: /learn/computer-science/questions/what-qualifications-are-typically-required-for-a-help-desk-analyst-role
 related_article5:
-    id: 122345
+    id: 122340
     title: >-
-        What are the main responsibilities of an Infrastructure Analyst?
+        How does a Network Administrator transition to a Network Architect role?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-responsibilities-of-an-infrastructure-analyst
+    url: /learn/computer-science/questions/how-does-a-network-administrator-transition-to-a-network-architect-role
 ---
 
 &nbsp;

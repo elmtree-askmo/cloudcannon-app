@@ -24,35 +24,35 @@ file_name: what-are-the-key-characteristics-that-define-empirical-research.md
 url: /learn/psychology/questions/what-are-the-key-characteristics-that-define-empirical-research
 score: -1.0
 related_article1:
-    id: 102727
-    title: >-
-        What methods are commonly used for collecting data in research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-methods-are-commonly-used-for-collecting-data-in-research
-related_article2:
-    id: 102726
-    title: >-
-        How is a research design developed, and what factors are considered?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-is-a-research-design-developed-and-what-factors-are-considered
-related_article3:
     id: 102715
     title: >-
         How does research impact daily life and decision-making?
     subject: Psychology
     url: /learn/psychology/questions/how-does-research-impact-daily-life-and-decisionmaking
+related_article2:
+    id: 102727
+    title: >-
+        What methods are commonly used for collecting data in research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-methods-are-commonly-used-for-collecting-data-in-research
+related_article3:
+    id: 102743
+    title: >-
+        What strategies are effective for problem identification and solution proposal in research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-strategies-are-effective-for-problem-identification-and-solution-proposal-in-research
 related_article4:
-    id: 102735
+    id: 102741
     title: >-
-        What are some notable research contributions in Science, Technology, Engineering, and Mathematics?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-some-notable-research-contributions-in-science-technology-engineering-and-mathematics
+        What is the role of sentence formation in research education?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-role-of-sentence-formation-in-research-education
 related_article5:
-    id: 102718
+    id: 102724
     title: >-
-        What does it mean for research to be controlled, and why is this important?
-    subject: Psychology
-    url: /learn/psychology/questions/what-does-it-mean-for-research-to-be-controlled-and-why-is-this-important
+        How does reviewing related literature contribute to the research process?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-reviewing-related-literature-contribute-to-the-research-process
 ---
 
 &nbsp;

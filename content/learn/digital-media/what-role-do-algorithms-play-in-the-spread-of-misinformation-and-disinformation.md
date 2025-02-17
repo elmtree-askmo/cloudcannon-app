@@ -24,11 +24,11 @@ file_name: what-role-do-algorithms-play-in-the-spread-of-misinformation-and-disi
 url: /learn/digital-media/questions/what-role-do-algorithms-play-in-the-spread-of-misinformation-and-disinformation
 score: -1.0
 related_article1:
-    id: 115908
+    id: 115911
     title: >-
-        What are the key components of effective course evaluations?
+        How can final test structures be designed to accurately assess student learning?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-effective-course-evaluations
+    url: /learn/education-studies/questions/how-can-final-test-structures-be-designed-to-accurately-assess-student-learning
 related_article2:
     id: 115920
     title: >-
@@ -36,11 +36,11 @@ related_article2:
     subject: Sociology
     url: /learn/sociology/questions/what-are-the-common-forms-of-online-harassment-and-their-impact-on-individuals
 related_article3:
-    id: 115924
+    id: 115908
     title: >-
-        How do social movements utilize media coverage to advance their causes?
-    subject: Sociology
-    url: /learn/sociology/questions/how-do-social-movements-utilize-media-coverage-to-advance-their-causes
+        What are the key components of effective course evaluations?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-components-of-effective-course-evaluations
 ---
 
 &nbsp;

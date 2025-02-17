@@ -36,11 +36,11 @@ related_article2:
     subject: Psychology
     url: /learn/psychology/questions/how-do-research-studies-support-the-existence-of-the-selfserving-bias
 related_article3:
-    id: 96749
+    id: 96778
     title: >-
-        What is the historical background of Attribution Theory?
+        How can understanding Attribution Theory improve interpersonal relationships?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-historical-background-of-attribution-theory
+    url: /learn/psychology/questions/how-can-understanding-attribution-theory-improve-interpersonal-relationships
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: what-are-the-steps-involved-in-morphemic-analysis.md
 url: /learn/education-studies/questions/what-are-the-steps-involved-in-morphemic-analysis
 score: -1.0
 related_article1:
-    id: 111477
+    id: 111488
     title: >-
-        Can you provide examples of eponyms in different fields?
-    subject: Medicine
-    url: /learn/medicine/questions/can-you-provide-examples-of-eponyms-in-different-fields
+        How are eponyms used in branding and marketing?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-are-eponyms-used-in-branding-and-marketing
 related_article2:
-    id: 111476
+    id: 111478
     title: >-
-        How do eponyms contribute to language development?
-    subject: Sociology
-    url: /learn/sociology/questions/how-do-eponyms-contribute-to-language-development
+        What is the historical significance of eponyms in language?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-eponyms-in-language
 related_article3:
-    id: 111485
+    id: 111483
     title: >-
-        What are some challenges in analyzing eponyms?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-some-challenges-in-analyzing-eponyms
+        How do cultural factors influence the creation of eponyms?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-cultural-factors-influence-the-creation-of-eponyms
 related_article4:
-    id: 111470
+    id: 111471
     title: >-
-        What is the role of affixes in word formation?
+        How do prefixes and suffixes differ in their function?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-affixes-in-word-formation
+    url: /learn/education-studies/questions/how-do-prefixes-and-suffixes-differ-in-their-function
 related_article5:
-    id: 111460
+    id: 111472
     title: >-
-        What is the definition of a morpheme?
+        What are motivating and motivated words in linguistics?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-definition-of-a-morpheme
+    url: /learn/education-studies/questions/what-are-motivating-and-motivated-words-in-linguistics
 ---
 
 &nbsp;

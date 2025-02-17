@@ -24,29 +24,35 @@ file_name: what-trends-are-observed-in-ionization-energies-across-the-periodic-t
 url: /learn/chemistry/questions/what-trends-are-observed-in-ionization-energies-across-the-periodic-table
 score: -1.0
 related_article1:
-    id: 117920
+    id: 117900
     title: >-
-        How are phase diagrams used to represent states of matter?
+        What is the basic principle of thermochemistry?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-are-phase-diagrams-used-to-represent-states-of-matter
+    url: /learn/chemistry/questions/what-is-the-basic-principle-of-thermochemistry
 related_article2:
-    id: 117901
+    id: 117924
     title: >-
-        How is heat calculated for a temperature change in a substance?
-    subject: Physics
-    url: /learn/physics/questions/how-is-heat-calculated-for-a-temperature-change-in-a-substance
+        How do vapor pressure and boiling point elevation relate to solutions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-vapor-pressure-and-boiling-point-elevation-relate-to-solutions
 related_article3:
-    id: 117929
+    id: 117907
     title: >-
-        How do molecular orbital diagrams help in understanding chemical bonding?
+        What factors affect ionization energies of elements?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-molecular-orbital-diagrams-help-in-understanding-chemical-bonding
+    url: /learn/chemistry/questions/what-factors-affect-ionization-energies-of-elements
 related_article4:
-    id: 117918
+    id: 117923
     title: >-
-        How do you calculate the density and partial pressure of a gas?
+        What factors affect solubility predictions?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-you-calculate-the-density-and-partial-pressure-of-a-gas
+    url: /learn/chemistry/questions/what-factors-affect-solubility-predictions
+related_article5:
+    id: 117908
+    title: >-
+        What is the difference between diamagnetism and paramagnetism?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-difference-between-diamagnetism-and-paramagnetism
 ---
 
 &nbsp;

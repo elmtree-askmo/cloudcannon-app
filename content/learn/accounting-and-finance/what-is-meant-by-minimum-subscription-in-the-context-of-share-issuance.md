@@ -24,29 +24,29 @@ file_name: what-is-meant-by-minimum-subscription-in-the-context-of-share-issuanc
 url: /learn/accounting-and-finance/questions/what-is-meant-by-minimum-subscription-in-the-context-of-share-issuance
 score: -1.0
 related_article1:
-    id: 98614
+    id: 98616
     title: >-
-        What is an overdraft facility and how does it work?
+        Can you explain the concept of term loans?
     subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-is-an-overdraft-facility-and-how-does-it-work
+    url: /learn/accounting-and-finance/questions/can-you-explain-the-concept-of-term-loans
 related_article2:
-    id: 98613
-    title: >-
-        What are the benefits of high-interest returns for investors?
-    subject: Economics
-    url: /learn/economics/questions/what-are-the-benefits-of-highinterest-returns-for-investors
-related_article3:
-    id: 98609
-    title: >-
-        How is dividend distribution typically handled in companies?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/how-is-dividend-distribution-typically-handled-in-companies
-related_article4:
     id: 98625
     title: >-
         How can investors contact companies for assistance?
     subject: Business and Management
     url: /learn/business-and-management/questions/how-can-investors-contact-companies-for-assistance
+related_article3:
+    id: 98624
+    title: >-
+        What is the importance of loan security and collateral?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/what-is-the-importance-of-loan-security-and-collateral
+related_article4:
+    id: 98619
+    title: >-
+        What is the process of share issuance in a company formation?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-is-the-process-of-share-issuance-in-a-company-formation
 ---
 
 &nbsp;

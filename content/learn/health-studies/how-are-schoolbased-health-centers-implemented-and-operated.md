@@ -24,17 +24,17 @@ file_name: how-are-schoolbased-health-centers-implemented-and-operated.md
 url: /learn/health-studies/questions/how-are-schoolbased-health-centers-implemented-and-operated
 score: -1.0
 related_article1:
+    id: 112077
+    title: >-
+        How has the ACA influenced state-level healthcare reforms?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-has-the-aca-influenced-statelevel-healthcare-reforms
+related_article2:
     id: 112049
     title: >-
         How does the ACA aim to improve health insurance affordability?
     subject: Health Studies
     url: /learn/health-studies/questions/how-does-the-aca-aim-to-improve-health-insurance-affordability
-related_article2:
-    id: 112070
-    title: >-
-        What role do community health workers play in Washington State's healthcare reform?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-role-do-community-health-workers-play-in-washington-states-healthcare-reform
 ---
 
 &nbsp;

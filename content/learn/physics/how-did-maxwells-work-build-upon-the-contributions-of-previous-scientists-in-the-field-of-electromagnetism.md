@@ -13,7 +13,7 @@ seo:
   page_description: >-
     This content discusses how James Clerk Maxwell's contributions to electromagnetism built upon the work of earlier scientists like Faraday and Ampre, resulting in a unified theory that greatly advanced the understanding of electricity, magnetism, and light.
   page_keywords: >-
-    James Clerk Maxwell, electromagnetism, unification, Faraday, Ampère, displacement current, electromagnetic wave, mathematical formulation, foundational work, modern physics
+    James Clerk Maxwell, electromagnetism, unification, Faraday, Ampre, displacement current, electromagnetic wave, mathematical formulation, foundational work, modern physics
 author: QuickTakes
 question: >-
     How did Maxwell's work build upon the contributions of previous scientists in the field of electromagnetism?
@@ -24,29 +24,35 @@ file_name: how-did-maxwells-work-build-upon-the-contributions-of-previous-scient
 url: /learn/physics/questions/how-did-maxwells-work-build-upon-the-contributions-of-previous-scientists-in-the-field-of-electromagnetism
 score: -1.0
 related_article1:
-    id: 116213
+    id: 116218
     title: >-
-        Can you explain the Ampere-Maxwell Law and its significance in electromagnetism?
+        What are the different types of waves in the electromagnetic spectrum?
     subject: Physics
-    url: /learn/physics/questions/can-you-explain-the-amperemaxwell-law-and-its-significance-in-electromagnetism
+    url: /learn/physics/questions/what-are-the-different-types-of-waves-in-the-electromagnetic-spectrum
 related_article2:
-    id: 116223
+    id: 116208
     title: >-
-        What are the effects and uses of ultraviolet rays?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-effects-and-uses-of-ultraviolet-rays
+        What was the historical context in which Maxwell developed his equations?
+    subject: Physics
+    url: /learn/physics/questions/what-was-the-historical-context-in-which-maxwell-developed-his-equations
 related_article3:
+    id: 116225
+    title: >-
+        How are gamma rays used in scientific research and technology?
+    subject: Physics
+    url: /learn/physics/questions/how-are-gamma-rays-used-in-scientific-research-and-technology
+related_article4:
+    id: 116212
+    title: >-
+        How is the displacement current mathematically formulated in Maxwell's equations?
+    subject: Physics
+    url: /learn/physics/questions/how-is-the-displacement-current-mathematically-formulated-in-maxwells-equations
+related_article5:
     id: 116232
     title: >-
         How did Maxwell's equations change the understanding of physics in the 19th century?
     subject: Physics
     url: /learn/physics/questions/how-did-maxwells-equations-change-the-understanding-of-physics-in-the-19th-century
-related_article4:
-    id: 116233
-    title: >-
-        What challenges did Maxwell face in formulating his equations?
-    subject: Physics
-    url: /learn/physics/questions/what-challenges-did-maxwell-face-in-formulating-his-equations
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: what-are-the-characteristics-of-intrab-commerce.md
 url: /learn/business-and-management/questions/what-are-the-characteristics-of-intrab-commerce
 score: -1.0
 related_article1:
-    id: 98575
+    id: 98560
     title: >-
-        How is the business studies curriculum for 2024-25 expected to address e-business and outsourcing?
+        What are the common methods for placing an order online?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-is-the-business-studies-curriculum-for-202425-expected-to-address-ebusiness-and-outsourcing
+    url: /learn/business-and-management/questions/what-are-the-common-methods-for-placing-an-order-online
 related_article2:
-    id: 98555
-    title: >-
-        What are the primary benefits of e-business for business organisations?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-primary-benefits-of-ebusiness-for-business-organisations
-related_article3:
-    id: 98552
-    title: >-
-        How does B2B commerce differ from B2C commerce in the context of e-business?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-does-b2b-commerce-differ-from-b2c-commerce-in-the-context-of-ebusiness
-related_article4:
-    id: 98554
-    title: >-
-        How does C2C commerce operate within the e-business framework?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-does-c2c-commerce-operate-within-the-ebusiness-framework
-related_article5:
     id: 98549
     title: >-
         How do internationalisation and globalisation impact e-business?
     subject: Business and Management
     url: /learn/business-and-management/questions/how-do-internationalisation-and-globalisation-impact-ebusiness
+related_article3:
+    id: 98566
+    title: >-
+        What resources are essential for successful e-business implementation?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-resources-are-essential-for-successful-ebusiness-implementation
+related_article4:
+    id: 98571
+    title: >-
+        How is the scope of e-business expected to change in the future?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-is-the-scope-of-ebusiness-expected-to-change-in-the-future
+related_article5:
+    id: 98552
+    title: >-
+        How does B2B commerce differ from B2C commerce in the context of e-business?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-does-b2b-commerce-differ-from-b2c-commerce-in-the-context-of-ebusiness
 ---
 
 &nbsp;

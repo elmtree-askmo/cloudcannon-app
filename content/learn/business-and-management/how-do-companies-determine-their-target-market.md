@@ -24,35 +24,35 @@ file_name: how-do-companies-determine-their-target-market.md
 url: /learn/business-and-management/questions/how-do-companies-determine-their-target-market
 score: -1.0
 related_article1:
-    id: 110222
+    id: 110223
     title: >-
-        What are the key considerations in making advertising decisions?
+        How do companies decide on the size and structure of their sales force?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-key-considerations-in-making-advertising-decisions
+    url: /learn/business-and-management/questions/how-do-companies-decide-on-the-size-and-structure-of-their-sales-force
 related_article2:
-    id: 110221
+    id: 110210
     title: >-
-        What roles do retailers and wholesalers play in marketing channels?
+        How do cultural factors influence buyer behavior?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-roles-do-retailers-and-wholesalers-play-in-marketing-channels
+    url: /learn/business-and-management/questions/how-do-cultural-factors-influence-buyer-behavior
 related_article3:
-    id: 110213
+    id: 110215
     title: >-
-        What is the role of positioning in marketing strategy?
+        What are the common pricing objectives companies pursue?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-is-the-role-of-positioning-in-marketing-strategy
+    url: /learn/business-and-management/questions/what-are-the-common-pricing-objectives-companies-pursue
 related_article4:
-    id: 110229
+    id: 110220
     title: >-
-        How do companies measure the effectiveness of their marketing mix?
+        What factors influence the structure and design of marketing channels?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-do-companies-measure-the-effectiveness-of-their-marketing-mix
+    url: /learn/business-and-management/questions/what-factors-influence-the-structure-and-design-of-marketing-channels
 related_article5:
-    id: 110234
+    id: 110217
     title: >-
-        What are the most effective promotional strategies in today's market?
+        What are the typical constraints that affect pricing policies?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-most-effective-promotional-strategies-in-todays-market
+    url: /learn/business-and-management/questions/what-are-the-typical-constraints-that-affect-pricing-policies
 ---
 
 &nbsp;

@@ -24,29 +24,29 @@ file_name: can-you-provide-details-on-a-case-study-involving-hepatocellular-carc
 url: /learn/medicine/questions/can-you-provide-details-on-a-case-study-involving-hepatocellular-carcinoma-including-patient-presentation-and-imaging-findings
 score: -1.0
 related_article1:
-    id: 118114
-    title: >-
-        What treatment and management strategies are typically employed for hepatocellular carcinoma?
-    subject: Medicine
-    url: /learn/medicine/questions/what-treatment-and-management-strategies-are-typically-employed-for-hepatocellular-carcinoma
-related_article2:
     id: 118111
     title: >-
         What are the specific indications for using imaging in hepatobiliary conditions?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-specific-indications-for-using-imaging-in-hepatobiliary-conditions
-related_article3:
-    id: 118139
+related_article2:
+    id: 118135
     title: >-
-        What are the potential risks or side effects associated with imaging techniques used in hepatobiliary diagnosis?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-potential-risks-or-side-effects-associated-with-imaging-techniques-used-in-hepatobiliary-diagnosis
-related_article4:
-    id: 118133
-    title: >-
-        What are the latest advancements in imaging techniques for hepatobiliary diagnosis?
+        What are the challenges faced in imaging hepatobiliary conditions?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-latest-advancements-in-imaging-techniques-for-hepatobiliary-diagnosis
+    url: /learn/medicine/questions/what-are-the-challenges-faced-in-imaging-hepatobiliary-conditions
+related_article3:
+    id: 118124
+    title: >-
+        What CT imaging findings are associated with acute cholecystitis?
+    subject: Medicine
+    url: /learn/medicine/questions/what-ct-imaging-findings-are-associated-with-acute-cholecystitis
+related_article4:
+    id: 118131
+    title: >-
+        What are the key imaging modalities used in the diagnosis of hepatocellular carcinoma?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-key-imaging-modalities-used-in-the-diagnosis-of-hepatocellular-carcinoma
 ---
 
 &nbsp;

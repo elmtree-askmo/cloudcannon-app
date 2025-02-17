@@ -24,35 +24,35 @@ file_name: how-did-the-political-tensions-in-san-francisco-contribute-to-the-eve
 url: /learn/history-of-the-world/questions/how-did-the-political-tensions-in-san-francisco-contribute-to-the-events-leading-to-the-assassinations
 score: -1.0
 related_article1:
-    id: 123826
+    id: 123848
     title: >-
-        What role did the rise of the gay rights movement play in the socio-political climate of 1970s San Francisco?
-    subject: Sociology
-    url: /learn/sociology/questions/what-role-did-the-rise-of-the-gay-rights-movement-play-in-the-sociopolitical-climate-of-1970s-san-francisco
-related_article2:
-    id: 123834
-    title: >-
-        How did the assassinations impact San Francisco as a city?
-    subject: Sociology
-    url: /learn/sociology/questions/how-did-the-assassinations-impact-san-francisco-as-a-city
-related_article3:
-    id: 123847
-    title: >-
-        What were the broader societal implications of the "Twinkie Defense" in legal proceedings?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-were-the-broader-societal-implications-of-the-twinkie-defense-in-legal-proceedings
-related_article4:
-    id: 123843
-    title: >-
-        What were the motivations behind Dan White's actions?
+        How did the legacy of the assassinations shape future political and social movements in San Francisco?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-motivations-behind-dan-whites-actions
-related_article5:
-    id: 123819
+    url: /learn/history-of-the-world/questions/how-did-the-legacy-of-the-assassinations-shape-future-political-and-social-movements-in-san-francisco
+related_article2:
+    id: 123833
     title: >-
-        What was Dan White's background and how did it influence his actions?
-    subject: Psychology
-    url: /learn/psychology/questions/what-was-dan-whites-background-and-how-did-it-influence-his-actions
+        What was the verdict and sentencing in Dan White's trial?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-was-the-verdict-and-sentencing-in-dan-whites-trial
+related_article3:
+    id: 123830
+    title: >-
+        How did the police respond to the White Night Riot?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-did-the-police-respond-to-the-white-night-riot
+related_article4:
+    id: 123844
+    title: >-
+        How did the socio-political climate of the 1970s influence the public's reaction to the trial and verdict?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-sociopolitical-climate-of-the-1970s-influence-the-publics-reaction-to-the-trial-and-verdict
+related_article5:
+    id: 123827
+    title: >-
+        What were the political tensions in San Francisco during the 1970s?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-political-tensions-in-san-francisco-during-the-1970s
 ---
 
 &nbsp;

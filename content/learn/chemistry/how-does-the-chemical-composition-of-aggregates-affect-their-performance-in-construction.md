@@ -24,23 +24,29 @@ file_name: how-does-the-chemical-composition-of-aggregates-affect-their-performa
 url: /learn/chemistry/questions/how-does-the-chemical-composition-of-aggregates-affect-their-performance-in-construction
 score: -1.0
 related_article1:
-    id: 120420
+    id: 120410
     title: >-
-        What measures can be taken to prevent alkali-aggregate reactivity in concrete?
+        What is the significance of specific gravity in the classification of aggregates?
     subject: Engineering
-    url: /learn/engineering/questions/what-measures-can-be-taken-to-prevent-alkaliaggregate-reactivity-in-concrete
+    url: /learn/engineering/questions/what-is-the-significance-of-specific-gravity-in-the-classification-of-aggregates
 related_article2:
-    id: 120416
+    id: 120407
     title: >-
-        How is laboratory testing of aggregates conducted and what parameters are typically assessed?
+        In what ways does the mineralogical composition of aggregates influence their mechanical properties?
     subject: Engineering
-    url: /learn/engineering/questions/how-is-laboratory-testing-of-aggregates-conducted-and-what-parameters-are-typically-assessed
+    url: /learn/engineering/questions/in-what-ways-does-the-mineralogical-composition-of-aggregates-influence-their-mechanical-properties
 related_article3:
-    id: 120404
+    id: 120422
     title: >-
-        Can you explain the mineralogical composition of aggregates derived from igneous rocks?
+        What are the best practices for ensuring the quality of aggregates used in construction?
     subject: Engineering
-    url: /learn/engineering/questions/can-you-explain-the-mineralogical-composition-of-aggregates-derived-from-igneous-rocks
+    url: /learn/engineering/questions/what-are-the-best-practices-for-ensuring-the-quality-of-aggregates-used-in-construction
+related_article4:
+    id: 120419
+    title: >-
+        What causes alkali-aggregate reactivity and what are its effects on concrete structures?
+    subject: Engineering
+    url: /learn/engineering/questions/what-causes-alkaliaggregate-reactivity-and-what-are-its-effects-on-concrete-structures
 ---
 
 &nbsp;

@@ -30,29 +30,29 @@ related_article1:
     subject: Computer Science
     url: /learn/computer-science/questions/why-are-regular-updates-and-patches-crucial-for-network-security
 related_article2:
-    id: 122289
+    id: 122283
     title: >-
-        How do antivirus and antimalware software protect networks?
+        What are the best practices for physical protection of network infrastructure?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-antivirus-and-antimalware-software-protect-networks
+    url: /learn/computer-science/questions/what-are-the-best-practices-for-physical-protection-of-network-infrastructure
 related_article3:
-    id: 122297
+    id: 122295
     title: >-
-        How does biometric authentication work and what are its benefits?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-biometric-authentication-work-and-what-are-its-benefits
+        How does password complexity enhance security?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-does-password-complexity-enhance-security
 related_article4:
-    id: 122281
+    id: 122278
     title: >-
-        How does an SQL injection attack work and how can it be prevented?
+        What are the differences between DoS and DDoS attacks?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-an-sql-injection-attack-work-and-how-can-it-be-prevented
+    url: /learn/computer-science/questions/what-are-the-differences-between-dos-and-ddos-attacks
 related_article5:
-    id: 122270
+    id: 122291
     title: >-
-        How does spam and phishing pose a threat to network security?
+        What are the best practices for data backup and recovery?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-spam-and-phishing-pose-a-threat-to-network-security
+    url: /learn/computer-science/questions/what-are-the-best-practices-for-data-backup-and-recovery
 ---
 
 &nbsp;

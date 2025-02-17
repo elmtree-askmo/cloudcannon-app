@@ -24,23 +24,35 @@ file_name: how-does-encryption-protect-data-in-a-network.md
 url: /learn/computer-science/questions/how-does-encryption-protect-data-in-a-network
 score: -1.0
 related_article1:
+    id: 116165
+    title: >-
+        What are the differences between IPv4 and IPv6 addressing?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-differences-between-ipv4-and-ipv6-addressing
+related_article2:
+    id: 116148
+    title: >-
+        What is the definition of networking in the context of computer science?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-definition-of-networking-in-the-context-of-computer-science
+related_article3:
+    id: 116150
+    title: >-
+        What are the basic concepts one should understand about networking?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-basic-concepts-one-should-understand-about-networking
+related_article4:
     id: 116158
     title: >-
         In what scenarios is a ring topology most effective?
     subject: Computer Science
     url: /learn/computer-science/questions/in-what-scenarios-is-a-ring-topology-most-effective
-related_article2:
-    id: 116166
+related_article5:
+    id: 116151
     title: >-
-        How does subnetting work and why is it important?
+        Can you explain the differences between LAN, WAN, MAN, and PAN?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-subnetting-work-and-why-is-it-important
-related_article3:
-    id: 116156
-    title: >-
-        How does a star topology function and what are its benefits?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-a-star-topology-function-and-what-are-its-benefits
+    url: /learn/computer-science/questions/can-you-explain-the-differences-between-lan-wan-man-and-pan
 ---
 
 &nbsp;

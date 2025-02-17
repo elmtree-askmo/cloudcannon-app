@@ -24,35 +24,29 @@ file_name: can-you-explain-the-differences-between-simple-goiter-toxic-goiter-an
 url: /learn/medicine/questions/can-you-explain-the-differences-between-simple-goiter-toxic-goiter-and-neoplastic-goiter
 score: -1.0
 related_article1:
-    id: 123997
+    id: 123970
     title: >-
-        How do patient and physician preferences influence treatment plans for thyroid cancer?
-    subject: Medicine
-    url: /learn/medicine/questions/how-do-patient-and-physician-preferences-influence-treatment-plans-for-thyroid-cancer
+        How does the prevalence of thyroid nodules vary across different demographics?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-prevalence-of-thyroid-nodules-vary-across-different-demographics
 related_article2:
+    id: 123998
+    title: >-
+        What are some examples of personalized management strategies for thyroid cancer?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-some-examples-of-personalized-management-strategies-for-thyroid-cancer
+related_article3:
+    id: 123981
+    title: >-
+        How does molecular testing contribute to the investigation of thyroid nodules?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-molecular-testing-contribute-to-the-investigation-of-thyroid-nodules
+related_article4:
     id: 123971
     title: >-
         What are the primary factors influencing the prevalence of thyroid nodules?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-primary-factors-influencing-the-prevalence-of-thyroid-nodules
-related_article3:
-    id: 123975
-    title: >-
-        What are the characteristics of differential thyroid carcinoma?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-characteristics-of-differential-thyroid-carcinoma
-related_article4:
-    id: 123987
-    title: >-
-        How is well-differentiated thyroid cancer different from medullary and anaplastic thyroid cancer?
-    subject: Medicine
-    url: /learn/medicine/questions/how-is-welldifferentiated-thyroid-cancer-different-from-medullary-and-anaplastic-thyroid-cancer
-related_article5:
-    id: 123976
-    title: >-
-        What are the common symptoms associated with thyroid nodules?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-common-symptoms-associated-with-thyroid-nodules
 ---
 
 &nbsp;

@@ -24,29 +24,29 @@ file_name: can-you-provide-examples-of-intergenerational-trauma-experienced-by-n
 url: /learn/sociology/questions/can-you-provide-examples-of-intergenerational-trauma-experienced-by-native-hawaiians
 score: -1.0
 related_article1:
-    id: 104641
+    id: 104624
     title: >-
-        What role does cultural activism play in the Hawaiian sovereignty movement?
+        How are traditional Hawaiian practices being preserved and revitalized today?
     subject: Sociology
-    url: /learn/sociology/questions/what-role-does-cultural-activism-play-in-the-hawaiian-sovereignty-movement
+    url: /learn/sociology/questions/how-are-traditional-hawaiian-practices-being-preserved-and-revitalized-today
 related_article2:
+    id: 104643
+    title: >-
+        What are the key elements of Hawaiian cultural activism?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-elements-of-hawaiian-cultural-activism
+related_article3:
+    id: 104620
+    title: >-
+        In what ways were Native Hawaiians politically disenfranchised during and after colonization?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/in-what-ways-were-native-hawaiians-politically-disenfranchised-during-and-after-colonization
+related_article4:
     id: 104627
     title: >-
         What are some examples of community empowerment initiatives in Hawaii?
     subject: Sociology
     url: /learn/sociology/questions/what-are-some-examples-of-community-empowerment-initiatives-in-hawaii
-related_article3:
-    id: 104619
-    title: >-
-        How did the population of Hawaii decline during the colonial period?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-population-of-hawaii-decline-during-the-colonial-period
-related_article4:
-    id: 104631
-    title: >-
-        What were John Dominis Holt's perspectives on Hawaiian culture and identity?
-    subject: Sociology
-    url: /learn/sociology/questions/what-were-john-dominis-holts-perspectives-on-hawaiian-culture-and-identity
 ---
 
 &nbsp;

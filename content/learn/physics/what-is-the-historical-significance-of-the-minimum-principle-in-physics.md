@@ -24,35 +24,35 @@ file_name: what-is-the-historical-significance-of-the-minimum-principle-in-physi
 url: /learn/physics/questions/what-is-the-historical-significance-of-the-minimum-principle-in-physics
 score: -1.0
 related_article1:
-    id: 116008
+    id: 116004
     title: >-
-        How does the law of gravitation relate to other physical laws?
-    subject: Physics
-    url: /learn/physics/questions/how-does-the-law-of-gravitation-relate-to-other-physical-laws
-related_article2:
-    id: 116009
-    title: >-
-        What is the principle of conservation of angular momentum and its importance in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-principle-of-conservation-of-angular-momentum-and-its-importance-in-physics
-related_article3:
-    id: 116021
-    title: >-
-        What are some historical examples of the Babylonian method in physics?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-some-historical-examples-of-the-babylonian-method-in-physics
-related_article4:
-    id: 116003
-    title: >-
-        How has modern mathematical notation evolved to aid in the understanding of physics?
+        What are the key differences between Babylonian and Greek mathematical traditions?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-to-aid-in-the-understanding-of-physics
-related_article5:
-    id: 116010
+    url: /learn/mathematics/questions/what-are-the-key-differences-between-babylonian-and-greek-mathematical-traditions
+related_article2:
+    id: 116017
     title: >-
-        How do Newton's Laws form the foundation of classical mechanics?
+        What are some examples of mathematical concepts that have been crucial in physics?
     subject: Physics
-    url: /learn/physics/questions/how-do-newtons-laws-form-the-foundation-of-classical-mechanics
+    url: /learn/physics/questions/what-are-some-examples-of-mathematical-concepts-that-have-been-crucial-in-physics
+related_article3:
+    id: 116026
+    title: >-
+        How do philosophical perspectives influence the interpretation of mathematical physics?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/how-do-philosophical-perspectives-influence-the-interpretation-of-mathematical-physics
+related_article4:
+    id: 116014
+    title: >-
+        How do mathematical models help in predicting physical phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
+related_article5:
+    id: 116018
+    title: >-
+        How does the concept of force relate to mathematical equations in physics?
+    subject: Physics
+    url: /learn/physics/questions/how-does-the-concept-of-force-relate-to-mathematical-equations-in-physics
 ---
 
 &nbsp;

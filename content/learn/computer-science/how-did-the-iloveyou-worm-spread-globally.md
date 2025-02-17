@@ -29,6 +29,12 @@ related_article1:
         What are the objectives and scope of the Data Privacy Act of 2012?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-are-the-objectives-and-scope-of-the-data-privacy-act-of-2012
+related_article2:
+    id: 106975
+    title: >-
+        How did the Philippine E-commerce Act of 2000 address cyber threats?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-did-the-philippine-ecommerce-act-of-2000-address-cyber-threats
 ---
 
 &nbsp;

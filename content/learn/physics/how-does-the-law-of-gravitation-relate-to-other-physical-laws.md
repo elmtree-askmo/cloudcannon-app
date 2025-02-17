@@ -24,35 +24,35 @@ file_name: how-does-the-law-of-gravitation-relate-to-other-physical-laws.md
 url: /learn/physics/questions/how-does-the-law-of-gravitation-relate-to-other-physical-laws
 score: -1.0
 related_article1:
-    id: 123806
+    id: 123789
     title: >-
-        What role does symmetry play in the mathematical formulation of physical laws?
-    subject: Physics
-    url: /learn/physics/questions/what-role-does-symmetry-play-in-the-mathematical-formulation-of-physical-laws
+        How does mathematics help us understand natural phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
 related_article2:
-    id: 123815
-    title: >-
-        How do Newton's Laws apply to everyday physical phenomena?
-    subject: Physics
-    url: /learn/physics/questions/how-do-newtons-laws-apply-to-everyday-physical-phenomena
-related_article3:
     id: 123792
     title: >-
         How is mathematical language used to describe physical laws?
     subject: Physics
     url: /learn/physics/questions/how-is-mathematical-language-used-to-describe-physical-laws
+related_article3:
+    id: 123811
+    title: >-
+        How do the Babylonian and Greek traditions differ in their approach to mathematical problems?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-the-babylonian-and-greek-traditions-differ-in-their-approach-to-mathematical-problems
 related_article4:
-    id: 123809
+    id: 123802
     title: >-
-        How do physicists use mathematical language to communicate complex ideas?
+        What is the local field method and how is it applied in physics?
     subject: Physics
-    url: /learn/physics/questions/how-do-physicists-use-mathematical-language-to-communicate-complex-ideas
+    url: /learn/physics/questions/what-is-the-local-field-method-and-how-is-it-applied-in-physics
 related_article5:
-    id: 123797
+    id: 123817
     title: >-
-        What was the Babylonian method in physics and how did it influence modern science?
+        How does the minimum principle relate to optimization problems in physics?
     subject: Physics
-    url: /learn/physics/questions/what-was-the-babylonian-method-in-physics-and-how-did-it-influence-modern-science
+    url: /learn/physics/questions/how-does-the-minimum-principle-relate-to-optimization-problems-in-physics
 ---
 
 &nbsp;

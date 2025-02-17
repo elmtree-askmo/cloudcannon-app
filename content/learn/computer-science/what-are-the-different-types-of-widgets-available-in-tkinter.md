@@ -24,29 +24,35 @@ file_name: what-are-the-different-types-of-widgets-available-in-tkinter.md
 url: /learn/computer-science/questions/what-are-the-different-types-of-widgets-available-in-tkinter
 score: -1.0
 related_article1:
-    id: 119669
+    id: 119665
     title: >-
-        What is the default behavior of the Pack layout manager?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-is-the-default-behavior-of-the-pack-layout-manager
+        What is the function of the .geometry method in Tkinter?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-function-of-the-geometry-method-in-tkinter
 related_article2:
-    id: 119666
+    id: 119654
     title: >-
-        How do you set minimum size constraints for a window in Tkinter?
+        Can you explain the function of a button click in a GUI?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-you-set-minimum-size-constraints-for-a-window-in-tkinter
+    url: /learn/computer-science/questions/can-you-explain-the-function-of-a-button-click-in-a-gui
 related_article3:
-    id: 119678
+    id: 119661
     title: >-
-        What parameters are important when using the Place geometry manager?
+        What is a combo box and how is it used in Tkinter?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-parameters-are-important-when-using-the-place-geometry-manager
+    url: /learn/computer-science/questions/what-is-a-combo-box-and-how-is-it-used-in-tkinter
 related_article4:
-    id: 119660
+    id: 119652
     title: >-
-        How can you implement a text box in a Tkinter application?
+        What are the key APIs used for building GUIs?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-you-implement-a-text-box-in-a-tkinter-application
+    url: /learn/computer-science/questions/what-are-the-key-apis-used-for-building-guis
+related_article5:
+    id: 119675
+    title: >-
+        What are the key takeaways from creating a login UI?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-key-takeaways-from-creating-a-login-ui
 ---
 
 &nbsp;

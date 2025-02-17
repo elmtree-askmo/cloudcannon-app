@@ -24,17 +24,29 @@ file_name: how-does-cash-credit-differ-from-other-types-of-loans.md
 url: /learn/accounting-and-finance/questions/how-does-cash-credit-differ-from-other-types-of-loans
 score: -1.0
 related_article1:
+    id: 98614
+    title: >-
+        What is an overdraft facility and how does it work?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/what-is-an-overdraft-facility-and-how-does-it-work
+related_article2:
+    id: 98616
+    title: >-
+        Can you explain the concept of term loans?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/can-you-explain-the-concept-of-term-loans
+related_article3:
     id: 98613
     title: >-
         What are the benefits of high-interest returns for investors?
     subject: Economics
     url: /learn/economics/questions/what-are-the-benefits-of-highinterest-returns-for-investors
-related_article2:
-    id: 98625
+related_article4:
+    id: 98609
     title: >-
-        How can investors contact companies for assistance?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-can-investors-contact-companies-for-assistance
+        How is dividend distribution typically handled in companies?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/how-is-dividend-distribution-typically-handled-in-companies
 ---
 
 &nbsp;

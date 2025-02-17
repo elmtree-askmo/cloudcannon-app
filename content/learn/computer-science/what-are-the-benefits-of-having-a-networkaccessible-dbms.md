@@ -24,35 +24,35 @@ file_name: what-are-the-benefits-of-having-a-networkaccessible-dbms.md
 url: /learn/computer-science/questions/what-are-the-benefits-of-having-a-networkaccessible-dbms
 score: -1.0
 related_article1:
-    id: 123100
+    id: 123090
     title: >-
-        How do Mail User Agents (MUA) interact with email servers?
+        What are the essential features of a web server?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-mail-user-agents-mua-interact-with-email-servers
+    url: /learn/computer-science/questions/what-are-the-essential-features-of-a-web-server
 related_article2:
-    id: 123094
+    id: 123078
     title: >-
-        Why is web technology important for modern businesses?
-    subject: Digital Media
-    url: /learn/digital-media/questions/why-is-web-technology-important-for-modern-businesses
-related_article3:
-    id: 123077
-    title: >-
-        How does HTTP differ from FTP in terms of file services?
+        What are the security implications of using SCP for file transfers?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-http-differ-from-ftp-in-terms-of-file-services
-related_article4:
+    url: /learn/computer-science/questions/what-are-the-security-implications-of-using-scp-for-file-transfers
+related_article3:
     id: 123095
     title: >-
         What are directory services and how do they function in a network?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-directory-services-and-how-do-they-function-in-a-network
-related_article5:
-    id: 123081
+related_article4:
+    id: 123080
     title: >-
-        How do print server solutions address network printing challenges?
+        What are some common challenges associated with network printing?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-print-server-solutions-address-network-printing-challenges
+    url: /learn/computer-science/questions/what-are-some-common-challenges-associated-with-network-printing
+related_article5:
+    id: 123091
+    title: >-
+        How do web services support dynamic content and web applications?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-web-services-support-dynamic-content-and-web-applications
 ---
 
 &nbsp;

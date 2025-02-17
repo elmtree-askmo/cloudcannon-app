@@ -24,35 +24,35 @@ file_name: how-can-reassurance-and-support-be-tailored-to-meet-the-needs-of-dive
 url: /learn/psychology/questions/how-can-reassurance-and-support-be-tailored-to-meet-the-needs-of-diverse-individuals-and-communities
 score: -1.0
 related_article1:
-    id: 95685
+    id: 95676
     title: >-
-        What are some creative ways to involve an audience in community-building activities?
+        How can collective gratitude strengthen community bonds?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-some-creative-ways-to-involve-an-audience-in-communitybuilding-activities
+    url: /learn/sociology/questions/how-can-collective-gratitude-strengthen-community-bonds
 related_article2:
-    id: 95670
-    title: >-
-        What role does reassurance play in helping individuals achieve their goals?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-does-reassurance-play-in-helping-individuals-achieve-their-goals
-related_article3:
     id: 95679
     title: >-
         What are some effective ways to identify challenges in achieving future aspirations?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-some-effective-ways-to-identify-challenges-in-achieving-future-aspirations
-related_article4:
-    id: 95669
+related_article3:
+    id: 95677
     title: >-
-        How can individuals and communities effectively address these challenges?
+        What are the key elements that contribute to a strong sense of community?
     subject: Sociology
-    url: /learn/sociology/questions/how-can-individuals-and-communities-effectively-address-these-challenges
-related_article5:
+    url: /learn/sociology/questions/what-are-the-key-elements-that-contribute-to-a-strong-sense-of-community
+related_article4:
     id: 95682
     title: >-
         How can support systems be established to assist individuals in achieving their aspirations?
     subject: Psychology
     url: /learn/psychology/questions/how-can-support-systems-be-established-to-assist-individuals-in-achieving-their-aspirations
+related_article5:
+    id: 95685
+    title: >-
+        What are some creative ways to involve an audience in community-building activities?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-some-creative-ways-to-involve-an-audience-in-communitybuilding-activities
 ---
 
 &nbsp;

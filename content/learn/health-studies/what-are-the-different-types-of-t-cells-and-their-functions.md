@@ -23,12 +23,7 @@ subject: Health Studies
 file_name: what-are-the-different-types-of-t-cells-and-their-functions.md
 url: /learn/health-studies/questions/what-are-the-different-types-of-t-cells-and-their-functions
 score: -1.0
-related_article1:
-    id: 123305
-    title: >-
-        How do T cells contribute to the overall immune response?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-t-cells-contribute-to-the-overall-immune-response
+
 ---
 
 &nbsp;

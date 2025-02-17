@@ -24,11 +24,11 @@ file_name: how-does-network-segmentation-enhance-security.md
 url: /learn/computer-science/questions/how-does-network-segmentation-enhance-security
 score: -1.0
 related_article1:
-    id: 122288
+    id: 122279
     title: >-
-        What are the benefits of email and spam filtering in network security?
+        How can viruses and malware be effectively mitigated?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-benefits-of-email-and-spam-filtering-in-network-security
+    url: /learn/computer-science/questions/how-can-viruses-and-malware-be-effectively-mitigated
 related_article2:
     id: 122272
     title: >-
@@ -36,23 +36,17 @@ related_article2:
     subject: Computer Science
     url: /learn/computer-science/questions/can-you-explain-the-concept-of-internal-threats-and-how-social-engineering-is-used-in-these-scenarios
 related_article3:
-    id: 122283
+    id: 122296
     title: >-
-        What are the best practices for physical protection of network infrastructure?
+        What are the advantages of two-factor authentication (2FA)?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-best-practices-for-physical-protection-of-network-infrastructure
+    url: /learn/computer-science/questions/what-are-the-advantages-of-twofactor-authentication-2fa
 related_article4:
-    id: 122280
+    id: 122270
     title: >-
-        What strategies are effective against phishing and ransomware attacks?
+        How does spam and phishing pose a threat to network security?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-strategies-are-effective-against-phishing-and-ransomware-attacks
-related_article5:
-    id: 122293
-    title: >-
-        What are the key elements of password security?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-elements-of-password-security
+    url: /learn/computer-science/questions/how-does-spam-and-phishing-pose-a-threat-to-network-security
 ---
 
 &nbsp;

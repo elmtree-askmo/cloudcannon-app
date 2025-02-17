@@ -35,6 +35,12 @@ related_article2:
         What are some tips for maintaining consistency in academic writing?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-some-tips-for-maintaining-consistency-in-academic-writing
+related_article3:
+    id: 95549
+    title: >-
+        How did the Classical Period influence the development of Roman literature?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-the-classical-period-influence-the-development-of-roman-literature
 ---
 
 &nbsp;

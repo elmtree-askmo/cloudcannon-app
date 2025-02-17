@@ -24,29 +24,29 @@ file_name: how-do-therapeutic-and-toxic-properties-of-drugs-differ.md
 url: /learn/medicine/questions/how-do-therapeutic-and-toxic-properties-of-drugs-differ
 score: -1.0
 related_article1:
-    id: 121493
+    id: 121494
     title: >-
-        What are non-enteral routes of drug administration?
+        How do proteins in the circulatory system affect drug distribution?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-nonenteral-routes-of-drug-administration
+    url: /learn/medicine/questions/how-do-proteins-in-the-circulatory-system-affect-drug-distribution
 related_article2:
+    id: 121495
+    title: >-
+        What is the difference between active and inactive drug fractions?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-difference-between-active-and-inactive-drug-fractions
+related_article3:
     id: 121484
     title: >-
         What are the key processes involved in pharmacokinetics?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-key-processes-involved-in-pharmacokinetics
-related_article3:
-    id: 121476
-    title: >-
-        Can you explain the difference between pharmacodynamics and pharmacokinetics?
-    subject: Medicine
-    url: /learn/medicine/questions/can-you-explain-the-difference-between-pharmacodynamics-and-pharmacokinetics
 related_article4:
-    id: 121501
+    id: 121485
     title: >-
-        What is biliary excretion and how does it occur?
+        What is the process of liberation in pharmacokinetics?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-biliary-excretion-and-how-does-it-occur
+    url: /learn/medicine/questions/what-is-the-process-of-liberation-in-pharmacokinetics
 ---
 
 &nbsp;

@@ -24,35 +24,29 @@ file_name: can-you-explain-the-formal-definition-of-a-random-variable.md
 url: /learn/mathematics/questions/can-you-explain-the-formal-definition-of-a-random-variable
 score: -1.0
 related_article1:
-    id: 102710
+    id: 102693
     title: >-
-        How do random variables help in understanding uncertainty and risk?
+        How can one determine the possible values of a discrete random variable?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-random-variables-help-in-understanding-uncertainty-and-risk
+    url: /learn/mathematics/questions/how-can-one-determine-the-possible-values-of-a-discrete-random-variable
 related_article2:
+    id: 102697
+    title: >-
+        How are random variables used in statistical modeling?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-random-variables-used-in-statistical-modeling
+related_article3:
+    id: 102696
+    title: >-
+        What are some real-world applications of random variables?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-realworld-applications-of-random-variables
+related_article4:
     id: 102709
     title: >-
         What are the limitations of using random variables in statistical analysis?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-limitations-of-using-random-variables-in-statistical-analysis
-related_article3:
-    id: 102687
-    title: >-
-        What are the main types of random variables?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-main-types-of-random-variables
-related_article4:
-    id: 102708
-    title: >-
-        How do random variables interact with other statistical concepts like expectation and variance?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-random-variables-interact-with-other-statistical-concepts-like-expectation-and-variance
-related_article5:
-    id: 102700
-    title: >-
-        How do random variables relate to probability mass functions and probability density functions?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-random-variables-relate-to-probability-mass-functions-and-probability-density-functions
 ---
 
 &nbsp;

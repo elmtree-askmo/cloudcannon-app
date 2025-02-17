@@ -29,18 +29,6 @@ related_article1:
         What are some effective practice activities for learning to multiply decimals?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-some-effective-practice-activities-for-learning-to-multiply-decimals
-related_article2:
-    id: 111525
-    title: >-
-        Could you give an example of multiplying two decimal numbers?
-    subject: Mathematics
-    url: /learn/mathematics/questions/could-you-give-an-example-of-multiplying-two-decimal-numbers
-related_article3:
-    id: 111529
-    title: >-
-        How does multiplying decimals differ from multiplying whole numbers?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-multiplying-decimals-differ-from-multiplying-whole-numbers
 ---
 
 &nbsp;

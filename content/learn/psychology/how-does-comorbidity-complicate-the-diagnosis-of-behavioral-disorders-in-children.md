@@ -23,12 +23,7 @@ subject: Psychology
 file_name: how-does-comorbidity-complicate-the-diagnosis-of-behavioral-disorders-in-children.md
 url: /learn/psychology/questions/how-does-comorbidity-complicate-the-diagnosis-of-behavioral-disorders-in-children
 score: -1.0
-related_article1:
-    id: 107813
-    title: >-
-        What are the main challenges in diagnosing conduct disorder versus normal developmental behavior?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-challenges-in-diagnosing-conduct-disorder-versus-normal-developmental-behavior
+
 ---
 
 &nbsp;

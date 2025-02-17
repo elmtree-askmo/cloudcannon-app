@@ -24,35 +24,35 @@ file_name: what-is-the-typical-career-progression-for-someone-in-deskside-servic
 url: /learn/computer-science/questions/what-is-the-typical-career-progression-for-someone-in-deskside-services
 score: -1.0
 related_article1:
-    id: 122329
-    title: >-
-        What are the primary responsibilities of a Help Desk Analyst?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-primary-responsibilities-of-a-help-desk-analyst
-related_article2:
-    id: 122341
-    title: >-
-        What are the primary duties of a Data Centre Administrator?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-primary-duties-of-a-data-centre-administrator
-related_article3:
     id: 122339
     title: >-
         What qualifications are generally required for a Network Administrator role?
     subject: Computer Science
     url: /learn/computer-science/questions/what-qualifications-are-generally-required-for-a-network-administrator-role
+related_article2:
+    id: 122347
+    title: >-
+        What qualifications are typically required for an Infrastructure Analyst role?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-qualifications-are-typically-required-for-an-infrastructure-analyst-role
+related_article3:
+    id: 122344
+    title: >-
+        What is the career path for a Data Centre Administrator?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-career-path-for-a-data-centre-administrator
 related_article4:
-    id: 122350
+    id: 122346
     title: >-
-        What skills are necessary for a Storage Analyst and Architect?
+        What skills are essential for an Infrastructure Analyst and Architect?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-skills-are-necessary-for-a-storage-analyst-and-architect
+    url: /learn/computer-science/questions/what-skills-are-essential-for-an-infrastructure-analyst-and-architect
 related_article5:
-    id: 122357
+    id: 122340
     title: >-
-        What are the main duties of someone in Application Services?
+        How does a Network Administrator transition to a Network Architect role?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-duties-of-someone-in-application-services
+    url: /learn/computer-science/questions/how-does-a-network-administrator-transition-to-a-network-architect-role
 ---
 
 &nbsp;

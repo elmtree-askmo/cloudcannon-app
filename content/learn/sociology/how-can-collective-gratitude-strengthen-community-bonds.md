@@ -24,11 +24,11 @@ file_name: how-can-collective-gratitude-strengthen-community-bonds.md
 url: /learn/sociology/questions/how-can-collective-gratitude-strengthen-community-bonds
 score: -1.0
 related_article1:
-    id: 95682
+    id: 95669
     title: >-
-        How can support systems be established to assist individuals in achieving their aspirations?
-    subject: Psychology
-    url: /learn/psychology/questions/how-can-support-systems-be-established-to-assist-individuals-in-achieving-their-aspirations
+        How can individuals and communities effectively address these challenges?
+    subject: Sociology
+    url: /learn/sociology/questions/how-can-individuals-and-communities-effectively-address-these-challenges
 related_article2:
     id: 95685
     title: >-
@@ -36,11 +36,17 @@ related_article2:
     subject: Sociology
     url: /learn/sociology/questions/what-are-some-creative-ways-to-involve-an-audience-in-communitybuilding-activities
 related_article3:
-    id: 95670
+    id: 95690
     title: >-
-        What role does reassurance play in helping individuals achieve their goals?
+        How can reassurance and support be tailored to meet the needs of diverse individuals and communities?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-does-reassurance-play-in-helping-individuals-achieve-their-goals
+    url: /learn/psychology/questions/how-can-reassurance-and-support-be-tailored-to-meet-the-needs-of-diverse-individuals-and-communities
+related_article4:
+    id: 95663
+    title: >-
+        How do collective goals differ from personal goals in terms of future aspirations?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-collective-goals-differ-from-personal-goals-in-terms-of-future-aspirations
 ---
 
 &nbsp;

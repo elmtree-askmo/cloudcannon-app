@@ -24,23 +24,23 @@ file_name: how-can-intermolecular-forces-be-visually-represented-or-drawn.md
 url: /learn/chemistry/questions/how-can-intermolecular-forces-be-visually-represented-or-drawn
 score: -1.0
 related_article1:
-    id: 123598
-    title: >-
-        What are the characteristics of hydrogen bonding?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-characteristics-of-hydrogen-bonding
-related_article2:
     id: 123603
     title: >-
         How do water molecules demonstrate intermolecular forces?
     subject: Chemistry
     url: /learn/chemistry/questions/how-do-water-molecules-demonstrate-intermolecular-forces
-related_article3:
-    id: 123617
+related_article2:
+    id: 123598
     title: >-
-        How do intermolecular forces influence melting points?
+        What are the characteristics of hydrogen bonding?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-intermolecular-forces-influence-melting-points
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-hydrogen-bonding
+related_article3:
+    id: 123593
+    title: >-
+        How do chlorine molecules exhibit London dispersion forces?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-chlorine-molecules-exhibit-london-dispersion-forces
 related_article4:
     id: 123599
     title: >-

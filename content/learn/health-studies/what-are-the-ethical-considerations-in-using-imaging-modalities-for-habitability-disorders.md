@@ -24,35 +24,35 @@ file_name: what-are-the-ethical-considerations-in-using-imaging-modalities-for-h
 url: /learn/health-studies/questions/what-are-the-ethical-considerations-in-using-imaging-modalities-for-habitability-disorders
 score: -1.0
 related_article1:
-    id: 118170
+    id: 118179
     title: >-
-        What are the most common imaging techniques used in habitability systems?
+        What are the key features of hepatic cysts and hemangiomas on ultrasound?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-most-common-imaging-techniques-used-in-habitability-systems
+    url: /learn/medicine/questions/what-are-the-key-features-of-hepatic-cysts-and-hemangiomas-on-ultrasound
 related_article2:
+    id: 118180
+    title: >-
+        How effective is ultrasound in detecting focal liver lesions?
+    subject: Medicine
+    url: /learn/medicine/questions/how-effective-is-ultrasound-in-detecting-focal-liver-lesions
+related_article3:
+    id: 118193
+    title: >-
+        How do imaging findings correlate with clinical symptoms in habitability diseases?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-imaging-findings-correlate-with-clinical-symptoms-in-habitability-diseases
+related_article4:
+    id: 118192
+    title: >-
+        What are the latest advancements in imaging techniques for habitability disorders?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-latest-advancements-in-imaging-techniques-for-habitability-disorders
+related_article5:
     id: 118174
     title: >-
         How are gallstones detected using abdominal X-rays?
     subject: Medicine
     url: /learn/medicine/questions/how-are-gallstones-detected-using-abdominal-xrays
-related_article3:
-    id: 118178
-    title: >-
-        How is ultrasound used in the assessment of liver conditions like cirrhosis and steatosis?
-    subject: Medicine
-    url: /learn/medicine/questions/how-is-ultrasound-used-in-the-assessment-of-liver-conditions-like-cirrhosis-and-steatosis
-related_article4:
-    id: 118197
-    title: >-
-        How does patient preparation differ for abdominal X-ray versus ultrasound in habitability assessments?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-patient-preparation-differ-for-abdominal-xray-versus-ultrasound-in-habitability-assessments
-related_article5:
-    id: 118194
-    title: >-
-        What training is required for radiologists to specialize in habitability disorders?
-    subject: Medicine
-    url: /learn/medicine/questions/what-training-is-required-for-radiologists-to-specialize-in-habitability-disorders
 ---
 
 &nbsp;

@@ -24,35 +24,29 @@ file_name: what-are-some-common-pitfalls-to-avoid-when-shaping-information-into-
 url: /learn/digital-media/questions/what-are-some-common-pitfalls-to-avoid-when-shaping-information-into-a-story
 score: -1.0
 related_article1:
-    id: 120706
+    id: 120709
     title: >-
-        What role does a narrative arc play in effective communication?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-role-does-a-narrative-arc-play-in-effective-communication
+        How can storytelling techniques be applied to improve presentation structure?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-storytelling-techniques-be-applied-to-improve-presentation-structure
 related_article2:
+    id: 120702
+    title: >-
+        What is the 'Man in Hole' story structure?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-is-the-man-in-hole-story-structure
+related_article3:
+    id: 120715
+    title: >-
+        What are some techniques to maintain audience interest throughout a story?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-are-some-techniques-to-maintain-audience-interest-throughout-a-story
+related_article4:
     id: 120704
     title: >-
         What are some effective strategies for connecting with an audience through storytelling?
     subject: Digital Media
     url: /learn/digital-media/questions/what-are-some-effective-strategies-for-connecting-with-an-audience-through-storytelling
-related_article3:
-    id: 120692
-    title: >-
-        What are the key steps in the bottom-up approach to shaping a story?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-are-the-key-steps-in-the-bottomup-approach-to-shaping-a-story
-related_article4:
-    id: 120711
-    title: >-
-        How can one balance creativity and structure in storytelling?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-can-one-balance-creativity-and-structure-in-storytelling
-related_article5:
-    id: 120699
-    title: >-
-        How does the Hero’s Journey structure a story?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-the-heros-journey-structure-a-story
 ---
 
 &nbsp;

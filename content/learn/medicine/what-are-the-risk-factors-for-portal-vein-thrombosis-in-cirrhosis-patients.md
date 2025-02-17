@@ -24,29 +24,35 @@ file_name: what-are-the-risk-factors-for-portal-vein-thrombosis-in-cirrhosis-pat
 url: /learn/medicine/questions/what-are-the-risk-factors-for-portal-vein-thrombosis-in-cirrhosis-patients
 score: -1.0
 related_article1:
+    id: 98985
+    title: >-
+        What are the treatment options for portal vein thrombosis in cirrhosis?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-treatment-options-for-portal-vein-thrombosis-in-cirrhosis
+related_article2:
     id: 98984
     title: >-
         How does portal hypertension contribute to the complications of liver disease?
     subject: Medicine
     url: /learn/medicine/questions/how-does-portal-hypertension-contribute-to-the-complications-of-liver-disease
-related_article2:
-    id: 98992
-    title: >-
-        What are the potential side effects of treatments for variceal bleeding?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-potential-side-effects-of-treatments-for-variceal-bleeding
 related_article3:
-    id: 98996
+    id: 98973
     title: >-
-        What are the indications for liver transplantation in cirrhosis patients?
+        What are the common symptoms and signs of portal hypertension?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-indications-for-liver-transplantation-in-cirrhosis-patients
+    url: /learn/medicine/questions/what-are-the-common-symptoms-and-signs-of-portal-hypertension
 related_article4:
-    id: 98977
+    id: 98998
     title: >-
-        How is spontaneous bacterial peritonitis diagnosed and treated?
+        What are the common diagnostic tools used to assess portal hypertension?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-spontaneous-bacterial-peritonitis-diagnosed-and-treated
+    url: /learn/medicine/questions/what-are-the-common-diagnostic-tools-used-to-assess-portal-hypertension
+related_article5:
+    id: 98999
+    title: >-
+        How does the presence of ascites influence the prognosis of cirrhosis?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-the-presence-of-ascites-influence-the-prognosis-of-cirrhosis
 ---
 
 &nbsp;

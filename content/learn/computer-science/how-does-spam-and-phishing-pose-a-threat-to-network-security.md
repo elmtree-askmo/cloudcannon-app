@@ -24,29 +24,29 @@ file_name: how-does-spam-and-phishing-pose-a-threat-to-network-security.md
 url: /learn/computer-science/questions/how-does-spam-and-phishing-pose-a-threat-to-network-security
 score: -1.0
 related_article1:
-    id: 122278
+    id: 122290
     title: >-
-        What are the differences between DoS and DDoS attacks?
+        Why are regular updates and patches crucial for network security?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-differences-between-dos-and-ddos-attacks
+    url: /learn/computer-science/questions/why-are-regular-updates-and-patches-crucial-for-network-security
 related_article2:
-    id: 122297
+    id: 122283
     title: >-
-        How does biometric authentication work and what are its benefits?
+        What are the best practices for physical protection of network infrastructure?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-biometric-authentication-work-and-what-are-its-benefits
+    url: /learn/computer-science/questions/what-are-the-best-practices-for-physical-protection-of-network-infrastructure
 related_article3:
-    id: 122291
+    id: 122272
     title: >-
-        What are the best practices for data backup and recovery?
+        Can you explain the concept of internal threats and how social engineering is used in these scenarios?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-best-practices-for-data-backup-and-recovery
+    url: /learn/computer-science/questions/can-you-explain-the-concept-of-internal-threats-and-how-social-engineering-is-used-in-these-scenarios
 related_article4:
-    id: 122279
+    id: 122293
     title: >-
-        How can viruses and malware be effectively mitigated?
+        What are the key elements of password security?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-viruses-and-malware-be-effectively-mitigated
+    url: /learn/computer-science/questions/what-are-the-key-elements-of-password-security
 ---
 
 &nbsp;

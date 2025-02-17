@@ -24,17 +24,35 @@ file_name: what-are-the-practical-applications-of-guis-in-computer-science-educa
 url: /learn/computer-science/questions/what-are-the-practical-applications-of-guis-in-computer-science-education-such-as-in-cs-11-lab
 score: -1.0
 related_article1:
-    id: 119396
+    id: 119400
     title: >-
-        Can you provide a simple example using the pack() method in Tkinter?
+        Can you provide an example of a simple survey UI using the grid layout manager in Tkinter?
     subject: Computer Science
-    url: /learn/computer-science/questions/can-you-provide-a-simple-example-using-the-pack-method-in-tkinter
+    url: /learn/computer-science/questions/can-you-provide-an-example-of-a-simple-survey-ui-using-the-grid-layout-manager-in-tkinter
 related_article2:
-    id: 119392
+    id: 119389
     title: >-
-        What types of widgets are available in Tkinter?
+        What are the technical aspects of programming GUIs?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-types-of-widgets-are-available-in-tkinter
+    url: /learn/computer-science/questions/what-are-the-technical-aspects-of-programming-guis
+related_article3:
+    id: 119385
+    title: >-
+        What innovations did Xerox PARC introduce with the Xerox Alto in 1973?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-innovations-did-xerox-parc-introduce-with-the-xerox-alto-in-1973
+related_article4:
+    id: 119397
+    title: >-
+        What is the place geometry manager in Tkinter and what are its key features?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-place-geometry-manager-in-tkinter-and-what-are-its-key-features
+related_article5:
+    id: 119409
+    title: >-
+        How have user interfaces evolved over time?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-have-user-interfaces-evolved-over-time
 ---
 
 &nbsp;

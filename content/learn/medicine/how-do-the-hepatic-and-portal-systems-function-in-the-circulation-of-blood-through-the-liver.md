@@ -24,35 +24,35 @@ file_name: how-do-the-hepatic-and-portal-systems-function-in-the-circulation-of-
 url: /learn/medicine/questions/how-do-the-hepatic-and-portal-systems-function-in-the-circulation-of-blood-through-the-liver
 score: -1.0
 related_article1:
-    id: 123862
+    id: 123865
     title: >-
-        What are the key features of intracranial vessels in terms of their function and structure?
+        Can you describe the structure and function of the aortic arch and its branches?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-key-features-of-intracranial-vessels-in-terms-of-their-function-and-structure
+    url: /learn/medicine/questions/can-you-describe-the-structure-and-function-of-the-aortic-arch-and-its-branches
 related_article2:
-    id: 123874
+    id: 123855
     title: >-
-        What is the role of the internal and external iliac arteries in the pelvic arterial system?
+        What are the structural differences between small and medium-sized veins and large veins?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-the-role-of-the-internal-and-external-iliac-arteries-in-the-pelvic-arterial-system
+    url: /learn/medicine/questions/what-are-the-structural-differences-between-small-and-mediumsized-veins-and-large-veins
 related_article3:
-    id: 123857
-    title: >-
-        What is the primary function of capillaries in the vascular system?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-the-primary-function-of-capillaries-in-the-vascular-system
-related_article4:
     id: 123859
     title: >-
         What is the role of the internal carotid arteries in supplying blood to the brain?
     subject: Medicine
     url: /learn/medicine/questions/what-is-the-role-of-the-internal-carotid-arteries-in-supplying-blood-to-the-brain
-related_article5:
-    id: 123849
+related_article4:
+    id: 123863
     title: >-
-        What are the main components of the tunica intima, and what is its primary function?
+        How does venous drainage occur through the external and internal jugular veins?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-main-components-of-the-tunica-intima-and-what-is-its-primary-function
+    url: /learn/medicine/questions/how-does-venous-drainage-occur-through-the-external-and-internal-jugular-veins
+related_article5:
+    id: 123871
+    title: >-
+        How does the descending aorta contribute to the blood supply of the thorax?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-the-descending-aorta-contribute-to-the-blood-supply-of-the-thorax
 ---
 
 &nbsp;

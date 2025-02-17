@@ -24,29 +24,23 @@ file_name: what-are-the-defining-characteristics-of-modern-art.md
 url: /learn/art-history-and-literature/questions/what-are-the-defining-characteristics-of-modern-art
 score: -1.0
 related_article1:
+    id: 110250
+    title: >-
+        How is theater represented in contemporary art?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-is-theater-represented-in-contemporary-art
+related_article2:
+    id: 110261
+    title: >-
+        What are the challenges faced by contemporary artists today?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-the-challenges-faced-by-contemporary-artists-today
+related_article3:
     id: 110238
     title: >-
         What are the key characteristics that distinguish traditional art from modern and contemporary art?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-that-distinguish-traditional-art-from-modern-and-contemporary-art
-related_article2:
-    id: 110257
-    title: >-
-        What are some contemporary art movements that address global issues?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-contemporary-art-movements-that-address-global-issues
-related_article3:
-    id: 110259
-    title: >-
-        What is the impact of contemporary art on cultural understanding?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-impact-of-contemporary-art-on-cultural-understanding
-related_article4:
-    id: 110254
-    title: >-
-        How is visual art evolving in the contemporary art scene?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-is-visual-art-evolving-in-the-contemporary-art-scene
 ---
 
 &nbsp;

@@ -23,7 +23,12 @@ subject: Mathematics
 file_name: how-are-variation-concepts-applied-in-practical-mathematics.md
 url: /learn/mathematics/questions/how-are-variation-concepts-applied-in-practical-mathematics
 score: -1.0
-
+related_article1:
+    id: 102066
+    title: >-
+        Can you provide a detailed explanation of direct variation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/can-you-provide-a-detailed-explanation-of-direct-variation
 ---
 
 &nbsp;

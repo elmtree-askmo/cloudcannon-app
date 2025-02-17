@@ -36,12 +36,6 @@ related_article2:
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/how-can-governments-and-corporations-be-held-accountable-for-state-crimes-and-harms
 related_article3:
-    id: 119211
-    title: >-
-        What are the defining characteristics of state crimes?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-defining-characteristics-of-state-crimes
-related_article4:
     id: 119232
     title: >-
         What are the current challenges in preventing illegal state surveillance?

@@ -24,29 +24,29 @@ file_name: what-is-the-importance-of-the-pelvis-in-terms-of-weight-distribution.
 url: /learn/health-studies/questions/what-is-the-importance-of-the-pelvis-in-terms-of-weight-distribution
 score: -1.0
 related_article1:
-    id: 100368
+    id: 100362
     title: >-
-        Why is the femur considered an important bone in the body?
-    subject: Health Studies
-    url: /learn/health-studies/questions/why-is-the-femur-considered-an-important-bone-in-the-body
-related_article2:
-    id: 100375
-    title: >-
-        How do the legs support locomotion and weight-bearing?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-the-legs-support-locomotion-and-weightbearing
-related_article3:
-    id: 100370
-    title: >-
-        What is the significance of the skull in protecting the brain?
+        Can you describe the detailed anatomy of the skull?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-the-significance-of-the-skull-in-protecting-the-brain
-related_article4:
+    url: /learn/medicine/questions/can-you-describe-the-detailed-anatomy-of-the-skull
+related_article2:
+    id: 100364
+    title: >-
+        How does the spine contribute to the overall function of the skeleton?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-spine-contribute-to-the-overall-function-of-the-skeleton
+related_article3:
     id: 100357
     title: >-
         In what ways does the skeleton facilitate movement?
     subject: Health Studies
     url: /learn/health-studies/questions/in-what-ways-does-the-skeleton-facilitate-movement
+related_article4:
+    id: 100359
+    title: >-
+        How is the skeletal system divided into axial and appendicular components?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-the-skeletal-system-divided-into-axial-and-appendicular-components
 ---
 
 &nbsp;

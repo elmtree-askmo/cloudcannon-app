@@ -24,35 +24,29 @@ file_name: what-are-foreign-currency-convertible-bonds-fccbs-and-their-benefits.
 url: /learn/accounting-and-finance/questions/what-are-foreign-currency-convertible-bonds-fccbs-and-their-benefits
 score: -1.0
 related_article1:
-    id: 98644
+    id: 98646
     title: >-
-        How do preference shares differ from equity shares?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/how-do-preference-shares-differ-from-equity-shares
+        What role do commercial banks play in providing business finance?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-role-do-commercial-banks-play-in-providing-business-finance
 related_article2:
-    id: 98635
+    id: 98642
     title: >-
-        Can you explain the source of generation basis for classifying sources of funds?
+        What are the different types of shares issued by companies?
     subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/can-you-explain-the-source-of-generation-basis-for-classifying-sources-of-funds
+    url: /learn/accounting-and-finance/questions/what-are-the-different-types-of-shares-issued-by-companies
 related_article3:
-    id: 98645
-    title: >-
-        What are debentures and how are they used in business finance?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-are-debentures-and-how-are-they-used-in-business-finance
-related_article4:
     id: 98636
     title: >-
         What are retained earnings and how are they used in business finance?
     subject: Accounting and Finance
     url: /learn/accounting-and-finance/questions/what-are-retained-earnings-and-how-are-they-used-in-business-finance
-related_article5:
-    id: 98638
+related_article4:
+    id: 98641
     title: >-
-        What is factoring and how does it benefit businesses?
+        How is commercial paper used as a source of finance?
     subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-is-factoring-and-how-does-it-benefit-businesses
+    url: /learn/accounting-and-finance/questions/how-is-commercial-paper-used-as-a-source-of-finance
 ---
 
 &nbsp;

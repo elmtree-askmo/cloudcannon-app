@@ -24,35 +24,35 @@ file_name: what-are-some-historical-examples-of-the-babylonian-method-in-physics
 url: /learn/history-of-the-world/questions/what-are-some-historical-examples-of-the-babylonian-method-in-physics
 score: -1.0
 related_article1:
-    id: 115998
+    id: 116004
     title: >-
-        How does mathematics help us understand natural phenomena?
+        What are the key differences between Babylonian and Greek mathematical traditions?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
+    url: /learn/mathematics/questions/what-are-the-key-differences-between-babylonian-and-greek-mathematical-traditions
 related_article2:
-    id: 116014
+    id: 116009
     title: >-
-        How do mathematical models help in predicting physical phenomena?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
-related_article3:
-    id: 116017
-    title: >-
-        What are some examples of mathematical concepts that have been crucial in physics?
+        What is the principle of conservation of angular momentum and its importance in physics?
     subject: Physics
-    url: /learn/physics/questions/what-are-some-examples-of-mathematical-concepts-that-have-been-crucial-in-physics
+    url: /learn/physics/questions/what-is-the-principle-of-conservation-of-angular-momentum-and-its-importance-in-physics
+related_article3:
+    id: 116025
+    title: >-
+        What is the historical significance of the minimum principle in physics?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-historical-significance-of-the-minimum-principle-in-physics
 related_article4:
-    id: 116027
+    id: 116001
     title: >-
-        What are the challenges in translating physical phenomena into mathematical language?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-challenges-in-translating-physical-phenomena-into-mathematical-language
+        How is mathematical language used to describe physical laws?
+    subject: Physics
+    url: /learn/physics/questions/how-is-mathematical-language-used-to-describe-physical-laws
 related_article5:
-    id: 116026
+    id: 116008
     title: >-
-        How do philosophical perspectives influence the interpretation of mathematical physics?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-do-philosophical-perspectives-influence-the-interpretation-of-mathematical-physics
+        How does the law of gravitation relate to other physical laws?
+    subject: Physics
+    url: /learn/physics/questions/how-does-the-law-of-gravitation-relate-to-other-physical-laws
 ---
 
 &nbsp;

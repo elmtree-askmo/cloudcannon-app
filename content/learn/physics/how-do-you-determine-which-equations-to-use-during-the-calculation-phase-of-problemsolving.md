@@ -24,17 +24,17 @@ file_name: how-do-you-determine-which-equations-to-use-during-the-calculation-ph
 url: /learn/physics/questions/how-do-you-determine-which-equations-to-use-during-the-calculation-phase-of-problemsolving
 score: -1.0
 related_article1:
-    id: 122453
+    id: 122449
     title: >-
-        How is average velocity calculated, and how does it differ from instantaneous velocity?
+        What are the key steps involved in setting up a physics problem?
     subject: Physics
-    url: /learn/physics/questions/how-is-average-velocity-calculated-and-how-does-it-differ-from-instantaneous-velocity
+    url: /learn/physics/questions/what-are-the-key-steps-involved-in-setting-up-a-physics-problem
 related_article2:
-    id: 122466
+    id: 122454
     title: >-
-        What are the different forms of potential energy, and how are they calculated?
+        What is the significance of the time interval in kinematics?
     subject: Physics
-    url: /learn/physics/questions/what-are-the-different-forms-of-potential-energy-and-how-are-they-calculated
+    url: /learn/physics/questions/what-is-the-significance-of-the-time-interval-in-kinematics
 related_article3:
     id: 122476
     title: >-
@@ -42,17 +42,17 @@ related_article3:
     subject: Physics
     url: /learn/physics/questions/how-is-density-defined-and-what-is-its-significance-in-physics
 related_article4:
-    id: 122456
+    id: 122468
     title: >-
-        What are the common methods for graphical analysis in kinematics?
+        What is the principle of conservation of energy, and how is it applied in physics problems?
     subject: Physics
-    url: /learn/physics/questions/what-are-the-common-methods-for-graphical-analysis-in-kinematics
+    url: /learn/physics/questions/what-is-the-principle-of-conservation-of-energy-and-how-is-it-applied-in-physics-problems
 related_article5:
-    id: 122469
+    id: 122477
     title: >-
-        How is power defined in physics, and what factors influence efficiency?
+        What is Archimedes' Principle, and how does it explain buoyancy?
     subject: Physics
-    url: /learn/physics/questions/how-is-power-defined-in-physics-and-what-factors-influence-efficiency
+    url: /learn/physics/questions/what-is-archimedes-principle-and-how-does-it-explain-buoyancy
 ---
 
 &nbsp;

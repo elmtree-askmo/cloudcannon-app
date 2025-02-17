@@ -24,29 +24,29 @@ file_name: what-are-the-key-metrics-used-in-marketing-planning.md
 url: /learn/business-and-management/questions/what-are-the-key-metrics-used-in-marketing-planning
 score: -1.0
 related_article1:
-    id: 119513
+    id: 119511
     title: >-
-        How are experiences marketed differently from goods and services?
+        How do goods differ from services in marketing?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-are-experiences-marketed-differently-from-goods-and-services
+    url: /learn/business-and-management/questions/how-do-goods-differ-from-services-in-marketing
 related_article2:
-    id: 119505
-    title: >-
-        What does it mean to serve or create in the context of marketing?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-does-it-mean-to-serve-or-create-in-the-context-of-marketing
-related_article3:
     id: 119510
     title: >-
         What are the different entities that can be marketed?
     subject: Business and Management
     url: /learn/business-and-management/questions/what-are-the-different-entities-that-can-be-marketed
-related_article4:
-    id: 119514
+related_article3:
+    id: 119507
     title: >-
-        What are the unique challenges in marketing persons and places?
+        Why might wants be considered elusive in marketing?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-unique-challenges-in-marketing-persons-and-places
+    url: /learn/business-and-management/questions/why-might-wants-be-considered-elusive-in-marketing
+related_article4:
+    id: 119531
+    title: >-
+        How do ethical considerations impact marketing strategies?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-do-ethical-considerations-impact-marketing-strategies
 related_article5:
     id: 119525
     title: >-

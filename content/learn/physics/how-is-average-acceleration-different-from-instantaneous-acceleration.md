@@ -24,35 +24,35 @@ file_name: how-is-average-acceleration-different-from-instantaneous-acceleration
 url: /learn/physics/questions/how-is-average-acceleration-different-from-instantaneous-acceleration
 score: -1.0
 related_article1:
-    id: 122462
+    id: 122458
     title: >-
-        What are some examples of Newton's Third Law in everyday life?
+        What are the key equations of motion for uniform motion?
     subject: Physics
-    url: /learn/physics/questions/what-are-some-examples-of-newtons-third-law-in-everyday-life
+    url: /learn/physics/questions/what-are-the-key-equations-of-motion-for-uniform-motion
 related_article2:
-    id: 122476
+    id: 122463
     title: >-
-        How is density defined, and what is its significance in physics?
+        How is equilibrium defined in the context of forces?
     subject: Physics
-    url: /learn/physics/questions/how-is-density-defined-and-what-is-its-significance-in-physics
+    url: /learn/physics/questions/how-is-equilibrium-defined-in-the-context-of-forces
 related_article3:
-    id: 122474
+    id: 122475
     title: >-
-        What are the characteristics of series and parallel circuits?
+        How is electromotive force different from internal resistance in electrical circuits?
     subject: Physics
-    url: /learn/physics/questions/what-are-the-characteristics-of-series-and-parallel-circuits
+    url: /learn/physics/questions/how-is-electromotive-force-different-from-internal-resistance-in-electrical-circuits
 related_article4:
-    id: 122465
+    id: 122449
     title: >-
-        How is work defined in physics, and how does it relate to energy?
+        What are the key steps involved in setting up a physics problem?
     subject: Physics
-    url: /learn/physics/questions/how-is-work-defined-in-physics-and-how-does-it-relate-to-energy
+    url: /learn/physics/questions/what-are-the-key-steps-involved-in-setting-up-a-physics-problem
 related_article5:
-    id: 122454
+    id: 122468
     title: >-
-        What is the significance of the time interval in kinematics?
+        What is the principle of conservation of energy, and how is it applied in physics problems?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-significance-of-the-time-interval-in-kinematics
+    url: /learn/physics/questions/what-is-the-principle-of-conservation-of-energy-and-how-is-it-applied-in-physics-problems
 ---
 
 &nbsp;

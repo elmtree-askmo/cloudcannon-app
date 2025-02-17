@@ -30,29 +30,29 @@ related_article1:
     subject: Physics
     url: /learn/physics/questions/how-do-modern-physicists-use-mathematical-language-to-describe-complex-systems
 related_article2:
-    id: 122429
+    id: 122428
     title: >-
-        How does the law of gravitation demonstrate the relationship between physics and mathematics?
-    subject: Physics
-    url: /learn/physics/questions/how-does-the-law-of-gravitation-demonstrate-the-relationship-between-physics-and-mathematics
+        What is the Euclidean method and its role in physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-euclidean-method-and-its-role-in-physics
 related_article3:
-    id: 122421
+    id: 122426
     title: >-
-        Can you explain Newton's Law of Gravitation in mathematical terms?
+        What are fundamental principles and consequential statements in physics?
     subject: Physics
-    url: /learn/physics/questions/can-you-explain-newtons-law-of-gravitation-in-mathematical-terms
+    url: /learn/physics/questions/what-are-fundamental-principles-and-consequential-statements-in-physics
 related_article4:
-    id: 122433
+    id: 122442
     title: >-
-        How does the minimum principle apply to physics and mathematics?
-    subject: Physics
-    url: /learn/physics/questions/how-does-the-minimum-principle-apply-to-physics-and-mathematics
+        What is the importance of mathematical notation in communicating scientific ideas?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-mathematical-notation-in-communicating-scientific-ideas
 related_article5:
-    id: 122430
+    id: 122448
     title: >-
-        What is the conservation of angular momentum and its mathematical representation?
+        What are some real-world applications of the minimum principle in physics?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-conservation-of-angular-momentum-and-its-mathematical-representation
+    url: /learn/physics/questions/what-are-some-realworld-applications-of-the-minimum-principle-in-physics
 ---
 
 &nbsp;

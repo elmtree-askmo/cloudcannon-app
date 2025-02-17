@@ -24,23 +24,11 @@ file_name: what-are-the-main-principles-of-social-responsibility-theory-in-media
 url: /learn/sociology/questions/what-are-the-main-principles-of-social-responsibility-theory-in-media
 score: -1.0
 related_article1:
-    id: 104557
-    title: >-
-        How do audience and cultural differences affect media practices?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-do-audience-and-cultural-differences-affect-media-practices
-related_article2:
     id: 104547
     title: >-
         How does media professionalism relate to public interest?
     subject: Digital Media
     url: /learn/digital-media/questions/how-does-media-professionalism-relate-to-public-interest
-related_article3:
-    id: 104549
-    title: >-
-        How does public broadcasting maintain independence from economic and governmental pressures?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-does-public-broadcasting-maintain-independence-from-economic-and-governmental-pressures
 ---
 
 &nbsp;

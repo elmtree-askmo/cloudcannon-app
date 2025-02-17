@@ -24,35 +24,35 @@ file_name: what-are-the-key-properties-of-matrices-that-are-important-in-linear-
 url: /learn/mathematics/questions/what-are-the-key-properties-of-matrices-that-are-important-in-linear-algebra
 score: -1.0
 related_article1:
-    id: 104648
+    id: 104658
     title: >-
-        How does Gaussian elimination work in solving linear equations?
+        What defines a vector space and its subspaces?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-gaussian-elimination-work-in-solving-linear-equations
+    url: /learn/mathematics/questions/what-defines-a-vector-space-and-its-subspaces
 related_article2:
-    id: 104651
-    title: >-
-        What are the basic operations that can be performed on matrices?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-basic-operations-that-can-be-performed-on-matrices
-related_article3:
-    id: 104649
-    title: >-
-        What are the elementary row operations used in matrix manipulation?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-elementary-row-operations-used-in-matrix-manipulation
-related_article4:
-    id: 104672
-    title: >-
-        How does the Principal Axes Theorem provide a geometric interpretation of matrices?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-principal-axes-theorem-provide-a-geometric-interpretation-of-matrices
-related_article5:
     id: 104660
     title: >-
         What are linear transformations and their key properties?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-linear-transformations-and-their-key-properties
+related_article3:
+    id: 104672
+    title: >-
+        How does the Principal Axes Theorem provide a geometric interpretation of matrices?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-principal-axes-theorem-provide-a-geometric-interpretation-of-matrices
+related_article4:
+    id: 104648
+    title: >-
+        How does Gaussian elimination work in solving linear equations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-gaussian-elimination-work-in-solving-linear-equations
+related_article5:
+    id: 104662
+    title: >-
+        What is the significance of isomorphisms and composition in linear transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-isomorphisms-and-composition-in-linear-transformations
 ---
 
 &nbsp;

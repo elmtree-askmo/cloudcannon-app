@@ -24,29 +24,29 @@ file_name: how-did-the-white-night-riot-affect-the-relationship-between-the-lgbt
 url: /learn/sociology/questions/how-did-the-white-night-riot-affect-the-relationship-between-the-lgbtq-community-and-law-enforcement
 score: -1.0
 related_article1:
-    id: 123833
+    id: 123828
     title: >-
-        What was the verdict and sentencing in Dan White's trial?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-was-the-verdict-and-sentencing-in-dan-whites-trial
+        How did the public react to the assassinations of George Moscone and Harvey Milk?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-public-react-to-the-assassinations-of-george-moscone-and-harvey-milk
 related_article2:
-    id: 123825
+    id: 123848
     title: >-
-        How did the economic and cultural changes in 1970s San Francisco affect its socio-political climate?
-    subject: Sociology
-    url: /learn/sociology/questions/how-did-the-economic-and-cultural-changes-in-1970s-san-francisco-affect-its-sociopolitical-climate
+        How did the legacy of the assassinations shape future political and social movements in San Francisco?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-legacy-of-the-assassinations-shape-future-political-and-social-movements-in-san-francisco
 related_article3:
-    id: 123843
+    id: 123845
     title: >-
-        What were the motivations behind Dan White's actions?
+        What role did George Moscone and Harvey Milk play in the political tensions of the time?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-motivations-behind-dan-whites-actions
+    url: /learn/history-of-the-world/questions/what-role-did-george-moscone-and-harvey-milk-play-in-the-political-tensions-of-the-time
 related_article4:
-    id: 123829
+    id: 123838
     title: >-
-        What were the key events of the White Night Riot?
+        What was the media coverage like following the assassinations and the trial?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-events-of-the-white-night-riot
+    url: /learn/history-of-the-world/questions/what-was-the-media-coverage-like-following-the-assassinations-and-the-trial
 ---
 
 &nbsp;

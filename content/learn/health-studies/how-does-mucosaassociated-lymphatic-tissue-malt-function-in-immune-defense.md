@@ -24,17 +24,17 @@ file_name: how-does-mucosaassociated-lymphatic-tissue-malt-function-in-immune-de
 url: /learn/health-studies/questions/how-does-mucosaassociated-lymphatic-tissue-malt-function-in-immune-defense
 score: -1.0
 related_article1:
-    id: 106882
-    title: >-
-        Can you explain the role of the lymphatic system in immunity?
-    subject: Health Studies
-    url: /learn/health-studies/questions/can-you-explain-the-role-of-the-lymphatic-system-in-immunity
-related_article2:
     id: 106891
     title: >-
         What mechanisms constitute the first line of defense in the immune system?
     subject: Health Studies
     url: /learn/health-studies/questions/what-mechanisms-constitute-the-first-line-of-defense-in-the-immune-system
+related_article2:
+    id: 106882
+    title: >-
+        Can you explain the role of the lymphatic system in immunity?
+    subject: Health Studies
+    url: /learn/health-studies/questions/can-you-explain-the-role-of-the-lymphatic-system-in-immunity
 ---
 
 &nbsp;

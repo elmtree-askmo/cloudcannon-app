@@ -24,17 +24,35 @@ file_name: how-does-hesss-law-apply-to-realworld-chemical-reactions.md
 url: /learn/chemistry/questions/how-does-hesss-law-apply-to-realworld-chemical-reactions
 score: -1.0
 related_article1:
-    id: 117907
+    id: 117926
     title: >-
-        What factors affect ionization energies of elements?
+        How do quantum numbers influence the properties of elements?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-factors-affect-ionization-energies-of-elements
+    url: /learn/chemistry/questions/how-do-quantum-numbers-influence-the-properties-of-elements
 related_article2:
-    id: 117917
+    id: 117909
     title: >-
-        What is the relationship between volume and temperature in gases?
+        How are Lewis structures used to represent molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-are-lewis-structures-used-to-represent-molecules
+related_article3:
+    id: 117923
+    title: >-
+        What factors affect solubility predictions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-factors-affect-solubility-predictions
+related_article4:
+    id: 117928
+    title: >-
+        What trends are observed in ionization energies across the periodic table?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-trends-are-observed-in-ionization-energies-across-the-periodic-table
+related_article5:
+    id: 117916
+    title: >-
+        How is gas pressure calculated in different conditions?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-relationship-between-volume-and-temperature-in-gases
+    url: /learn/physics/questions/how-is-gas-pressure-calculated-in-different-conditions
 ---
 
 &nbsp;

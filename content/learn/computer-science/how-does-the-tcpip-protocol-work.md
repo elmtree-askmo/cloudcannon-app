@@ -24,35 +24,35 @@ file_name: how-does-the-tcpip-protocol-work.md
 url: /learn/computer-science/questions/how-does-the-tcpip-protocol-work
 score: -1.0
 related_article1:
-    id: 116120
-    title: >-
-        What are the key features of the Linux operating system?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-features-of-the-linux-operating-system
-related_article2:
-    id: 116145
-    title: >-
-        How does Linux contribute to the development of new networking technologies?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-linux-contribute-to-the-development-of-new-networking-technologies
-related_article3:
-    id: 116143
-    title: >-
-        How can Linux be integrated with other operating systems in a network?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-linux-be-integrated-with-other-operating-systems-in-a-network
-related_article4:
     id: 116126
     title: >-
         How do HTTP and HTTPS protocols ensure secure communication?
     subject: Computer Science
     url: /learn/computer-science/questions/how-do-http-and-https-protocols-ensure-secure-communication
-related_article5:
+related_article2:
+    id: 116143
+    title: >-
+        How can Linux be integrated with other operating systems in a network?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-can-linux-be-integrated-with-other-operating-systems-in-a-network
+related_article3:
+    id: 116144
+    title: >-
+        What are the latest trends in firewall technology for Linux?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-latest-trends-in-firewall-technology-for-linux
+related_article4:
     id: 116123
     title: >-
         Are there any graphical networking tools available in Linux?
     subject: Computer Science
     url: /learn/computer-science/questions/are-there-any-graphical-networking-tools-available-in-linux
+related_article5:
+    id: 116139
+    title: >-
+        How does Linux handle network traffic management?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-linux-handle-network-traffic-management
 ---
 
 &nbsp;

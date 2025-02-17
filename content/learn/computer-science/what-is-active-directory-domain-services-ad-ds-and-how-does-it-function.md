@@ -24,29 +24,29 @@ file_name: what-is-active-directory-domain-services-ad-ds-and-how-does-it-functi
 url: /learn/computer-science/questions/what-is-active-directory-domain-services-ad-ds-and-how-does-it-function
 score: -1.0
 related_article1:
-    id: 122679
-    title: >-
-        What are the best practices for implementing file services in a network?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-best-practices-for-implementing-file-services-in-a-network
-related_article2:
     id: 122676
     title: >-
         What protocols are commonly used in email services?
     subject: Computer Science
     url: /learn/computer-science/questions/what-protocols-are-commonly-used-in-email-services
+related_article2:
+    id: 122679
+    title: >-
+        What are the best practices for implementing file services in a network?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-best-practices-for-implementing-file-services-in-a-network
 related_article3:
-    id: 122687
+    id: 122663
     title: >-
-        What are the latest trends in network services and protocols?
+        What are the key features of SMB/CIFS in file services?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-latest-trends-in-network-services-and-protocols
+    url: /learn/computer-science/questions/what-are-the-key-features-of-smbcifs-in-file-services
 related_article4:
-    id: 122664
+    id: 122686
     title: >-
-        How does NFS facilitate file sharing in a network environment?
+        How do email protocols ensure the security and reliability of email communication?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-nfs-facilitate-file-sharing-in-a-network-environment
+    url: /learn/computer-science/questions/how-do-email-protocols-ensure-the-security-and-reliability-of-email-communication
 related_article5:
     id: 122684
     title: >-

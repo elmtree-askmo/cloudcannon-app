@@ -30,29 +30,23 @@ related_article1:
     subject: Business and Management
     url: /learn/business-and-management/questions/how-does-marketing-add-value-by-catering-to-customers-needs
 related_article2:
-    id: 119505
+    id: 119531
     title: >-
-        What does it mean to serve or create in the context of marketing?
+        How do ethical considerations impact marketing strategies?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-does-it-mean-to-serve-or-create-in-the-context-of-marketing
+    url: /learn/business-and-management/questions/how-do-ethical-considerations-impact-marketing-strategies
 related_article3:
-    id: 119521
+    id: 119507
     title: >-
-        What are the different demand states in demand management?
+        Why might wants be considered elusive in marketing?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-different-demand-states-in-demand-management
+    url: /learn/business-and-management/questions/why-might-wants-be-considered-elusive-in-marketing
 related_article4:
-    id: 119523
+    id: 119509
     title: >-
-        How do government markets differ from other market types?
+        How does marketing contribute to a company's success and job creation?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-do-government-markets-differ-from-other-market-types
-related_article5:
-    id: 119513
-    title: >-
-        How are experiences marketed differently from goods and services?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-are-experiences-marketed-differently-from-goods-and-services
+    url: /learn/business-and-management/questions/how-does-marketing-contribute-to-a-companys-success-and-job-creation
 ---
 
 &nbsp;

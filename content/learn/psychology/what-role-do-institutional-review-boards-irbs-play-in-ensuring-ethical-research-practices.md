@@ -30,23 +30,17 @@ related_article1:
     subject: Psychology
     url: /learn/psychology/questions/how-do-natural-experiments-differ-from-other-types-of-experiments-in-psychology
 related_article2:
-    id: 123679
+    id: 123706
     title: >-
-        Can you provide a detailed explanation of Harlow's Monkey Experiment and its significance in psychology?
+        How do researchers address issues of consent and confidentiality in psychological studies?
     subject: Psychology
-    url: /learn/psychology/questions/can-you-provide-a-detailed-explanation-of-harlows-monkey-experiment-and-its-significance-in-psychology
+    url: /learn/psychology/questions/how-do-researchers-address-issues-of-consent-and-confidentiality-in-psychological-studies
 related_article3:
-    id: 123682
+    id: 123700
     title: >-
-        What was the purpose of Williams' TV Experiment and what were its major conclusions?
+        How can researchers mitigate potential biases in psychological experiments?
     subject: Psychology
-    url: /learn/psychology/questions/what-was-the-purpose-of-williams-tv-experiment-and-what-were-its-major-conclusions
-related_article4:
-    id: 123698
-    title: >-
-        How do ethical guidelines differ for experiments involving human participants versus animal subjects?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-ethical-guidelines-differ-for-experiments-involving-human-participants-versus-animal-subjects
+    url: /learn/psychology/questions/how-can-researchers-mitigate-potential-biases-in-psychological-experiments
 ---
 
 &nbsp;

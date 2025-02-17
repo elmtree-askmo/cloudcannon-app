@@ -24,29 +24,35 @@ file_name: what-treatment-options-are-available-for-managing-chronic-ischemia.md
 url: /learn/medicine/questions/what-treatment-options-are-available-for-managing-chronic-ischemia
 score: -1.0
 related_article1:
-    id: 102184
+    id: 102175
     title: >-
-        How do surgical and endovascular treatment approaches compare in terms of outcomes for acute ischemia?
+        What diagnostic methods are used for chronic ischemia?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-surgical-and-endovascular-treatment-approaches-compare-in-terms-of-outcomes-for-acute-ischemia
+    url: /learn/medicine/questions/what-diagnostic-methods-are-used-for-chronic-ischemia
 related_article2:
+    id: 102160
+    title: >-
+        Which sites are most commonly affected by embolism in acute limb ischemia?
+    subject: Medicine
+    url: /learn/medicine/questions/which-sites-are-most-commonly-affected-by-embolism-in-acute-limb-ischemia
+related_article3:
+    id: 102183
+    title: >-
+        What are the benefits and limitations of different imaging techniques for acute ischemia?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-benefits-and-limitations-of-different-imaging-techniques-for-acute-ischemia
+related_article4:
+    id: 102157
+    title: >-
+        What role does acute thrombosis play in the development of acute ischemia?
+    subject: Medicine
+    url: /learn/medicine/questions/what-role-does-acute-thrombosis-play-in-the-development-of-acute-ischemia
+related_article5:
     id: 102177
     title: >-
         What are the latest technological advances in vascular surgery?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-latest-technological-advances-in-vascular-surgery
-related_article3:
-    id: 102166
-    title: >-
-        What is the process of bypass surgery in managing acute ischemia?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-the-process-of-bypass-surgery-in-managing-acute-ischemia
-related_article4:
-    id: 102163
-    title: >-
-        What imaging techniques are most effective in diagnosing acute ischemia?
-    subject: Medicine
-    url: /learn/medicine/questions/what-imaging-techniques-are-most-effective-in-diagnosing-acute-ischemia
 ---
 
 &nbsp;

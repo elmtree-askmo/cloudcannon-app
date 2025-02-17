@@ -24,35 +24,35 @@ file_name: what-is-freezing-point-depression-and-how-is-it-calculated.md
 url: /learn/chemistry/questions/what-is-freezing-point-depression-and-how-is-it-calculated
 score: -1.0
 related_article1:
+    id: 117918
+    title: >-
+        How do you calculate the density and partial pressure of a gas?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-you-calculate-the-density-and-partial-pressure-of-a-gas
+related_article2:
     id: 117902
     title: >-
         What is the heat of combustion and how is it measured?
     subject: Chemistry
     url: /learn/chemistry/questions/what-is-the-heat-of-combustion-and-how-is-it-measured
-related_article2:
-    id: 117913
-    title: >-
-        What is hybridization in covalent bonding?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-is-hybridization-in-covalent-bonding
 related_article3:
-    id: 117929
+    id: 117909
     title: >-
-        How do molecular orbital diagrams help in understanding chemical bonding?
+        How are Lewis structures used to represent molecules?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-molecular-orbital-diagrams-help-in-understanding-chemical-bonding
+    url: /learn/chemistry/questions/how-are-lewis-structures-used-to-represent-molecules
 related_article4:
-    id: 117916
+    id: 117903
     title: >-
-        How is gas pressure calculated in different conditions?
-    subject: Physics
-    url: /learn/physics/questions/how-is-gas-pressure-calculated-in-different-conditions
-related_article5:
-    id: 117910
-    title: >-
-        What methods are used to predict molecular geometry?
+        Can you explain Hess's Law and its significance in thermochemistry?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-methods-are-used-to-predict-molecular-geometry
+    url: /learn/chemistry/questions/can-you-explain-hesss-law-and-its-significance-in-thermochemistry
+related_article5:
+    id: 117912
+    title: >-
+        What are formal charges and how are they calculated?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-formal-charges-and-how-are-they-calculated
 ---
 
 &nbsp;

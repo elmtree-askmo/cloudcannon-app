@@ -24,23 +24,23 @@ file_name: how-does-venous-obstruction-contribute-to-chronic-venous-insufficienc
 url: /learn/health-studies/questions/how-does-venous-obstruction-contribute-to-chronic-venous-insufficiency-cvi
 score: -1.0
 related_article1:
-    id: 102194
+    id: 102195
     title: >-
-        What are the risk factors for developing deep vein thrombosis (DVT)?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-risk-factors-for-developing-deep-vein-thrombosis-dvt
-related_article2:
-    id: 102210
-    title: >-
-        What role does genetics play in venous diseases?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-role-does-genetics-play-in-venous-diseases
-related_article3:
-    id: 102191
-    title: >-
-        What are the clinical features of CVI?
+        What symptoms are typically associated with DVT?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-clinical-features-of-cvi
+    url: /learn/medicine/questions/what-symptoms-are-typically-associated-with-dvt
+related_article2:
+    id: 102206
+    title: >-
+        What preventive measures can be taken to reduce the risk of venous diseases?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-preventive-measures-can-be-taken-to-reduce-the-risk-of-venous-diseases
+related_article3:
+    id: 102199
+    title: >-
+        Can you provide an overview of the anatomy of the venous system?
+    subject: Medicine
+    url: /learn/medicine/questions/can-you-provide-an-overview-of-the-anatomy-of-the-venous-system
 related_article4:
     id: 102211
     title: >-
@@ -48,11 +48,11 @@ related_article4:
     subject: Health Studies
     url: /learn/health-studies/questions/how-do-healthcare-systems-manage-the-burden-of-venous-diseases
 related_article5:
-    id: 102197
+    id: 102187
     title: >-
-        What complications can arise from untreated DVT?
-    subject: Medicine
-    url: /learn/medicine/questions/what-complications-can-arise-from-untreated-dvt
+        What causes venous valve dysfunction?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-causes-venous-valve-dysfunction
 ---
 
 &nbsp;

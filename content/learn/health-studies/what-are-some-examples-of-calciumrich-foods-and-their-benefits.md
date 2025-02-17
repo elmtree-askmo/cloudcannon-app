@@ -30,29 +30,29 @@ related_article1:
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-primary-functions-of-carbohydrates-in-the-body
 related_article2:
-    id: 119041
+    id: 119057
     title: >-
-        How does player rotation work in volleyball?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-player-rotation-work-in-volleyball
+        How do balance and posture affect athletic performance?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-balance-and-posture-affect-athletic-performance
 related_article3:
-    id: 119051
+    id: 119050
     title: >-
-        What are the major components of the muscular system?
+        How does physical fitness contribute to overall well-being?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-major-components-of-the-muscular-system
+    url: /learn/health-studies/questions/how-does-physical-fitness-contribute-to-overall-wellbeing
 related_article4:
-    id: 119053
-    title: >-
-        What are the main functions of the brain in the human body?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-functions-of-the-brain-in-the-human-body
-related_article5:
     id: 119038
     title: >-
         How can players improve their free throw shooting accuracy?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-players-improve-their-free-throw-shooting-accuracy
+related_article5:
+    id: 119053
+    title: >-
+        What are the main functions of the brain in the human body?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-main-functions-of-the-brain-in-the-human-body
 ---
 
 &nbsp;

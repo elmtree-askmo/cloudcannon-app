@@ -24,24 +24,30 @@ file_name: what-role-do-peer-relationships-play-in-student-mental-health-during-
 url: /learn/psychology/questions/what-role-do-peer-relationships-play-in-student-mental-health-during-the-pandemic
 score: -1.0
 related_article1:
-    id: 116930
+    id: 116925
     title: >-
-        What is narrative therapy and how can it be applied in educational settings?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-narrative-therapy-and-how-can-it-be-applied-in-educational-settings
-related_article2:
-    id: 116919
-    title: >-
-        How have learning processes been affected by the shift to online education?
+        How can psychological support be integrated into the educational system?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-have-learning-processes-been-affected-by-the-shift-to-online-education
-related_article3:
-    id: 116933
+    url: /learn/education-studies/questions/how-can-psychological-support-be-integrated-into-the-educational-system
+related_article2:
+    id: 116944
     title: >-
-        What strategies can be implemented to support students' mental health post-pandemic?
+        How can schools measure the effectiveness of mental health interventions?
     subject: Psychology
-    url: /learn/psychology/questions/what-strategies-can-be-implemented-to-support-students-mental-health-postpandemic
+    url: /learn/psychology/questions/how-can-schools-measure-the-effectiveness-of-mental-health-interventions
+related_article3:
+    id: 116935
+    title: >-
+        What are the long-term effects of the pandemic on students' mental health?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-longterm-effects-of-the-pandemic-on-students-mental-health
 related_article4:
+    id: 116920
+    title: >-
+        What challenges have students faced in adapting to new learning processes?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-challenges-have-students-faced-in-adapting-to-new-learning-processes
+related_article5:
     id: 116938
     title: >-
         How can technology be used to support mental health in education?

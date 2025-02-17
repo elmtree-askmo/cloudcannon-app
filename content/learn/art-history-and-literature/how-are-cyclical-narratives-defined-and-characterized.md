@@ -24,29 +24,29 @@ file_name: how-are-cyclical-narratives-defined-and-characterized.md
 url: /learn/art-history-and-literature/questions/how-are-cyclical-narratives-defined-and-characterized
 score: -1.0
 related_article1:
-    id: 111446
+    id: 111443
     title: >-
-        How are theoretical frameworks applied in literary analysis?
+        What are the key techniques for effective close reading?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-are-theoretical-frameworks-applied-in-literary-analysis
+    url: /learn/art-history-and-literature/questions/what-are-the-key-techniques-for-effective-close-reading
 related_article2:
-    id: 111458
+    id: 111454
     title: >-
-        What role does reader-response theory play in textual analysis?
+        What is the significance of intertextuality in textual analysis?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-does-readerresponse-theory-play-in-textual-analysis
+    url: /learn/art-history-and-literature/questions/what-is-the-significance-of-intertextuality-in-textual-analysis
 related_article3:
-    id: 111444
+    id: 111447
     title: >-
-        Why is close reading considered important in literary analysis?
+        Why is clear argumentation important in literary writing?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/why-is-close-reading-considered-important-in-literary-analysis
+    url: /learn/art-history-and-literature/questions/why-is-clear-argumentation-important-in-literary-writing
 related_article4:
-    id: 111430
+    id: 111431
     title: >-
-        What is the primary purpose of literary theory?
+        How do key concepts in literary theory influence textual analysis?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-primary-purpose-of-literary-theory
+    url: /learn/art-history-and-literature/questions/how-do-key-concepts-in-literary-theory-influence-textual-analysis
 ---
 
 &nbsp;

@@ -35,6 +35,12 @@ related_article2:
         How do credit card companies determine the interest rates they charge?
     subject: Accounting and Finance
     url: /learn/accounting-and-finance/questions/how-do-credit-card-companies-determine-the-interest-rates-they-charge
+related_article3:
+    id: 121540
+    title: >-
+        What is the impact of credit card usage on consumer financial behavior?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-impact-of-credit-card-usage-on-consumer-financial-behavior
 ---
 
 &nbsp;

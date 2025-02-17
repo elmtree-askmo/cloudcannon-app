@@ -24,29 +24,29 @@ file_name: what-are-some-examples-of-mathematical-language-simplifying-complex-p
 url: /learn/mathematics/questions/what-are-some-examples-of-mathematical-language-simplifying-complex-physical-concepts
 score: -1.0
 related_article1:
-    id: 120274
+    id: 120268
     title: >-
-        How did ancient civilizations contribute to the development of mathematical physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-physics
-related_article2:
-    id: 120277
-    title: >-
-        What are the historical developments in the mathematical description of force?
+        How do Newton's laws demonstrate the interplay between physics and mathematics?
     subject: Physics
-    url: /learn/physics/questions/what-are-the-historical-developments-in-the-mathematical-description-of-force
+    url: /learn/physics/questions/how-do-newtons-laws-demonstrate-the-interplay-between-physics-and-mathematics
+related_article2:
+    id: 120264
+    title: >-
+        What was the Babylonian method in physics and how did it influence modern science?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-was-the-babylonian-method-in-physics-and-how-did-it-influence-modern-science
 related_article3:
+    id: 120276
+    title: >-
+        How do physicists use mathematical notation to communicate ideas effectively?
+    subject: Physics
+    url: /learn/physics/questions/how-do-physicists-use-mathematical-notation-to-communicate-ideas-effectively
+related_article4:
     id: 120256
     title: >-
         How does mathematics help us understand natural phenomena?
     subject: Mathematics
     url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
-related_article4:
-    id: 120284
-    title: >-
-        How do philosophical perspectives influence the interpretation of mathematical physics?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-do-philosophical-perspectives-influence-the-interpretation-of-mathematical-physics
 ---
 
 &nbsp;

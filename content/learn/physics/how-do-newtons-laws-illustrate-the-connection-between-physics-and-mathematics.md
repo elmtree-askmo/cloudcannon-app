@@ -24,29 +24,29 @@ file_name: how-do-newtons-laws-illustrate-the-connection-between-physics-and-mat
 url: /learn/physics/questions/how-do-newtons-laws-illustrate-the-connection-between-physics-and-mathematics
 score: -1.0
 related_article1:
-    id: 119290
+    id: 119269
     title: >-
-        How does the conservation of angular momentum apply in real-world scenarios?
+        What is Faraday's Law and how does it relate to mathematics?
     subject: Physics
-    url: /learn/physics/questions/how-does-the-conservation-of-angular-momentum-apply-in-realworld-scenarios
+    url: /learn/physics/questions/what-is-faradays-law-and-how-does-it-relate-to-mathematics
 related_article2:
-    id: 119284
+    id: 119278
     title: >-
-        How do mathematical models help in predicting physical phenomena?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
+        How does the law of gravitation demonstrate the relationship between physics and mathematics?
+    subject: Physics
+    url: /learn/physics/questions/how-does-the-law-of-gravitation-demonstrate-the-relationship-between-physics-and-mathematics
 related_article3:
-    id: 119275
+    id: 119272
     title: >-
-        What are fundamental principles and consequential statements in physics?
+        What is the significance of force and equal areas in physics?
     subject: Physics
-    url: /learn/physics/questions/what-are-fundamental-principles-and-consequential-statements-in-physics
+    url: /learn/physics/questions/what-is-the-significance-of-force-and-equal-areas-in-physics
 related_article4:
-    id: 119292
+    id: 119271
     title: >-
-        How does the local field method contribute to our understanding of physical systems?
+        How is mathematical language used in physics?
     subject: Physics
-    url: /learn/physics/questions/how-does-the-local-field-method-contribute-to-our-understanding-of-physical-systems
+    url: /learn/physics/questions/how-is-mathematical-language-used-in-physics
 ---
 
 &nbsp;

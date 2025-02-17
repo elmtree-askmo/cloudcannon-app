@@ -24,29 +24,29 @@ file_name: what-are-some-creative-ways-to-involve-an-audience-in-communitybuildi
 url: /learn/sociology/questions/what-are-some-creative-ways-to-involve-an-audience-in-communitybuilding-activities
 score: -1.0
 related_article1:
-    id: 95667
+    id: 95664
     title: >-
-        What strategies can be employed to build togetherness within a community?
-    subject: Sociology
-    url: /learn/sociology/questions/what-strategies-can-be-employed-to-build-togetherness-within-a-community
-related_article2:
-    id: 95662
-    title: >-
-        What are some common personal goals people aspire to achieve in the future?
+        What are effective ways to express personal gratitude?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-some-common-personal-goals-people-aspire-to-achieve-in-the-future
-related_article3:
+    url: /learn/psychology/questions/what-are-effective-ways-to-express-personal-gratitude
+related_article2:
     id: 95663
     title: >-
         How do collective goals differ from personal goals in terms of future aspirations?
     subject: Sociology
     url: /learn/sociology/questions/how-do-collective-goals-differ-from-personal-goals-in-terms-of-future-aspirations
-related_article4:
-    id: 95690
+related_article3:
+    id: 95666
     title: >-
-        How can reassurance and support be tailored to meet the needs of diverse individuals and communities?
-    subject: Psychology
-    url: /learn/psychology/questions/how-can-reassurance-and-support-be-tailored-to-meet-the-needs-of-diverse-individuals-and-communities
+        Why is community important for achieving future aspirations?
+    subject: Sociology
+    url: /learn/sociology/questions/why-is-community-important-for-achieving-future-aspirations
+related_article4:
+    id: 95673
+    title: >-
+        What methods can be used to involve an audience in discussions about future aspirations?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-methods-can-be-used-to-involve-an-audience-in-discussions-about-future-aspirations
 ---
 
 &nbsp;

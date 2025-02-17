@@ -24,29 +24,35 @@ file_name: how-does-ct-imaging-of-the-pancreas-differ-from-mri.md
 url: /learn/medicine/questions/how-does-ct-imaging-of-the-pancreas-differ-from-mri
 score: -1.0
 related_article1:
-    id: 118059
-    title: >-
-        What are the common benign causes of biliary tree conditions?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-benign-causes-of-biliary-tree-conditions
-related_article2:
     id: 118075
     title: >-
         What imaging techniques are used for intervention and sampling in biliary and pancreatic conditions?
     subject: Medicine
     url: /learn/medicine/questions/what-imaging-techniques-are-used-for-intervention-and-sampling-in-biliary-and-pancreatic-conditions
-related_article3:
-    id: 118057
+related_article2:
+    id: 118064
     title: >-
-        What is the role of EUS in pancreatic imaging?
+        What imaging modalities are preferred for diagnosing pancreatic cancer?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-the-role-of-eus-in-pancreatic-imaging
+    url: /learn/medicine/questions/what-imaging-modalities-are-preferred-for-diagnosing-pancreatic-cancer
+related_article3:
+    id: 118054
+    title: >-
+        What are the risks associated with PTC in biliary imaging?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-risks-associated-with-ptc-in-biliary-imaging
 related_article4:
     id: 118073
     title: >-
         What role does imaging play in identifying pathology in the biliary tree and pancreas?
     subject: Medicine
     url: /learn/medicine/questions/what-role-does-imaging-play-in-identifying-pathology-in-the-biliary-tree-and-pancreas
+related_article5:
+    id: 118060
+    title: >-
+        How are stones in the biliary tree typically diagnosed?
+    subject: Medicine
+    url: /learn/medicine/questions/how-are-stones-in-the-biliary-tree-typically-diagnosed
 ---
 
 &nbsp;

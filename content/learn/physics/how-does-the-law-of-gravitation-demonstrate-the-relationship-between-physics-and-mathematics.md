@@ -24,29 +24,17 @@ file_name: how-does-the-law-of-gravitation-demonstrate-the-relationship-between-
 url: /learn/physics/questions/how-does-the-law-of-gravitation-demonstrate-the-relationship-between-physics-and-mathematics
 score: -1.0
 related_article1:
-    id: 124240
+    id: 124239
     title: >-
-        What is Faraday's Law and how does it relate to mathematics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-faradays-law-and-how-does-it-relate-to-mathematics
-related_article2:
-    id: 124248
-    title: >-
-        What is the Euclidean method and its role in physics?
+        How does mathematics help us understand natural phenomena?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-euclidean-method-and-its-role-in-physics
-related_article3:
-    id: 124247
+    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
+related_article2:
+    id: 124243
     title: >-
-        How did the Babylonian method influence the development of physics?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-babylonian-method-influence-the-development-of-physics
-related_article4:
-    id: 124241
-    title: >-
-        Can you explain Newton's Law of Gravitation in mathematical terms?
+        What is the significance of force and equal areas in physics?
     subject: Physics
-    url: /learn/physics/questions/can-you-explain-newtons-law-of-gravitation-in-mathematical-terms
+    url: /learn/physics/questions/what-is-the-significance-of-force-and-equal-areas-in-physics
 ---
 
 &nbsp;

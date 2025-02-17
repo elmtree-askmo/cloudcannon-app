@@ -24,29 +24,29 @@ file_name: what-is-the-role-of-geometry-in-understanding-physical-space.md
 url: /learn/physics/questions/what-is-the-role-of-geometry-in-understanding-physical-space
 score: -1.0
 related_article1:
-    id: 116187
-    title: >-
-        What is the Euclidean method and its role in physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-euclidean-method-and-its-role-in-physics
-related_article2:
-    id: 116197
-    title: >-
-        What is the importance of mathematical proofs in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-importance-of-mathematical-proofs-in-physics
-related_article3:
     id: 116200
     title: >-
         How does symmetry play a role in the mathematical formulation of physical laws?
     subject: Physics
     url: /learn/physics/questions/how-does-symmetry-play-a-role-in-the-mathematical-formulation-of-physical-laws
-related_article4:
-    id: 116186
+related_article2:
+    id: 116196
     title: >-
-        How did the Babylonian method influence the development of physics?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-babylonian-method-influence-the-development-of-physics
+        How did ancient civilizations contribute to the development of mathematical concepts used in physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-concepts-used-in-physics
+related_article3:
+    id: 116202
+    title: >-
+        How do mathematical constants like pi and e appear in physical equations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-mathematical-constants-like-pi-and-e-appear-in-physical-equations
+related_article4:
+    id: 116201
+    title: >-
+        What is the historical significance of the relationship between physics and mathematics?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-historical-significance-of-the-relationship-between-physics-and-mathematics
 ---
 
 &nbsp;

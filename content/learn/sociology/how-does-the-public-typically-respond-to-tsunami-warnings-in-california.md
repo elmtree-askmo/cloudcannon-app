@@ -24,17 +24,17 @@ file_name: how-does-the-public-typically-respond-to-tsunami-warnings-in-californ
 url: /learn/sociology/questions/how-does-the-public-typically-respond-to-tsunami-warnings-in-california
 score: -1.0
 related_article1:
-    id: 107036
+    id: 107047
     title: >-
-        What potential consequences can result from strong earthquakes in Northern California?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-potential-consequences-can-result-from-strong-earthquakes-in-northern-california
+        What role do local authorities play in responding to tsunami warnings?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-local-authorities-play-in-responding-to-tsunami-warnings
 related_article2:
-    id: 107058
+    id: 107033
     title: >-
-        How do international seismic monitoring agencies contribute to understanding events like the recent earthquake?
-    subject: Physics
-    url: /learn/physics/questions/how-do-international-seismic-monitoring-agencies-contribute-to-understanding-events-like-the-recent-earthquake
+        Which areas along the California coastline were affected by the tsunami warning?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/which-areas-along-the-california-coastline-were-affected-by-the-tsunami-warning
 related_article3:
     id: 107043
     title: >-
@@ -42,11 +42,17 @@ related_article3:
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-historical-earthquakes-in-northern-california-have-had-significant-impacts
 related_article4:
-    id: 107057
+    id: 107058
     title: >-
-        What lessons have been learned from past seismic events in Northern California?
-    subject: Engineering
-    url: /learn/engineering/questions/what-lessons-have-been-learned-from-past-seismic-events-in-northern-california
+        How do international seismic monitoring agencies contribute to understanding events like the recent earthquake?
+    subject: Physics
+    url: /learn/physics/questions/how-do-international-seismic-monitoring-agencies-contribute-to-understanding-events-like-the-recent-earthquake
+related_article5:
+    id: 107053
+    title: >-
+        What are the economic impacts of strong earthquakes in Northern California?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-economic-impacts-of-strong-earthquakes-in-northern-california
 ---
 
 &nbsp;

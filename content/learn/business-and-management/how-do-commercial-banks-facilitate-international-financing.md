@@ -24,35 +24,29 @@ file_name: how-do-commercial-banks-facilitate-international-financing.md
 url: /learn/business-and-management/questions/how-do-commercial-banks-facilitate-international-financing
 score: -1.0
 related_article1:
+    id: 98642
+    title: >-
+        What are the different types of shares issued by companies?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/what-are-the-different-types-of-shares-issued-by-companies
+related_article2:
     id: 98650
     title: >-
         What role do international agencies and development banks play in international financing?
     subject: Economics
     url: /learn/economics/questions/what-role-do-international-agencies-and-development-banks-play-in-international-financing
-related_article2:
-    id: 98641
-    title: >-
-        How is commercial paper used as a source of finance?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/how-is-commercial-paper-used-as-a-source-of-finance
 related_article3:
-    id: 98638
+    id: 98639
     title: >-
-        What is factoring and how does it benefit businesses?
+        Can you explain lease financing and its advantages for businesses?
     subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-is-factoring-and-how-does-it-benefit-businesses
+    url: /learn/accounting-and-finance/questions/can-you-explain-lease-financing-and-its-advantages-for-businesses
 related_article4:
-    id: 98655
+    id: 98645
     title: >-
-        What are Foreign Currency Convertible Bonds (FCCBs) and their benefits?
+        What are debentures and how are they used in business finance?
     subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-are-foreign-currency-convertible-bonds-fccbs-and-their-benefits
-related_article5:
-    id: 98636
-    title: >-
-        What are retained earnings and how are they used in business finance?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-are-retained-earnings-and-how-are-they-used-in-business-finance
+    url: /learn/accounting-and-finance/questions/what-are-debentures-and-how-are-they-used-in-business-finance
 ---
 
 &nbsp;

@@ -24,35 +24,29 @@ file_name: how-do-physicists-deal-with-mathematical-uncertainties-in-their-model
 url: /learn/physics/questions/how-do-physicists-deal-with-mathematical-uncertainties-in-their-models
 score: -1.0
 related_article1:
-    id: 119465
-    title: >-
-        What is the role of geometry in understanding physical laws?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-role-of-geometry-in-understanding-physical-laws
-related_article2:
-    id: 119459
-    title: >-
-        What role does symmetry play in the mathematical formulation of physical laws?
-    subject: Physics
-    url: /learn/physics/questions/what-role-does-symmetry-play-in-the-mathematical-formulation-of-physical-laws
-related_article3:
-    id: 119466
-    title: >-
-        How do physicists validate mathematical models in experiments?
-    subject: Physics
-    url: /learn/physics/questions/how-do-physicists-validate-mathematical-models-in-experiments
-related_article4:
     id: 119455
     title: >-
         What is the local field method in physics?
     subject: Physics
     url: /learn/physics/questions/what-is-the-local-field-method-in-physics
-related_article5:
-    id: 119442
+related_article2:
+    id: 119445
     title: >-
-        How does mathematics help us understand natural phenomena?
+        How is mathematical language used to describe physical laws?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
+    url: /learn/mathematics/questions/how-is-mathematical-language-used-to-describe-physical-laws
+related_article3:
+    id: 119465
+    title: >-
+        What is the role of geometry in understanding physical laws?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-role-of-geometry-in-understanding-physical-laws
+related_article4:
+    id: 119467
+    title: >-
+        What are some examples of mathematical principles leading to new physical discoveries?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-examples-of-mathematical-principles-leading-to-new-physical-discoveries
 ---
 
 &nbsp;

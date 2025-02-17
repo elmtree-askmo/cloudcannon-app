@@ -24,35 +24,29 @@ file_name: what-are-the-management-options-for-papillary-microcarcinoma.md
 url: /learn/medicine/questions/what-are-the-management-options-for-papillary-microcarcinoma
 score: -1.0
 related_article1:
-    id: 123966
-    title: >-
-        What is TSH suppression therapy and how is it used in thyroid cancer management?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-tsh-suppression-therapy-and-how-is-it-used-in-thyroid-cancer-management
-related_article2:
-    id: 123965
-    title: >-
-        How does radioactive iodine ablation work in thyroid cancer treatment?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-radioactive-iodine-ablation-work-in-thyroid-cancer-treatment
-related_article3:
-    id: 123954
-    title: >-
-        What is the difference between hemithyroidectomy and total thyroidectomy?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-the-difference-between-hemithyroidectomy-and-total-thyroidectomy
-related_article4:
-    id: 123941
-    title: >-
-        How prevalent are benign thyroid nodules in the general population?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-prevalent-are-benign-thyroid-nodules-in-the-general-population
-related_article5:
     id: 123963
     title: >-
         How is lymph node management approached in thyroid cancer surgery?
     subject: Medicine
     url: /learn/medicine/questions/how-is-lymph-node-management-approached-in-thyroid-cancer-surgery
+related_article2:
+    id: 123948
+    title: >-
+        What is the role of fine needle aspiration cytology in thyroid nodule investigation?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-role-of-fine-needle-aspiration-cytology-in-thyroid-nodule-investigation
+related_article3:
+    id: 123964
+    title: >-
+        What adjuvant treatments are available for thyroid cancer?
+    subject: Medicine
+    url: /learn/medicine/questions/what-adjuvant-treatments-are-available-for-thyroid-cancer
+related_article4:
+    id: 123958
+    title: >-
+        What are the different types of thyroid cancer?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-different-types-of-thyroid-cancer
 ---
 
 &nbsp;

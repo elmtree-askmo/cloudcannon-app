@@ -24,35 +24,29 @@ file_name: what-is-the-primary-purpose-of-literary-theory.md
 url: /learn/art-history-and-literature/questions/what-is-the-primary-purpose-of-literary-theory
 score: -1.0
 related_article1:
-    id: 111435
+    id: 111441
     title: >-
-        What are the main characteristics of post-colonial narratives?
+        In what ways is gender represented in literature?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-main-characteristics-of-postcolonial-narratives
+    url: /learn/art-history-and-literature/questions/in-what-ways-is-gender-represented-in-literature
 related_article2:
-    id: 111444
+    id: 111440
     title: >-
-        Why is close reading considered important in literary analysis?
+        How are cyclical narratives defined and characterized?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/why-is-close-reading-considered-important-in-literary-analysis
+    url: /learn/art-history-and-literature/questions/how-are-cyclical-narratives-defined-and-characterized
 related_article3:
-    id: 111447
+    id: 111449
     title: >-
-        Why is clear argumentation important in literary writing?
+        What are some emerging trends in literary theory?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/why-is-clear-argumentation-important-in-literary-writing
+    url: /learn/art-history-and-literature/questions/what-are-some-emerging-trends-in-literary-theory
 related_article4:
     id: 111431
     title: >-
         How do key concepts in literary theory influence textual analysis?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-do-key-concepts-in-literary-theory-influence-textual-analysis
-related_article5:
-    id: 111458
-    title: >-
-        What role does reader-response theory play in textual analysis?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-does-readerresponse-theory-play-in-textual-analysis
 ---
 
 &nbsp;

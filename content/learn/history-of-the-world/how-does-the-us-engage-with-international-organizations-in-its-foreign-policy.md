@@ -24,17 +24,17 @@ file_name: how-does-the-us-engage-with-international-organizations-in-its-foreig
 url: /learn/history-of-the-world/questions/how-does-the-us-engage-with-international-organizations-in-its-foreign-policy
 score: -1.0
 related_article1:
-    id: 97404
-    title: >-
-        What are the key political values that influenced the founding of the United States?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-key-political-values-that-influenced-the-founding-of-the-united-states
-related_article2:
     id: 97416
     title: >-
         What factors influence public opinion in the United States?
     subject: Sociology
     url: /learn/sociology/questions/what-factors-influence-public-opinion-in-the-united-states
+related_article2:
+    id: 97404
+    title: >-
+        What are the key political values that influenced the founding of the United States?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-key-political-values-that-influenced-the-founding-of-the-united-states
 ---
 
 &nbsp;

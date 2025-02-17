@@ -24,35 +24,29 @@ file_name: how-do-individuals-undergo-the-enculturation-process.md
 url: /learn/sociology/questions/how-do-individuals-undergo-the-enculturation-process
 score: -1.0
 related_article1:
-    id: 120600
-    title: >-
-        What is the definition of culture in a sociological context?
-    subject: Sociology
-    url: /learn/sociology/questions/what-is-the-definition-of-culture-in-a-sociological-context
-related_article2:
     id: 120616
     title: >-
         What are the key elements of material culture?
     subject: Sociology
     url: /learn/sociology/questions/what-are-the-key-elements-of-material-culture
+related_article2:
+    id: 120600
+    title: >-
+        What is the definition of culture in a sociological context?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-definition-of-culture-in-a-sociological-context
 related_article3:
+    id: 120607
+    title: >-
+        How is culture shared among members of a society?
+    subject: Sociology
+    url: /learn/sociology/questions/how-is-culture-shared-among-members-of-a-society
+related_article4:
     id: 120605
     title: >-
         In what ways is culture flexible?
     subject: Sociology
     url: /learn/sociology/questions/in-what-ways-is-culture-flexible
-related_article4:
-    id: 120608
-    title: >-
-        What are some common causes of cultural conflicts and controversies?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-some-common-causes-of-cultural-conflicts-and-controversies
-related_article5:
-    id: 120603
-    title: >-
-        What are some examples of non-material culture?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-some-examples-of-nonmaterial-culture
 ---
 
 &nbsp;

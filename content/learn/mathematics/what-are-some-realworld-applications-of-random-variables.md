@@ -24,35 +24,35 @@ file_name: what-are-some-realworld-applications-of-random-variables.md
 url: /learn/mathematics/questions/what-are-some-realworld-applications-of-random-variables
 score: -1.0
 related_article1:
-    id: 102704
+    id: 102695
     title: >-
-        How do statisticians ensure the accuracy of random variable models?
+        Can you provide a step-by-step example of finding possible values for a discrete random variable?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-statisticians-ensure-the-accuracy-of-random-variable-models
+    url: /learn/mathematics/questions/can-you-provide-a-stepbystep-example-of-finding-possible-values-for-a-discrete-random-variable
 related_article2:
-    id: 102702
-    title: >-
-        How do random variables contribute to decision-making processes?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-random-variables-contribute-to-decisionmaking-processes
-related_article3:
-    id: 102706
-    title: >-
-        How do random variables relate to stochastic processes?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-random-variables-relate-to-stochastic-processes
-related_article4:
     id: 102686
     title: >-
         Can you explain the formal definition of a random variable?
     subject: Mathematics
     url: /learn/mathematics/questions/can-you-explain-the-formal-definition-of-a-random-variable
-related_article5:
-    id: 102709
+related_article3:
+    id: 102713
     title: >-
-        What are the limitations of using random variables in statistical analysis?
+        What are the educational resources available for learning more about random variables?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-limitations-of-using-random-variables-in-statistical-analysis
+    url: /learn/mathematics/questions/what-are-the-educational-resources-available-for-learning-more-about-random-variables
+related_article4:
+    id: 102685
+    title: >-
+        How do random variables differ from deterministic variables?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-random-variables-differ-from-deterministic-variables
+related_article5:
+    id: 102692
+    title: >-
+        What criteria are used to classify random variables?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-criteria-are-used-to-classify-random-variables
 ---
 
 &nbsp;

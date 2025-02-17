@@ -24,29 +24,29 @@ file_name: what-is-the-automation-engine-in-airtable-and-how-does-it-work.md
 url: /learn/digital-media/questions/what-is-the-automation-engine-in-airtable-and-how-does-it-work
 score: -1.0
 related_article1:
+    id: 118001
+    title: >-
+        How suitable is Airtable for large companies and functional teams?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-suitable-is-airtable-for-large-companies-and-functional-teams
+related_article2:
+    id: 118006
+    title: >-
+        What are some personal applications of Airtable, such as trip planning?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-are-some-personal-applications-of-airtable-such-as-trip-planning
+related_article3:
+    id: 118002
+    title: >-
+        What are the advantages of using Airtable for startups and small businesses?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-the-advantages-of-using-airtable-for-startups-and-small-businesses
+related_article4:
     id: 117991
     title: >-
         Can you explain the basic concept of Airtable as a database?
     subject: Computer Science
     url: /learn/computer-science/questions/can-you-explain-the-basic-concept-of-airtable-as-a-database
-related_article2:
-    id: 118017
-    title: >-
-        What are the most popular integrations available for Airtable?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-are-the-most-popular-integrations-available-for-airtable
-related_article3:
-    id: 118003
-    title: >-
-        How can solo founders benefit from using Airtable?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-can-solo-founders-benefit-from-using-airtable
-related_article4:
-    id: 118014
-    title: >-
-        How does Airtable's customer support compare to other similar tools?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-does-airtables-customer-support-compare-to-other-similar-tools
 ---
 
 &nbsp;

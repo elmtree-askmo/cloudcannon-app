@@ -24,35 +24,35 @@ file_name: how-can-flexible-program-scheduling-accommodate-community-needs.md
 url: /learn/education-studies/questions/how-can-flexible-program-scheduling-accommodate-community-needs
 score: -1.0
 related_article1:
-    id: 116969
+    id: 116972
     title: >-
-        What specialized programs are available for young and new parents in a virtual format?
+        How is dental hygiene and literacy promotion integrated into virtual programs?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-specialized-programs-are-available-for-young-and-new-parents-in-a-virtual-format
+    url: /learn/health-studies/questions/how-is-dental-hygiene-and-literacy-promotion-integrated-into-virtual-programs
 related_article2:
-    id: 116958
+    id: 116953
     title: >-
-        What are the benefits of offering evening and weekend programs for families?
+        What qualifications and experience are essential for professional staff in early childhood education?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-benefits-of-offering-evening-and-weekend-programs-for-families
+    url: /learn/education-studies/questions/what-qualifications-and-experience-are-essential-for-professional-staff-in-early-childhood-education
 related_article3:
-    id: 116949
+    id: 116965
     title: >-
-        What factors determine the accessibility of programs for families with children aged 0-6?
+        What is the structure of a school readiness program in a virtual environment?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-factors-determine-the-accessibility-of-programs-for-families-with-children-aged-06
+    url: /learn/education-studies/questions/what-is-the-structure-of-a-school-readiness-program-in-a-virtual-environment
 related_article4:
-    id: 116964
+    id: 116974
     title: >-
-        How do drop-in programs function in a virtual learning framework?
+        How does reflective practice contribute to continuous improvement in virtual learning?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-dropin-programs-function-in-a-virtual-learning-framework
+    url: /learn/education-studies/questions/how-does-reflective-practice-contribute-to-continuous-improvement-in-virtual-learning
 related_article5:
-    id: 116950
+    id: 116966
     title: >-
-        How do location and convenience impact program accessibility for families?
+        How does the Baby and Me program adapt to virtual learning?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-location-and-convenience-impact-program-accessibility-for-families
+    url: /learn/education-studies/questions/how-does-the-baby-and-me-program-adapt-to-virtual-learning
 ---
 
 &nbsp;

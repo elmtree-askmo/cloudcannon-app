@@ -24,29 +24,35 @@ file_name: what-is-the-role-of-semiconductor-physics-in-the-development-of-renew
 url: /learn/physics/questions/what-is-the-role-of-semiconductor-physics-in-the-development-of-renewable-energy-technologies
 score: -1.0
 related_article1:
-    id: 116358
-    title: >-
-        What were the main limitations of vacuum tubes that led to the development of solid-state devices?
-    subject: Engineering
-    url: /learn/engineering/questions/what-were-the-main-limitations-of-vacuum-tubes-that-led-to-the-development-of-solidstate-devices
-related_article2:
-    id: 116374
-    title: >-
-        What are some examples of modern electronic devices that rely on semiconductor technology?
-    subject: Engineering
-    url: /learn/engineering/questions/what-are-some-examples-of-modern-electronic-devices-that-rely-on-semiconductor-technology
-related_article3:
-    id: 116371
-    title: >-
-        How does a diode function and what are its primary applications?
-    subject: Engineering
-    url: /learn/engineering/questions/how-does-a-diode-function-and-what-are-its-primary-applications
-related_article4:
     id: 116362
     title: >-
         How did World War II influence the development of semiconductor technology?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-world-war-ii-influence-the-development-of-semiconductor-technology
+related_article2:
+    id: 116367
+    title: >-
+        What is the significance of the energy band gap in semiconductors?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-significance-of-the-energy-band-gap-in-semiconductors
+related_article3:
+    id: 116375
+    title: >-
+        How do semiconductor materials contribute to the miniaturization of electronic components?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-semiconductor-materials-contribute-to-the-miniaturization-of-electronic-components
+related_article4:
+    id: 116380
+    title: >-
+        What are the latest advancements in semiconductor technology?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-latest-advancements-in-semiconductor-technology
+related_article5:
+    id: 116358
+    title: >-
+        What were the main limitations of vacuum tubes that led to the development of solid-state devices?
+    subject: Engineering
+    url: /learn/engineering/questions/what-were-the-main-limitations-of-vacuum-tubes-that-led-to-the-development-of-solidstate-devices
 ---
 
 &nbsp;

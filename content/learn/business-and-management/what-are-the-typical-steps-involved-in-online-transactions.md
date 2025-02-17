@@ -24,29 +24,35 @@ file_name: what-are-the-typical-steps-involved-in-online-transactions.md
 url: /learn/business-and-management/questions/what-are-the-typical-steps-involved-in-online-transactions
 score: -1.0
 related_article1:
+    id: 98571
+    title: >-
+        How is the scope of e-business expected to change in the future?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-is-the-scope-of-ebusiness-expected-to-change-in-the-future
+related_article2:
     id: 98563
     title: >-
         What are the transaction risks associated with e-business?
     subject: Business and Management
     url: /learn/business-and-management/questions/what-are-the-transaction-risks-associated-with-ebusiness
-related_article2:
-    id: 98546
-    title: >-
-        What are the key learning objectives when studying emerging modes of business?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-key-learning-objectives-when-studying-emerging-modes-of-business
 related_article3:
-    id: 98572
+    id: 98566
     title: >-
-        What are the limitations of e-business that businesses need to be aware of?
+        What resources are essential for successful e-business implementation?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-limitations-of-ebusiness-that-businesses-need-to-be-aware-of
+    url: /learn/business-and-management/questions/what-resources-are-essential-for-successful-ebusiness-implementation
 related_article4:
-    id: 98570
+    id: 98553
     title: >-
-        What are the security concerns specific to e-business that differ from traditional business?
+        What are the characteristics of intra-B commerce?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-security-concerns-specific-to-ebusiness-that-differ-from-traditional-business
+    url: /learn/business-and-management/questions/what-are-the-characteristics-of-intrab-commerce
+related_article5:
+    id: 98561
+    title: >-
+        What payment mechanisms are most commonly used in e-business?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-payment-mechanisms-are-most-commonly-used-in-ebusiness
 ---
 
 &nbsp;

@@ -13,7 +13,7 @@ seo:
   page_description: >-
     Symmetry is crucial in the mathematical formulation of physical laws, influencing conservation principles, guiding theoretical developments, and illuminating the fundamental nature of the universe.
   page_keywords: >-
-    symmetry, mathematical formulation, physical laws, conservation laws, Noether's theorem, mathematical groups, Poincaré group, particle physics, Higgs mechanism, group theory, historical context, modern physics, quantum field theory, superposition, philosophical implications
+    symmetry, mathematical formulation, physical laws, conservation laws, Noether's theorem, mathematical groups, Poincar group, particle physics, Higgs mechanism, group theory, historical context, modern physics, quantum field theory, superposition, philosophical implications
 author: QuickTakes
 question: >-
     What role does symmetry play in the mathematical formulation of physical laws?
@@ -24,17 +24,17 @@ file_name: what-role-does-symmetry-play-in-the-mathematical-formulation-of-physi
 url: /learn/mathematics/questions/what-role-does-symmetry-play-in-the-mathematical-formulation-of-physical-laws
 score: -1.0
 related_article1:
-    id: 105642
+    id: 105668
     title: >-
-        How is mathematical language used to describe physical laws?
-    subject: Physics
-    url: /learn/physics/questions/how-is-mathematical-language-used-to-describe-physical-laws
+        What are the limitations of using mathematics to describe physical reality?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-limitations-of-using-mathematics-to-describe-physical-reality
 related_article2:
-    id: 105663
+    id: 105666
     title: >-
-        How do the Babylonian and Greek traditions differ in their approach to physics?
+        What is the significance of the minimum principle in modern physics?
     subject: Physics
-    url: /learn/physics/questions/how-do-the-babylonian-and-greek-traditions-differ-in-their-approach-to-physics
+    url: /learn/physics/questions/what-is-the-significance-of-the-minimum-principle-in-modern-physics
 related_article3:
     id: 105649
     title: >-
@@ -42,11 +42,11 @@ related_article3:
     subject: Physics
     url: /learn/physics/questions/how-does-the-law-of-gravitation-relate-to-other-physical-laws
 related_article4:
-    id: 105645
+    id: 105654
     title: >-
-        What are the key contributions of Babylonian and Greek traditions to physics and mathematics?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-key-contributions-of-babylonian-and-greek-traditions-to-physics-and-mathematics
+        What are the philosophical implications of the relationship between physics and mathematics?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
 related_article5:
     id: 105665
     title: >-

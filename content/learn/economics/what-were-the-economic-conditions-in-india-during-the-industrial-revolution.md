@@ -30,29 +30,29 @@ related_article1:
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-the-development-of-the-steam-engine-affect-transportation-and-industry
 related_article2:
-    id: 123030
+    id: 123018
     title: >-
-        How did the Industrial Revolution set the stage for future discussions on capitalism?
-    subject: Economics
-    url: /learn/economics/questions/how-did-the-industrial-revolution-set-the-stage-for-future-discussions-on-capitalism
+        What role did the steam engine play in the Industrial Revolution?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-role-did-the-steam-engine-play-in-the-industrial-revolution
 related_article3:
-    id: 123020
+    id: 123024
     title: >-
-        How did coal availability in Britain influence the Industrial Revolution?
+        How did India's textile production compare to Britain's during the Industrial Revolution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-coal-availability-in-britain-influence-the-industrial-revolution
+    url: /learn/history-of-the-world/questions/how-did-indias-textile-production-compare-to-britains-during-the-industrial-revolution
 related_article4:
-    id: 123034
+    id: 123044
     title: >-
-        How did wage differences affect labor movements during the Industrial Revolution?
+        How did the Industrial Revolution affect global power dynamics?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-wage-differences-affect-labor-movements-during-the-industrial-revolution
+    url: /learn/history-of-the-world/questions/how-did-the-industrial-revolution-affect-global-power-dynamics
 related_article5:
-    id: 123033
+    id: 123028
     title: >-
-        What were the environmental impacts of increased coal usage during the Industrial Revolution?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-environmental-impacts-of-increased-coal-usage-during-the-industrial-revolution
+        What were the economic conditions in China during the Industrial Revolution?
+    subject: Economics
+    url: /learn/economics/questions/what-were-the-economic-conditions-in-china-during-the-industrial-revolution
 ---
 
 &nbsp;

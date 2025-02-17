@@ -24,17 +24,35 @@ file_name: how-is-individual-guidance-for-adhd-students-typically-arranged.md
 url: /learn/education-studies/questions/how-is-individual-guidance-for-adhd-students-typically-arranged
 score: -1.0
 related_article1:
+    id: 124076
+    title: >-
+        What are the best practices for home-school collaboration?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-best-practices-for-homeschool-collaboration
+related_article2:
     id: 124071
     title: >-
         What is the importance of multi-party collaboration in educational settings?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-importance-of-multiparty-collaboration-in-educational-settings
-related_article2:
+related_article3:
     id: 124067
     title: >-
         What role do social workers play in schools?
     subject: Education Studies
     url: /learn/education-studies/questions/what-role-do-social-workers-play-in-schools
+related_article4:
+    id: 124059
+    title: >-
+        What are the common models of collaboration between schools and institutions?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-common-models-of-collaboration-between-schools-and-institutions
+related_article5:
+    id: 124064
+    title: >-
+        How can schools effectively engage parents in the collaboration process?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-schools-effectively-engage-parents-in-the-collaboration-process
 ---
 
 &nbsp;

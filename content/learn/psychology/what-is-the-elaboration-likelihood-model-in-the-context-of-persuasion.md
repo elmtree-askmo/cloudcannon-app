@@ -24,35 +24,35 @@ file_name: what-is-the-elaboration-likelihood-model-in-the-context-of-persuasion
 url: /learn/psychology/questions/what-is-the-elaboration-likelihood-model-in-the-context-of-persuasion
 score: -1.0
 related_article1:
-    id: 111857
-    title: >-
-        How do social roles impact individual behavior in a group setting?
-    subject: Sociology
-    url: /learn/sociology/questions/how-do-social-roles-impact-individual-behavior-in-a-group-setting
-related_article2:
     id: 111852
     title: >-
         What was the Quizmaster Study and what did it reveal about attribution?
     subject: Psychology
     url: /learn/psychology/questions/what-was-the-quizmaster-study-and-what-did-it-reveal-about-attribution
+related_article2:
+    id: 111866
+    title: >-
+        What were Solomon Asch's contributions to the study of conformity?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-solomon-aschs-contributions-to-the-study-of-conformity
 related_article3:
-    id: 111849
+    id: 111856
     title: >-
-        What is situationism in the context of social psychology?
+        What is the just world hypothesis and how does it influence behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-situationism-in-the-context-of-social-psychology
+    url: /learn/psychology/questions/what-is-the-just-world-hypothesis-and-how-does-it-influence-behavior
 related_article4:
-    id: 111869
-    title: >-
-        What is groupthink and how does it affect decision-making in groups?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-groupthink-and-how-does-it-affect-decisionmaking-in-groups
-related_article5:
     id: 111847
     title: >-
         How do situational influences affect human behavior?
     subject: Psychology
     url: /learn/psychology/questions/how-do-situational-influences-affect-human-behavior
+related_article5:
+    id: 111869
+    title: >-
+        What is groupthink and how does it affect decision-making in groups?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-groupthink-and-how-does-it-affect-decisionmaking-in-groups
 ---
 
 &nbsp;

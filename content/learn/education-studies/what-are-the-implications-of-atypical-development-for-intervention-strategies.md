@@ -24,29 +24,29 @@ file_name: what-are-the-implications-of-atypical-development-for-intervention-st
 url: /learn/education-studies/questions/what-are-the-implications-of-atypical-development-for-intervention-strategies
 score: -1.0
 related_article1:
+    id: 121385
+    title: >-
+        How are the domains of human development categorized?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-the-domains-of-human-development-categorized
+related_article2:
+    id: 121413
+    title: >-
+        What are the ethical considerations in studying sensitive periods and atypical development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-ethical-considerations-in-studying-sensitive-periods-and-atypical-development
+related_article3:
     id: 121402
     title: >-
         What is sequential design in the context of developmental psychology research?
     subject: Psychology
     url: /learn/psychology/questions/what-is-sequential-design-in-the-context-of-developmental-psychology-research
-related_article2:
-    id: 121391
-    title: >-
-        How do normative age-graded changes affect human development?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-normative-agegraded-changes-affect-human-development
-related_article3:
-    id: 121384
-    title: >-
-        What are the main periods of human development?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-periods-of-human-development
 related_article4:
-    id: 121405
+    id: 121398
     title: >-
-        What are the challenges of conducting cross-cultural research in developmental psychology?
+        What is the lifespan perspective in developmental psychology?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-challenges-of-conducting-crosscultural-research-in-developmental-psychology
+    url: /learn/psychology/questions/what-is-the-lifespan-perspective-in-developmental-psychology
 related_article5:
     id: 121395
     title: >-

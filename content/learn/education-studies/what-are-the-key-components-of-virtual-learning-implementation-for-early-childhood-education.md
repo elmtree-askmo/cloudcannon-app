@@ -24,35 +24,35 @@ file_name: what-are-the-key-components-of-virtual-learning-implementation-for-ea
 url: /learn/education-studies/questions/what-are-the-key-components-of-virtual-learning-implementation-for-early-childhood-education
 score: -1.0
 related_article1:
+    id: 116949
+    title: >-
+        What factors determine the accessibility of programs for families with children aged 0-6?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-factors-determine-the-accessibility-of-programs-for-families-with-children-aged-06
+related_article2:
     id: 116952
     title: >-
         How can parent support groups be facilitated online?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-parent-support-groups-be-facilitated-online
-related_article2:
+related_article3:
+    id: 116964
+    title: >-
+        How do drop-in programs function in a virtual learning framework?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-dropin-programs-function-in-a-virtual-learning-framework
+related_article4:
     id: 116971
     title: >-
         What is the role of public health nurses and librarians in virtual early childhood programs?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-role-of-public-health-nurses-and-librarians-in-virtual-early-childhood-programs
-related_article3:
-    id: 116953
-    title: >-
-        What qualifications and experience are essential for professional staff in early childhood education?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-qualifications-and-experience-are-essential-for-professional-staff-in-early-childhood-education
-related_article4:
-    id: 116959
-    title: >-
-        How has the transition to the Ministry of Education impacted early childhood programs?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-has-the-transition-to-the-ministry-of-education-impacted-early-childhood-programs
 related_article5:
-    id: 116951
+    id: 116958
     title: >-
-        What types of child development activities are most effective in a virtual setting?
+        What are the benefits of offering evening and weekend programs for families?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-types-of-child-development-activities-are-most-effective-in-a-virtual-setting
+    url: /learn/education-studies/questions/what-are-the-benefits-of-offering-evening-and-weekend-programs-for-families
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: what-are-the-different-wifi-standards-and-how-do-they-differ.md
 url: /learn/computer-science/questions/what-are-the-different-wifi-standards-and-how-do-they-differ
 score: -1.0
 related_article1:
-    id: 116168
+    id: 116153
     title: >-
-        Can you explain the TCP/IP protocol suite and its significance?
+        How does a Wide Area Network (WAN) differ from a Metropolitan Area Network (MAN)?
     subject: Computer Science
-    url: /learn/computer-science/questions/can-you-explain-the-tcpip-protocol-suite-and-its-significance
+    url: /learn/computer-science/questions/how-does-a-wide-area-network-wan-differ-from-a-metropolitan-area-network-man
 related_article2:
-    id: 116163
+    id: 116176
     title: >-
-        What is the function of a modem in a network?
+        How do intrusion detection systems enhance network security?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-function-of-a-modem-in-a-network
+    url: /learn/computer-science/questions/how-do-intrusion-detection-systems-enhance-network-security
 related_article3:
-    id: 116150
+    id: 116166
     title: >-
-        What are the basic concepts one should understand about networking?
+        How does subnetting work and why is it important?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-basic-concepts-one-should-understand-about-networking
+    url: /learn/computer-science/questions/how-does-subnetting-work-and-why-is-it-important
 related_article4:
-    id: 116161
+    id: 116173
     title: >-
-        What roles do routers play in a network?
+        What are the primary functions of firewalls in network security?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-roles-do-routers-play-in-a-network
+    url: /learn/computer-science/questions/what-are-the-primary-functions-of-firewalls-in-network-security
 related_article5:
-    id: 116170
+    id: 116167
     title: >-
-        How does FTP work and what are its common uses?
+        What is CIDR notation and how is it used in networking?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-ftp-work-and-what-are-its-common-uses
+    url: /learn/computer-science/questions/what-is-cidr-notation-and-how-is-it-used-in-networking
 ---
 
 &nbsp;

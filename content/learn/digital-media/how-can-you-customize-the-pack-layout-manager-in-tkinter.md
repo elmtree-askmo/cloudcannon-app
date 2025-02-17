@@ -24,35 +24,29 @@ file_name: how-can-you-customize-the-pack-layout-manager-in-tkinter.md
 url: /learn/digital-media/questions/how-can-you-customize-the-pack-layout-manager-in-tkinter
 score: -1.0
 related_article1:
-    id: 119659
+    id: 119654
     title: >-
-        What is the process for creating a button widget in Tkinter?
+        Can you explain the function of a button click in a GUI?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-process-for-creating-a-button-widget-in-tkinter
+    url: /learn/computer-science/questions/can-you-explain-the-function-of-a-button-click-in-a-gui
 related_article2:
-    id: 119657
+    id: 119667
     title: >-
-        What are the different types of widgets available in Tkinter?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-different-types-of-widgets-available-in-tkinter
+        What are frames in Tkinter and how are they used?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-are-frames-in-tkinter-and-how-are-they-used
 related_article3:
-    id: 119665
-    title: >-
-        What is the function of the .geometry method in Tkinter?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-function-of-the-geometry-method-in-tkinter
-related_article4:
     id: 119673
     title: >-
         What are the steps to create a login UI using Tkinter?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-steps-to-create-a-login-ui-using-tkinter
-related_article5:
-    id: 119676
+related_article4:
+    id: 119666
     title: >-
-        How can a login UI be further improved in Tkinter?
+        How do you set minimum size constraints for a window in Tkinter?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-a-login-ui-be-further-improved-in-tkinter
+    url: /learn/computer-science/questions/how-do-you-set-minimum-size-constraints-for-a-window-in-tkinter
 ---
 
 &nbsp;

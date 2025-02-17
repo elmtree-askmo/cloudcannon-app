@@ -24,29 +24,29 @@ file_name: what-is-the-significance-of-personification-in-the-sun-rising.md
 url: /learn/art-history-and-literature/questions/what-is-the-significance-of-personification-in-the-sun-rising
 score: -1.0
 related_article1:
-    id: 110291
+    id: 110279
     title: >-
-        What is the cosmic significance of love in 'The Sun Rising'?
+        What is the focus of the third stanza in 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-cosmic-significance-of-love-in-the-sun-rising
+    url: /learn/art-history-and-literature/questions/what-is-the-focus-of-the-third-stanza-in-the-sun-rising
 related_article2:
-    id: 110281
+    id: 110284
     title: >-
-        What literary devices are used in the third stanza of 'The Sun Rising'?
+        How does the third stanza reinforce the poem's themes?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-literary-devices-are-used-in-the-third-stanza-of-the-sun-rising
+    url: /learn/art-history-and-literature/questions/how-does-the-third-stanza-reinforce-the-poems-themes
 related_article3:
-    id: 110275
+    id: 110277
     title: >-
-        What role does authority play in the second stanza of 'The Sun Rising'?
+        What is the significance of the cosmic imagery in the second stanza of 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-does-authority-play-in-the-second-stanza-of-the-sun-rising
+    url: /learn/art-history-and-literature/questions/what-is-the-significance-of-the-cosmic-imagery-in-the-second-stanza-of-the-sun-rising
 related_article4:
-    id: 110295
+    id: 110270
     title: >-
-        What is the impact of Donne's use of language on the reader's understanding of the poem?
+        How does Donne establish the tone in the first stanza of 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-impact-of-donnes-use-of-language-on-the-readers-understanding-of-the-poem
+    url: /learn/art-history-and-literature/questions/how-does-donne-establish-the-tone-in-the-first-stanza-of-the-sun-rising
 ---
 
 &nbsp;

@@ -24,29 +24,35 @@ file_name: what-are-some-examples-of-mathematical-concepts-that-have-been-crucia
 url: /learn/mathematics/questions/what-are-some-examples-of-mathematical-concepts-that-have-been-crucial-in-the-development-of-physics
 score: -1.0
 related_article1:
-    id: 118574
+    id: 118583
     title: >-
-        How does the minimum principle apply to physics and mathematics?
+        What is the historical significance of the relationship between physics and mathematics?
     subject: Physics
-    url: /learn/physics/questions/how-does-the-minimum-principle-apply-to-physics-and-mathematics
+    url: /learn/physics/questions/what-is-the-historical-significance-of-the-relationship-between-physics-and-mathematics
 related_article2:
-    id: 118588
+    id: 118573
     title: >-
-        How do physicists use mathematical tools to solve complex problems?
+        What is the local field method in physics?
     subject: Physics
-    url: /learn/physics/questions/how-do-physicists-use-mathematical-tools-to-solve-complex-problems
+    url: /learn/physics/questions/what-is-the-local-field-method-in-physics
 related_article3:
-    id: 118571
+    id: 118562
     title: >-
-        What is the conservation of angular momentum and its mathematical representation?
+        Can you explain Newton's Law of Gravitation in mathematical terms?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-conservation-of-angular-momentum-and-its-mathematical-representation
+    url: /learn/physics/questions/can-you-explain-newtons-law-of-gravitation-in-mathematical-terms
 related_article4:
-    id: 118589
+    id: 118565
     title: >-
-        What are some modern advancements in mathematical techniques that have impacted physics?
+        How has modern mathematical notation evolved over time?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-modern-advancements-in-mathematical-techniques-that-have-impacted-physics
+    url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-over-time
+related_article5:
+    id: 118580
+    title: >-
+        How do physicists use mathematical equations to describe the universe?
+    subject: Physics
+    url: /learn/physics/questions/how-do-physicists-use-mathematical-equations-to-describe-the-universe
 ---
 
 &nbsp;

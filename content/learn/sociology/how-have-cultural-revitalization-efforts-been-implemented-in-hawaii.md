@@ -24,29 +24,29 @@ file_name: how-have-cultural-revitalization-efforts-been-implemented-in-hawaii.m
 url: /learn/sociology/questions/how-have-cultural-revitalization-efforts-been-implemented-in-hawaii
 score: -1.0
 related_article1:
-    id: 104620
+    id: 104638
     title: >-
-        In what ways were Native Hawaiians politically disenfranchised during and after colonization?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/in-what-ways-were-native-hawaiians-politically-disenfranchised-during-and-after-colonization
+        What are the ongoing struggles faced by Native Hawaiians in preserving their culture?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-ongoing-struggles-faced-by-native-hawaiians-in-preserving-their-culture
 related_article2:
-    id: 104630
+    id: 104621
     title: >-
-        Who is Mililani Trask and what is her contribution to Hawaiian identity and sovereignty?
-    subject: Sociology
-    url: /learn/sociology/questions/who-is-mililani-trask-and-what-is-her-contribution-to-hawaiian-identity-and-sovereignty
+        What is the history and significance of the Hawaiian sovereignty movement?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-is-the-history-and-significance-of-the-hawaiian-sovereignty-movement
 related_article3:
-    id: 104643
+    id: 104639
     title: >-
-        What are the key elements of Hawaiian cultural activism?
+        What are the hopes and strategies for ensuring cultural continuity in Hawaii?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-key-elements-of-hawaiian-cultural-activism
+    url: /learn/sociology/questions/what-are-the-hopes-and-strategies-for-ensuring-cultural-continuity-in-hawaii
 related_article4:
-    id: 104637
+    id: 104626
     title: >-
-        How do social and health issues impact Native Hawaiian communities today?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-social-and-health-issues-impact-native-hawaiian-communities-today
+        How does language influence identity among Native Hawaiians?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-language-influence-identity-among-native-hawaiians
 related_article5:
     id: 104640
     title: >-

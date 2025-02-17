@@ -24,35 +24,35 @@ file_name: how-did-newtons-formulation-of-gravitation-influence-subsequent-scien
 url: /learn/physics/questions/how-did-newtons-formulation-of-gravitation-influence-subsequent-scientific-discoveries
 score: -1.0
 related_article1:
-    id: 103192
+    id: 103175
     title: >-
-        What are the challenges in translating physical concepts into mathematical language?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-challenges-in-translating-physical-concepts-into-mathematical-language
+        How do Newton's Laws form the foundation of classical mechanics?
+    subject: Physics
+    url: /learn/physics/questions/how-do-newtons-laws-form-the-foundation-of-classical-mechanics
 related_article2:
-    id: 103186
+    id: 103190
     title: >-
-        What are the limitations of using mathematics to describe physical phenomena?
+        What are some modern applications of Faraday's Law?
     subject: Physics
-    url: /learn/physics/questions/what-are-the-limitations-of-using-mathematics-to-describe-physical-phenomena
+    url: /learn/physics/questions/what-are-some-modern-applications-of-faradays-law
 related_article3:
-    id: 103167
+    id: 103169
     title: >-
-        What is the relationship between force and equal areas in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-relationship-between-force-and-equal-areas-in-physics
+        What are the key differences between Babylonian and Greek traditions in mathematics and physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-differences-between-babylonian-and-greek-traditions-in-mathematics-and-physics
 related_article4:
-    id: 103173
+    id: 103182
     title: >-
-        How does the law of gravitation relate to other physical laws?
-    subject: Physics
-    url: /learn/physics/questions/how-does-the-law-of-gravitation-relate-to-other-physical-laws
+        What are some examples of mathematical understanding in nature?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-examples-of-mathematical-understanding-in-nature
 related_article5:
-    id: 103185
+    id: 103166
     title: >-
-        How does the conservation of angular momentum apply in real-world scenarios?
+        How is mathematical language used to describe physical laws?
     subject: Physics
-    url: /learn/physics/questions/how-does-the-conservation-of-angular-momentum-apply-in-realworld-scenarios
+    url: /learn/physics/questions/how-is-mathematical-language-used-to-describe-physical-laws
 ---
 
 &nbsp;

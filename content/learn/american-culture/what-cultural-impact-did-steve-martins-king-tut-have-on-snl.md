@@ -24,23 +24,35 @@ file_name: what-cultural-impact-did-steve-martins-king-tut-have-on-snl.md
 url: /learn/american-culture/questions/what-cultural-impact-did-steve-martins-king-tut-have-on-snl
 score: -1.0
 related_article1:
-    id: 1009
+    id: 1020
     title: >-
-        What was significant about The Police's performance of 'Roxanne' on SNL?
+        How did Stuart Smalley become a notable guest host character on SNL?
     subject: American Culture
-    url: /learn/american-culture/questions/what-was-significant-about-the-polices-performance-of-roxanne-on-snl
+    url: /learn/american-culture/questions/how-did-stuart-smalley-become-a-notable-guest-host-character-on-snl
 related_article2:
-    id: 1027
+    id: 1018
     title: >-
-        How does SNL utilize celebrity impersonations to enhance its comedic impact?
+        How did 'Wayne's World' transition from SNL to film?
     subject: American Culture
-    url: /learn/american-culture/questions/how-does-snl-utilize-celebrity-impersonations-to-enhance-its-comedic-impact
+    url: /learn/american-culture/questions/how-did-waynes-world-transition-from-snl-to-film
 related_article3:
-    id: 1015
+    id: 1022
     title: >-
-        How has Kenan Thompson contributed to SNL as a long-serving cast member?
+        What distinguishes digital shorts from live performances in SNL's sketch formats?
     subject: American Culture
-    url: /learn/american-culture/questions/how-has-kenan-thompson-contributed-to-snl-as-a-longserving-cast-member
+    url: /learn/american-culture/questions/what-distinguishes-digital-shorts-from-live-performances-in-snls-sketch-formats
+related_article4:
+    id: 1004
+    title: >-
+        In what ways does the 'Single Ladies' parody on SNL differ from the original performance?
+    subject: American Culture
+    url: /learn/american-culture/questions/in-what-ways-does-the-single-ladies-parody-on-snl-differ-from-the-original-performance
+related_article5:
+    id: 1010
+    title: >-
+        Why was Nirvana's performance of 'Smells Like Teen Spirit' on SNL considered iconic?
+    subject: American Culture
+    url: /learn/american-culture/questions/why-was-nirvanas-performance-of-smells-like-teen-spirit-on-snl-considered-iconic
 ---
 
 &nbsp;

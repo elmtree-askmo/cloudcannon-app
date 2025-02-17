@@ -24,29 +24,29 @@ file_name: how-have-maxwells-equations-been-experimentally-verified-over-time.md
 url: /learn/physics/questions/how-have-maxwells-equations-been-experimentally-verified-over-time
 score: -1.0
 related_article1:
-    id: 116224
+    id: 116216
     title: >-
-        What are the medical and industrial applications of X-rays?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-medical-and-industrial-applications-of-xrays
+        How do electric and magnetic fields interact in electromagnetic waves?
+    subject: Physics
+    url: /learn/physics/questions/how-do-electric-and-magnetic-fields-interact-in-electromagnetic-waves
 related_article2:
-    id: 116218
+    id: 116225
     title: >-
-        What are the different types of waves in the electromagnetic spectrum?
+        How are gamma rays used in scientific research and technology?
     subject: Physics
-    url: /learn/physics/questions/what-are-the-different-types-of-waves-in-the-electromagnetic-spectrum
+    url: /learn/physics/questions/how-are-gamma-rays-used-in-scientific-research-and-technology
 related_article3:
-    id: 116222
+    id: 116221
     title: >-
-        How does visible light fit into the electromagnetic spectrum?
+        What are the properties and applications of infrared waves?
     subject: Physics
-    url: /learn/physics/questions/how-does-visible-light-fit-into-the-electromagnetic-spectrum
+    url: /learn/physics/questions/what-are-the-properties-and-applications-of-infrared-waves
 related_article4:
-    id: 116209
+    id: 116215
     title: >-
-        How did Maxwell's work build upon the contributions of previous scientists in the field of electromagnetism?
+        What are the fundamental nature and properties of electromagnetic waves?
     subject: Physics
-    url: /learn/physics/questions/how-did-maxwells-work-build-upon-the-contributions-of-previous-scientists-in-the-field-of-electromagnetism
+    url: /learn/physics/questions/what-are-the-fundamental-nature-and-properties-of-electromagnetic-waves
 ---
 
 &nbsp;

@@ -24,35 +24,29 @@ file_name: how-did-the-population-of-hawaii-decline-during-the-colonial-period.m
 url: /learn/history-of-the-world/questions/how-did-the-population-of-hawaii-decline-during-the-colonial-period
 score: -1.0
 related_article1:
-    id: 104621
-    title: >-
-        What is the history and significance of the Hawaiian sovereignty movement?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-history-and-significance-of-the-hawaiian-sovereignty-movement
-related_article2:
-    id: 104631
-    title: >-
-        What were John Dominis Holt's perspectives on Hawaiian culture and identity?
-    subject: Sociology
-    url: /learn/sociology/questions/what-were-john-dominis-holts-perspectives-on-hawaiian-culture-and-identity
-related_article3:
-    id: 104642
-    title: >-
-        How is intergenerational knowledge being passed down in Hawaiian communities?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-is-intergenerational-knowledge-being-passed-down-in-hawaiian-communities
-related_article4:
     id: 104623
     title: >-
         What are the key initiatives for language preservation in Hawaii?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-key-initiatives-for-language-preservation-in-hawaii
-related_article5:
-    id: 104624
+related_article2:
+    id: 104646
     title: >-
-        How are traditional Hawaiian practices being preserved and revitalized today?
+        How do influential figures like Mililani Trask and Israel Kamakawiwo`ole shape the discourse on Hawaiian identity?
     subject: Sociology
-    url: /learn/sociology/questions/how-are-traditional-hawaiian-practices-being-preserved-and-revitalized-today
+    url: /learn/sociology/questions/how-do-influential-figures-like-mililani-trask-and-israel-kamakawiwoole-shape-the-discourse-on-hawaiian-identity
+related_article3:
+    id: 104627
+    title: >-
+        What are some examples of community empowerment initiatives in Hawaii?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-some-examples-of-community-empowerment-initiatives-in-hawaii
+related_article4:
+    id: 104620
+    title: >-
+        In what ways were Native Hawaiians politically disenfranchised during and after colonization?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/in-what-ways-were-native-hawaiians-politically-disenfranchised-during-and-after-colonization
 ---
 
 &nbsp;

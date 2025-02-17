@@ -24,35 +24,35 @@ file_name: can-you-provide-insights-into-a-case-study-of-acute-pancreatitis-incl
 url: /learn/medicine/questions/can-you-provide-insights-into-a-case-study-of-acute-pancreatitis-including-patient-presentation-and-imaging-findings
 score: -1.0
 related_article1:
+    id: 118127
+    title: >-
+        How does imaging contribute to the assessment and staging of pancreatitis?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-imaging-contribute-to-the-assessment-and-staging-of-pancreatitis
+related_article2:
+    id: 118132
+    title: >-
+        How does imaging help in differentiating between benign and malignant hepatobiliary lesions?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-imaging-help-in-differentiating-between-benign-and-malignant-hepatobiliary-lesions
+related_article3:
+    id: 118131
+    title: >-
+        What are the key imaging modalities used in the diagnosis of hepatocellular carcinoma?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-key-imaging-modalities-used-in-the-diagnosis-of-hepatocellular-carcinoma
+related_article4:
+    id: 118116
+    title: >-
+        What are the differential diagnoses for acute cholecystitis based on imaging?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-differential-diagnoses-for-acute-cholecystitis-based-on-imaging
+related_article5:
     id: 118139
     title: >-
         What are the potential risks or side effects associated with imaging techniques used in hepatobiliary diagnosis?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-potential-risks-or-side-effects-associated-with-imaging-techniques-used-in-hepatobiliary-diagnosis
-related_article2:
-    id: 118120
-    title: >-
-        What are the typical treatment and management strategies for acute pancreatitis?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-typical-treatment-and-management-strategies-for-acute-pancreatitis
-related_article3:
-    id: 118115
-    title: >-
-        Could you describe a case study of acute cholecystitis, focusing on patient presentation and imaging findings?
-    subject: Medicine
-    url: /learn/medicine/questions/could-you-describe-a-case-study-of-acute-cholecystitis-focusing-on-patient-presentation-and-imaging-findings
-related_article4:
-    id: 118133
-    title: >-
-        What are the latest advancements in imaging techniques for hepatobiliary diagnosis?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-latest-advancements-in-imaging-techniques-for-hepatobiliary-diagnosis
-related_article5:
-    id: 118128
-    title: >-
-        What role does imaging play in detecting complications of pancreatitis?
-    subject: Medicine
-    url: /learn/medicine/questions/what-role-does-imaging-play-in-detecting-complications-of-pancreatitis
 ---
 
 &nbsp;

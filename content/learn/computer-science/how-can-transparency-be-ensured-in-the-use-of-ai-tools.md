@@ -24,23 +24,11 @@ file_name: how-can-transparency-be-ensured-in-the-use-of-ai-tools.md
 url: /learn/computer-science/questions/how-can-transparency-be-ensured-in-the-use-of-ai-tools
 score: -1.0
 related_article1:
-    id: 110181
+    id: 110196
     title: >-
-        How does a feedback mechanism contribute to the personalization process?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-a-feedback-mechanism-contribute-to-the-personalization-process
-related_article2:
-    id: 110189
-    title: >-
-        What is a recommended framework for structuring academic essays using AI tools?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-a-recommended-framework-for-structuring-academic-essays-using-ai-tools
-related_article3:
-    id: 110204
-    title: >-
-        What are the benefits of using indirect prompts over direct prompts in certain scenarios?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-are-the-benefits-of-using-indirect-prompts-over-direct-prompts-in-certain-scenarios
+        What are the privacy concerns associated with using AI like ChatGPT?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-privacy-concerns-associated-with-using-ai-like-chatgpt
 ---
 
 &nbsp;

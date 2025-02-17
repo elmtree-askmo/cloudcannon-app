@@ -24,29 +24,35 @@ file_name: what-are-the-main-responsibilities-of-an-infrastructure-analyst.md
 url: /learn/computer-science/questions/what-are-the-main-responsibilities-of-an-infrastructure-analyst
 score: -1.0
 related_article1:
-    id: 122339
+    id: 122334
     title: >-
-        What qualifications are generally required for a Network Administrator role?
+        What skills are necessary for someone working in Deskside Services?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-qualifications-are-generally-required-for-a-network-administrator-role
+    url: /learn/computer-science/questions/what-skills-are-necessary-for-someone-working-in-deskside-services
 related_article2:
-    id: 122343
+    id: 122358
     title: >-
-        What qualifications are needed to become a Data Centre Administrator?
+        What skills are important for a career in Application Services?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-qualifications-are-needed-to-become-a-data-centre-administrator
+    url: /learn/computer-science/questions/what-skills-are-important-for-a-career-in-application-services
 related_article3:
-    id: 122346
+    id: 122342
     title: >-
-        What skills are essential for an Infrastructure Analyst and Architect?
+        What skills are important for a Data Centre Administrator to have?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-skills-are-essential-for-an-infrastructure-analyst-and-architect
+    url: /learn/computer-science/questions/what-skills-are-important-for-a-data-centre-administrator-to-have
 related_article4:
-    id: 122357
+    id: 122341
     title: >-
-        What are the main duties of someone in Application Services?
+        What are the primary duties of a Data Centre Administrator?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-duties-of-someone-in-application-services
+    url: /learn/computer-science/questions/what-are-the-primary-duties-of-a-data-centre-administrator
+related_article5:
+    id: 122349
+    title: >-
+        What are the key duties of a Storage Analyst?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-key-duties-of-a-storage-analyst
 ---
 
 &nbsp;

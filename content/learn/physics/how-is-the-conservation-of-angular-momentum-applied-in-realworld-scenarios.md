@@ -24,29 +24,29 @@ file_name: how-is-the-conservation-of-angular-momentum-applied-in-realworld-scen
 url: /learn/physics/questions/how-is-the-conservation-of-angular-momentum-applied-in-realworld-scenarios
 score: -1.0
 related_article1:
-    id: 119006
+    id: 119015
     title: >-
-        What is Newton's Law of Gravitation and how is it mathematically formulated?
+        What is the conservation of angular momentum and why is it important?
     subject: Physics
-    url: /learn/physics/questions/what-is-newtons-law-of-gravitation-and-how-is-it-mathematically-formulated
+    url: /learn/physics/questions/what-is-the-conservation-of-angular-momentum-and-why-is-it-important
 related_article2:
-    id: 119004
+    id: 119031
     title: >-
-        How does mathematics help us understand natural phenomena?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
-related_article3:
-    id: 119018
-    title: >-
-        Can you explain the minimum principle and its applications in physics?
+        What are the limitations of Newton's Laws in modern physics?
     subject: Physics
-    url: /learn/physics/questions/can-you-explain-the-minimum-principle-and-its-applications-in-physics
-related_article4:
-    id: 119012
+    url: /learn/physics/questions/what-are-the-limitations-of-newtons-laws-in-modern-physics
+related_article3:
+    id: 119014
     title: >-
-        What was the Babylonian method in physics and how did it influence modern science?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-babylonian-method-in-physics-and-how-did-it-influence-modern-science
+        How does the law of gravitation relate to other physical laws?
+    subject: Physics
+    url: /learn/physics/questions/how-does-the-law-of-gravitation-relate-to-other-physical-laws
+related_article4:
+    id: 119010
+    title: >-
+        What are the key differences between Babylonian and Greek mathematical traditions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-differences-between-babylonian-and-greek-mathematical-traditions
 ---
 
 &nbsp;

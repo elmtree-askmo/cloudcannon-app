@@ -24,29 +24,35 @@ file_name: what-is-the-impact-of-computational-mathematics-on-modern-physics.md
 url: /learn/mathematics/questions/what-is-the-impact-of-computational-mathematics-on-modern-physics
 score: -1.0
 related_article1:
-    id: 116181
+    id: 116180
     title: >-
-        How is mathematical language used in physics?
+        Can you explain Newton's Law of Gravitation in mathematical terms?
     subject: Physics
-    url: /learn/physics/questions/how-is-mathematical-language-used-in-physics
+    url: /learn/physics/questions/can-you-explain-newtons-law-of-gravitation-in-mathematical-terms
 related_article2:
+    id: 116190
+    title: >-
+        Can you explain Newton's Laws and their mathematical formulations?
+    subject: Physics
+    url: /learn/physics/questions/can-you-explain-newtons-laws-and-their-mathematical-formulations
+related_article3:
     id: 116188
     title: >-
         How does the law of gravitation demonstrate the relationship between physics and mathematics?
     subject: Physics
     url: /learn/physics/questions/how-does-the-law-of-gravitation-demonstrate-the-relationship-between-physics-and-mathematics
-related_article3:
-    id: 116193
-    title: >-
-        What are the philosophical implications of the relationship between physics and mathematics?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
 related_article4:
-    id: 116204
+    id: 116182
     title: >-
-        How do physicists use statistics and probability in their work?
+        What is the significance of force and equal areas in physics?
     subject: Physics
-    url: /learn/physics/questions/how-do-physicists-use-statistics-and-probability-in-their-work
+    url: /learn/physics/questions/what-is-the-significance-of-force-and-equal-areas-in-physics
+related_article5:
+    id: 116184
+    title: >-
+        What contributions did Babylonian and Greek traditions make to mathematics and physics?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-contributions-did-babylonian-and-greek-traditions-make-to-mathematics-and-physics
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: how-can-community-resources-be-leveraged-to-support-student-mental-he
 url: /learn/psychology/questions/how-can-community-resources-be-leveraged-to-support-student-mental-health
 score: -1.0
 related_article1:
-    id: 116940
+    id: 116926
     title: >-
-        How can schools overcome barriers to providing psychological support?
-    subject: Psychology
-    url: /learn/psychology/questions/how-can-schools-overcome-barriers-to-providing-psychological-support
+        What are the key components of supportive relationships in an educational setting?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-components-of-supportive-relationships-in-an-educational-setting
 related_article2:
+    id: 116936
+    title: >-
+        How can parents support their children's mental health during and after the pandemic?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-parents-support-their-childrens-mental-health-during-and-after-the-pandemic
+related_article3:
     id: 116929
     title: >-
         How does cognitive behavioral therapy help students cope with pandemic-related stress?
     subject: Psychology
     url: /learn/psychology/questions/how-does-cognitive-behavioral-therapy-help-students-cope-with-pandemicrelated-stress
-related_article3:
-    id: 116938
-    title: >-
-        How can technology be used to support mental health in education?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-technology-be-used-to-support-mental-health-in-education
 related_article4:
-    id: 116925
+    id: 116917
     title: >-
-        How can psychological support be integrated into the educational system?
+        How has COVID-19 changed traditional teaching methods?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-psychological-support-be-integrated-into-the-educational-system
+    url: /learn/education-studies/questions/how-has-covid19-changed-traditional-teaching-methods
 related_article5:
-    id: 116937
+    id: 116930
     title: >-
-        What role do peer relationships play in student mental health during the pandemic?
+        What is narrative therapy and how can it be applied in educational settings?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-do-peer-relationships-play-in-student-mental-health-during-the-pandemic
+    url: /learn/psychology/questions/what-is-narrative-therapy-and-how-can-it-be-applied-in-educational-settings
 ---
 
 &nbsp;

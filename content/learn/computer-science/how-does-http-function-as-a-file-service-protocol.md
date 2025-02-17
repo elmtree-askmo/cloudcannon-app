@@ -24,35 +24,35 @@ file_name: how-does-http-function-as-a-file-service-protocol.md
 url: /learn/computer-science/questions/how-does-http-function-as-a-file-service-protocol
 score: -1.0
 related_article1:
-    id: 122682
+    id: 122659
     title: >-
-        How do print servers manage print jobs in a network?
+        What are the primary functions of file services in a network?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-print-servers-manage-print-jobs-in-a-network
+    url: /learn/computer-science/questions/what-are-the-primary-functions-of-file-services-in-a-network
 related_article2:
-    id: 122683
+    id: 122662
     title: >-
-        What are the challenges associated with managing databases in a network?
+        Can you explain how SCP differs from other file service protocols?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-challenges-associated-with-managing-databases-in-a-network
+    url: /learn/computer-science/questions/can-you-explain-how-scp-differs-from-other-file-service-protocols
 related_article3:
-    id: 122677
+    id: 122661
     title: >-
-        What are some common lab activities in a networking course related to these topics?
+        What are the advantages and disadvantages of using FTP for file services?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-common-lab-activities-in-a-networking-course-related-to-these-topics
+    url: /learn/computer-science/questions/what-are-the-advantages-and-disadvantages-of-using-ftp-for-file-services
 related_article4:
-    id: 122678
+    id: 122669
     title: >-
-        How can lab activities enhance understanding of network services and protocols?
+        What is the role of web services in network environments?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-lab-activities-enhance-understanding-of-network-services-and-protocols
+    url: /learn/computer-science/questions/what-is-the-role-of-web-services-in-network-environments
 related_article5:
-    id: 122675
+    id: 122681
     title: >-
-        What are the essential components of an email system in a network?
+        What are the security considerations for file services and protocols?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-essential-components-of-an-email-system-in-a-network
+    url: /learn/computer-science/questions/what-are-the-security-considerations-for-file-services-and-protocols
 ---
 
 &nbsp;

@@ -24,29 +24,29 @@ file_name: how-is-the-prognosis-of-thyroid-cancer-determined.md
 url: /learn/medicine/questions/how-is-the-prognosis-of-thyroid-cancer-determined
 score: -1.0
 related_article1:
-    id: 123975
+    id: 123979
     title: >-
-        What are the characteristics of differential thyroid carcinoma?
+        How is ultrasound used in the assessment of thyroid nodules?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-characteristics-of-differential-thyroid-carcinoma
+    url: /learn/medicine/questions/how-is-ultrasound-used-in-the-assessment-of-thyroid-nodules
 related_article2:
-    id: 123996
-    title: >-
-        Why is it important to have individualized treatment plans for thyroid cancer?
-    subject: Medicine
-    url: /learn/medicine/questions/why-is-it-important-to-have-individualized-treatment-plans-for-thyroid-cancer
-related_article3:
     id: 123994
     title: >-
         What factors are considered in risk group stratification for thyroid cancer prognosis?
     subject: Health Studies
     url: /learn/health-studies/questions/what-factors-are-considered-in-risk-group-stratification-for-thyroid-cancer-prognosis
-related_article4:
-    id: 123981
+related_article3:
+    id: 123992
     title: >-
-        How does molecular testing contribute to the investigation of thyroid nodules?
+        What adjuvant therapies are available for thyroid cancer management?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-molecular-testing-contribute-to-the-investigation-of-thyroid-nodules
+    url: /learn/medicine/questions/what-adjuvant-therapies-are-available-for-thyroid-cancer-management
+related_article4:
+    id: 123971
+    title: >-
+        What are the primary factors influencing the prevalence of thyroid nodules?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-primary-factors-influencing-the-prevalence-of-thyroid-nodules
 ---
 
 &nbsp;

@@ -24,17 +24,17 @@ file_name: how-do-changes-in-arctic-climate-impact-global-weather-patterns.md
 url: /learn/health-studies/questions/how-do-changes-in-arctic-climate-impact-global-weather-patterns
 score: -1.0
 related_article1:
-    id: 116688
-    title: >-
-        How has glacial retreat impacted ecosystems historically?
-    subject: Sociology
-    url: /learn/sociology/questions/how-has-glacial-retreat-impacted-ecosystems-historically
-related_article2:
     id: 116690
     title: >-
         How are tree rings interpreted to understand past climate conditions?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-are-tree-rings-interpreted-to-understand-past-climate-conditions
+related_article2:
+    id: 116688
+    title: >-
+        How has glacial retreat impacted ecosystems historically?
+    subject: Sociology
+    url: /learn/sociology/questions/how-has-glacial-retreat-impacted-ecosystems-historically
 ---
 
 &nbsp;

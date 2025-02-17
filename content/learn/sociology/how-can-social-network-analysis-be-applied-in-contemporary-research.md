@@ -24,17 +24,17 @@ file_name: how-can-social-network-analysis-be-applied-in-contemporary-research.m
 url: /learn/sociology/questions/how-can-social-network-analysis-be-applied-in-contemporary-research
 score: -1.0
 related_article1:
-    id: 103964
-    title: >-
-        What are the common logistical issues faced in classroom settings?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-common-logistical-issues-faced-in-classroom-settings
-related_article2:
     id: 103968
     title: >-
         What are some examples of paradigms in social sciences?
     subject: Sociology
     url: /learn/sociology/questions/what-are-some-examples-of-paradigms-in-social-sciences
+related_article2:
+    id: 103964
+    title: >-
+        What are the common logistical issues faced in classroom settings?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-common-logistical-issues-faced-in-classroom-settings
 ---
 
 &nbsp;

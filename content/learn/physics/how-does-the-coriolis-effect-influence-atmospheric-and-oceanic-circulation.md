@@ -24,29 +24,29 @@ file_name: how-does-the-coriolis-effect-influence-atmospheric-and-oceanic-circul
 url: /learn/physics/questions/how-does-the-coriolis-effect-influence-atmospheric-and-oceanic-circulation
 score: -1.0
 related_article1:
-    id: 119363
-    title: >-
-        What evidence did Alfred Wegener present for the theory of continental drift, and why was it initially rejected?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-evidence-did-alfred-wegener-present-for-the-theory-of-continental-drift-and-why-was-it-initially-rejected
-related_article2:
-    id: 119373
-    title: >-
-        What is the difference between conservative and nonconservative elements in ocean chemistry?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-difference-between-conservative-and-nonconservative-elements-in-ocean-chemistry
-related_article3:
     id: 119365
     title: >-
         What is the Wilson Cycle and how does it relate to the formation and closure of ocean basins?
     subject: Physics
     url: /learn/physics/questions/what-is-the-wilson-cycle-and-how-does-it-relate-to-the-formation-and-closure-of-ocean-basins
-related_article4:
-    id: 119356
+related_article2:
+    id: 119363
     title: >-
-        Can you explain the concept of radioactive decay and its significance in determining Earth's age?
-    subject: Physics
-    url: /learn/physics/questions/can-you-explain-the-concept-of-radioactive-decay-and-its-significance-in-determining-earths-age
+        What evidence did Alfred Wegener present for the theory of continental drift, and why was it initially rejected?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-evidence-did-alfred-wegener-present-for-the-theory-of-continental-drift-and-why-was-it-initially-rejected
+related_article3:
+    id: 119373
+    title: >-
+        What is the difference between conservative and nonconservative elements in ocean chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-difference-between-conservative-and-nonconservative-elements-in-ocean-chemistry
+related_article4:
+    id: 119364
+    title: >-
+        How do oceans regulate climate through carbon dioxide and heat absorption?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-oceans-regulate-climate-through-carbon-dioxide-and-heat-absorption
 ---
 
 &nbsp;

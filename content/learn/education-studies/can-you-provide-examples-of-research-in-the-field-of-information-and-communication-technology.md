@@ -24,35 +24,29 @@ file_name: can-you-provide-examples-of-research-in-the-field-of-information-and-
 url: /learn/education-studies/questions/can-you-provide-examples-of-research-in-the-field-of-information-and-communication-technology
 score: -1.0
 related_article1:
-    id: 102719
+    id: 102735
     title: >-
-        How is a hypothesis employed in the research process?
-    subject: Psychology
-    url: /learn/psychology/questions/how-is-a-hypothesis-employed-in-the-research-process
+        What are some notable research contributions in Science, Technology, Engineering, and Mathematics?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-some-notable-research-contributions-in-science-technology-engineering-and-mathematics
 related_article2:
-    id: 102738
+    id: 102727
     title: >-
-        How is research applied in the field of sports?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-is-research-applied-in-the-field-of-sports
+        What methods are commonly used for collecting data in research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-methods-are-commonly-used-for-collecting-data-in-research
 related_article3:
-    id: 102718
+    id: 102714
     title: >-
-        What does it mean for research to be controlled, and why is this important?
-    subject: Psychology
-    url: /learn/psychology/questions/what-does-it-mean-for-research-to-be-controlled-and-why-is-this-important
+        What is the definition of research in the context of academic inquiry?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-definition-of-research-in-the-context-of-academic-inquiry
 related_article4:
-    id: 102731
+    id: 102724
     title: >-
-        What are some common ethical codes and policies researchers must adhere to?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-some-common-ethical-codes-and-policies-researchers-must-adhere-to
-related_article5:
-    id: 102715
-    title: >-
-        How does research impact daily life and decision-making?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-research-impact-daily-life-and-decisionmaking
+        How does reviewing related literature contribute to the research process?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-reviewing-related-literature-contribute-to-the-research-process
 ---
 
 &nbsp;

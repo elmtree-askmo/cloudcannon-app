@@ -24,29 +24,29 @@ file_name: what-is-the-importance-of-mathematical-notation-in-communicating-phys
 url: /learn/mathematics/questions/what-is-the-importance-of-mathematical-notation-in-communicating-physical-concepts
 score: -1.0
 related_article1:
+    id: 123067
+    title: >-
+        What are some examples of fundamental principles in physics that rely on mathematics?
+    subject: Physics
+    url: /learn/physics/questions/what-are-some-examples-of-fundamental-principles-in-physics-that-rely-on-mathematics
+related_article2:
+    id: 123046
+    title: >-
+        How does mathematics help us understand natural phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
+related_article3:
     id: 123049
     title: >-
         How is mathematical language used in physics?
     subject: Physics
     url: /learn/physics/questions/how-is-mathematical-language-used-in-physics
-related_article2:
-    id: 123059
-    title: >-
-        What is the local field method in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-local-field-method-in-physics
-related_article3:
-    id: 123066
-    title: >-
-        How did Greek philosophers influence the mathematical understanding of nature?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-did-greek-philosophers-influence-the-mathematical-understanding-of-nature
 related_article4:
-    id: 123061
+    id: 123062
     title: >-
-        What are the philosophical implications of the relationship between physics and mathematics?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
+        How do mathematical models help in predicting physical phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
 ---
 
 &nbsp;

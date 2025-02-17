@@ -24,35 +24,35 @@ file_name: how-does-b2b-commerce-differ-from-b2c-commerce-in-the-context-of-ebus
 url: /learn/business-and-management/questions/how-does-b2b-commerce-differ-from-b2c-commerce-in-the-context-of-ebusiness
 score: -1.0
 related_article1:
-    id: 98547
-    title: >-
-        How has digitisation transformed traditional business practices?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-has-digitisation-transformed-traditional-business-practices
-related_article2:
     id: 98570
     title: >-
         What are the security concerns specific to e-business that differ from traditional business?
     subject: Business and Management
     url: /learn/business-and-management/questions/what-are-the-security-concerns-specific-to-ebusiness-that-differ-from-traditional-business
+related_article2:
+    id: 98558
+    title: >-
+        What are the typical steps involved in online transactions?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-the-typical-steps-involved-in-online-transactions
 related_article3:
-    id: 98556
+    id: 98571
     title: >-
-        How does e-business benefit consumers and society as a whole?
+        How is the scope of e-business expected to change in the future?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-does-ebusiness-benefit-consumers-and-society-as-a-whole
+    url: /learn/business-and-management/questions/how-is-the-scope-of-ebusiness-expected-to-change-in-the-future
 related_article4:
-    id: 98567
-    title: >-
-        How has the evolution of e-business influenced outsourcing practices?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-has-the-evolution-of-ebusiness-influenced-outsourcing-practices
-related_article5:
     id: 98560
     title: >-
         What are the common methods for placing an order online?
     subject: Business and Management
     url: /learn/business-and-management/questions/what-are-the-common-methods-for-placing-an-order-online
+related_article5:
+    id: 98549
+    title: >-
+        How do internationalisation and globalisation impact e-business?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-do-internationalisation-and-globalisation-impact-ebusiness
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: how-do-force-and-equal-areas-relate-to-keplers-laws-of-planetary-moti
 url: /learn/physics/questions/how-do-force-and-equal-areas-relate-to-keplers-laws-of-planetary-motion
 score: -1.0
 related_article1:
-    id: 122701
+    id: 122710
     title: >-
-        What are Newton's Laws and how are they mathematically formulated?
+        What are some modern applications of Faraday's Law in technology?
     subject: Physics
-    url: /learn/physics/questions/what-are-newtons-laws-and-how-are-they-mathematically-formulated
+    url: /learn/physics/questions/what-are-some-modern-applications-of-faradays-law-in-technology
 related_article2:
-    id: 122696
+    id: 122694
     title: >-
-        How do fundamental principles lead to consequential statements in physics?
-    subject: Physics
-    url: /learn/physics/questions/how-do-fundamental-principles-lead-to-consequential-statements-in-physics
+        How has modern mathematical notation evolved over time?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-over-time
 related_article3:
+    id: 122704
+    title: >-
+        What are the philosophical implications of the relationship between physics and mathematics?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
+related_article4:
     id: 122695
     title: >-
         What are the key differences between Babylonian and Greek mathematical traditions?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-key-differences-between-babylonian-and-greek-mathematical-traditions
-related_article4:
-    id: 122718
-    title: >-
-        What are some contemporary debates regarding the role of mathematics in physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-contemporary-debates-regarding-the-role-of-mathematics-in-physics
 related_article5:
-    id: 122691
+    id: 122689
     title: >-
-        Can you explain Newton's Law of Gravitation in mathematical terms?
-    subject: Physics
-    url: /learn/physics/questions/can-you-explain-newtons-law-of-gravitation-in-mathematical-terms
+        How does mathematics help us understand natural phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
 ---
 
 &nbsp;

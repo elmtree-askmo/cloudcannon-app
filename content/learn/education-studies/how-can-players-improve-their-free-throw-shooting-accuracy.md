@@ -24,24 +24,30 @@ file_name: how-can-players-improve-their-free-throw-shooting-accuracy.md
 url: /learn/education-studies/questions/how-can-players-improve-their-free-throw-shooting-accuracy
 score: -1.0
 related_article1:
-    id: 119054
+    id: 119049
     title: >-
-        How does the heart function within the circulatory system?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-the-heart-function-within-the-circulatory-system
-related_article2:
-    id: 119051
-    title: >-
-        What are the major components of the muscular system?
+        What are the key dietary goals for maintaining good health?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-major-components-of-the-muscular-system
+    url: /learn/health-studies/questions/what-are-the-key-dietary-goals-for-maintaining-good-health
+related_article2:
+    id: 119052
+    title: >-
+        How does the skeletal system support the human body?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-skeletal-system-support-the-human-body
 related_article3:
+    id: 119057
+    title: >-
+        How do balance and posture affect athletic performance?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-balance-and-posture-affect-athletic-performance
+related_article4:
     id: 119043
     title: >-
         What constitutes a legal serve in volleyball?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-constitutes-a-legal-serve-in-volleyball
-related_article4:
+related_article5:
     id: 119046
     title: >-
         What are the primary functions of carbohydrates in the body?

@@ -24,35 +24,29 @@ file_name: what-are-the-new-teaching-methods-adopted-during-the-pandemic.md
 url: /learn/education-studies/questions/what-are-the-new-teaching-methods-adopted-during-the-pandemic
 score: -1.0
 related_article1:
-    id: 116944
+    id: 116939
     title: >-
-        How can schools measure the effectiveness of mental health interventions?
+        What are the barriers to accessing psychological support for students?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-schools-measure-the-effectiveness-of-mental-health-interventions
+    url: /learn/psychology/questions/what-are-the-barriers-to-accessing-psychological-support-for-students
 related_article2:
-    id: 116925
-    title: >-
-        How can psychological support be integrated into the educational system?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-psychological-support-be-integrated-into-the-educational-system
-related_article3:
-    id: 116946
-    title: >-
-        How can schools create a culture of mental health awareness and support?
-    subject: Psychology
-    url: /learn/psychology/questions/how-can-schools-create-a-culture-of-mental-health-awareness-and-support
-related_article4:
-    id: 116935
-    title: >-
-        What are the long-term effects of the pandemic on students' mental health?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-longterm-effects-of-the-pandemic-on-students-mental-health
-related_article5:
     id: 116927
     title: >-
         How can teachers and staff build supportive relationships with students?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-teachers-and-staff-build-supportive-relationships-with-students
+related_article3:
+    id: 116945
+    title: >-
+        What are the best practices for implementing therapeutic approaches in schools?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-best-practices-for-implementing-therapeutic-approaches-in-schools
+related_article4:
+    id: 116941
+    title: >-
+        What training do teachers need to support student mental health effectively?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-training-do-teachers-need-to-support-student-mental-health-effectively
 ---
 
 &nbsp;

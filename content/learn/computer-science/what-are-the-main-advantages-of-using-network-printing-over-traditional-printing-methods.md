@@ -24,35 +24,35 @@ file_name: what-are-the-main-advantages-of-using-network-printing-over-tradition
 url: /learn/computer-science/questions/what-are-the-main-advantages-of-using-network-printing-over-traditional-printing-methods
 score: -1.0
 related_article1:
-    id: 122320
+    id: 122325
     title: >-
-        What are the main components of an email system?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-components-of-an-email-system
+        How can network printing be optimized for efficiency and cost-effectiveness?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-can-network-printing-be-optimized-for-efficiency-and-costeffectiveness
 related_article2:
-    id: 122328
-    title: >-
-        What are the best practices for managing directory services in a large organization?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-best-practices-for-managing-directory-services-in-a-large-organization
-related_article3:
     id: 122311
     title: >-
         What functionalities are essential for a web server?
     subject: Computer Science
     url: /learn/computer-science/questions/what-functionalities-are-essential-for-a-web-server
+related_article3:
+    id: 122303
+    title: >-
+        How does a print server facilitate network printing?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-a-print-server-facilitate-network-printing
 related_article4:
-    id: 122301
+    id: 122307
     title: >-
-        What are the key considerations when implementing file services in a network?
+        What are the core components of a Database Management System (DBMS)?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-considerations-when-implementing-file-services-in-a-network
+    url: /learn/computer-science/questions/what-are-the-core-components-of-a-database-management-system-dbms
 related_article5:
-    id: 122299
+    id: 122315
     title: >-
-        What are the primary functions of a file server in a network?
+        What is the LAMP stack and why is it significant in web hosting?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-primary-functions-of-a-file-server-in-a-network
+    url: /learn/computer-science/questions/what-is-the-lamp-stack-and-why-is-it-significant-in-web-hosting
 ---
 
 &nbsp;

@@ -24,29 +24,23 @@ file_name: what-are-the-risks-associated-with-overconsumption-of-dietary-fiber.m
 url: /learn/health-studies/questions/what-are-the-risks-associated-with-overconsumption-of-dietary-fiber
 score: -1.0
 related_article1:
-    id: 104411
+    id: 104439
     title: >-
-        How are nutrients categorized by body requirement?
+        How is the Recommended Dietary Allowance (RDA) determined for different nutrients?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-are-nutrients-categorized-by-body-requirement
+    url: /learn/health-studies/questions/how-is-the-recommended-dietary-allowance-rda-determined-for-different-nutrients
 related_article2:
+    id: 104430
+    title: >-
+        What are the symptoms and causes of protein deficiency conditions like Kwashiorkor and Marasmus?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-symptoms-and-causes-of-protein-deficiency-conditions-like-kwashiorkor-and-marasmus
+related_article3:
     id: 104436
     title: >-
         What is the recommended intake of fats for a balanced diet?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-recommended-intake-of-fats-for-a-balanced-diet
-related_article3:
-    id: 104433
-    title: >-
-        How do cholesterol, LDL, and HDL affect health?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-cholesterol-ldl-and-hdl-affect-health
-related_article4:
-    id: 104434
-    title: >-
-        What are the essential functions of lipids in the body?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-essential-functions-of-lipids-in-the-body
 ---
 
 &nbsp;

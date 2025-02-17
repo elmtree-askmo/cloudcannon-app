@@ -24,17 +24,17 @@ file_name: what-are-the-challenges-in-pharmacological-education-and-how-can-they
 url: /learn/education-studies/questions/what-are-the-challenges-in-pharmacological-education-and-how-can-they-be-addressed
 score: -1.0
 related_article1:
-    id: 119843
-    title: >-
-        Can you explain the mechanism of action for H2 Receptor Antagonists?
-    subject: Medicine
-    url: /learn/medicine/questions/can-you-explain-the-mechanism-of-action-for-h2-receptor-antagonists
-related_article2:
     id: 119828
     title: >-
         What are the common suffixes for ACE Inhibitors and their pharmacological significance?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-common-suffixes-for-ace-inhibitors-and-their-pharmacological-significance
+related_article2:
+    id: 119843
+    title: >-
+        Can you explain the mechanism of action for H2 Receptor Antagonists?
+    subject: Medicine
+    url: /learn/medicine/questions/can-you-explain-the-mechanism-of-action-for-h2-receptor-antagonists
 ---
 
 &nbsp;

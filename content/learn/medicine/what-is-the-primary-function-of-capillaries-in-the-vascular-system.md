@@ -24,35 +24,29 @@ file_name: what-is-the-primary-function-of-capillaries-in-the-vascular-system.md
 url: /learn/medicine/questions/what-is-the-primary-function-of-capillaries-in-the-vascular-system
 score: -1.0
 related_article1:
-    id: 123858
+    id: 123860
     title: >-
-        Can you explain the significance of the common carotid arteries in cerebrovascular anatomy?
+        How do the vertebral arteries contribute to the blood supply of the brain?
     subject: Medicine
-    url: /learn/medicine/questions/can-you-explain-the-significance-of-the-common-carotid-arteries-in-cerebrovascular-anatomy
+    url: /learn/medicine/questions/how-do-the-vertebral-arteries-contribute-to-the-blood-supply-of-the-brain
 related_article2:
-    id: 123865
+    id: 123862
     title: >-
-        Can you describe the structure and function of the aortic arch and its branches?
+        What are the key features of intracranial vessels in terms of their function and structure?
     subject: Medicine
-    url: /learn/medicine/questions/can-you-describe-the-structure-and-function-of-the-aortic-arch-and-its-branches
+    url: /learn/medicine/questions/what-are-the-key-features-of-intracranial-vessels-in-terms-of-their-function-and-structure
 related_article3:
-    id: 123859
+    id: 123878
     title: >-
-        What is the role of the internal carotid arteries in supplying blood to the brain?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-the-role-of-the-internal-carotid-arteries-in-supplying-blood-to-the-brain
+        What are some common review questions on vascular anatomy that can help reinforce understanding?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-common-review-questions-on-vascular-anatomy-that-can-help-reinforce-understanding
 related_article4:
-    id: 123876
+    id: 123871
     title: >-
-        What are the main arteries of the lower extremities, and what areas do they supply?
+        How does the descending aorta contribute to the blood supply of the thorax?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-main-arteries-of-the-lower-extremities-and-what-areas-do-they-supply
-related_article5:
-    id: 123863
-    title: >-
-        How does venous drainage occur through the external and internal jugular veins?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-venous-drainage-occur-through-the-external-and-internal-jugular-veins
+    url: /learn/medicine/questions/how-does-the-descending-aorta-contribute-to-the-blood-supply-of-the-thorax
 ---
 
 &nbsp;

@@ -29,6 +29,12 @@ related_article1:
         What are the main human impacts on biodiversity?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-main-human-impacts-on-biodiversity
+related_article2:
+    id: 121783
+    title: >-
+        What are some examples of natural extinctions?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-some-examples-of-natural-extinctions
 ---
 
 &nbsp;

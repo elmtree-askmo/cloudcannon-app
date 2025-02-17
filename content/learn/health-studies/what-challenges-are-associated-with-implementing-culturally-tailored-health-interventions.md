@@ -24,11 +24,11 @@ file_name: what-challenges-are-associated-with-implementing-culturally-tailored-
 url: /learn/health-studies/questions/what-challenges-are-associated-with-implementing-culturally-tailored-health-interventions
 score: -1.0
 related_article1:
-    id: 116047
+    id: 116030
     title: >-
-        What are the key takeaways from the discussion section of the SHAPE study?
+        What methods are used in formative qualitative research for health studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-key-takeaways-from-the-discussion-section-of-the-shape-study
+    url: /learn/health-studies/questions/what-methods-are-used-in-formative-qualitative-research-for-health-studies
 related_article2:
     id: 116033
     title: >-
@@ -47,6 +47,12 @@ related_article4:
         How can the effectiveness of culturally tailored interventions be measured?
     subject: Health Studies
     url: /learn/health-studies/questions/how-can-the-effectiveness-of-culturally-tailored-interventions-be-measured
+related_article5:
+    id: 116054
+    title: >-
+        What are the ethical considerations in conducting health studies with ethnic groups?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-ethical-considerations-in-conducting-health-studies-with-ethnic-groups
 ---
 
 &nbsp;

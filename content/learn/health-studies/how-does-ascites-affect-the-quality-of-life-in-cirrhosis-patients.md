@@ -24,35 +24,35 @@ file_name: how-does-ascites-affect-the-quality-of-life-in-cirrhosis-patients.md
 url: /learn/health-studies/questions/how-does-ascites-affect-the-quality-of-life-in-cirrhosis-patients
 score: -1.0
 related_article1:
-    id: 98994
-    title: >-
-        What are the challenges in diagnosing spontaneous bacterial peritonitis?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-challenges-in-diagnosing-spontaneous-bacterial-peritonitis
-related_article2:
     id: 98997
     title: >-
         How is the risk of acute kidney injury managed in cirrhosis patients?
     subject: Medicine
     url: /learn/medicine/questions/how-is-the-risk-of-acute-kidney-injury-managed-in-cirrhosis-patients
+related_article2:
+    id: 98979
+    title: >-
+        What are the risk factors for portal vein thrombosis in cirrhosis patients?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-risk-factors-for-portal-vein-thrombosis-in-cirrhosis-patients
 related_article3:
-    id: 98992
+    id: 98990
     title: >-
-        What are the potential side effects of treatments for variceal bleeding?
+        What are the latest advancements in the treatment of cirrhosis complications?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-potential-side-effects-of-treatments-for-variceal-bleeding
+    url: /learn/medicine/questions/what-are-the-latest-advancements-in-the-treatment-of-cirrhosis-complications
 related_article4:
-    id: 98975
+    id: 98994
     title: >-
-        What are the long-term management strategies for variceal bleeding?
+        What are the challenges in diagnosing spontaneous bacterial peritonitis?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-longterm-management-strategies-for-variceal-bleeding
+    url: /learn/medicine/questions/what-are-the-challenges-in-diagnosing-spontaneous-bacterial-peritonitis
 related_article5:
-    id: 98998
+    id: 98981
     title: >-
-        What are the common diagnostic tools used to assess portal hypertension?
+        What are the most common complications associated with cirrhosis?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-diagnostic-tools-used-to-assess-portal-hypertension
+    url: /learn/medicine/questions/what-are-the-most-common-complications-associated-with-cirrhosis
 ---
 
 &nbsp;

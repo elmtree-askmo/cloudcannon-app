@@ -24,35 +24,29 @@ file_name: how-did-indias-textile-production-compare-to-britains-during-the-indu
 url: /learn/history-of-the-world/questions/how-did-indias-textile-production-compare-to-britains-during-the-industrial-revolution
 score: -1.0
 related_article1:
-    id: 123030
+    id: 123022
     title: >-
-        How did the Industrial Revolution set the stage for future discussions on capitalism?
-    subject: Economics
-    url: /learn/economics/questions/how-did-the-industrial-revolution-set-the-stage-for-future-discussions-on-capitalism
+        What are the Eurocentric explanations for the Industrial Revolution?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-eurocentric-explanations-for-the-industrial-revolution
 related_article2:
-    id: 123017
+    id: 123032
     title: >-
-        How did the British textile industry evolve during the Industrial Revolution?
+        How did the development of the steam engine affect transportation and industry?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-british-textile-industry-evolve-during-the-industrial-revolution
+    url: /learn/history-of-the-world/questions/how-did-the-development-of-the-steam-engine-affect-transportation-and-industry
 related_article3:
-    id: 123043
+    id: 123029
     title: >-
-        What were the long-term cultural impacts of the Industrial Revolution on European societies?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-longterm-cultural-impacts-of-the-industrial-revolution-on-european-societies
+        What were the economic conditions in India during the Industrial Revolution?
+    subject: Economics
+    url: /learn/economics/questions/what-were-the-economic-conditions-in-india-during-the-industrial-revolution
 related_article4:
-    id: 123020
+    id: 123037
     title: >-
-        How did coal availability in Britain influence the Industrial Revolution?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-coal-availability-in-britain-influence-the-industrial-revolution
-related_article5:
-    id: 123018
-    title: >-
-        What role did the steam engine play in the Industrial Revolution?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-did-the-steam-engine-play-in-the-industrial-revolution
+        What were the technological and economic barriers to industrialization in India?
+    subject: Economics
+    url: /learn/economics/questions/what-were-the-technological-and-economic-barriers-to-industrialization-in-india
 ---
 
 &nbsp;

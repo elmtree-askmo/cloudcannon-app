@@ -24,11 +24,11 @@ file_name: what-are-specific-liens-and-how-do-they-affect-property.md
 url: /learn/criminal-or-civil-law/questions/what-are-specific-liens-and-how-do-they-affect-property
 score: -1.0
 related_article1:
-    id: 96976
+    id: 96970
     title: >-
-        What is the cost replacement approach in property appraisal?
+        What are the different types of depreciation in property?
     subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-is-the-cost-replacement-approach-in-property-appraisal
+    url: /learn/accounting-and-finance/questions/what-are-the-different-types-of-depreciation-in-property
 related_article2:
     id: 96985
     title: >-
@@ -36,23 +36,23 @@ related_article2:
     subject: Economics
     url: /learn/economics/questions/what-is-panic-selling-in-real-estate
 related_article3:
-    id: 96961
+    id: 96956
     title: >-
-        What is ownership in severalty?
+        What are the different types of less than freehold estates?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-ownership-in-severalty
+    url: /learn/criminal-or-civil-law/questions/what-are-the-different-types-of-less-than-freehold-estates
 related_article4:
-    id: 96958
+    id: 96969
     title: >-
-        What is eminent domain and how does it affect property ownership?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-eminent-domain-and-how-does-it-affect-property-ownership
+        What is the impact of demand on property value?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-impact-of-demand-on-property-value
 related_article5:
-    id: 96957
+    id: 96966
     title: >-
-        How does the government exercise police power over property?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-does-the-government-exercise-police-power-over-property
+        How does scarcity affect property value?
+    subject: Economics
+    url: /learn/economics/questions/how-does-scarcity-affect-property-value
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: what-is-narrative-therapy-and-how-can-it-be-applied-in-educational-se
 url: /learn/psychology/questions/what-is-narrative-therapy-and-how-can-it-be-applied-in-educational-settings
 score: -1.0
 related_article1:
+    id: 116924
+    title: >-
+        What role do schools play in ensuring student well-being during the pandemic?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-role-do-schools-play-in-ensuring-student-wellbeing-during-the-pandemic
+related_article2:
+    id: 116917
+    title: >-
+        How has COVID-19 changed traditional teaching methods?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-has-covid19-changed-traditional-teaching-methods
+related_article3:
     id: 116929
     title: >-
         How does cognitive behavioral therapy help students cope with pandemic-related stress?
     subject: Psychology
     url: /learn/psychology/questions/how-does-cognitive-behavioral-therapy-help-students-cope-with-pandemicrelated-stress
-related_article2:
-    id: 116938
-    title: >-
-        How can technology be used to support mental health in education?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-technology-be-used-to-support-mental-health-in-education
-related_article3:
-    id: 116918
-    title: >-
-        What are the new teaching methods adopted during the pandemic?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-new-teaching-methods-adopted-during-the-pandemic
 related_article4:
-    id: 116932
+    id: 116937
     title: >-
-        How can schools assess the mental health needs of their students after the pandemic?
+        What role do peer relationships play in student mental health during the pandemic?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-schools-assess-the-mental-health-needs-of-their-students-after-the-pandemic
+    url: /learn/psychology/questions/what-role-do-peer-relationships-play-in-student-mental-health-during-the-pandemic
 related_article5:
-    id: 116943
+    id: 116940
     title: >-
-        What are the ethical considerations in providing psychological support in schools?
+        How can schools overcome barriers to providing psychological support?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-ethical-considerations-in-providing-psychological-support-in-schools
+    url: /learn/psychology/questions/how-can-schools-overcome-barriers-to-providing-psychological-support
 ---
 
 &nbsp;

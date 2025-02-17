@@ -30,12 +30,6 @@ related_article1:
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-psychological-impacts-of-cyberbullying-on-victims
 related_article2:
-    id: 119164
-    title: >-
-        What are the common methods of counterfeiting in the digital age?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-are-the-common-methods-of-counterfeiting-in-the-digital-age
-related_article3:
     id: 119155
     title: >-
         What are the different types of malware and how do they function?

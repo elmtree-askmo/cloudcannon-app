@@ -24,35 +24,35 @@ file_name: how-does-donnes-use-of-language-in-the-first-stanza-reflect-the-poems
 url: /learn/art-history-and-literature/questions/how-does-donnes-use-of-language-in-the-first-stanza-reflect-the-poems-themes
 score: -1.0
 related_article1:
-    id: 110267
+    id: 110271
     title: >-
-        What is the main theme of the first stanza in John Donne's 'The Sun Rising'?
+        What is the significance of the sun in the first stanza of 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-main-theme-of-the-first-stanza-in-john-donnes-the-sun-rising
+    url: /learn/art-history-and-literature/questions/what-is-the-significance-of-the-sun-in-the-first-stanza-of-the-sun-rising
 related_article2:
-    id: 110283
+    id: 110277
     title: >-
-        What is the significance of the imagery in the third stanza of 'The Sun Rising'?
+        What is the significance of the cosmic imagery in the second stanza of 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-significance-of-the-imagery-in-the-third-stanza-of-the-sun-rising
+    url: /learn/art-history-and-literature/questions/what-is-the-significance-of-the-cosmic-imagery-in-the-second-stanza-of-the-sun-rising
 related_article3:
-    id: 110273
+    id: 110287
     title: >-
-        What is the main argument presented in the second stanza of 'The Sun Rising'?
+        In what ways does Donne mock authority in 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-main-argument-presented-in-the-second-stanza-of-the-sun-rising
+    url: /learn/art-history-and-literature/questions/in-what-ways-does-donne-mock-authority-in-the-sun-rising
 related_article4:
-    id: 110281
+    id: 110282
     title: >-
-        What literary devices are used in the third stanza of 'The Sun Rising'?
+        How does Donne conclude his argument in the third stanza of 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-literary-devices-are-used-in-the-third-stanza-of-the-sun-rising
+    url: /learn/art-history-and-literature/questions/how-does-donne-conclude-his-argument-in-the-third-stanza-of-the-sun-rising
 related_article5:
-    id: 110279
+    id: 110295
     title: >-
-        What is the focus of the third stanza in 'The Sun Rising'?
+        What is the impact of Donne's use of language on the reader's understanding of the poem?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-focus-of-the-third-stanza-in-the-sun-rising
+    url: /learn/art-history-and-literature/questions/what-is-the-impact-of-donnes-use-of-language-on-the-readers-understanding-of-the-poem
 ---
 
 &nbsp;

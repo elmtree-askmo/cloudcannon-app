@@ -24,11 +24,11 @@ file_name: how-do-imaging-characteristics-of-hcc-change-with-different-stages-of
 url: /learn/medicine/questions/how-do-imaging-characteristics-of-hcc-change-with-different-stages-of-the-disease
 score: -1.0
 related_article1:
-    id: 118092
+    id: 118090
     title: >-
-        What is Transarterial Chemoembolization (TACE) and how is it used in HCC treatment?
+        What are the current surgical options for treating HCC?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-transarterial-chemoembolization-tace-and-how-is-it-used-in-hcc-treatment
+    url: /learn/medicine/questions/what-are-the-current-surgical-options-for-treating-hcc
 related_article2:
     id: 118100
     title: >-
@@ -36,17 +36,23 @@ related_article2:
     subject: Medicine
     url: /learn/medicine/questions/how-is-imaging-used-to-guide-intervention-and-followup-in-liver-abscess-cases
 related_article3:
-    id: 118103
+    id: 118097
     title: >-
-        What are the challenges in interpreting imaging results for HCC?
+        What are the common sources of liver abscesses?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-challenges-in-interpreting-imaging-results-for-hcc
+    url: /learn/medicine/questions/what-are-the-common-sources-of-liver-abscesses
 related_article4:
-    id: 118105
+    id: 118109
     title: >-
-        What are the potential complications of imaging-guided interventions for liver abscesses?
+        What is the role of imaging in the follow-up care of HCC patients?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-potential-complications-of-imagingguided-interventions-for-liver-abscesses
+    url: /learn/medicine/questions/what-is-the-role-of-imaging-in-the-followup-care-of-hcc-patients
+related_article5:
+    id: 118095
+    title: >-
+        What imaging characteristics help distinguish cholangiocarcinoma from HCC?
+    subject: Medicine
+    url: /learn/medicine/questions/what-imaging-characteristics-help-distinguish-cholangiocarcinoma-from-hcc
 ---
 
 &nbsp;

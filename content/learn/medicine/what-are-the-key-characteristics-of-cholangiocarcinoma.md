@@ -24,35 +24,35 @@ file_name: what-are-the-key-characteristics-of-cholangiocarcinoma.md
 url: /learn/medicine/questions/what-are-the-key-characteristics-of-cholangiocarcinoma
 score: -1.0
 related_article1:
-    id: 97047
+    id: 97072
     title: >-
-        What are the primary causes of Hepatocellular Carcinoma (HCC)?
+        What are the potential complications of untreated liver cancer?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-primary-causes-of-hepatocellular-carcinoma-hcc
+    url: /learn/medicine/questions/what-are-the-potential-complications-of-untreated-liver-cancer
 related_article2:
-    id: 97049
+    id: 97070
     title: >-
-        What are the most common treatment options for Hepatocellular Carcinoma (HCC)?
+        How does liver cancer management differ in Hong Kong compared to other regions?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-most-common-treatment-options-for-hepatocellular-carcinoma-hcc
+    url: /learn/medicine/questions/how-does-liver-cancer-management-differ-in-hong-kong-compared-to-other-regions
 related_article3:
+    id: 97056
+    title: >-
+        What are the differential diagnoses for hepatomegaly?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-differential-diagnoses-for-hepatomegaly
+related_article4:
     id: 97069
     title: >-
         What are the common laboratory tests used in the investigation of liver cancer?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-common-laboratory-tests-used-in-the-investigation-of-liver-cancer
-related_article4:
-    id: 97061
-    title: >-
-        What are the latest advancements in the treatment of HCC?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-latest-advancements-in-the-treatment-of-hcc
 related_article5:
-    id: 97058
+    id: 97067
     title: >-
-        What are the common risk factors for liver cancer in Hong Kong?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-common-risk-factors-for-liver-cancer-in-hong-kong
+        How is liver cancer typically managed in clinical settings?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-liver-cancer-typically-managed-in-clinical-settings
 ---
 
 &nbsp;

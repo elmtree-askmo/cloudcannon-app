@@ -24,35 +24,35 @@ file_name: what-are-the-key-characteristics-of-an-nfa.md
 url: /learn/computer-science/questions/what-are-the-key-characteristics-of-an-nfa
 score: -1.0
 related_article1:
-    id: 98911
+    id: 98920
     title: >-
-        What is Automata Theory and how did it originate?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-automata-theory-and-how-did-it-originate
+        How do symbols, sets, and strings form the mathematical foundation of Automata?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-symbols-sets-and-strings-form-the-mathematical-foundation-of-automata
 related_article2:
-    id: 98912
+    id: 98936
     title: >-
-        Why is Automata Theory important in computer science?
+        What are the historical developments that led to the creation of Automata Theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-automata-theory-important-in-computer-science
+    url: /learn/computer-science/questions/what-are-the-historical-developments-that-led-to-the-creation-of-automata-theory
 related_article3:
-    id: 98926
-    title: >-
-        In what ways does Automata Theory contribute to hardware design?
-    subject: Computer Science
-    url: /learn/computer-science/questions/in-what-ways-does-automata-theory-contribute-to-hardware-design
-related_article4:
     id: 98932
     title: >-
         How can Automata be used to solve problems by designing DFA for specific languages?
     subject: Computer Science
     url: /learn/computer-science/questions/how-can-automata-be-used-to-solve-problems-by-designing-dfa-for-specific-languages
-related_article5:
-    id: 98918
+related_article4:
+    id: 98938
     title: >-
-        What are the key characteristics of a DFA?
+        What are the limitations of Finite Automata in computational theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-characteristics-of-a-dfa
+    url: /learn/computer-science/questions/what-are-the-limitations-of-finite-automata-in-computational-theory
+related_article5:
+    id: 98911
+    title: >-
+        What is Automata Theory and how did it originate?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-automata-theory-and-how-did-it-originate
 ---
 
 &nbsp;

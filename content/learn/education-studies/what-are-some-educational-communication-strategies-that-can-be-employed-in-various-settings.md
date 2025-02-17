@@ -24,29 +24,35 @@ file_name: what-are-some-educational-communication-strategies-that-can-be-employ
 url: /learn/education-studies/questions/what-are-some-educational-communication-strategies-that-can-be-employed-in-various-settings
 score: -1.0
 related_article1:
-    id: 120742
-    title: >-
-        What are the challenges in maintaining a consistent tone across different communication channels?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-are-the-challenges-in-maintaining-a-consistent-tone-across-different-communication-channels
-related_article2:
     id: 120723
     title: >-
         Can you provide examples of how tone can impact behavior in communication?
     subject: Psychology
     url: /learn/psychology/questions/can-you-provide-examples-of-how-tone-can-impact-behavior-in-communication
-related_article3:
-    id: 120737
+related_article2:
+    id: 120736
     title: >-
-        How can feedback be used to improve communication skills?
+        What are the psychological effects of tone on the receiver of a message?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-feedback-be-used-to-improve-communication-skills
-related_article4:
-    id: 120729
+    url: /learn/psychology/questions/what-are-the-psychological-effects-of-tone-on-the-receiver-of-a-message
+related_article3:
+    id: 120747
     title: >-
-        How can one practice and improve their communication skills effectively?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-one-practice-and-improve-their-communication-skills-effectively
+        How can empathy be incorporated into communication strategies?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-empathy-be-incorporated-into-communication-strategies
+related_article4:
+    id: 120722
+    title: >-
+        What are some common communication pitfalls that people encounter?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-communication-pitfalls-that-people-encounter
+related_article5:
+    id: 120732
+    title: >-
+        What role does cultural context play in the interpretation of tone?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-does-cultural-context-play-in-the-interpretation-of-tone
 ---
 
 &nbsp;

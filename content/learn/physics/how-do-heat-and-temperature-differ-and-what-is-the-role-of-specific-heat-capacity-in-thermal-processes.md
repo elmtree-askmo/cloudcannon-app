@@ -24,29 +24,35 @@ file_name: how-do-heat-and-temperature-differ-and-what-is-the-role-of-specific-h
 url: /learn/physics/questions/how-do-heat-and-temperature-differ-and-what-is-the-role-of-specific-heat-capacity-in-thermal-processes
 score: -1.0
 related_article1:
-    id: 122453
+    id: 122463
     title: >-
-        How is average velocity calculated, and how does it differ from instantaneous velocity?
+        How is equilibrium defined in the context of forces?
     subject: Physics
-    url: /learn/physics/questions/how-is-average-velocity-calculated-and-how-does-it-differ-from-instantaneous-velocity
+    url: /learn/physics/questions/how-is-equilibrium-defined-in-the-context-of-forces
 related_article2:
+    id: 122457
+    title: >-
+        How is average acceleration different from instantaneous acceleration?
+    subject: Physics
+    url: /learn/physics/questions/how-is-average-acceleration-different-from-instantaneous-acceleration
+related_article3:
     id: 122467
     title: >-
         How is kinetic energy calculated, and what factors affect it?
     subject: Physics
     url: /learn/physics/questions/how-is-kinetic-energy-calculated-and-what-factors-affect-it
-related_article3:
-    id: 122468
-    title: >-
-        What is the principle of conservation of energy, and how is it applied in physics problems?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-principle-of-conservation-of-energy-and-how-is-it-applied-in-physics-problems
 related_article4:
-    id: 122474
+    id: 122458
     title: >-
-        What are the characteristics of series and parallel circuits?
+        What are the key equations of motion for uniform motion?
     subject: Physics
-    url: /learn/physics/questions/what-are-the-characteristics-of-series-and-parallel-circuits
+    url: /learn/physics/questions/what-are-the-key-equations-of-motion-for-uniform-motion
+related_article5:
+    id: 122452
+    title: >-
+        Can you explain the difference between displacement and distance in motion and kinematics?
+    subject: Physics
+    url: /learn/physics/questions/can-you-explain-the-difference-between-displacement-and-distance-in-motion-and-kinematics
 ---
 
 &nbsp;

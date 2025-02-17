@@ -24,23 +24,35 @@ file_name: what-role-do-local-authorities-play-in-responding-to-tsunami-warnings
 url: /learn/sociology/questions/what-role-do-local-authorities-play-in-responding-to-tsunami-warnings
 score: -1.0
 related_article1:
-    id: 107035
+    id: 107033
     title: >-
-        What is the historical context of strong earthquakes in Northern California?
+        Which areas along the California coastline were affected by the tsunami warning?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-historical-context-of-strong-earthquakes-in-northern-california
+    url: /learn/history-of-the-world/questions/which-areas-along-the-california-coastline-were-affected-by-the-tsunami-warning
 related_article2:
-    id: 107057
-    title: >-
-        What lessons have been learned from past seismic events in Northern California?
-    subject: Engineering
-    url: /learn/engineering/questions/what-lessons-have-been-learned-from-past-seismic-events-in-northern-california
-related_article3:
     id: 107048
     title: >-
         How does the public typically respond to tsunami warnings in California?
     subject: Sociology
     url: /learn/sociology/questions/how-does-the-public-typically-respond-to-tsunami-warnings-in-california
+related_article3:
+    id: 107045
+    title: >-
+        What technologies are used to monitor seismic activity in Northern California?
+    subject: Engineering
+    url: /learn/engineering/questions/what-technologies-are-used-to-monitor-seismic-activity-in-northern-california
+related_article4:
+    id: 107056
+    title: >-
+        How do emergency services prepare for potential tsunamis following an earthquake?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-emergency-services-prepare-for-potential-tsunamis-following-an-earthquake
+related_article5:
+    id: 107043
+    title: >-
+        What historical earthquakes in Northern California have had significant impacts?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-historical-earthquakes-in-northern-california-have-had-significant-impacts
 ---
 
 &nbsp;

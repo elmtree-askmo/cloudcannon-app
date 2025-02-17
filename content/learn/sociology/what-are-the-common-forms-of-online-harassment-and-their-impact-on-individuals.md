@@ -24,29 +24,17 @@ file_name: what-are-the-common-forms-of-online-harassment-and-their-impact-on-in
 url: /learn/sociology/questions/what-are-the-common-forms-of-online-harassment-and-their-impact-on-individuals
 score: -1.0
 related_article1:
-    id: 115908
-    title: >-
-        What are the key components of effective course evaluations?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-effective-course-evaluations
-related_article2:
-    id: 115918
-    title: >-
-        What role do algorithms play in the spread of misinformation and disinformation?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-role-do-algorithms-play-in-the-spread-of-misinformation-and-disinformation
-related_article3:
     id: 115924
     title: >-
         How do social movements utilize media coverage to advance their causes?
     subject: Sociology
     url: /learn/sociology/questions/how-do-social-movements-utilize-media-coverage-to-advance-their-causes
-related_article4:
-    id: 115911
+related_article2:
+    id: 115908
     title: >-
-        How can final test structures be designed to accurately assess student learning?
+        What are the key components of effective course evaluations?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-final-test-structures-be-designed-to-accurately-assess-student-learning
+    url: /learn/education-studies/questions/what-are-the-key-components-of-effective-course-evaluations
 ---
 
 &nbsp;

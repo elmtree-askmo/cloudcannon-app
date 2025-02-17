@@ -29,6 +29,12 @@ related_article1:
         Can you explain what predicates and propositional functions are in predicate logic?
     subject: Mathematics
     url: /learn/mathematics/questions/can-you-explain-what-predicates-and-propositional-functions-are-in-predicate-logic
+related_article2:
+    id: 100297
+    title: >-
+        How do quantifiers function in predicate logic?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-quantifiers-function-in-predicate-logic
 ---
 
 &nbsp;

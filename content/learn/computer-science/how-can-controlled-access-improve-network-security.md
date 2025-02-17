@@ -24,35 +24,29 @@ file_name: how-can-controlled-access-improve-network-security.md
 url: /learn/computer-science/questions/how-can-controlled-access-improve-network-security
 score: -1.0
 related_article1:
-    id: 123107
+    id: 123111
     title: >-
-        How does ransomware affect businesses and individuals?
+        What are the key components of building and maintaining secure networks?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-ransomware-affect-businesses-and-individuals
+    url: /learn/computer-science/questions/what-are-the-key-components-of-building-and-maintaining-secure-networks
 related_article2:
-    id: 123125
+    id: 123127
     title: >-
-        How do biometric authentication methods enhance security?
+        How do denial of service (DoS) attacks disrupt network availability?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-biometric-authentication-methods-enhance-security
+    url: /learn/computer-science/questions/how-do-denial-of-service-dos-attacks-disrupt-network-availability
 related_article3:
-    id: 123126
+    id: 123113
     title: >-
-        What are the advantages and disadvantages of two-factor authentication?
+        How do botnets operate and what threats do they pose?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-advantages-and-disadvantages-of-twofactor-authentication
+    url: /learn/computer-science/questions/how-do-botnets-operate-and-what-threats-do-they-pose
 related_article4:
-    id: 123129
+    id: 123118
     title: >-
-        How can viruses and trojans impact network availability?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-viruses-and-trojans-impact-network-availability
-related_article5:
-    id: 123131
-    title: >-
-        How can organizations defend against internal threats?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-organizations-defend-against-internal-threats
+        What are the most effective strategies for preventing phishing attacks?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-are-the-most-effective-strategies-for-preventing-phishing-attacks
 ---
 
 &nbsp;

@@ -24,17 +24,17 @@ file_name: what-are-the-most-commonly-used-imaging-modalities-for-diagnosing-hcc
 url: /learn/medicine/questions/what-are-the-most-commonly-used-imaging-modalities-for-diagnosing-hcc
 score: -1.0
 related_article1:
-    id: 118088
+    id: 118087
     title: >-
-        How do CT and MRI images of HCC typically appear?
+        What are the typical enhancement patterns of HCC on imaging studies?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-ct-and-mri-images-of-hcc-typically-appear
+    url: /learn/medicine/questions/what-are-the-typical-enhancement-patterns-of-hcc-on-imaging-studies
 related_article2:
-    id: 118089
+    id: 118094
     title: >-
-        What specific features are looked for in PET-CT imaging of HCC?
+        How is hemangioma differentiated from HCC in imaging studies?
     subject: Medicine
-    url: /learn/medicine/questions/what-specific-features-are-looked-for-in-petct-imaging-of-hcc
+    url: /learn/medicine/questions/how-is-hemangioma-differentiated-from-hcc-in-imaging-studies
 related_article3:
     id: 118093
     title: >-
@@ -42,17 +42,17 @@ related_article3:
     subject: Medicine
     url: /learn/medicine/questions/what-methods-are-used-to-monitor-treatment-response-in-hcc-patients
 related_article4:
-    id: 118095
+    id: 118084
     title: >-
-        What imaging characteristics help distinguish cholangiocarcinoma from HCC?
+        What are the advantages and limitations of CT and MRI in imaging HCC?
     subject: Medicine
-    url: /learn/medicine/questions/what-imaging-characteristics-help-distinguish-cholangiocarcinoma-from-hcc
+    url: /learn/medicine/questions/what-are-the-advantages-and-limitations-of-ct-and-mri-in-imaging-hcc
 related_article5:
-    id: 118085
+    id: 118081
     title: >-
-        How is PET-CT used in the diagnosis and management of HCC?
+        How do international guidelines influence imaging practices for HCC?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-petct-used-in-the-diagnosis-and-management-of-hcc
+    url: /learn/medicine/questions/how-do-international-guidelines-influence-imaging-practices-for-hcc
 ---
 
 &nbsp;

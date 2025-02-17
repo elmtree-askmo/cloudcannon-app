@@ -23,12 +23,7 @@ subject: Philosophy and Greek Myths
 file_name: how-does-the-square-of-opposition-help-in-understanding-logical-relationships.md
 url: /learn/philosophy-and-greek-myths/questions/how-does-the-square-of-opposition-help-in-understanding-logical-relationships
 score: -1.0
-related_article1:
-    id: 100100
-    title: >-
-        How can students effectively analyze logical statements?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-can-students-effectively-analyze-logical-statements
+
 ---
 
 &nbsp;

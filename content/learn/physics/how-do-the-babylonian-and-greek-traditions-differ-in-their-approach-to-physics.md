@@ -24,35 +24,29 @@ file_name: how-do-the-babylonian-and-greek-traditions-differ-in-their-approach-t
 url: /learn/physics/questions/how-do-the-babylonian-and-greek-traditions-differ-in-their-approach-to-physics
 score: -1.0
 related_article1:
-    id: 105741
+    id: 105737
     title: >-
-        How do Newton's Laws form the foundation of classical mechanics?
-    subject: Physics
-    url: /learn/physics/questions/how-do-newtons-laws-form-the-foundation-of-classical-mechanics
+        What was the Babylonian method in physics and how did it influence modern science?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-was-the-babylonian-method-in-physics-and-how-did-it-influence-modern-science
 related_article2:
-    id: 105738
+    id: 105751
     title: >-
-        Can you describe the Euclidean method and its impact on physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/can-you-describe-the-euclidean-method-and-its-impact-on-physics
-related_article3:
-    id: 105733
-    title: >-
-        What is the relationship between force and equal areas in physics?
+        How does the concept of force relate to the conservation of angular momentum?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-relationship-between-force-and-equal-areas-in-physics
+    url: /learn/physics/questions/how-does-the-concept-of-force-relate-to-the-conservation-of-angular-momentum
+related_article3:
+    id: 105732
+    title: >-
+        How is mathematical language used to describe physical laws?
+    subject: Physics
+    url: /learn/physics/questions/how-is-mathematical-language-used-to-describe-physical-laws
 related_article4:
     id: 105745
     title: >-
         How do mathematical models help in predicting physical phenomena?
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
-related_article5:
-    id: 105730
-    title: >-
-        Can you explain Faraday's Law and its significance in physics?
-    subject: Physics
-    url: /learn/physics/questions/can-you-explain-faradays-law-and-its-significance-in-physics
 ---
 
 &nbsp;

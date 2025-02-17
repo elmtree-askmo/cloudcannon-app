@@ -24,35 +24,29 @@ file_name: what-are-the-main-characteristics-of-postcolonial-narratives.md
 url: /learn/art-history-and-literature/questions/what-are-the-main-characteristics-of-postcolonial-narratives
 score: -1.0
 related_article1:
-    id: 111431
-    title: >-
-        How do key concepts in literary theory influence textual analysis?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-key-concepts-in-literary-theory-influence-textual-analysis
-related_article2:
-    id: 111454
-    title: >-
-        What is the significance of intertextuality in textual analysis?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-significance-of-intertextuality-in-textual-analysis
-related_article3:
     id: 111444
     title: >-
         Why is close reading considered important in literary analysis?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/why-is-close-reading-considered-important-in-literary-analysis
+related_article2:
+    id: 111440
+    title: >-
+        How are cyclical narratives defined and characterized?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-are-cyclical-narratives-defined-and-characterized
+related_article3:
+    id: 111443
+    title: >-
+        What are the key techniques for effective close reading?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-the-key-techniques-for-effective-close-reading
 related_article4:
-    id: 111458
+    id: 111449
     title: >-
-        What role does reader-response theory play in textual analysis?
+        What are some emerging trends in literary theory?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-does-readerresponse-theory-play-in-textual-analysis
-related_article5:
-    id: 111441
-    title: >-
-        In what ways is gender represented in literature?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-is-gender-represented-in-literature
+    url: /learn/art-history-and-literature/questions/what-are-some-emerging-trends-in-literary-theory
 ---
 
 &nbsp;

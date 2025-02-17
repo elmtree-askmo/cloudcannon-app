@@ -24,29 +24,35 @@ file_name: what-makes-the-church-lady-a-memorable-snl-character.md
 url: /learn/american-culture/questions/what-makes-the-church-lady-a-memorable-snl-character
 score: -1.0
 related_article1:
-    id: 1007
+    id: 1011
     title: >-
-        How does Stefon's character reflect eccentric personality traits?
+        What is notable about Harry Styles' dual role as host and musical guest on SNL?
     subject: American Culture
-    url: /learn/american-culture/questions/how-does-stefons-character-reflect-eccentric-personality-traits
+    url: /learn/american-culture/questions/what-is-notable-about-harry-styles-dual-role-as-host-and-musical-guest-on-snl
 related_article2:
-    id: 1015
+    id: 1021
     title: >-
-        How has Kenan Thompson contributed to SNL as a long-serving cast member?
+        How does 'D*** in a Box' exemplify absurdity in comedy?
     subject: American Culture
-    url: /learn/american-culture/questions/how-has-kenan-thompson-contributed-to-snl-as-a-longserving-cast-member
+    url: /learn/american-culture/questions/how-does-d-in-a-box-exemplify-absurdity-in-comedy
 related_article3:
+    id: 1030
+    title: >-
+        In what ways does the 'Unfrozen Caveman Lawyer' sketch incorporate historical themes?
+    subject: American Culture
+    url: /learn/american-culture/questions/in-what-ways-does-the-unfrozen-caveman-lawyer-sketch-incorporate-historical-themes
+related_article4:
     id: 1027
     title: >-
         How does SNL utilize celebrity impersonations to enhance its comedic impact?
     subject: American Culture
     url: /learn/american-culture/questions/how-does-snl-utilize-celebrity-impersonations-to-enhance-its-comedic-impact
-related_article4:
-    id: 1025
+related_article5:
+    id: 1020
     title: >-
-        How does the portrayal of Matt Foley contribute to his iconic status on SNL?
+        How did Stuart Smalley become a notable guest host character on SNL?
     subject: American Culture
-    url: /learn/american-culture/questions/how-does-the-portrayal-of-matt-foley-contribute-to-his-iconic-status-on-snl
+    url: /learn/american-culture/questions/how-did-stuart-smalley-become-a-notable-guest-host-character-on-snl
 ---
 
 &nbsp;

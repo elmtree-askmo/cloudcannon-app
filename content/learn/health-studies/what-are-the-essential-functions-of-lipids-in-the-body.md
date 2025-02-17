@@ -24,23 +24,29 @@ file_name: what-are-the-essential-functions-of-lipids-in-the-body.md
 url: /learn/health-studies/questions/what-are-the-essential-functions-of-lipids-in-the-body
 score: -1.0
 related_article1:
-    id: 104411
-    title: >-
-        How are nutrients categorized by body requirement?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-are-nutrients-categorized-by-body-requirement
-related_article2:
     id: 104439
     title: >-
         How is the Recommended Dietary Allowance (RDA) determined for different nutrients?
     subject: Health Studies
     url: /learn/health-studies/questions/how-is-the-recommended-dietary-allowance-rda-determined-for-different-nutrients
-related_article3:
-    id: 104433
+related_article2:
+    id: 104436
     title: >-
-        How do cholesterol, LDL, and HDL affect health?
+        What is the recommended intake of fats for a balanced diet?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-cholesterol-ldl-and-hdl-affect-health
+    url: /learn/health-studies/questions/what-is-the-recommended-intake-of-fats-for-a-balanced-diet
+related_article3:
+    id: 104424
+    title: >-
+        What are the risks associated with overconsumption of dietary fiber?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-risks-associated-with-overconsumption-of-dietary-fiber
+related_article4:
+    id: 104411
+    title: >-
+        How are nutrients categorized by body requirement?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-are-nutrients-categorized-by-body-requirement
 ---
 
 &nbsp;

@@ -24,29 +24,35 @@ file_name: how-does-donnes-playful-mockery-of-celestial-authority-contribute-to-
 url: /learn/art-history-and-literature/questions/how-does-donnes-playful-mockery-of-celestial-authority-contribute-to-the-poems-meaning
 score: -1.0
 related_article1:
-    id: 110269
+    id: 110279
     title: >-
-        What literary devices are prominent in the first stanza of 'The Sun Rising'?
+        What is the focus of the third stanza in 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-literary-devices-are-prominent-in-the-first-stanza-of-the-sun-rising
+    url: /learn/art-history-and-literature/questions/what-is-the-focus-of-the-third-stanza-in-the-sun-rising
 related_article2:
-    id: 110282
+    id: 110288
     title: >-
-        How does Donne conclude his argument in the third stanza of 'The Sun Rising'?
+        How does Donne use hyperbole to emphasize his themes in 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-donne-conclude-his-argument-in-the-third-stanza-of-the-sun-rising
+    url: /learn/art-history-and-literature/questions/how-does-donne-use-hyperbole-to-emphasize-his-themes-in-the-sun-rising
 related_article3:
-    id: 110284
+    id: 110283
     title: >-
-        How does the third stanza reinforce the poem's themes?
+        What is the significance of the imagery in the third stanza of 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-the-third-stanza-reinforce-the-poems-themes
+    url: /learn/art-history-and-literature/questions/what-is-the-significance-of-the-imagery-in-the-third-stanza-of-the-sun-rising
 related_article4:
-    id: 110295
+    id: 110289
     title: >-
-        What is the impact of Donne's use of language on the reader's understanding of the poem?
+        What is the role of idealization in 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-impact-of-donnes-use-of-language-on-the-readers-understanding-of-the-poem
+    url: /learn/art-history-and-literature/questions/what-is-the-role-of-idealization-in-the-sun-rising
+related_article5:
+    id: 110274
+    title: >-
+        How does Donne use hyperbole in the second stanza of 'The Sun Rising'?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-does-donne-use-hyperbole-in-the-second-stanza-of-the-sun-rising
 ---
 
 &nbsp;

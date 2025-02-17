@@ -24,35 +24,29 @@ file_name: what-types-of-data-views-are-available-in-airtable.md
 url: /learn/digital-media/questions/what-types-of-data-views-are-available-in-airtable
 score: -1.0
 related_article1:
-    id: 118019
+    id: 118018
     title: >-
-        What are the future developments or updates expected for Airtable?
+        How does Airtable's automation engine improve workflow efficiency?
     subject: Digital Media
-    url: /learn/digital-media/questions/what-are-the-future-developments-or-updates-expected-for-airtable
+    url: /learn/digital-media/questions/how-does-airtables-automation-engine-improve-workflow-efficiency
 related_article2:
-    id: 117993
+    id: 118015
     title: >-
-        What are the key features of Airtable's drag and drop interface?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-are-the-key-features-of-airtables-drag-and-drop-interface
-related_article3:
-    id: 118009
-    title: >-
-        How does Airtable ensure data security and privacy?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-does-airtable-ensure-data-security-and-privacy
-related_article4:
-    id: 118010
-    title: >-
-        What are the pricing plans for Airtable and what features do they include?
+        What are some innovative ways businesses have used Airtable?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-pricing-plans-for-airtable-and-what-features-do-they-include
-related_article5:
-    id: 118000
+    url: /learn/business-and-management/questions/what-are-some-innovative-ways-businesses-have-used-airtable
+related_article3:
+    id: 117999
     title: >-
-        What systems can Airtable integrate with and how does this integration work?
+        How can users access Airtable's API and what are its capabilities?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-systems-can-airtable-integrate-with-and-how-does-this-integration-work
+    url: /learn/computer-science/questions/how-can-users-access-airtables-api-and-what-are-its-capabilities
+related_article4:
+    id: 118003
+    title: >-
+        How can solo founders benefit from using Airtable?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-can-solo-founders-benefit-from-using-airtable
 ---
 
 &nbsp;

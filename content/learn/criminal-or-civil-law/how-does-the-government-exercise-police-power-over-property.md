@@ -24,35 +24,35 @@ file_name: how-does-the-government-exercise-police-power-over-property.md
 url: /learn/criminal-or-civil-law/questions/how-does-the-government-exercise-police-power-over-property
 score: -1.0
 related_article1:
-    id: 96965
-    title: >-
-        What are the essential elements of value in property?
-    subject: Economics
-    url: /learn/economics/questions/what-are-the-essential-elements-of-value-in-property
-related_article2:
     id: 96983
     title: >-
         What is steering in the context of fair housing laws?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-is-steering-in-the-context-of-fair-housing-laws
-related_article3:
-    id: 96978
+related_article2:
+    id: 96950
     title: >-
-        What is the difference between a deed and a title in real estate?
+        What are the key differences between real and personal property?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-the-difference-between-a-deed-and-a-title-in-real-estate
+    url: /learn/criminal-or-civil-law/questions/what-are-the-key-differences-between-real-and-personal-property
+related_article3:
+    id: 96975
+    title: >-
+        How does the market data approach work in property appraisal?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/how-does-the-market-data-approach-work-in-property-appraisal
 related_article4:
-    id: 96977
+    id: 96965
     title: >-
-        How does the capitalization income approach work in property appraisal?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/how-does-the-capitalization-income-approach-work-in-property-appraisal
+        What are the essential elements of value in property?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-essential-elements-of-value-in-property
 related_article5:
-    id: 96970
+    id: 96956
     title: >-
-        What are the different types of depreciation in property?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-are-the-different-types-of-depreciation-in-property
+        What are the different types of less than freehold estates?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-are-the-different-types-of-less-than-freehold-estates
 ---
 
 &nbsp;

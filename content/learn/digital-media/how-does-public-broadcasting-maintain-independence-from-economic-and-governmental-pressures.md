@@ -24,23 +24,17 @@ file_name: how-does-public-broadcasting-maintain-independence-from-economic-and-
 url: /learn/digital-media/questions/how-does-public-broadcasting-maintain-independence-from-economic-and-governmental-pressures
 score: -1.0
 related_article1:
-    id: 104547
-    title: >-
-        How does media professionalism relate to public interest?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-does-media-professionalism-relate-to-public-interest
-related_article2:
-    id: 104557
-    title: >-
-        How do audience and cultural differences affect media practices?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-do-audience-and-cultural-differences-affect-media-practices
-related_article3:
     id: 104536
     title: >-
         What are the main principles of social responsibility theory in media?
     subject: Sociology
     url: /learn/sociology/questions/what-are-the-main-principles-of-social-responsibility-theory-in-media
+related_article2:
+    id: 104547
+    title: >-
+        How does media professionalism relate to public interest?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-does-media-professionalism-relate-to-public-interest
 ---
 
 &nbsp;

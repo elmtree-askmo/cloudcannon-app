@@ -24,35 +24,35 @@ file_name: what-are-the-ethical-considerations-in-studying-sensitive-periods-and
 url: /learn/psychology/questions/what-are-the-ethical-considerations-in-studying-sensitive-periods-and-atypical-development
 score: -1.0
 related_article1:
-    id: 121384
+    id: 121394
     title: >-
-        What are the main periods of human development?
+        What is a sensitive period in the context of human development?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-periods-of-human-development
+    url: /learn/psychology/questions/what-is-a-sensitive-period-in-the-context-of-human-development
 related_article2:
-    id: 121391
+    id: 121403
     title: >-
-        How do normative age-graded changes affect human development?
+        How is cross-cultural research conducted in developmental psychology?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-normative-agegraded-changes-affect-human-development
+    url: /learn/psychology/questions/how-is-crosscultural-research-conducted-in-developmental-psychology
 related_article3:
-    id: 121404
+    id: 121409
     title: >-
-        What role do ethnographies play in developmental psychology research?
+        What are the latest trends in research methodology in developmental psychology?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-do-ethnographies-play-in-developmental-psychology-research
+    url: /learn/psychology/questions/what-are-the-latest-trends-in-research-methodology-in-developmental-psychology
 related_article4:
-    id: 121386
+    id: 121411
     title: >-
-        What are the key biological influences on human development?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-biological-influences-on-human-development
+        What are the implications of atypical development for intervention strategies?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-implications-of-atypical-development-for-intervention-strategies
 related_article5:
-    id: 121412
+    id: 121399
     title: >-
-        How do sensitive periods influence learning and development?
+        Can you explain Bronfenbrenner’s Ecological Systems Theory?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-sensitive-periods-influence-learning-and-development
+    url: /learn/psychology/questions/can-you-explain-bronfenbrenners-ecological-systems-theory
 ---
 
 &nbsp;

@@ -24,17 +24,29 @@ file_name: how-does-the-concept-of-a-runaway-shop-affect-labor-relations.md
 url: /learn/criminal-or-civil-law/questions/how-does-the-concept-of-a-runaway-shop-affect-labor-relations
 score: -1.0
 related_article1:
-    id: 123004
+    id: 123014
     title: >-
-        What are tie-in arrangements and exclusive dealing arrangements under antitrust laws?
+        What constitutes insider trading and who is considered an insider?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-tiein-arrangements-and-exclusive-dealing-arrangements-under-antitrust-laws
+    url: /learn/criminal-or-civil-law/questions/what-constitutes-insider-trading-and-who-is-considered-an-insider
 related_article2:
-    id: 122998
+    id: 123010
     title: >-
-        What are the key differences between disparate treatment and disparate impact under the Civil Rights Act of 1964?
+        How does the due diligence process work in securities regulation?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-key-differences-between-disparate-treatment-and-disparate-impact-under-the-civil-rights-act-of-1964
+    url: /learn/criminal-or-civil-law/questions/how-does-the-due-diligence-process-work-in-securities-regulation
+related_article3:
+    id: 122986
+    title: >-
+        What were the key provisions of the National Railway Act and Norris-LaGuardia Act of 1932?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-were-the-key-provisions-of-the-national-railway-act-and-norrislaguardia-act-of-1932
+related_article4:
+    id: 123008
+    title: >-
+        Can you explain the three-stage process of securities registration: prefiling, waiting, and post-filing?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/can-you-explain-the-threestage-process-of-securities-registration-prefiling-waiting-and-postfiling
 ---
 
 &nbsp;

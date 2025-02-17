@@ -24,35 +24,35 @@ file_name: what-are-the-most-commonly-used-command-line-networking-tools-in-linu
 url: /learn/computer-science/questions/what-are-the-most-commonly-used-command-line-networking-tools-in-linux
 score: -1.0
 related_article1:
-    id: 116133
+    id: 116130
     title: >-
-        What are some emerging technologies in networking?
+        What are the steps involved in setting up a database server on Linux?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-emerging-technologies-in-networking
+    url: /learn/computer-science/questions/what-are-the-steps-involved-in-setting-up-a-database-server-on-linux
 related_article2:
-    id: 116138
-    title: >-
-        What are the advantages of using Linux for server configuration?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-advantages-of-using-linux-for-server-configuration
-related_article3:
     id: 116126
     title: >-
         How do HTTP and HTTPS protocols ensure secure communication?
     subject: Computer Science
     url: /learn/computer-science/questions/how-do-http-and-https-protocols-ensure-secure-communication
+related_article3:
+    id: 116125
+    title: >-
+        What are the main differences between TCP and UDP protocols?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-main-differences-between-tcp-and-udp-protocols
 related_article4:
-    id: 116143
+    id: 116139
     title: >-
-        How can Linux be integrated with other operating systems in a network?
+        How does Linux handle network traffic management?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-linux-be-integrated-with-other-operating-systems-in-a-network
+    url: /learn/computer-science/questions/how-does-linux-handle-network-traffic-management
 related_article5:
-    id: 116118
+    id: 116144
     title: >-
-        What are the fundamental concepts of basic networking?
+        What are the latest trends in firewall technology for Linux?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-fundamental-concepts-of-basic-networking
+    url: /learn/computer-science/questions/what-are-the-latest-trends-in-firewall-technology-for-linux
 ---
 
 &nbsp;

@@ -24,29 +24,29 @@ file_name: what-is-the-role-of-the-internal-carotid-arteries-in-supplying-blood-
 url: /learn/medicine/questions/what-is-the-role-of-the-internal-carotid-arteries-in-supplying-blood-to-the-brain
 score: -1.0
 related_article1:
-    id: 123849
+    id: 123871
     title: >-
-        What are the main components of the tunica intima, and what is its primary function?
+        How does the descending aorta contribute to the blood supply of the thorax?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-main-components-of-the-tunica-intima-and-what-is-its-primary-function
+    url: /learn/medicine/questions/how-does-the-descending-aorta-contribute-to-the-blood-supply-of-the-thorax
 related_article2:
-    id: 123878
+    id: 123863
     title: >-
-        What are some common review questions on vascular anatomy that can help reinforce understanding?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-some-common-review-questions-on-vascular-anatomy-that-can-help-reinforce-understanding
+        How does venous drainage occur through the external and internal jugular veins?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-venous-drainage-occur-through-the-external-and-internal-jugular-veins
 related_article3:
-    id: 123857
+    id: 123862
     title: >-
-        What is the primary function of capillaries in the vascular system?
+        What are the key features of intracranial vessels in terms of their function and structure?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-the-primary-function-of-capillaries-in-the-vascular-system
+    url: /learn/medicine/questions/what-are-the-key-features-of-intracranial-vessels-in-terms-of-their-function-and-structure
 related_article4:
-    id: 123855
+    id: 123860
     title: >-
-        What are the structural differences between small and medium-sized veins and large veins?
+        How do the vertebral arteries contribute to the blood supply of the brain?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-structural-differences-between-small-and-mediumsized-veins-and-large-veins
+    url: /learn/medicine/questions/how-do-the-vertebral-arteries-contribute-to-the-blood-supply-of-the-brain
 ---
 
 &nbsp;

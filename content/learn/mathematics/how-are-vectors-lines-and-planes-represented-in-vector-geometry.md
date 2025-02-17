@@ -24,35 +24,35 @@ file_name: how-are-vectors-lines-and-planes-represented-in-vector-geometry.md
 url: /learn/mathematics/questions/how-are-vectors-lines-and-planes-represented-in-vector-geometry
 score: -1.0
 related_article1:
-    id: 104669
-    title: >-
-        What are canonical forms and how are they used in advanced linear algebra?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-canonical-forms-and-how-are-they-used-in-advanced-linear-algebra
-related_article2:
-    id: 104653
-    title: >-
-        What are the key properties of matrices that are important in linear algebra?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-key-properties-of-matrices-that-are-important-in-linear-algebra
-related_article3:
-    id: 104655
-    title: >-
-        What is the relationship between the determinant and the invertibility of a matrix?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-relationship-between-the-determinant-and-the-invertibility-of-a-matrix
-related_article4:
     id: 104666
     title: >-
         What are some real-world applications of linear algebra in network flow and electrical networks?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-some-realworld-applications-of-linear-algebra-in-network-flow-and-electrical-networks
-related_article5:
-    id: 104668
+related_article2:
+    id: 104675
     title: >-
-        What role do Markov chains play in linear algebra applications?
+        What are the conditions necessary for a matrix to be diagonalizable?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-role-do-markov-chains-play-in-linear-algebra-applications
+    url: /learn/mathematics/questions/what-are-the-conditions-necessary-for-a-matrix-to-be-diagonalizable
+related_article3:
+    id: 104669
+    title: >-
+        What are canonical forms and how are they used in advanced linear algebra?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-canonical-forms-and-how-are-they-used-in-advanced-linear-algebra
+related_article4:
+    id: 104660
+    title: >-
+        What are linear transformations and their key properties?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-linear-transformations-and-their-key-properties
+related_article5:
+    id: 104653
+    title: >-
+        What are the key properties of matrices that are important in linear algebra?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-properties-of-matrices-that-are-important-in-linear-algebra
 ---
 
 &nbsp;

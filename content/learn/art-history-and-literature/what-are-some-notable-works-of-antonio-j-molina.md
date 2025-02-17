@@ -24,35 +24,35 @@ file_name: what-are-some-notable-works-of-antonio-j-molina.md
 url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-antonio-j-molina
 score: -1.0
 related_article1:
-    id: 116106
+    id: 116096
     title: >-
-        What are some notable works of Felipe Padilla de Leon Sr.?
+        What are some notable works of Nicanor Abelardo?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-felipe-padilla-de-leon-sr
+    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-nicanor-abelardo
 related_article2:
-    id: 116110
+    id: 116099
     title: >-
-        What are some notable works of Rosendo E. Santos Jr.?
+        Can you provide a brief biography of Hilarion Rubio?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-rosendo-e-santos-jr
+    url: /learn/art-history-and-literature/questions/can-you-provide-a-brief-biography-of-hilarion-rubio
 related_article3:
-    id: 116090
+    id: 116100
     title: >-
-        What Western techniques have been assimilated into Filipino music?
+        What are some notable works of Hilarion Rubio?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-western-techniques-have-been-assimilated-into-filipino-music
+    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-hilarion-rubio
 related_article4:
-    id: 116117
+    id: 116088
     title: >-
-        What contributions have National Artists for Music made to Philippine music?
+        What are the defining characteristics of contemporary music in the Philippines?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-contributions-have-national-artists-for-music-made-to-philippine-music
+    url: /learn/art-history-and-literature/questions/what-are-the-defining-characteristics-of-contemporary-music-in-the-philippines
 related_article5:
-    id: 116115
+    id: 116089
     title: >-
-        What are the main stylistic movements in contemporary Philippine music?
+        How has Western music historically influenced Filipino music?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-main-stylistic-movements-in-contemporary-philippine-music
+    url: /learn/art-history-and-literature/questions/how-has-western-music-historically-influenced-filipino-music
 ---
 
 &nbsp;

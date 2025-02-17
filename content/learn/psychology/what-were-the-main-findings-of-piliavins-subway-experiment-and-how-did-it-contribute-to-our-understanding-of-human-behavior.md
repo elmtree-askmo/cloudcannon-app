@@ -24,29 +24,23 @@ file_name: what-were-the-main-findings-of-piliavins-subway-experiment-and-how-di
 url: /learn/psychology/questions/what-were-the-main-findings-of-piliavins-subway-experiment-and-how-did-it-contribute-to-our-understanding-of-human-behavior
 score: -1.0
 related_article1:
-    id: 123679
+    id: 123706
     title: >-
-        Can you provide a detailed explanation of Harlow's Monkey Experiment and its significance in psychology?
+        How do researchers address issues of consent and confidentiality in psychological studies?
     subject: Psychology
-    url: /learn/psychology/questions/can-you-provide-a-detailed-explanation-of-harlows-monkey-experiment-and-its-significance-in-psychology
+    url: /learn/psychology/questions/how-do-researchers-address-issues-of-consent-and-confidentiality-in-psychological-studies
 related_article2:
-    id: 123699
+    id: 123682
     title: >-
-        What role do institutional review boards (IRBs) play in ensuring ethical research practices?
+        What was the purpose of Williams' TV Experiment and what were its major conclusions?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-do-institutional-review-boards-irbs-play-in-ensuring-ethical-research-practices
+    url: /learn/psychology/questions/what-was-the-purpose-of-williams-tv-experiment-and-what-were-its-major-conclusions
 related_article3:
     id: 123698
     title: >-
         How do ethical guidelines differ for experiments involving human participants versus animal subjects?
     subject: Psychology
     url: /learn/psychology/questions/how-do-ethical-guidelines-differ-for-experiments-involving-human-participants-versus-animal-subjects
-related_article4:
-    id: 123682
-    title: >-
-        What was the purpose of Williams' TV Experiment and what were its major conclusions?
-    subject: Psychology
-    url: /learn/psychology/questions/what-was-the-purpose-of-williams-tv-experiment-and-what-were-its-major-conclusions
 ---
 
 &nbsp;

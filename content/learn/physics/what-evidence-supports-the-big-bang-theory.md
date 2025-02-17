@@ -24,17 +24,17 @@ file_name: what-evidence-supports-the-big-bang-theory.md
 url: /learn/physics/questions/what-evidence-supports-the-big-bang-theory
 score: -1.0
 related_article1:
-    id: 117883
-    title: >-
-        What is the Cosmic Microwave Background (CMB) and how was it discovered?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-cosmic-microwave-background-cmb-and-how-was-it-discovered
-related_article2:
     id: 117886
     title: >-
         How does the CMB provide insights into the universe's history?
     subject: Physics
     url: /learn/physics/questions/how-does-the-cmb-provide-insights-into-the-universes-history
+related_article2:
+    id: 117883
+    title: >-
+        What is the Cosmic Microwave Background (CMB) and how was it discovered?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-cosmic-microwave-background-cmb-and-how-was-it-discovered
 ---
 
 &nbsp;

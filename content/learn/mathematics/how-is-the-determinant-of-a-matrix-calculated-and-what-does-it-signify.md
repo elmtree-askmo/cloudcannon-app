@@ -24,30 +24,24 @@ file_name: how-is-the-determinant-of-a-matrix-calculated-and-what-does-it-signif
 url: /learn/mathematics/questions/how-is-the-determinant-of-a-matrix-calculated-and-what-does-it-signify
 score: -1.0
 related_article1:
-    id: 104653
+    id: 104656
     title: >-
-        What are the key properties of matrices that are important in linear algebra?
+        Can you explain the process of diagonalization of a matrix?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-key-properties-of-matrices-that-are-important-in-linear-algebra
+    url: /learn/mathematics/questions/can-you-explain-the-process-of-diagonalization-of-a-matrix
 related_article2:
+    id: 104668
+    title: >-
+        What role do Markov chains play in linear algebra applications?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-role-do-markov-chains-play-in-linear-algebra-applications
+related_article3:
     id: 104661
     title: >-
         How are the kernel and image of a linear transformation defined?
     subject: Mathematics
     url: /learn/mathematics/questions/how-are-the-kernel-and-image-of-a-linear-transformation-defined
-related_article3:
-    id: 104650
-    title: >-
-        Can you explain the difference between row-echelon form and reduced row-echelon form?
-    subject: Mathematics
-    url: /learn/mathematics/questions/can-you-explain-the-difference-between-rowechelon-form-and-reduced-rowechelon-form
 related_article4:
-    id: 104664
-    title: >-
-        What is the process of orthogonal diagonalization?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-process-of-orthogonal-diagonalization
-related_article5:
     id: 104667
     title: >-
         How is linear algebra applied in chemical reactions and economic models?

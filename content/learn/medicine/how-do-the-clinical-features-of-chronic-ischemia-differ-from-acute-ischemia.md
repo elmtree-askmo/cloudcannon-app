@@ -24,35 +24,35 @@ file_name: how-do-the-clinical-features-of-chronic-ischemia-differ-from-acute-is
 url: /learn/medicine/questions/how-do-the-clinical-features-of-chronic-ischemia-differ-from-acute-ischemia
 score: -1.0
 related_article1:
+    id: 102173
+    title: >-
+        What are the common causes and risk factors for chronic ischemia?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-common-causes-and-risk-factors-for-chronic-ischemia
+related_article2:
+    id: 102176
+    title: >-
+        What treatment options are available for managing chronic ischemia?
+    subject: Medicine
+    url: /learn/medicine/questions/what-treatment-options-are-available-for-managing-chronic-ischemia
+related_article3:
     id: 102168
     title: >-
         How does thrombolysis work in the context of acute ischemia treatment?
     subject: Medicine
     url: /learn/medicine/questions/how-does-thrombolysis-work-in-the-context-of-acute-ischemia-treatment
-related_article2:
-    id: 102159
-    title: >-
-        What are the Six P's of acute ischemia and how do they present clinically?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-six-ps-of-acute-ischemia-and-how-do-they-present-clinically
-related_article3:
-    id: 102169
-    title: >-
-        What is mechanical thrombectomy and how is it used in acute ischemia?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-mechanical-thrombectomy-and-how-is-it-used-in-acute-ischemia
 related_article4:
-    id: 102181
+    id: 102161
     title: >-
-        What are the potential complications associated with acute ischemia treatment?
+        What are the key diagnostic tools used for identifying acute ischemia?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-potential-complications-associated-with-acute-ischemia-treatment
+    url: /learn/medicine/questions/what-are-the-key-diagnostic-tools-used-for-identifying-acute-ischemia
 related_article5:
-    id: 102162
+    id: 102166
     title: >-
-        How is clinical diagnosis of acute ischemia typically performed?
+        What is the process of bypass surgery in managing acute ischemia?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-clinical-diagnosis-of-acute-ischemia-typically-performed
+    url: /learn/medicine/questions/what-is-the-process-of-bypass-surgery-in-managing-acute-ischemia
 ---
 
 &nbsp;

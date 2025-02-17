@@ -29,6 +29,12 @@ related_article1:
         What is the relationship between multiplication and division?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-relationship-between-multiplication-and-division
+related_article2:
+    id: 119761
+    title: >-
+        What are the properties of even and odd numbers?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-properties-of-even-and-odd-numbers
 ---
 
 &nbsp;

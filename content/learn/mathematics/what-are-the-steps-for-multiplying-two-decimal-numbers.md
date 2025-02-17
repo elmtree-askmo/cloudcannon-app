@@ -24,35 +24,35 @@ file_name: what-are-the-steps-for-multiplying-two-decimal-numbers.md
 url: /learn/mathematics/questions/what-are-the-steps-for-multiplying-two-decimal-numbers
 score: -1.0
 related_article1:
-    id: 99051
-    title: >-
-        What are the basic steps for multiplying decimals with whole numbers?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-basic-steps-for-multiplying-decimals-with-whole-numbers
-related_article2:
-    id: 99056
-    title: >-
-        Could you give an example of multiplying two decimal numbers?
-    subject: Mathematics
-    url: /learn/mathematics/questions/could-you-give-an-example-of-multiplying-two-decimal-numbers
-related_article3:
-    id: 99078
-    title: >-
-        How can group activities enhance the learning of decimal multiplication?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-group-activities-enhance-the-learning-of-decimal-multiplication
-related_article4:
     id: 99069
     title: >-
         What are some strategies for teaching decimal multiplication to different learning styles?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-some-strategies-for-teaching-decimal-multiplication-to-different-learning-styles
-related_article5:
-    id: 99079
+related_article2:
+    id: 99063
     title: >-
-        What are some assessment tools for evaluating decimal multiplication skills?
+        What are some real-world applications of multiplying decimals?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-assessment-tools-for-evaluating-decimal-multiplication-skills
+    url: /learn/mathematics/questions/what-are-some-realworld-applications-of-multiplying-decimals
+related_article3:
+    id: 99056
+    title: >-
+        Could you give an example of multiplying two decimal numbers?
+    subject: Mathematics
+    url: /learn/mathematics/questions/could-you-give-an-example-of-multiplying-two-decimal-numbers
+related_article4:
+    id: 99065
+    title: >-
+        What are some common challenges students face when learning to multiply decimals?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-common-challenges-students-face-when-learning-to-multiply-decimals
+related_article5:
+    id: 99075
+    title: >-
+        What are some mnemonic devices to help remember the steps in decimal multiplication?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-mnemonic-devices-to-help-remember-the-steps-in-decimal-multiplication
 ---
 
 &nbsp;

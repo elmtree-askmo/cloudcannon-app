@@ -24,17 +24,17 @@ file_name: what-mechanisms-are-involved-in-sound-localization.md
 url: /learn/psychology/questions/what-mechanisms-are-involved-in-sound-localization
 score: -1.0
 related_article1:
+    id: 116520
+    title: >-
+        What is the difference threshold and how is it measured?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-threshold-and-how-is-it-measured
+related_article2:
     id: 116513
     title: >-
         What role does the visual cortex play in processing visual information?
     subject: Psychology
     url: /learn/psychology/questions/what-role-does-the-visual-cortex-play-in-processing-visual-information
-related_article2:
-    id: 116519
-    title: >-
-        How does the vestibular sense contribute to balance and spatial orientation?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-vestibular-sense-contribute-to-balance-and-spatial-orientation
 related_article3:
     id: 116537
     title: >-
@@ -42,17 +42,11 @@ related_article3:
     subject: Psychology
     url: /learn/psychology/questions/how-do-individual-differences-affect-sensory-processing-and-perception
 related_article4:
-    id: 116531
+    id: 116514
     title: >-
-        How do skin receptors detect different types of stimuli?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-skin-receptors-detect-different-types-of-stimuli
-related_article5:
-    id: 116535
-    title: >-
-        How do top-down processes influence our interpretation of sensory information?
+        What are monocular depth cues and how do they affect perception?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-topdown-processes-influence-our-interpretation-of-sensory-information
+    url: /learn/psychology/questions/what-are-monocular-depth-cues-and-how-do-they-affect-perception
 ---
 
 &nbsp;

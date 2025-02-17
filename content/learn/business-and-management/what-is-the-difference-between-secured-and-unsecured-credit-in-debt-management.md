@@ -24,29 +24,29 @@ file_name: what-is-the-difference-between-secured-and-unsecured-credit-in-debt-m
 url: /learn/business-and-management/questions/what-is-the-difference-between-secured-and-unsecured-credit-in-debt-management
 score: -1.0
 related_article1:
-    id: 120583
+    id: 120593
     title: >-
-        What factors should be considered when determining a down payment for a house?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-factors-should-be-considered-when-determining-a-down-payment-for-a-house
+        How do real and nominal interest rates differ, and why is this distinction important in financial planning?
+    subject: Economics
+    url: /learn/economics/questions/how-do-real-and-nominal-interest-rates-differ-and-why-is-this-distinction-important-in-financial-planning
 related_article2:
-    id: 120587
+    id: 120590
     title: >-
-        What are the recommended income replacement and savings targets for retirement planning?
+        What are the different financial instruments available for saving, and how do they differ?
     subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-are-the-recommended-income-replacement-and-savings-targets-for-retirement-planning
+    url: /learn/accounting-and-finance/questions/what-are-the-different-financial-instruments-available-for-saving-and-how-do-they-differ
 related_article3:
-    id: 120582
+    id: 120589
     title: >-
-        Can you provide examples of exercises and applications of sensitivity analysis in financial planning?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/can-you-provide-examples-of-exercises-and-applications-of-sensitivity-analysis-in-financial-planning
+        What is consumption smoothing and how does it relate to financial planning?
+    subject: Economics
+    url: /learn/economics/questions/what-is-consumption-smoothing-and-how-does-it-relate-to-financial-planning
 related_article4:
-    id: 120598
+    id: 120585
     title: >-
-        How should one allocate savings and establish emergency funds effectively?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/how-should-one-allocate-savings-and-establish-emergency-funds-effectively
+        What are the current trends in tuition growth and how do they affect college savings strategies?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-current-trends-in-tuition-growth-and-how-do-they-affect-college-savings-strategies
 ---
 
 &nbsp;

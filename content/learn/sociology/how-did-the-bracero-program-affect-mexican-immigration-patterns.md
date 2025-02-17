@@ -23,12 +23,7 @@ subject: Sociology
 file_name: how-did-the-bracero-program-affect-mexican-immigration-patterns.md
 url: /learn/sociology/questions/how-did-the-bracero-program-affect-mexican-immigration-patterns
 score: -1.0
-related_article1:
-    id: 98250
-    title: >-
-        How did Dolores Huerta collaborate with Cesar Chavez in the labor movement?
-    subject: Sociology
-    url: /learn/sociology/questions/how-did-dolores-huerta-collaborate-with-cesar-chavez-in-the-labor-movement
+
 ---
 
 &nbsp;

@@ -24,23 +24,17 @@ file_name: how-is-commercial-speech-regulated-under-intermediate-scrutiny.md
 url: /learn/criminal-or-civil-law/questions/how-is-commercial-speech-regulated-under-intermediate-scrutiny
 score: -1.0
 related_article1:
-    id: 122136
-    title: >-
-        How did Dennis v. U.S. shape the legal understanding of unlawful conduct in speech?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-did-dennis-v-us-shape-the-legal-understanding-of-unlawful-conduct-in-speech
-related_article2:
-    id: 122134
-    title: >-
-        How did Abrams v. U.S. influence the interpretation of the First Amendment?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-did-abrams-v-us-influence-the-interpretation-of-the-first-amendment
-related_article3:
     id: 122146
     title: >-
         How did Gertz v. Robert Welch, Inc. contribute to the understanding of false statements of fact?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/how-did-gertz-v-robert-welch-inc-contribute-to-the-understanding-of-false-statements-of-fact
+related_article2:
+    id: 122136
+    title: >-
+        How did Dennis v. U.S. shape the legal understanding of unlawful conduct in speech?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-did-dennis-v-us-shape-the-legal-understanding-of-unlawful-conduct-in-speech
 ---
 
 &nbsp;

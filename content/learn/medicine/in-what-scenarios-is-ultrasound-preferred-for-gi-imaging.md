@@ -24,17 +24,17 @@ file_name: in-what-scenarios-is-ultrasound-preferred-for-gi-imaging.md
 url: /learn/medicine/questions/in-what-scenarios-is-ultrasound-preferred-for-gi-imaging
 score: -1.0
 related_article1:
-    id: 118144
+    id: 118162
     title: >-
-        What is a barium meal and when is it used?
+        What is the significance of nasogastric tube positioning in radiology?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-a-barium-meal-and-when-is-it-used
+    url: /learn/medicine/questions/what-is-the-significance-of-nasogastric-tube-positioning-in-radiology
 related_article2:
-    id: 118159
+    id: 118152
     title: >-
-        How are dilated small bowel loops identified on an X-ray?
+        What are the key anatomical features visible on an abdominal X-ray?
     subject: Medicine
-    url: /learn/medicine/questions/how-are-dilated-small-bowel-loops-identified-on-an-xray
+    url: /learn/medicine/questions/what-are-the-key-anatomical-features-visible-on-an-abdominal-xray
 related_article3:
     id: 118167
     title: >-
@@ -48,11 +48,11 @@ related_article4:
     subject: Medicine
     url: /learn/medicine/questions/how-does-computed-tomography-ct-enhance-gi-imaging
 related_article5:
-    id: 118166
+    id: 118144
     title: >-
-        What are the pros and cons of using CT in GI imaging?
+        What is a barium meal and when is it used?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-pros-and-cons-of-using-ct-in-gi-imaging
+    url: /learn/medicine/questions/what-is-a-barium-meal-and-when-is-it-used
 ---
 
 &nbsp;

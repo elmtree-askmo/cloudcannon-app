@@ -24,35 +24,35 @@ file_name: how-are-dilated-small-bowel-loops-identified-on-an-xray.md
 url: /learn/medicine/questions/how-are-dilated-small-bowel-loops-identified-on-an-xray
 score: -1.0
 related_article1:
-    id: 118161
+    id: 118154
     title: >-
-        How is pneumoperitoneum detected radiologically?
+        What anatomical details are highlighted in a barium swallow study?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-pneumoperitoneum-detected-radiologically
+    url: /learn/medicine/questions/what-anatomical-details-are-highlighted-in-a-barium-swallow-study
 related_article2:
-    id: 118152
+    id: 118164
     title: >-
-        What are the key anatomical features visible on an abdominal X-ray?
+        What challenges are associated with contrast studies in GI radiology?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-key-anatomical-features-visible-on-an-abdominal-xray
+    url: /learn/medicine/questions/what-challenges-are-associated-with-contrast-studies-in-gi-radiology
 related_article3:
-    id: 118153
+    id: 118167
     title: >-
-        How can you differentiate between large and small bowel on an X-ray?
+        When is ultrasound the preferred imaging modality for GI issues?
     subject: Medicine
-    url: /learn/medicine/questions/how-can-you-differentiate-between-large-and-small-bowel-on-an-xray
+    url: /learn/medicine/questions/when-is-ultrasound-the-preferred-imaging-modality-for-gi-issues
 related_article4:
-    id: 118148
+    id: 118158
     title: >-
-        What role does angiography play in GI radiology?
+        What are common abnormal findings on an abdominal X-ray?
     subject: Medicine
-    url: /learn/medicine/questions/what-role-does-angiography-play-in-gi-radiology
+    url: /learn/medicine/questions/what-are-common-abnormal-findings-on-an-abdominal-xray
 related_article5:
-    id: 118163
+    id: 118147
     title: >-
-        What are the limitations of plain abdominal X-rays in GI imaging?
+        How does computed tomography (CT) enhance GI imaging?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-limitations-of-plain-abdominal-xrays-in-gi-imaging
+    url: /learn/medicine/questions/how-does-computed-tomography-ct-enhance-gi-imaging
 ---
 
 &nbsp;

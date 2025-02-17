@@ -24,12 +24,18 @@ file_name: how-does-precision-impact-the-results-of-decimal-calculations.md
 url: /learn/mathematics/questions/how-does-precision-impact-the-results-of-decimal-calculations
 score: -1.0
 related_article1:
-    id: 111496
+    id: 111490
     title: >-
-        How can one avoid errors when subtracting decimals?
+        Why is it important to align decimal points when performing decimal operations?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-one-avoid-errors-when-subtracting-decimals
+    url: /learn/mathematics/questions/why-is-it-important-to-align-decimal-points-when-performing-decimal-operations
 related_article2:
+    id: 111508
+    title: >-
+        How can practice activities enhance understanding of decimal arithmetic?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-practice-activities-enhance-understanding-of-decimal-arithmetic
+related_article3:
     id: 111513
     title: >-
         What are the historical developments in decimal arithmetic teaching methods?

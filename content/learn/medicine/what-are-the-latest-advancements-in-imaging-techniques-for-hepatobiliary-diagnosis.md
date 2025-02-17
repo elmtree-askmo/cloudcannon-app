@@ -24,35 +24,29 @@ file_name: what-are-the-latest-advancements-in-imaging-techniques-for-hepatobili
 url: /learn/medicine/questions/what-are-the-latest-advancements-in-imaging-techniques-for-hepatobiliary-diagnosis
 score: -1.0
 related_article1:
-    id: 118110
-    title: >-
-        What are the most common imaging techniques used in hepatobiliary diagnosis?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-most-common-imaging-techniques-used-in-hepatobiliary-diagnosis
-related_article2:
-    id: 118125
-    title: >-
-        What are the common imaging characteristics of acute pancreatitis?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-imaging-characteristics-of-acute-pancreatitis
-related_article3:
     id: 118123
     title: >-
         What are the sonographic features indicative of acute cholecystitis?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-sonographic-features-indicative-of-acute-cholecystitis
+related_article2:
+    id: 118135
+    title: >-
+        What are the challenges faced in imaging hepatobiliary conditions?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-challenges-faced-in-imaging-hepatobiliary-conditions
+related_article3:
+    id: 118127
+    title: >-
+        How does imaging contribute to the assessment and staging of pancreatitis?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-imaging-contribute-to-the-assessment-and-staging-of-pancreatitis
 related_article4:
-    id: 118120
+    id: 118134
     title: >-
-        What are the typical treatment and management strategies for acute pancreatitis?
+        How does imaging assist in the early detection of hepatobiliary diseases?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-typical-treatment-and-management-strategies-for-acute-pancreatitis
-related_article5:
-    id: 118138
-    title: >-
-        How does patient history and presentation influence the choice of imaging modality in hepatobiliary conditions?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-patient-history-and-presentation-influence-the-choice-of-imaging-modality-in-hepatobiliary-conditions
+    url: /learn/medicine/questions/how-does-imaging-assist-in-the-early-detection-of-hepatobiliary-diseases
 ---
 
 &nbsp;

@@ -24,29 +24,35 @@ file_name: how-does-the-minimum-principle-apply-to-physical-systems.md
 url: /learn/physics/questions/how-does-the-minimum-principle-apply-to-physical-systems
 score: -1.0
 related_article1:
-    id: 119469
-    title: >-
-        What is the impact of computational mathematics on modern physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-impact-of-computational-mathematics-on-modern-physics
-related_article2:
     id: 119442
     title: >-
         How does mathematics help us understand natural phenomena?
     subject: Mathematics
     url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
-related_article3:
-    id: 119443
+related_article2:
+    id: 119462
     title: >-
-        Can you explain Faraday's Law and its significance in physics?
+        How do physicists use mathematical tools to solve complex problems?
     subject: Physics
-    url: /learn/physics/questions/can-you-explain-faradays-law-and-its-significance-in-physics
-related_article4:
-    id: 119461
+    url: /learn/physics/questions/how-do-physicists-use-mathematical-tools-to-solve-complex-problems
+related_article3:
+    id: 119467
     title: >-
-        What is the significance of mathematical proofs in physics?
+        What are some examples of mathematical principles leading to new physical discoveries?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-significance-of-mathematical-proofs-in-physics
+    url: /learn/mathematics/questions/what-are-some-examples-of-mathematical-principles-leading-to-new-physical-discoveries
+related_article4:
+    id: 119445
+    title: >-
+        How is mathematical language used to describe physical laws?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-mathematical-language-used-to-describe-physical-laws
+related_article5:
+    id: 119460
+    title: >-
+        How did ancient civilizations contribute to the development of mathematical physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-physics
 ---
 
 &nbsp;

@@ -24,29 +24,35 @@ file_name: what-are-the-latest-trends-in-marketing-that-are-impacting-buyer-beha
 url: /learn/business-and-management/questions/what-are-the-latest-trends-in-marketing-that-are-impacting-buyer-behavior
 score: -1.0
 related_article1:
-    id: 110235
+    id: 110211
     title: >-
-        How do companies integrate advertising and sales force efforts?
+        What are the main criteria for effective market segmentation?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-do-companies-integrate-advertising-and-sales-force-efforts
+    url: /learn/business-and-management/questions/what-are-the-main-criteria-for-effective-market-segmentation
 related_article2:
-    id: 110225
+    id: 110232
     title: >-
-        How does technology influence the marketing process today?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-does-technology-influence-the-marketing-process-today
+        What are the emerging trends in marketing channels?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-the-emerging-trends-in-marketing-channels
 related_article3:
-    id: 110229
+    id: 110233
     title: >-
-        How do companies measure the effectiveness of their marketing mix?
+        How do companies balance online and offline marketing channels?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-do-companies-measure-the-effectiveness-of-their-marketing-mix
+    url: /learn/business-and-management/questions/how-do-companies-balance-online-and-offline-marketing-channels
 related_article4:
-    id: 110214
+    id: 110228
     title: >-
-        Can you explain the elements of the marketing mix?
+        What are the challenges in accurately segmenting a market?
     subject: Business and Management
-    url: /learn/business-and-management/questions/can-you-explain-the-elements-of-the-marketing-mix
+    url: /learn/business-and-management/questions/what-are-the-challenges-in-accurately-segmenting-a-market
+related_article5:
+    id: 110212
+    title: >-
+        How do companies determine their target market?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-do-companies-determine-their-target-market
 ---
 
 &nbsp;

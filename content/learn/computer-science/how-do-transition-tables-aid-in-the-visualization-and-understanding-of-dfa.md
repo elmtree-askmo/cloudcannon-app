@@ -24,35 +24,35 @@ file_name: how-do-transition-tables-aid-in-the-visualization-and-understanding-o
 url: /learn/computer-science/questions/how-do-transition-tables-aid-in-the-visualization-and-understanding-of-dfa
 score: -1.0
 related_article1:
-    id: 98914
-    title: >-
-        What is a Finite State Machine and how does it function?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-a-finite-state-machine-and-how-does-it-function
-related_article2:
-    id: 98931
-    title: >-
-        Can you provide an example of a DFA diagram?
-    subject: Computer Science
-    url: /learn/computer-science/questions/can-you-provide-an-example-of-a-dfa-diagram
-related_article3:
     id: 98920
     title: >-
         How do symbols, sets, and strings form the mathematical foundation of Automata?
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-symbols-sets-and-strings-form-the-mathematical-foundation-of-automata
+related_article2:
+    id: 98911
+    title: >-
+        What is Automata Theory and how did it originate?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-automata-theory-and-how-did-it-originate
+related_article3:
+    id: 98914
+    title: >-
+        What is a Finite State Machine and how does it function?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-a-finite-state-machine-and-how-does-it-function
 related_article4:
-    id: 98940
+    id: 98913
     title: >-
-        What are the challenges in designing DFA for complex languages?
+        How does Automata Theory connect to engineering and other sciences?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-challenges-in-designing-dfa-for-complex-languages
+    url: /learn/computer-science/questions/how-does-automata-theory-connect-to-engineering-and-other-sciences
 related_article5:
-    id: 98921
+    id: 98912
     title: >-
-        What is the significance of language and set of strings in Automata Theory?
+        Why is Automata Theory important in computer science?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-language-and-set-of-strings-in-automata-theory
+    url: /learn/computer-science/questions/why-is-automata-theory-important-in-computer-science
 ---
 
 &nbsp;

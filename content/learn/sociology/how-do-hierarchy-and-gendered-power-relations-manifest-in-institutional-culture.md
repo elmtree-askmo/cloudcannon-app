@@ -29,12 +29,6 @@ related_article1:
         How have religious institutions been involved in covering up child sexual abuse?
     subject: Sociology
     url: /learn/sociology/questions/how-have-religious-institutions-been-involved-in-covering-up-child-sexual-abuse
-related_article2:
-    id: 118692
-    title: >-
-        What are the institutional factors in cultural industries that facilitate GBSV?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-institutional-factors-in-cultural-industries-that-facilitate-gbsv
 ---
 
 &nbsp;

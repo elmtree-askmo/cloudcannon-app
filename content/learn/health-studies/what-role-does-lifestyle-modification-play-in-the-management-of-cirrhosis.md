@@ -24,11 +24,11 @@ file_name: what-role-does-lifestyle-modification-play-in-the-management-of-cirrh
 url: /learn/health-studies/questions/what-role-does-lifestyle-modification-play-in-the-management-of-cirrhosis
 score: -1.0
 related_article1:
-    id: 98990
+    id: 98997
     title: >-
-        What are the latest advancements in the treatment of cirrhosis complications?
+        How is the risk of acute kidney injury managed in cirrhosis patients?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-latest-advancements-in-the-treatment-of-cirrhosis-complications
+    url: /learn/medicine/questions/how-is-the-risk-of-acute-kidney-injury-managed-in-cirrhosis-patients
 related_article2:
     id: 98975
     title: >-
@@ -42,17 +42,17 @@ related_article3:
     subject: Medicine
     url: /learn/medicine/questions/how-does-portal-hypertension-contribute-to-the-complications-of-liver-disease
 related_article4:
-    id: 98989
+    id: 98990
     title: >-
-        How is the severity of cirrhosis assessed in clinical practice?
+        What are the latest advancements in the treatment of cirrhosis complications?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-the-severity-of-cirrhosis-assessed-in-clinical-practice
+    url: /learn/medicine/questions/what-are-the-latest-advancements-in-the-treatment-of-cirrhosis-complications
 related_article5:
-    id: 98980
+    id: 98983
     title: >-
-        How does acute kidney injury occur in patients with cirrhosis?
+        What are the potential complications of advanced liver disease?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-acute-kidney-injury-occur-in-patients-with-cirrhosis
+    url: /learn/medicine/questions/what-are-the-potential-complications-of-advanced-liver-disease
 ---
 
 &nbsp;

@@ -24,29 +24,29 @@ file_name: what-were-the-major-shifts-in-global-trade-routes-due-to-industrializ
 url: /learn/history-of-the-world/questions/what-were-the-major-shifts-in-global-trade-routes-due-to-industrialization
 score: -1.0
 related_article1:
-    id: 123042
+    id: 123027
     title: >-
-        How did the Industrial Revolution contribute to the rise of capitalism?
-    subject: Economics
-    url: /learn/economics/questions/how-did-the-industrial-revolution-contribute-to-the-rise-of-capitalism
-related_article2:
-    id: 123016
-    title: >-
-        What were the key technological innovations during the Industrial Revolution?
-    subject: Engineering
-    url: /learn/engineering/questions/what-were-the-key-technological-innovations-during-the-industrial-revolution
-related_article3:
-    id: 123036
-    title: >-
-        How did China's economic policies affect its industrial potential?
-    subject: Economics
-    url: /learn/economics/questions/how-did-chinas-economic-policies-affect-its-industrial-potential
-related_article4:
-    id: 123024
-    title: >-
-        How did India's textile production compare to Britain's during the Industrial Revolution?
+        What arguments exist regarding European cultural superiority during the Industrial Revolution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-indias-textile-production-compare-to-britains-during-the-industrial-revolution
+    url: /learn/history-of-the-world/questions/what-arguments-exist-regarding-european-cultural-superiority-during-the-industrial-revolution
+related_article2:
+    id: 123043
+    title: >-
+        What were the long-term cultural impacts of the Industrial Revolution on European societies?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-longterm-cultural-impacts-of-the-industrial-revolution-on-european-societies
+related_article3:
+    id: 123033
+    title: >-
+        What were the environmental impacts of increased coal usage during the Industrial Revolution?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-environmental-impacts-of-increased-coal-usage-during-the-industrial-revolution
+related_article4:
+    id: 123018
+    title: >-
+        What role did the steam engine play in the Industrial Revolution?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-role-did-the-steam-engine-play-in-the-industrial-revolution
 related_article5:
     id: 123037
     title: >-

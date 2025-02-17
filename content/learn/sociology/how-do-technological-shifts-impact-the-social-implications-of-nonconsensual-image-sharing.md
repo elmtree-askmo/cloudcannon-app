@@ -29,6 +29,12 @@ related_article1:
         What were the early obscenity laws, and how were they interpreted historically?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-were-the-early-obscenity-laws-and-how-were-they-interpreted-historically
+related_article2:
+    id: 121940
+    title: >-
+        Can you explain the Hicklin Test and the judicial criticism it faced?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/can-you-explain-the-hicklin-test-and-the-judicial-criticism-it-faced
 ---
 
 &nbsp;

@@ -24,29 +24,35 @@ file_name: how-can-experimentation-with-sequences-improve-storytelling-in-presen
 url: /learn/digital-media/questions/how-can-experimentation-with-sequences-improve-storytelling-in-presentations
 score: -1.0
 related_article1:
-    id: 120668
-    title: >-
-        What does defining the beats mean in the context of a presentation?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-does-defining-the-beats-mean-in-the-context-of-a-presentation
-related_article2:
-    id: 120666
-    title: >-
-        What are the steps involved in shaping information using a bottom-up approach?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-steps-involved-in-shaping-information-using-a-bottomup-approach
-related_article3:
-    id: 120662
-    title: >-
-        Can you define storytelling in the context of presentations?
-    subject: Digital Media
-    url: /learn/digital-media/questions/can-you-define-storytelling-in-the-context-of-presentations
-related_article4:
     id: 120670
     title: >-
         What is the top-down approach in sequencing information for presentations?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-topdown-approach-in-sequencing-information-for-presentations
+related_article2:
+    id: 120686
+    title: >-
+        How can one measure the effectiveness of storytelling in a presentation?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-can-one-measure-the-effectiveness-of-storytelling-in-a-presentation
+related_article3:
+    id: 120679
+    title: >-
+        What audience considerations should be taken into account when crafting a presentation?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-audience-considerations-should-be-taken-into-account-when-crafting-a-presentation
+related_article4:
+    id: 120684
+    title: >-
+        How can one balance emotional engagement with factual information in a presentation?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-one-balance-emotional-engagement-with-factual-information-in-a-presentation
+related_article5:
+    id: 120675
+    title: >-
+        What is the Cinderella Story structure and how is it used in presentations?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-cinderella-story-structure-and-how-is-it-used-in-presentations
 ---
 
 &nbsp;

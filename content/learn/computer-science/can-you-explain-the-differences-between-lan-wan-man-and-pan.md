@@ -24,35 +24,23 @@ file_name: can-you-explain-the-differences-between-lan-wan-man-and-pan.md
 url: /learn/computer-science/questions/can-you-explain-the-differences-between-lan-wan-man-and-pan
 score: -1.0
 related_article1:
-    id: 116165
+    id: 116148
     title: >-
-        What are the differences between IPv4 and IPv6 addressing?
+        What is the definition of networking in the context of computer science?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-differences-between-ipv4-and-ipv6-addressing
+    url: /learn/computer-science/questions/what-is-the-definition-of-networking-in-the-context-of-computer-science
 related_article2:
-    id: 116159
+    id: 116153
     title: >-
-        What are the benefits of using a mesh topology in a network?
+        How does a Wide Area Network (WAN) differ from a Metropolitan Area Network (MAN)?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-benefits-of-using-a-mesh-topology-in-a-network
+    url: /learn/computer-science/questions/how-does-a-wide-area-network-wan-differ-from-a-metropolitan-area-network-man
 related_article3:
-    id: 116168
+    id: 116173
     title: >-
-        Can you explain the TCP/IP protocol suite and its significance?
+        What are the primary functions of firewalls in network security?
     subject: Computer Science
-    url: /learn/computer-science/questions/can-you-explain-the-tcpip-protocol-suite-and-its-significance
-related_article4:
-    id: 116167
-    title: >-
-        What is CIDR notation and how is it used in networking?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-cidr-notation-and-how-is-it-used-in-networking
-related_article5:
-    id: 116171
-    title: >-
-        What role does SMTP play in email communication?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-role-does-smtp-play-in-email-communication
+    url: /learn/computer-science/questions/what-are-the-primary-functions-of-firewalls-in-network-security
 ---
 
 &nbsp;

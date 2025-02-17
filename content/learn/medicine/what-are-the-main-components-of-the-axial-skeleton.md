@@ -24,35 +24,35 @@ file_name: what-are-the-main-components-of-the-axial-skeleton.md
 url: /learn/medicine/questions/what-are-the-main-components-of-the-axial-skeleton
 score: -1.0
 related_article1:
-    id: 100356
+    id: 100362
     title: >-
-        How does the skeleton provide support and protection to the body?
-    subject: Nursing
-    url: /learn/nursing/questions/how-does-the-skeleton-provide-support-and-protection-to-the-body
+        Can you describe the detailed anatomy of the skull?
+    subject: Medicine
+    url: /learn/medicine/questions/can-you-describe-the-detailed-anatomy-of-the-skull
 related_article2:
+    id: 100367
+    title: >-
+        What are the main functions of the legs in the skeletal system?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-main-functions-of-the-legs-in-the-skeletal-system
+related_article3:
     id: 100359
     title: >-
         How is the skeletal system divided into axial and appendicular components?
     subject: Health Studies
     url: /learn/health-studies/questions/how-is-the-skeletal-system-divided-into-axial-and-appendicular-components
-related_article3:
-    id: 100368
-    title: >-
-        Why is the femur considered an important bone in the body?
-    subject: Health Studies
-    url: /learn/health-studies/questions/why-is-the-femur-considered-an-important-bone-in-the-body
 related_article4:
-    id: 100364
+    id: 100356
     title: >-
-        How does the spine contribute to the overall function of the skeleton?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-spine-contribute-to-the-overall-function-of-the-skeleton
+        How does the skeleton provide support and protection to the body?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-skeleton-provide-support-and-protection-to-the-body
 related_article5:
-    id: 100382
+    id: 100361
     title: >-
-        How does the pelvis connect the spine to the lower limbs?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-the-pelvis-connect-the-spine-to-the-lower-limbs
+        What are the main components of the appendicular skeleton?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-main-components-of-the-appendicular-skeleton
 ---
 
 &nbsp;

@@ -24,23 +24,29 @@ file_name: what-are-the-psychological-processes-involved-in-observational-learni
 url: /learn/psychology/questions/what-are-the-psychological-processes-involved-in-observational-learning
 score: -1.0
 related_article1:
+    id: 95695
+    title: >-
+        What is Hebb’s Rule and how does it relate to classical conditioning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-hebbs-rule-and-how-does-it-relate-to-classical-conditioning
+related_article2:
     id: 95698
     title: >-
         What are conditioned emotional responses and how are they formed?
     subject: Psychology
     url: /learn/psychology/questions/what-are-conditioned-emotional-responses-and-how-are-they-formed
-related_article2:
-    id: 95711
-    title: >-
-        What are fixed-ratio and variable-ratio schedules of reinforcement?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-fixedratio-and-variableratio-schedules-of-reinforcement
 related_article3:
     id: 95706
     title: >-
         Can you explain the concept of Applied Behaviour Analysis (ABA)?
     subject: Psychology
     url: /learn/psychology/questions/can-you-explain-the-concept-of-applied-behaviour-analysis-aba
+related_article4:
+    id: 95704
+    title: >-
+        How does punishment differ from reinforcement in operant conditioning?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-punishment-differ-from-reinforcement-in-operant-conditioning
 ---
 
 &nbsp;

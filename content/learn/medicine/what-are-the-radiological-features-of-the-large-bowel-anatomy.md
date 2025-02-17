@@ -24,35 +24,35 @@ file_name: what-are-the-radiological-features-of-the-large-bowel-anatomy.md
 url: /learn/medicine/questions/what-are-the-radiological-features-of-the-large-bowel-anatomy
 score: -1.0
 related_article1:
+    id: 118140
+    title: >-
+        What are the primary imaging modalities used in gastrointestinal radiology?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-primary-imaging-modalities-used-in-gastrointestinal-radiology
+related_article2:
+    id: 118165
+    title: >-
+        How do you decide between using barium and water-soluble contrast?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-you-decide-between-using-barium-and-watersoluble-contrast
+related_article3:
+    id: 118144
+    title: >-
+        What is a barium meal and when is it used?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-a-barium-meal-and-when-is-it-used
+related_article4:
+    id: 118161
+    title: >-
+        How is pneumoperitoneum detected radiologically?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-pneumoperitoneum-detected-radiologically
+related_article5:
     id: 118169
     title: >-
         What are the radiological features of common GI disorders like appendicitis and intussusception?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-radiological-features-of-common-gi-disorders-like-appendicitis-and-intussusception
-related_article2:
-    id: 118141
-    title: >-
-        How do plain films contribute to GI radiology?
-    subject: Medicine
-    url: /learn/medicine/questions/how-do-plain-films-contribute-to-gi-radiology
-related_article3:
-    id: 118154
-    title: >-
-        What anatomical details are highlighted in a barium swallow study?
-    subject: Medicine
-    url: /learn/medicine/questions/what-anatomical-details-are-highlighted-in-a-barium-swallow-study
-related_article4:
-    id: 118152
-    title: >-
-        What are the key anatomical features visible on an abdominal X-ray?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-key-anatomical-features-visible-on-an-abdominal-xray
-related_article5:
-    id: 118164
-    title: >-
-        What challenges are associated with contrast studies in GI radiology?
-    subject: Medicine
-    url: /learn/medicine/questions/what-challenges-are-associated-with-contrast-studies-in-gi-radiology
 ---
 
 &nbsp;

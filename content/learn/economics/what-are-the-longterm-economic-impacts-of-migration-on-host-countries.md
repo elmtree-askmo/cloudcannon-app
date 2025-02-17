@@ -24,17 +24,17 @@ file_name: what-are-the-longterm-economic-impacts-of-migration-on-host-countries
 url: /learn/economics/questions/what-are-the-longterm-economic-impacts-of-migration-on-host-countries
 score: -1.0
 related_article1:
-    id: 118370
-    title: >-
-        What are the historical trends in U.S. immigration policy?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-historical-trends-in-us-immigration-policy
-related_article2:
     id: 118352
     title: >-
         How have historical contexts and globalization affected migration patterns?
     subject: Sociology
     url: /learn/sociology/questions/how-have-historical-contexts-and-globalization-affected-migration-patterns
+related_article2:
+    id: 118370
+    title: >-
+        What are the historical trends in U.S. immigration policy?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-historical-trends-in-us-immigration-policy
 ---
 
 &nbsp;

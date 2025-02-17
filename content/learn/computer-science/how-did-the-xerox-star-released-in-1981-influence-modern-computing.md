@@ -24,35 +24,35 @@ file_name: how-did-the-xerox-star-released-in-1981-influence-modern-computing.md
 url: /learn/computer-science/questions/how-did-the-xerox-star-released-in-1981-influence-modern-computing
 score: -1.0
 related_article1:
-    id: 119401
+    id: 119382
     title: >-
-        How can the grid layout manager be used to create a profile entry UI in Tkinter?
+        What were the key features of the Macintosh GUI released in 1984?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-the-grid-layout-manager-be-used-to-create-a-profile-entry-ui-in-tkinter
+    url: /learn/computer-science/questions/what-were-the-key-features-of-the-macintosh-gui-released-in-1984
 related_article2:
-    id: 119384
+    id: 119409
     title: >-
-        Who was Douglas Engelbart and what was his contribution to early GUI development?
-    subject: Computer Science
-    url: /learn/computer-science/questions/who-was-douglas-engelbart-and-what-was-his-contribution-to-early-gui-development
+        How have user interfaces evolved over time?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-have-user-interfaces-evolved-over-time
 related_article3:
-    id: 119407
+    id: 119402
     title: >-
-        What is an overview of SQL and its components?
+        What are the steps to create a login interface using Tkinter?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-an-overview-of-sql-and-its-components
+    url: /learn/computer-science/questions/what-are-the-steps-to-create-a-login-interface-using-tkinter
 related_article4:
-    id: 119398
-    title: >-
-        How can you create a GUI using the place geometry manager in Tkinter?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-you-create-a-gui-using-the-place-geometry-manager-in-tkinter
-related_article5:
     id: 119389
     title: >-
         What are the technical aspects of programming GUIs?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-technical-aspects-of-programming-guis
+related_article5:
+    id: 119384
+    title: >-
+        Who was Douglas Engelbart and what was his contribution to early GUI development?
+    subject: Computer Science
+    url: /learn/computer-science/questions/who-was-douglas-engelbart-and-what-was-his-contribution-to-early-gui-development
 ---
 
 &nbsp;

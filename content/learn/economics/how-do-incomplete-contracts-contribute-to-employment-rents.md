@@ -24,11 +24,11 @@ file_name: how-do-incomplete-contracts-contribute-to-employment-rents.md
 url: /learn/economics/questions/how-do-incomplete-contracts-contribute-to-employment-rents
 score: -1.0
 related_article1:
-    id: 120032
+    id: 120023
     title: >-
-        What are the economic implications of power dynamics within firms?
+        What is the worker’s best response curve and how is it determined?
     subject: Economics
-    url: /learn/economics/questions/what-are-the-economic-implications-of-power-dynamics-within-firms
+    url: /learn/economics/questions/what-is-the-workers-best-response-curve-and-how-is-it-determined
 related_article2:
     id: 120026
     title: >-
@@ -36,11 +36,11 @@ related_article2:
     subject: Economics
     url: /learn/economics/questions/how-are-wages-determined-within-the-labour-discipline-model
 related_article3:
-    id: 120023
+    id: 120032
     title: >-
-        What is the worker’s best response curve and how is it determined?
+        What are the economic implications of power dynamics within firms?
     subject: Economics
-    url: /learn/economics/questions/what-is-the-workers-best-response-curve-and-how-is-it-determined
+    url: /learn/economics/questions/what-are-the-economic-implications-of-power-dynamics-within-firms
 ---
 
 &nbsp;

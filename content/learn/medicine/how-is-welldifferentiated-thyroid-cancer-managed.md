@@ -24,35 +24,35 @@ file_name: how-is-welldifferentiated-thyroid-cancer-managed.md
 url: /learn/medicine/questions/how-is-welldifferentiated-thyroid-cancer-managed
 score: -1.0
 related_article1:
-    id: 123945
+    id: 123958
     title: >-
-        What are the typical presentations of thyroid nodules in patients?
+        What are the different types of thyroid cancer?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-typical-presentations-of-thyroid-nodules-in-patients
+    url: /learn/medicine/questions/what-are-the-different-types-of-thyroid-cancer
 related_article2:
-    id: 123964
+    id: 123957
     title: >-
-        What adjuvant treatments are available for thyroid cancer?
+        What are the thermal ablation techniques used for thyroid nodules?
     subject: Medicine
-    url: /learn/medicine/questions/what-adjuvant-treatments-are-available-for-thyroid-cancer
+    url: /learn/medicine/questions/what-are-the-thermal-ablation-techniques-used-for-thyroid-nodules
 related_article3:
-    id: 123953
+    id: 123963
     title: >-
-        What are the surgical options for treating benign thyroid nodules?
+        How is lymph node management approached in thyroid cancer surgery?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-surgical-options-for-treating-benign-thyroid-nodules
+    url: /learn/medicine/questions/how-is-lymph-node-management-approached-in-thyroid-cancer-surgery
 related_article4:
-    id: 123955
+    id: 123948
     title: >-
-        What non-surgical treatments are available for benign thyroid nodules?
+        What is the role of fine needle aspiration cytology in thyroid nodule investigation?
     subject: Medicine
-    url: /learn/medicine/questions/what-nonsurgical-treatments-are-available-for-benign-thyroid-nodules
+    url: /learn/medicine/questions/what-is-the-role-of-fine-needle-aspiration-cytology-in-thyroid-nodule-investigation
 related_article5:
-    id: 123968
+    id: 123942
     title: >-
-        What are the management options for papillary microcarcinoma?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-management-options-for-papillary-microcarcinoma
+        What are the different types of goiter and how are they classified?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-different-types-of-goiter-and-how-are-they-classified
 ---
 
 &nbsp;

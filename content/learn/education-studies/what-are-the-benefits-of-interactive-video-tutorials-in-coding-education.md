@@ -24,35 +24,35 @@ file_name: what-are-the-benefits-of-interactive-video-tutorials-in-coding-educat
 url: /learn/education-studies/questions/what-are-the-benefits-of-interactive-video-tutorials-in-coding-education
 score: -1.0
 related_article1:
+    id: 118480
+    title: >-
+        What are the main challenges faced in coding education today?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-main-challenges-faced-in-coding-education-today
+related_article2:
     id: 118485
     title: >-
         What strategies are used to improve bandwidth efficiency in tech?
     subject: Computer Science
     url: /learn/computer-science/questions/what-strategies-are-used-to-improve-bandwidth-efficiency-in-tech
-related_article2:
-    id: 118479
-    title: >-
-        What role does peer learning play in coding education?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-role-does-peer-learning-play-in-coding-education
 related_article3:
-    id: 118486
-    title: >-
-        How does project-based learning benefit programming students?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-projectbased-learning-benefit-programming-students
-related_article4:
-    id: 118470
-    title: >-
-        What is Quincy Larson's educational background?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-quincy-larsons-educational-background
-related_article5:
     id: 118482
     title: >-
         How does the tech scene in Norway compare to Silicon Valley?
     subject: Business and Management
     url: /learn/business-and-management/questions/how-does-the-tech-scene-in-norway-compare-to-silicon-valley
+related_article4:
+    id: 118484
+    title: >-
+        How does the tech industry address environmental considerations like data and carbon footprint?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-does-the-tech-industry-address-environmental-considerations-like-data-and-carbon-footprint
+related_article5:
+    id: 118498
+    title: >-
+        What are the potential environmental impacts of increased data usage in tech?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-potential-environmental-impacts-of-increased-data-usage-in-tech
 ---
 
 &nbsp;

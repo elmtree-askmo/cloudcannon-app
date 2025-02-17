@@ -24,35 +24,29 @@ file_name: how-does-the-minimum-principle-apply-to-physics-and-mathematics.md
 url: /learn/physics/questions/how-does-the-minimum-principle-apply-to-physics-and-mathematics
 score: -1.0
 related_article1:
-    id: 124215
-    title: >-
-        What contributions did Babylonian and Greek traditions make to mathematics and physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-contributions-did-babylonian-and-greek-traditions-make-to-mathematics-and-physics
-related_article2:
     id: 124210
     title: >-
         What is Faraday's Law and how does it relate to mathematics?
     subject: Physics
     url: /learn/physics/questions/what-is-faradays-law-and-how-does-it-relate-to-mathematics
-related_article3:
-    id: 124217
+related_article2:
+    id: 124229
     title: >-
-        How did the Babylonian method influence the development of physics?
-    subject: Physics
-    url: /learn/physics/questions/how-did-the-babylonian-method-influence-the-development-of-physics
-related_article4:
-    id: 124224
-    title: >-
-        What are the philosophical implications of the relationship between physics and mathematics?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
-related_article5:
-    id: 124232
-    title: >-
-        What is the importance of mathematical notation in communicating complex physical concepts?
+        How does the Euclidean method differ from other mathematical approaches in physics?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-importance-of-mathematical-notation-in-communicating-complex-physical-concepts
+    url: /learn/mathematics/questions/how-does-the-euclidean-method-differ-from-other-mathematical-approaches-in-physics
+related_article3:
+    id: 124215
+    title: >-
+        What contributions did Babylonian and Greek traditions make to mathematics and physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-contributions-did-babylonian-and-greek-traditions-make-to-mathematics-and-physics
+related_article4:
+    id: 124236
+    title: >-
+        What is the significance of the local field method in modern physics?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-significance-of-the-local-field-method-in-modern-physics
 ---
 
 &nbsp;

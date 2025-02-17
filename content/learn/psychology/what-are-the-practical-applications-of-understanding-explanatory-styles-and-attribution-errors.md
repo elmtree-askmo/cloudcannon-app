@@ -30,11 +30,11 @@ related_article1:
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-fundamental-attribution-error-and-how-is-it-defined
 related_article2:
-    id: 96802
+    id: 96795
     title: >-
-        How do explanatory styles develop over time?
+        What are the psychological mechanisms behind the actor-observer effect?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-explanatory-styles-develop-over-time
+    url: /learn/psychology/questions/what-are-the-psychological-mechanisms-behind-the-actorobserver-effect
 related_article3:
     id: 96783
     title: >-

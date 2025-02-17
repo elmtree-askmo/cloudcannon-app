@@ -24,29 +24,35 @@ file_name: what-metrics-are-used-to-evaluate-the-success-of-advertising-campaign
 url: /learn/business-and-management/questions/what-metrics-are-used-to-evaluate-the-success-of-advertising-campaigns
 score: -1.0
 related_article1:
-    id: 110211
+    id: 110212
     title: >-
-        What are the main criteria for effective market segmentation?
+        How do companies determine their target market?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-main-criteria-for-effective-market-segmentation
+    url: /learn/business-and-management/questions/how-do-companies-determine-their-target-market
 related_article2:
-    id: 110224
+    id: 110209
     title: >-
-        What are the latest trends in marketing that are impacting buyer behavior?
+        What are the key components of the marketing environment?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-latest-trends-in-marketing-that-are-impacting-buyer-behavior
+    url: /learn/business-and-management/questions/what-are-the-key-components-of-the-marketing-environment
 related_article3:
-    id: 110215
+    id: 110214
     title: >-
-        What are the common pricing objectives companies pursue?
+        Can you explain the elements of the marketing mix?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-common-pricing-objectives-companies-pursue
+    url: /learn/business-and-management/questions/can-you-explain-the-elements-of-the-marketing-mix
 related_article4:
-    id: 110220
+    id: 110221
     title: >-
-        What factors influence the structure and design of marketing channels?
+        What roles do retailers and wholesalers play in marketing channels?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-factors-influence-the-structure-and-design-of-marketing-channels
+    url: /learn/business-and-management/questions/what-roles-do-retailers-and-wholesalers-play-in-marketing-channels
+related_article5:
+    id: 110219
+    title: >-
+        How do marketing channels function in the distribution process?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-do-marketing-channels-function-in-the-distribution-process
 ---
 
 &nbsp;

@@ -24,35 +24,29 @@ file_name: what-are-the-typical-findings-in-ultrasound-imaging-of-the-hepatobili
 url: /learn/medicine/questions/what-are-the-typical-findings-in-ultrasound-imaging-of-the-hepatobiliary-system
 score: -1.0
 related_article1:
-    id: 118038
+    id: 118049
     title: >-
-        What are the radiation risks associated with CT imaging of the hepatobiliary system?
+        How do imaging findings influence the prognosis of hepatic pathologies?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-radiation-risks-associated-with-ct-imaging-of-the-hepatobiliary-system
+    url: /learn/medicine/questions/how-do-imaging-findings-influence-the-prognosis-of-hepatic-pathologies
 related_article2:
-    id: 118040
+    id: 118039
     title: >-
-        What are the limitations of ultrasound imaging for the hepatobiliary system?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-limitations-of-ultrasound-imaging-for-the-hepatobiliary-system
+        How does the cost of CT imaging compare to MRI imaging for the hepatobiliary system?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-cost-of-ct-imaging-compare-to-mri-imaging-for-the-hepatobiliary-system
 related_article3:
-    id: 118026
+    id: 118044
     title: >-
-        What are the primary indications for imaging the liver?
+        What are the latest advancements in CT and MRI imaging technology for the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-primary-indications-for-imaging-the-liver
+    url: /learn/medicine/questions/what-are-the-latest-advancements-in-ct-and-mri-imaging-technology-for-the-hepatobiliary-system
 related_article4:
-    id: 118028
+    id: 118033
     title: >-
-        What are the primary indications for imaging the pancreas?
+        What are the key imaging techniques used for the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-primary-indications-for-imaging-the-pancreas
-related_article5:
-    id: 118043
-    title: >-
-        How do patient factors, such as age and health conditions, influence the choice of imaging technique for the hepatobiliary system?
-    subject: Medicine
-    url: /learn/medicine/questions/how-do-patient-factors-such-as-age-and-health-conditions-influence-the-choice-of-imaging-technique-for-the-hepatobiliary-system
+    url: /learn/medicine/questions/what-are-the-key-imaging-techniques-used-for-the-hepatobiliary-system
 ---
 
 &nbsp;

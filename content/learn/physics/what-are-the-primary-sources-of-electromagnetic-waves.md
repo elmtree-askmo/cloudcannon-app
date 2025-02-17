@@ -24,35 +24,35 @@ file_name: what-are-the-primary-sources-of-electromagnetic-waves.md
 url: /learn/physics/questions/what-are-the-primary-sources-of-electromagnetic-waves
 score: -1.0
 related_article1:
-    id: 116210
+    id: 116228
     title: >-
-        What specific contributions did Maxwell make to the field of electromagnetism?
+        How have Maxwell's equations influenced modern communication systems?
     subject: Physics
-    url: /learn/physics/questions/what-specific-contributions-did-maxwell-make-to-the-field-of-electromagnetism
+    url: /learn/physics/questions/how-have-maxwells-equations-influenced-modern-communication-systems
 related_article2:
-    id: 116231
+    id: 116221
     title: >-
-        What are some examples of modern technologies that rely on the principles of electromagnetism?
+        What are the properties and applications of infrared waves?
     subject: Physics
-    url: /learn/physics/questions/what-are-some-examples-of-modern-technologies-that-rely-on-the-principles-of-electromagnetism
+    url: /learn/physics/questions/what-are-the-properties-and-applications-of-infrared-waves
 related_article3:
-    id: 116215
-    title: >-
-        What are the fundamental nature and properties of electromagnetic waves?
-    subject: Physics
-    url: /learn/physics/questions/what-are-the-fundamental-nature-and-properties-of-electromagnetic-waves
-related_article4:
-    id: 116212
-    title: >-
-        How is the displacement current mathematically formulated in Maxwell's equations?
-    subject: Physics
-    url: /learn/physics/questions/how-is-the-displacement-current-mathematically-formulated-in-maxwells-equations
-related_article5:
     id: 116224
     title: >-
         What are the medical and industrial applications of X-rays?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-medical-and-industrial-applications-of-xrays
+related_article4:
+    id: 116235
+    title: >-
+        What are the limitations of Maxwell's equations in modern physics?
+    subject: Physics
+    url: /learn/physics/questions/what-are-the-limitations-of-maxwells-equations-in-modern-physics
+related_article5:
+    id: 116226
+    title: >-
+        How did Maxwell's work lead to the unification of electricity, magnetism, and light?
+    subject: Physics
+    url: /learn/physics/questions/how-did-maxwells-work-lead-to-the-unification-of-electricity-magnetism-and-light
 ---
 
 &nbsp;

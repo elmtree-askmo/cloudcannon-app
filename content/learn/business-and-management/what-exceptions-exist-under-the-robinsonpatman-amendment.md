@@ -24,35 +24,35 @@ file_name: what-exceptions-exist-under-the-robinsonpatman-amendment.md
 url: /learn/business-and-management/questions/what-exceptions-exist-under-the-robinsonpatman-amendment
 score: -1.0
 related_article1:
-    id: 122989
+    id: 123009
     title: >-
-        What is the significance of the quasi-legislative power of the NLRB?
+        What is the non-materiality defense in securities regulation?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-the-significance-of-the-quasilegislative-power-of-the-nlrb
+    url: /learn/criminal-or-civil-law/questions/what-is-the-nonmateriality-defense-in-securities-regulation
 related_article2:
-    id: 122994
-    title: >-
-        What constitutes an unfair labor practice under U.S. labor laws?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-constitutes-an-unfair-labor-practice-under-us-labor-laws
-related_article3:
     id: 122987
     title: >-
         How did the Yellow Dog Contract affect employee rights?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/how-did-the-yellow-dog-contract-affect-employee-rights
-related_article4:
-    id: 122988
+related_article3:
+    id: 122989
     title: >-
-        What role did the National Labor Relations Board (NLRB) play after its creation in 1935?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-did-the-national-labor-relations-board-nlrb-play-after-its-creation-in-1935
-related_article5:
-    id: 122993
-    title: >-
-        What are primary concerted activities and how do they differ from secondary activities?
+        What is the significance of the quasi-legislative power of the NLRB?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-primary-concerted-activities-and-how-do-they-differ-from-secondary-activities
+    url: /learn/criminal-or-civil-law/questions/what-is-the-significance-of-the-quasilegislative-power-of-the-nlrb
+related_article4:
+    id: 122997
+    title: >-
+        How did the Equal Pay Act of 1963 address employment discrimination?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-did-the-equal-pay-act-of-1963-address-employment-discrimination
+related_article5:
+    id: 122995
+    title: >-
+        How does the concept of a runaway shop affect labor relations?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-does-the-concept-of-a-runaway-shop-affect-labor-relations
 ---
 
 &nbsp;

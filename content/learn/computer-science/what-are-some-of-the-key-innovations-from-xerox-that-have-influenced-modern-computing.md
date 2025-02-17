@@ -24,29 +24,29 @@ file_name: what-are-some-of-the-key-innovations-from-xerox-that-have-influenced-
 url: /learn/computer-science/questions/what-are-some-of-the-key-innovations-from-xerox-that-have-influenced-modern-computing
 score: -1.0
 related_article1:
-    id: 119394
+    id: 119402
     title: >-
-        What is the pack layout manager in Tkinter and how does it work?
+        What are the steps to create a login interface using Tkinter?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-pack-layout-manager-in-tkinter-and-how-does-it-work
+    url: /learn/computer-science/questions/what-are-the-steps-to-create-a-login-interface-using-tkinter
 related_article2:
-    id: 119390
+    id: 119401
     title: >-
-        How does the Tkinter library in Python facilitate GUI development?
+        How can the grid layout manager be used to create a profile entry UI in Tkinter?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-tkinter-library-in-python-facilitate-gui-development
+    url: /learn/computer-science/questions/how-can-the-grid-layout-manager-be-used-to-create-a-profile-entry-ui-in-tkinter
 related_article3:
-    id: 119395
+    id: 119396
     title: >-
-        What customization options are available with the pack layout manager in Tkinter?
+        Can you provide a simple example using the pack() method in Tkinter?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-customization-options-are-available-with-the-pack-layout-manager-in-tkinter
+    url: /learn/computer-science/questions/can-you-provide-a-simple-example-using-the-pack-method-in-tkinter
 related_article4:
-    id: 119388
+    id: 119405
     title: >-
-        What challenges did early GUI developers face and what is the legacy of these challenges?
+        How can a login interface in Tkinter be further improved?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-challenges-did-early-gui-developers-face-and-what-is-the-legacy-of-these-challenges
+    url: /learn/computer-science/questions/how-can-a-login-interface-in-tkinter-be-further-improved
 ---
 
 &nbsp;

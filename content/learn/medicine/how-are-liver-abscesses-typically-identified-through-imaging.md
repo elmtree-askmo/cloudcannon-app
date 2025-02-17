@@ -24,29 +24,35 @@ file_name: how-are-liver-abscesses-typically-identified-through-imaging.md
 url: /learn/medicine/questions/how-are-liver-abscesses-typically-identified-through-imaging
 score: -1.0
 related_article1:
-    id: 118045
+    id: 118029
     title: >-
-        How do CT and MRI imaging techniques aid in the management and treatment planning of hepatic pathologies?
+        What are the common hepatic pathologies that can be identified through imaging?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-ct-and-mri-imaging-techniques-aid-in-the-management-and-treatment-planning-of-hepatic-pathologies
+    url: /learn/medicine/questions/what-are-the-common-hepatic-pathologies-that-can-be-identified-through-imaging
 related_article2:
+    id: 118024
+    title: >-
+        What are the disadvantages of using MRI imaging for the hepatobiliary system?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-disadvantages-of-using-mri-imaging-for-the-hepatobiliary-system
+related_article3:
     id: 118035
     title: >-
         What are the typical findings in CT imaging of the hepatobiliary system?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-typical-findings-in-ct-imaging-of-the-hepatobiliary-system
-related_article3:
-    id: 118020
-    title: >-
-        What are the main advantages of CT imaging for the hepatobiliary system?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-main-advantages-of-ct-imaging-for-the-hepatobiliary-system
 related_article4:
-    id: 118046
+    id: 118037
     title: >-
-        What are the common challenges faced in imaging the hepatobiliary system?
+        How does CT imaging compare to MRI imaging in terms of accuracy for the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-challenges-faced-in-imaging-the-hepatobiliary-system
+    url: /learn/medicine/questions/how-does-ct-imaging-compare-to-mri-imaging-in-terms-of-accuracy-for-the-hepatobiliary-system
+related_article5:
+    id: 118045
+    title: >-
+        How do CT and MRI imaging techniques aid in the management and treatment planning of hepatic pathologies?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-ct-and-mri-imaging-techniques-aid-in-the-management-and-treatment-planning-of-hepatic-pathologies
 ---
 
 &nbsp;

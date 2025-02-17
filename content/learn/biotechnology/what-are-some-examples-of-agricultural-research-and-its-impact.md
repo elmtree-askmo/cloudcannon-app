@@ -24,35 +24,29 @@ file_name: what-are-some-examples-of-agricultural-research-and-its-impact.md
 url: /learn/biotechnology/questions/what-are-some-examples-of-agricultural-research-and-its-impact
 score: -1.0
 related_article1:
-    id: 102726
+    id: 102735
     title: >-
-        How is a research design developed, and what factors are considered?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-is-a-research-design-developed-and-what-factors-are-considered
+        What are some notable research contributions in Science, Technology, Engineering, and Mathematics?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-some-notable-research-contributions-in-science-technology-engineering-and-mathematics
 related_article2:
-    id: 102720
-    title: >-
-        What makes research analytical, and how is this characteristic applied?
-    subject: Sociology
-    url: /learn/sociology/questions/what-makes-research-analytical-and-how-is-this-characteristic-applied
-related_article3:
-    id: 102738
-    title: >-
-        How is research applied in the field of sports?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-is-research-applied-in-the-field-of-sports
-related_article4:
     id: 102731
     title: >-
         What are some common ethical codes and policies researchers must adhere to?
     subject: Psychology
     url: /learn/psychology/questions/what-are-some-common-ethical-codes-and-policies-researchers-must-adhere-to
-related_article5:
-    id: 102727
+related_article3:
+    id: 102740
     title: >-
-        What methods are commonly used for collecting data in research?
+        How can concept mapping be used as a practical activity in research education?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-methods-are-commonly-used-for-collecting-data-in-research
+    url: /learn/education-studies/questions/how-can-concept-mapping-be-used-as-a-practical-activity-in-research-education
+related_article4:
+    id: 102734
+    title: >-
+        Can you provide examples of research in the field of Information and Communication Technology?
+    subject: Education Studies
+    url: /learn/education-studies/questions/can-you-provide-examples-of-research-in-the-field-of-information-and-communication-technology
 ---
 
 &nbsp;

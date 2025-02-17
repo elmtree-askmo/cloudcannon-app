@@ -24,35 +24,29 @@ file_name: what-are-the-main-components-of-email-services.md
 url: /learn/computer-science/questions/what-are-the-main-components-of-email-services
 score: -1.0
 related_article1:
-    id: 123093
+    id: 123082
     title: >-
-        What is virtual hosting and how does it relate to web server software?
+        What are the key advantages of implementing network printing in an organization?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-virtual-hosting-and-how-does-it-relate-to-web-server-software
+    url: /learn/computer-science/questions/what-are-the-key-advantages-of-implementing-network-printing-in-an-organization
 related_article2:
-    id: 123102
+    id: 123080
     title: >-
-        What are the differences between SMTP, POP3, and IMAP4 protocols?
+        What are some common challenges associated with network printing?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-differences-between-smtp-pop3-and-imap4-protocols
+    url: /learn/computer-science/questions/what-are-some-common-challenges-associated-with-network-printing
 related_article3:
-    id: 123079
+    id: 123081
     title: >-
-        Can you explain the differences between SMB/CIFS and NFS protocols?
+        How do print server solutions address network printing challenges?
     subject: Computer Science
-    url: /learn/computer-science/questions/can-you-explain-the-differences-between-smbcifs-and-nfs-protocols
+    url: /learn/computer-science/questions/how-do-print-server-solutions-address-network-printing-challenges
 related_article4:
-    id: 123091
+    id: 123101
     title: >-
-        How do web services support dynamic content and web applications?
+        What roles do Mail Transfer Agents (MTA) and Mail Delivery Agents (MDA) play in email delivery?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-web-services-support-dynamic-content-and-web-applications
-related_article5:
-    id: 123090
-    title: >-
-        What are the essential features of a web server?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-essential-features-of-a-web-server
+    url: /learn/computer-science/questions/what-roles-do-mail-transfer-agents-mta-and-mail-delivery-agents-mda-play-in-email-delivery
 ---
 
 &nbsp;

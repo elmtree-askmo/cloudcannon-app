@@ -24,35 +24,35 @@ file_name: what-are-some-key-differences-between-classical-and-modern-physics-in
 url: /learn/physics/questions/what-are-some-key-differences-between-classical-and-modern-physics-in-terms-of-mathematical-representation
 score: -1.0
 related_article1:
-    id: 121383
+    id: 121374
     title: >-
-        What are some real-world applications of the relationship between physics and mathematics?
-    subject: Physics
-    url: /learn/physics/questions/what-are-some-realworld-applications-of-the-relationship-between-physics-and-mathematics
-related_article2:
-    id: 121361
-    title: >-
-        What are fundamental principles and consequential statements in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-are-fundamental-principles-and-consequential-statements-in-physics
-related_article3:
-    id: 121362
-    title: >-
-        How did the Babylonian method influence the development of physics?
+        How does the Euclidean method differ from the Babylonian method in physics?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-babylonian-method-influence-the-development-of-physics
+    url: /learn/history-of-the-world/questions/how-does-the-euclidean-method-differ-from-the-babylonian-method-in-physics
+related_article2:
+    id: 121360
+    title: >-
+        What contributions did Babylonian and Greek traditions make to the relationship between physics and mathematics?
+    subject: Physics
+    url: /learn/physics/questions/what-contributions-did-babylonian-and-greek-traditions-make-to-the-relationship-between-physics-and-mathematics
+related_article3:
+    id: 121372
+    title: >-
+        How did ancient civilizations contribute to the development of mathematical physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-physics
 related_article4:
-    id: 121355
+    id: 121364
     title: >-
-        What is Faraday's Law and how does it relate to mathematics?
+        How does the law of gravitation illustrate the relationship between physics and mathematics?
     subject: Physics
-    url: /learn/physics/questions/what-is-faradays-law-and-how-does-it-relate-to-mathematics
+    url: /learn/physics/questions/how-does-the-law-of-gravitation-illustrate-the-relationship-between-physics-and-mathematics
 related_article5:
-    id: 121357
+    id: 121378
     title: >-
-        How is mathematical language used to describe physical laws?
+        How does the concept of force relate to equal areas in physics?
     subject: Physics
-    url: /learn/physics/questions/how-is-mathematical-language-used-to-describe-physical-laws
+    url: /learn/physics/questions/how-does-the-concept-of-force-relate-to-equal-areas-in-physics
 ---
 
 &nbsp;

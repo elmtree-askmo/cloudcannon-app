@@ -24,35 +24,35 @@ file_name: how-is-the-effectiveness-of-surgical-resection-and-transplantation-mo
 url: /learn/health-studies/questions/how-is-the-effectiveness-of-surgical-resection-and-transplantation-monitored-in-hcc-patients
 score: -1.0
 related_article1:
+    id: 118086
+    title: >-
+        What role does hepatic angiography play in the imaging of HCC?
+    subject: Medicine
+    url: /learn/medicine/questions/what-role-does-hepatic-angiography-play-in-the-imaging-of-hcc
+related_article2:
     id: 118080
     title: >-
         What are the key differences between Lyrad and European imaging guidelines for HCC?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-key-differences-between-lyrad-and-european-imaging-guidelines-for-hcc
-related_article2:
+related_article3:
     id: 118084
     title: >-
         What are the advantages and limitations of CT and MRI in imaging HCC?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-advantages-and-limitations-of-ct-and-mri-in-imaging-hcc
-related_article3:
-    id: 118081
-    title: >-
-        How do international guidelines influence imaging practices for HCC?
-    subject: Medicine
-    url: /learn/medicine/questions/how-do-international-guidelines-influence-imaging-practices-for-hcc
 related_article4:
-    id: 118109
+    id: 118092
     title: >-
-        What is the role of imaging in the follow-up care of HCC patients?
+        What is Transarterial Chemoembolization (TACE) and how is it used in HCC treatment?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-the-role-of-imaging-in-the-followup-care-of-hcc-patients
+    url: /learn/medicine/questions/what-is-transarterial-chemoembolization-tace-and-how-is-it-used-in-hcc-treatment
 related_article5:
-    id: 118107
+    id: 118088
     title: >-
-        What are the criteria for selecting an imaging modality for a specific HCC case?
+        How do CT and MRI images of HCC typically appear?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-criteria-for-selecting-an-imaging-modality-for-a-specific-hcc-case
+    url: /learn/medicine/questions/how-do-ct-and-mri-images-of-hcc-typically-appear
 ---
 
 &nbsp;

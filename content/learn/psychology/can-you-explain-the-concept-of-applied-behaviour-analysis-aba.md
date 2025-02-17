@@ -24,23 +24,29 @@ file_name: can-you-explain-the-concept-of-applied-behaviour-analysis-aba.md
 url: /learn/psychology/questions/can-you-explain-the-concept-of-applied-behaviour-analysis-aba
 score: -1.0
 related_article1:
-    id: 95711
-    title: >-
-        What are fixed-ratio and variable-ratio schedules of reinforcement?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-fixedratio-and-variableratio-schedules-of-reinforcement
-related_article2:
-    id: 95719
-    title: >-
-        How do cognitive learning theories differ from behavioral learning theories?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-cognitive-learning-theories-differ-from-behavioral-learning-theories
-related_article3:
     id: 95698
     title: >-
         What are conditioned emotional responses and how are they formed?
     subject: Psychology
     url: /learn/psychology/questions/what-are-conditioned-emotional-responses-and-how-are-they-formed
+related_article2:
+    id: 95713
+    title: >-
+        What is the partial reinforcement effect and why is it significant?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-partial-reinforcement-effect-and-why-is-it-significant
+related_article3:
+    id: 95711
+    title: >-
+        What are fixed-ratio and variable-ratio schedules of reinforcement?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-fixedratio-and-variableratio-schedules-of-reinforcement
+related_article4:
+    id: 95719
+    title: >-
+        How do cognitive learning theories differ from behavioral learning theories?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-cognitive-learning-theories-differ-from-behavioral-learning-theories
 ---
 
 &nbsp;

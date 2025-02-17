@@ -24,29 +24,29 @@ file_name: how-does-patient-history-and-presentation-influence-the-choice-of-ima
 url: /learn/medicine/questions/how-does-patient-history-and-presentation-influence-the-choice-of-imaging-modality-in-hepatobiliary-conditions
 score: -1.0
 related_article1:
-    id: 118111
+    id: 118121
     title: >-
-        What are the specific indications for using imaging in hepatobiliary conditions?
+        What are the common imaging characteristics of hepatocellular carcinoma?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-specific-indications-for-using-imaging-in-hepatobiliary-conditions
+    url: /learn/medicine/questions/what-are-the-common-imaging-characteristics-of-hepatocellular-carcinoma
 related_article2:
+    id: 118139
+    title: >-
+        What are the potential risks or side effects associated with imaging techniques used in hepatobiliary diagnosis?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-potential-risks-or-side-effects-associated-with-imaging-techniques-used-in-hepatobiliary-diagnosis
+related_article3:
     id: 118124
     title: >-
         What CT imaging findings are associated with acute cholecystitis?
     subject: Medicine
     url: /learn/medicine/questions/what-ct-imaging-findings-are-associated-with-acute-cholecystitis
-related_article3:
+related_article4:
     id: 118112
     title: >-
         Can you provide details on a case study involving hepatocellular carcinoma, including patient presentation and imaging findings?
     subject: Medicine
     url: /learn/medicine/questions/can-you-provide-details-on-a-case-study-involving-hepatocellular-carcinoma-including-patient-presentation-and-imaging-findings
-related_article4:
-    id: 118125
-    title: >-
-        What are the common imaging characteristics of acute pancreatitis?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-imaging-characteristics-of-acute-pancreatitis
 ---
 
 &nbsp;

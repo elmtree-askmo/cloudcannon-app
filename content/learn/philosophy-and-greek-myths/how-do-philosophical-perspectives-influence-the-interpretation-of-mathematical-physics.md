@@ -24,35 +24,29 @@ file_name: how-do-philosophical-perspectives-influence-the-interpretation-of-mat
 url: /learn/philosophy-and-greek-myths/questions/how-do-philosophical-perspectives-influence-the-interpretation-of-mathematical-physics
 score: -1.0
 related_article1:
-    id: 121364
-    title: >-
-        How does the law of gravitation illustrate the relationship between physics and mathematics?
-    subject: Physics
-    url: /learn/physics/questions/how-does-the-law-of-gravitation-illustrate-the-relationship-between-physics-and-mathematics
-related_article2:
-    id: 121356
-    title: >-
-        Can you explain Newton's Law of Gravitation in mathematical terms?
-    subject: Physics
-    url: /learn/physics/questions/can-you-explain-newtons-law-of-gravitation-in-mathematical-terms
-related_article3:
-    id: 121367
-    title: >-
-        What is the local field method in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-local-field-method-in-physics
-related_article4:
     id: 121383
     title: >-
         What are some real-world applications of the relationship between physics and mathematics?
     subject: Physics
     url: /learn/physics/questions/what-are-some-realworld-applications-of-the-relationship-between-physics-and-mathematics
-related_article5:
-    id: 121378
+related_article2:
+    id: 121380
     title: >-
-        How does the concept of force relate to equal areas in physics?
+        How do physicists use mathematical language to communicate complex ideas?
     subject: Physics
-    url: /learn/physics/questions/how-does-the-concept-of-force-relate-to-equal-areas-in-physics
+    url: /learn/physics/questions/how-do-physicists-use-mathematical-language-to-communicate-complex-ideas
+related_article3:
+    id: 121381
+    title: >-
+        What are some challenges in translating physical concepts into mathematical language?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-challenges-in-translating-physical-concepts-into-mathematical-language
+related_article4:
+    id: 121368
+    title: >-
+        Can you explain the minimum principle and its importance in physics?
+    subject: Physics
+    url: /learn/physics/questions/can-you-explain-the-minimum-principle-and-its-importance-in-physics
 ---
 
 &nbsp;

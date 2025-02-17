@@ -24,24 +24,18 @@ file_name: what-is-the-fundamental-attribution-error-and-how-is-it-defined.md
 url: /learn/psychology/questions/what-is-the-fundamental-attribution-error-and-how-is-it-defined
 score: -1.0
 related_article1:
-    id: 96783
-    title: >-
-        How do explanatory styles influence mental health outcomes?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-explanatory-styles-influence-mental-health-outcomes
-related_article2:
     id: 96795
     title: >-
         What are the psychological mechanisms behind the actor-observer effect?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-psychological-mechanisms-behind-the-actorobserver-effect
-related_article3:
-    id: 96802
+related_article2:
+    id: 96797
     title: >-
-        How do explanatory styles develop over time?
+        What research has been conducted on cultural influences on attribution?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-explanatory-styles-develop-over-time
-related_article4:
+    url: /learn/psychology/questions/what-research-has-been-conducted-on-cultural-influences-on-attribution
+related_article3:
     id: 96780
     title: >-
         How does a pessimistic explanatory style differ from an optimistic one?

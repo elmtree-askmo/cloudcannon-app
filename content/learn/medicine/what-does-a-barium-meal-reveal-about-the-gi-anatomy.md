@@ -30,29 +30,23 @@ related_article1:
     subject: Medicine
     url: /learn/medicine/questions/how-are-dilated-small-bowel-loops-identified-on-an-xray
 related_article2:
-    id: 118168
+    id: 118142
     title: >-
-        What specific roles does MRI play in diagnosing GI disorders?
+        What are the differences between barium and water-soluble contrast in GI studies?
     subject: Medicine
-    url: /learn/medicine/questions/what-specific-roles-does-mri-play-in-diagnosing-gi-disorders
+    url: /learn/medicine/questions/what-are-the-differences-between-barium-and-watersoluble-contrast-in-gi-studies
 related_article3:
-    id: 118148
+    id: 118165
     title: >-
-        What role does angiography play in GI radiology?
+        How do you decide between using barium and water-soluble contrast?
     subject: Medicine
-    url: /learn/medicine/questions/what-role-does-angiography-play-in-gi-radiology
+    url: /learn/medicine/questions/how-do-you-decide-between-using-barium-and-watersoluble-contrast
 related_article4:
-    id: 118166
+    id: 118150
     title: >-
-        What are the pros and cons of using CT in GI imaging?
+        What are the advantages of using MRI in GI radiology?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-pros-and-cons-of-using-ct-in-gi-imaging
-related_article5:
-    id: 118154
-    title: >-
-        What anatomical details are highlighted in a barium swallow study?
-    subject: Medicine
-    url: /learn/medicine/questions/what-anatomical-details-are-highlighted-in-a-barium-swallow-study
+    url: /learn/medicine/questions/what-are-the-advantages-of-using-mri-in-gi-radiology
 ---
 
 &nbsp;

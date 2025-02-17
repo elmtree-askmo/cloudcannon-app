@@ -24,29 +24,35 @@ file_name: what-is-the-impact-of-demand-on-property-value.md
 url: /learn/economics/questions/what-is-the-impact-of-demand-on-property-value
 score: -1.0
 related_article1:
-    id: 96973
+    id: 96977
     title: >-
-        What is physical deterioration in property?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-is-physical-deterioration-in-property
+        How does the capitalization income approach work in property appraisal?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/how-does-the-capitalization-income-approach-work-in-property-appraisal
 related_article2:
-    id: 96961
-    title: >-
-        What is ownership in severalty?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-ownership-in-severalty
-related_article3:
     id: 96958
     title: >-
         What is eminent domain and how does it affect property ownership?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-is-eminent-domain-and-how-does-it-affect-property-ownership
-related_article4:
-    id: 96960
+related_article3:
+    id: 96981
     title: >-
-        What is escheat and when does it occur?
+        What is the history and enactment of fair housing laws?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-is-the-history-and-enactment-of-fair-housing-laws
+related_article4:
+    id: 96957
+    title: >-
+        How does the government exercise police power over property?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-escheat-and-when-does-it-occur
+    url: /learn/criminal-or-civil-law/questions/how-does-the-government-exercise-police-power-over-property
+related_article5:
+    id: 96968
+    title: >-
+        How does utility influence property value?
+    subject: Economics
+    url: /learn/economics/questions/how-does-utility-influence-property-value
 ---
 
 &nbsp;

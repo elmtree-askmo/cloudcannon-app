@@ -24,29 +24,35 @@ file_name: what-skills-are-crucial-for-a-network-administrator-to-possess.md
 url: /learn/computer-science/questions/what-skills-are-crucial-for-a-network-administrator-to-possess
 score: -1.0
 related_article1:
-    id: 122354
+    id: 122357
     title: >-
-        What skills are crucial for an IT Security Analyst to be effective?
+        What are the main duties of someone in Application Services?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-skills-are-crucial-for-an-it-security-analyst-to-be-effective
+    url: /learn/computer-science/questions/what-are-the-main-duties-of-someone-in-application-services
 related_article2:
-    id: 122332
+    id: 122339
     title: >-
-        How can a Help Desk Analyst advance in their career?
+        What qualifications are generally required for a Network Administrator role?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-a-help-desk-analyst-advance-in-their-career
+    url: /learn/computer-science/questions/what-qualifications-are-generally-required-for-a-network-administrator-role
 related_article3:
-    id: 122347
+    id: 122356
     title: >-
-        What qualifications are typically required for an Infrastructure Analyst role?
+        How can an IT Security Analyst advance in their career?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-qualifications-are-typically-required-for-an-infrastructure-analyst-role
+    url: /learn/computer-science/questions/how-can-an-it-security-analyst-advance-in-their-career
 related_article4:
-    id: 122358
+    id: 122344
     title: >-
-        What skills are important for a career in Application Services?
+        What is the career path for a Data Centre Administrator?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-skills-are-important-for-a-career-in-application-services
+    url: /learn/computer-science/questions/what-is-the-career-path-for-a-data-centre-administrator
+related_article5:
+    id: 122341
+    title: >-
+        What are the primary duties of a Data Centre Administrator?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-primary-duties-of-a-data-centre-administrator
 ---
 
 &nbsp;

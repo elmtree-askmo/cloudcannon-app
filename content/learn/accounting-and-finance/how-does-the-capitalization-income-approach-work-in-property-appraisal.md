@@ -24,35 +24,35 @@ file_name: how-does-the-capitalization-income-approach-work-in-property-appraisa
 url: /learn/accounting-and-finance/questions/how-does-the-capitalization-income-approach-work-in-property-appraisal
 score: -1.0
 related_article1:
-    id: 96966
+    id: 96973
     title: >-
-        How does scarcity affect property value?
-    subject: Economics
-    url: /learn/economics/questions/how-does-scarcity-affect-property-value
+        What is physical deterioration in property?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-is-physical-deterioration-in-property
 related_article2:
-    id: 96958
-    title: >-
-        What is eminent domain and how does it affect property ownership?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-eminent-domain-and-how-does-it-affect-property-ownership
-related_article3:
-    id: 96960
-    title: >-
-        What is escheat and when does it occur?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-escheat-and-when-does-it-occur
-related_article4:
     id: 96972
     title: >-
         What is functional obsolescence in property?
     subject: Business and Management
     url: /learn/business-and-management/questions/what-is-functional-obsolescence-in-property
-related_article5:
-    id: 96961
+related_article3:
+    id: 96986
     title: >-
-        What is ownership in severalty?
+        What is redlining and how does it violate fair housing laws?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-redlining-and-how-does-it-violate-fair-housing-laws
+related_article4:
+    id: 96957
+    title: >-
+        How does the government exercise police power over property?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-ownership-in-severalty
+    url: /learn/criminal-or-civil-law/questions/how-does-the-government-exercise-police-power-over-property
+related_article5:
+    id: 96975
+    title: >-
+        How does the market data approach work in property appraisal?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/how-does-the-market-data-approach-work-in-property-appraisal
 ---
 
 &nbsp;

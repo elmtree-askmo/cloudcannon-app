@@ -23,12 +23,7 @@ subject: Education Studies
 file_name: how-can-researchers-ensure-the-reliability-of-their-findings-in-medical-education-research.md
 url: /learn/education-studies/questions/how-can-researchers-ensure-the-reliability-of-their-findings-in-medical-education-research
 score: -1.0
-related_article1:
-    id: 102256
-    title: >-
-        What techniques are commonly used to enhance the quality of qualitative research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-techniques-are-commonly-used-to-enhance-the-quality-of-qualitative-research
+
 ---
 
 &nbsp;

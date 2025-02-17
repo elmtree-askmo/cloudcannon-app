@@ -24,35 +24,23 @@ file_name: what-is-cognitive-dissonance-and-how-does-it-affect-decisionmaking.md
 url: /learn/psychology/questions/what-is-cognitive-dissonance-and-how-does-it-affect-decisionmaking
 score: -1.0
 related_article1:
-    id: 111867
+    id: 111869
     title: >-
-        What motivates individuals to conform to group norms?
+        What is groupthink and how does it affect decision-making in groups?
     subject: Psychology
-    url: /learn/psychology/questions/what-motivates-individuals-to-conform-to-group-norms
+    url: /learn/psychology/questions/what-is-groupthink-and-how-does-it-affect-decisionmaking-in-groups
 related_article2:
-    id: 111857
-    title: >-
-        How do social roles impact individual behavior in a group setting?
-    subject: Sociology
-    url: /learn/sociology/questions/how-do-social-roles-impact-individual-behavior-in-a-group-setting
-related_article3:
     id: 111852
     title: >-
         What was the Quizmaster Study and what did it reveal about attribution?
     subject: Psychology
     url: /learn/psychology/questions/what-was-the-quizmaster-study-and-what-did-it-reveal-about-attribution
-related_article4:
-    id: 111856
+related_article3:
+    id: 111849
     title: >-
-        What is the just world hypothesis and how does it influence behavior?
+        What is situationism in the context of social psychology?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-just-world-hypothesis-and-how-does-it-influence-behavior
-related_article5:
-    id: 111864
-    title: >-
-        What is the elaboration likelihood model in the context of persuasion?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-elaboration-likelihood-model-in-the-context-of-persuasion
+    url: /learn/psychology/questions/what-is-situationism-in-the-context-of-social-psychology
 ---
 
 &nbsp;

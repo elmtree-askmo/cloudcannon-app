@@ -24,17 +24,17 @@ file_name: what-are-the-challenges-in-studying-the-causes-of-drug-abuse-from-a-m
 url: /learn/psychology/questions/what-are-the-challenges-in-studying-the-causes-of-drug-abuse-from-a-multidimensional-perspective
 score: -1.0
 related_article1:
-    id: 119106
-    title: >-
-        What are some examples of subcultural influences on drug abuse?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-some-examples-of-subcultural-influences-on-drug-abuse
-related_article2:
     id: 119089
     title: >-
         How does Choice Theory explain drug abuse?
     subject: Psychology
     url: /learn/psychology/questions/how-does-choice-theory-explain-drug-abuse
+related_article2:
+    id: 119106
+    title: >-
+        What are some examples of subcultural influences on drug abuse?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-some-examples-of-subcultural-influences-on-drug-abuse
 ---
 
 &nbsp;

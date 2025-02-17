@@ -24,29 +24,23 @@ file_name: what-diagnostic-tools-are-available-for-troubleshooting-networking-is
 url: /learn/computer-science/questions/what-diagnostic-tools-are-available-for-troubleshooting-networking-issues-in-linux
 score: -1.0
 related_article1:
-    id: 116143
-    title: >-
-        How can Linux be integrated with other operating systems in a network?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-linux-be-integrated-with-other-operating-systems-in-a-network
-related_article2:
-    id: 116144
-    title: >-
-        What are the latest trends in firewall technology for Linux?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-latest-trends-in-firewall-technology-for-linux
-related_article3:
     id: 116139
     title: >-
         How does Linux handle network traffic management?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-linux-handle-network-traffic-management
-related_article4:
-    id: 116124
+related_article2:
+    id: 116120
     title: >-
-        How does the TCP/IP protocol work?
+        What are the key features of the Linux operating system?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-tcpip-protocol-work
+    url: /learn/computer-science/questions/what-are-the-key-features-of-the-linux-operating-system
+related_article3:
+    id: 116122
+    title: >-
+        What are the most commonly used command line networking tools in Linux?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-most-commonly-used-command-line-networking-tools-in-linux
 ---
 
 &nbsp;

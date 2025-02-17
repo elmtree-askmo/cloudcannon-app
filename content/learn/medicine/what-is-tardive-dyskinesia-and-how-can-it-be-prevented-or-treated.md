@@ -24,35 +24,35 @@ file_name: what-is-tardive-dyskinesia-and-how-can-it-be-prevented-or-treated.md
 url: /learn/medicine/questions/what-is-tardive-dyskinesia-and-how-can-it-be-prevented-or-treated
 score: -1.0
 related_article1:
-    id: 104607
+    id: 104588
     title: >-
-        How do Serotonin-Norepinephrine Reuptake Inhibitors (SNRI) differ from SSRIs?
+        What are the main differences between typical and atypical antipsychotics?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-serotoninnorepinephrine-reuptake-inhibitors-snri-differ-from-ssris
+    url: /learn/medicine/questions/what-are-the-main-differences-between-typical-and-atypical-antipsychotics
 related_article2:
-    id: 104600
+    id: 104590
     title: >-
-        How do benzodiazepines work to alleviate anxiety symptoms?
+        What are the most common side effects associated with antipsychotics?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-benzodiazepines-work-to-alleviate-anxiety-symptoms
+    url: /learn/medicine/questions/what-are-the-most-common-side-effects-associated-with-antipsychotics
 related_article3:
-    id: 104591
+    id: 104604
     title: >-
-        How do phenothiazines differ from nonphenothiazines in terms of chemical structure and effects?
+        What are the different classes of antidepressants and how do they differ in their mechanisms?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-phenothiazines-differ-from-nonphenothiazines-in-terms-of-chemical-structure-and-effects
+    url: /learn/medicine/questions/what-are-the-different-classes-of-antidepressants-and-how-do-they-differ-in-their-mechanisms
 related_article4:
-    id: 104617
+    id: 104611
     title: >-
-        What are the latest advancements in the development of antipsychotics and anxiolytics?
+        What are common drug interactions associated with antidepressants and mood stabilizers?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-latest-advancements-in-the-development-of-antipsychotics-and-anxiolytics
+    url: /learn/medicine/questions/what-are-common-drug-interactions-associated-with-antidepressants-and-mood-stabilizers
 related_article5:
-    id: 104612
+    id: 104603
     title: >-
-        How can nonadherence to antidepressant treatment be addressed in patients?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-can-nonadherence-to-antidepressant-treatment-be-addressed-in-patients
+        What are some examples of miscellaneous anxiolytics and their uses?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-some-examples-of-miscellaneous-anxiolytics-and-their-uses
 ---
 
 &nbsp;

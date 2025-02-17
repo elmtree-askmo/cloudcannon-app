@@ -24,35 +24,29 @@ file_name: can-you-explain-the-minimum-principle-and-its-relevance-in-physics.md
 url: /learn/physics/questions/can-you-explain-the-minimum-principle-and-its-relevance-in-physics
 score: -1.0
 related_article1:
-    id: 120284
+    id: 120264
     title: >-
-        How do philosophical perspectives influence the interpretation of mathematical physics?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-do-philosophical-perspectives-influence-the-interpretation-of-mathematical-physics
+        What was the Babylonian method in physics and how did it influence modern science?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-was-the-babylonian-method-in-physics-and-how-did-it-influence-modern-science
 related_article2:
-    id: 120268
-    title: >-
-        How do Newton's laws demonstrate the interplay between physics and mathematics?
-    subject: Physics
-    url: /learn/physics/questions/how-do-newtons-laws-demonstrate-the-interplay-between-physics-and-mathematics
-related_article3:
-    id: 120272
-    title: >-
-        How do mathematical models help in predicting physical phenomena?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
-related_article4:
     id: 120277
     title: >-
         What are the historical developments in the mathematical description of force?
     subject: Physics
     url: /learn/physics/questions/what-are-the-historical-developments-in-the-mathematical-description-of-force
-related_article5:
-    id: 120262
+related_article3:
+    id: 120274
     title: >-
-        What are the key contributions of Babylonian and Greek traditions to physics and mathematics?
+        How did ancient civilizations contribute to the development of mathematical physics?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-key-contributions-of-babylonian-and-greek-traditions-to-physics-and-mathematics
+    url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-physics
+related_article4:
+    id: 120267
+    title: >-
+        What is the conservation of angular momentum and its mathematical representation?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-conservation-of-angular-momentum-and-its-mathematical-representation
 ---
 
 &nbsp;

@@ -24,35 +24,29 @@ file_name: how-is-assessment-typically-conducted-in-a-developmental-psychology-c
 url: /learn/psychology/questions/how-is-assessment-typically-conducted-in-a-developmental-psychology-course
 score: -1.0
 related_article1:
-    id: 121401
+    id: 121407
     title: >-
-        How do cross-sectional designs differ from longitudinal studies in developmental research?
+        What are the key components of a course outline in developmental psychology?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-crosssectional-designs-differ-from-longitudinal-studies-in-developmental-research
+    url: /learn/psychology/questions/what-are-the-key-components-of-a-course-outline-in-developmental-psychology
 related_article2:
-    id: 121384
+    id: 121396
     title: >-
-        What are the main periods of human development?
+        What are on-time and off-time events in human development?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-periods-of-human-development
+    url: /learn/psychology/questions/what-are-ontime-and-offtime-events-in-human-development
 related_article3:
-    id: 121412
+    id: 121402
     title: >-
-        How do sensitive periods influence learning and development?
+        What is sequential design in the context of developmental psychology research?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-sensitive-periods-influence-learning-and-development
+    url: /learn/psychology/questions/what-is-sequential-design-in-the-context-of-developmental-psychology-research
 related_article4:
-    id: 121385
+    id: 121388
     title: >-
-        How are the domains of human development categorized?
+        How does the nature vs. nurture debate influence our understanding of human development?
     subject: Psychology
-    url: /learn/psychology/questions/how-are-the-domains-of-human-development-categorized
-related_article5:
-    id: 121405
-    title: >-
-        What are the challenges of conducting cross-cultural research in developmental psychology?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-challenges-of-conducting-crosscultural-research-in-developmental-psychology
+    url: /learn/psychology/questions/how-does-the-nature-vs-nurture-debate-influence-our-understanding-of-human-development
 ---
 
 &nbsp;

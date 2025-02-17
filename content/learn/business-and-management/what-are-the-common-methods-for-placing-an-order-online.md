@@ -24,11 +24,11 @@ file_name: what-are-the-common-methods-for-placing-an-order-online.md
 url: /learn/business-and-management/questions/what-are-the-common-methods-for-placing-an-order-online
 score: -1.0
 related_article1:
-    id: 98568
+    id: 98546
     title: >-
-        What are the transformative impacts of e-business on traditional business models?
+        What are the key learning objectives when studying emerging modes of business?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-transformative-impacts-of-ebusiness-on-traditional-business-models
+    url: /learn/business-and-management/questions/what-are-the-key-learning-objectives-when-studying-emerging-modes-of-business
 related_article2:
     id: 98572
     title: >-
@@ -36,17 +36,17 @@ related_article2:
     subject: Business and Management
     url: /learn/business-and-management/questions/what-are-the-limitations-of-ebusiness-that-businesses-need-to-be-aware-of
 related_article3:
-    id: 98549
+    id: 98568
     title: >-
-        How do internationalisation and globalisation impact e-business?
+        What are the transformative impacts of e-business on traditional business models?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-do-internationalisation-and-globalisation-impact-ebusiness
+    url: /learn/business-and-management/questions/what-are-the-transformative-impacts-of-ebusiness-on-traditional-business-models
 related_article4:
-    id: 98555
+    id: 98575
     title: >-
-        What are the primary benefits of e-business for business organisations?
+        How is the business studies curriculum for 2024-25 expected to address e-business and outsourcing?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-primary-benefits-of-ebusiness-for-business-organisations
+    url: /learn/business-and-management/questions/how-is-the-business-studies-curriculum-for-202425-expected-to-address-ebusiness-and-outsourcing
 ---
 
 &nbsp;

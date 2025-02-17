@@ -24,35 +24,35 @@ file_name: what-is-factoring-and-how-does-it-benefit-businesses.md
 url: /learn/accounting-and-finance/questions/what-is-factoring-and-how-does-it-benefit-businesses
 score: -1.0
 related_article1:
+    id: 98641
+    title: >-
+        How is commercial paper used as a source of finance?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/how-is-commercial-paper-used-as-a-source-of-finance
+related_article2:
     id: 98630
     title: >-
         Why is business finance significant for companies?
     subject: Business and Management
     url: /learn/business-and-management/questions/why-is-business-finance-significant-for-companies
-related_article2:
-    id: 98642
-    title: >-
-        What are the different types of shares issued by companies?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-are-the-different-types-of-shares-issued-by-companies
 related_article3:
-    id: 98628
+    id: 98631
     title: >-
-        How would you define business finance?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/how-would-you-define-business-finance
-related_article4:
-    id: 98646
-    title: >-
-        What role do commercial banks play in providing business finance?
+        What are fixed capital requirements in business finance?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-role-do-commercial-banks-play-in-providing-business-finance
-related_article5:
-    id: 98655
+    url: /learn/business-and-management/questions/what-are-fixed-capital-requirements-in-business-finance
+related_article4:
+    id: 98635
     title: >-
-        What are Foreign Currency Convertible Bonds (FCCBs) and their benefits?
+        Can you explain the source of generation basis for classifying sources of funds?
     subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-are-foreign-currency-convertible-bonds-fccbs-and-their-benefits
+    url: /learn/accounting-and-finance/questions/can-you-explain-the-source-of-generation-basis-for-classifying-sources-of-funds
+related_article5:
+    id: 98637
+    title: >-
+        How does trade credit function as a source of finance?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/how-does-trade-credit-function-as-a-source-of-finance
 ---
 
 &nbsp;

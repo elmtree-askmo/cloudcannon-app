@@ -24,23 +24,29 @@ file_name: what-lessons-can-be-learned-from-the-industrial-revolution-for-future
 url: /learn/economics/questions/what-lessons-can-be-learned-from-the-industrial-revolution-for-future-economic-development
 score: -1.0
 related_article1:
-    id: 123035
+    id: 123027
     title: >-
-        What were the criticisms of Eurocentric explanations of the Industrial Revolution?
+        What arguments exist regarding European cultural superiority during the Industrial Revolution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-criticisms-of-eurocentric-explanations-of-the-industrial-revolution
+    url: /learn/history-of-the-world/questions/what-arguments-exist-regarding-european-cultural-superiority-during-the-industrial-revolution
 related_article2:
-    id: 123024
+    id: 123023
     title: >-
-        How did India's textile production compare to Britain's during the Industrial Revolution?
+        What was China's industrial potential during the Industrial Revolution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-indias-textile-production-compare-to-britains-during-the-industrial-revolution
+    url: /learn/history-of-the-world/questions/what-was-chinas-industrial-potential-during-the-industrial-revolution
 related_article3:
-    id: 123044
+    id: 123030
     title: >-
-        How did the Industrial Revolution affect global power dynamics?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-industrial-revolution-affect-global-power-dynamics
+        How did the Industrial Revolution set the stage for future discussions on capitalism?
+    subject: Economics
+    url: /learn/economics/questions/how-did-the-industrial-revolution-set-the-stage-for-future-discussions-on-capitalism
+related_article4:
+    id: 123019
+    title: >-
+        What were the major chemical advancements during the Industrial Revolution?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-were-the-major-chemical-advancements-during-the-industrial-revolution
 ---
 
 &nbsp;

@@ -24,17 +24,23 @@ file_name: how-can-technology-enhance-the-accuracy-of-back-titration-processes.m
 url: /learn/chemistry/questions/how-can-technology-enhance-the-accuracy-of-back-titration-processes
 score: -1.0
 related_article1:
-    id: 123568
+    id: 123560
     title: >-
-        What are some common mistakes to avoid during back titration?
+        Why is back titration important in chemical analysis?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-some-common-mistakes-to-avoid-during-back-titration
+    url: /learn/chemistry/questions/why-is-back-titration-important-in-chemical-analysis
 related_article2:
     id: 123562
     title: >-
         How do you balance chemical equations in the context of back titration?
     subject: Chemistry
     url: /learn/chemistry/questions/how-do-you-balance-chemical-equations-in-the-context-of-back-titration
+related_article3:
+    id: 123568
+    title: >-
+        What are some common mistakes to avoid during back titration?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-some-common-mistakes-to-avoid-during-back-titration
 ---
 
 &nbsp;

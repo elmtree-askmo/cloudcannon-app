@@ -24,35 +24,35 @@ file_name: what-are-the-key-imaging-modalities-used-in-the-diagnosis-of-hepatoce
 url: /learn/medicine/questions/what-are-the-key-imaging-modalities-used-in-the-diagnosis-of-hepatocellular-carcinoma
 score: -1.0
 related_article1:
-    id: 118115
+    id: 118130
     title: >-
-        Could you describe a case study of acute cholecystitis, focusing on patient presentation and imaging findings?
+        How are different imaging techniques integrated in the diagnosis and management of hepatobiliary conditions?
     subject: Medicine
-    url: /learn/medicine/questions/could-you-describe-a-case-study-of-acute-cholecystitis-focusing-on-patient-presentation-and-imaging-findings
+    url: /learn/medicine/questions/how-are-different-imaging-techniques-integrated-in-the-diagnosis-and-management-of-hepatobiliary-conditions
 related_article2:
-    id: 118128
-    title: >-
-        What role does imaging play in detecting complications of pancreatitis?
-    subject: Medicine
-    url: /learn/medicine/questions/what-role-does-imaging-play-in-detecting-complications-of-pancreatitis
-related_article3:
-    id: 118112
-    title: >-
-        Can you provide details on a case study involving hepatocellular carcinoma, including patient presentation and imaging findings?
-    subject: Medicine
-    url: /learn/medicine/questions/can-you-provide-details-on-a-case-study-involving-hepatocellular-carcinoma-including-patient-presentation-and-imaging-findings
-related_article4:
-    id: 118111
-    title: >-
-        What are the specific indications for using imaging in hepatobiliary conditions?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-specific-indications-for-using-imaging-in-hepatobiliary-conditions
-related_article5:
     id: 118120
     title: >-
         What are the typical treatment and management strategies for acute pancreatitis?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-typical-treatment-and-management-strategies-for-acute-pancreatitis
+related_article3:
+    id: 118132
+    title: >-
+        How does imaging help in differentiating between benign and malignant hepatobiliary lesions?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-imaging-help-in-differentiating-between-benign-and-malignant-hepatobiliary-lesions
+related_article4:
+    id: 118123
+    title: >-
+        What are the sonographic features indicative of acute cholecystitis?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-sonographic-features-indicative-of-acute-cholecystitis
+related_article5:
+    id: 118114
+    title: >-
+        What treatment and management strategies are typically employed for hepatocellular carcinoma?
+    subject: Medicine
+    url: /learn/medicine/questions/what-treatment-and-management-strategies-are-typically-employed-for-hepatocellular-carcinoma
 ---
 
 &nbsp;

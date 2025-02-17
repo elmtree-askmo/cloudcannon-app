@@ -24,23 +24,29 @@ file_name: how-is-dividend-distribution-typically-handled-in-companies.md
 url: /learn/accounting-and-finance/questions/how-is-dividend-distribution-typically-handled-in-companies
 score: -1.0
 related_article1:
-    id: 98624
+    id: 98621
     title: >-
-        What is the importance of loan security and collateral?
+        What role do underwriters play in the formation of a company?
     subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-is-the-importance-of-loan-security-and-collateral
+    url: /learn/accounting-and-finance/questions/what-role-do-underwriters-play-in-the-formation-of-a-company
 related_article2:
-    id: 98613
-    title: >-
-        What are the benefits of high-interest returns for investors?
-    subject: Economics
-    url: /learn/economics/questions/what-are-the-benefits-of-highinterest-returns-for-investors
-related_article3:
     id: 98616
     title: >-
         Can you explain the concept of term loans?
     subject: Accounting and Finance
     url: /learn/accounting-and-finance/questions/can-you-explain-the-concept-of-term-loans
+related_article3:
+    id: 98626
+    title: >-
+        What are the best practices for ensuring availability for future queries?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/what-are-the-best-practices-for-ensuring-availability-for-future-queries
+related_article4:
+    id: 98619
+    title: >-
+        What is the process of share issuance in a company formation?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-is-the-process-of-share-issuance-in-a-company-formation
 ---
 
 &nbsp;

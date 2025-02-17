@@ -24,29 +24,29 @@ file_name: what-is-the-significance-of-the-minimum-principle-in-the-context-of-e
 url: /learn/physics/questions/what-is-the-significance-of-the-minimum-principle-in-the-context-of-energy-conservation
 score: -1.0
 related_article1:
-    id: 120281
+    id: 120280
     title: >-
-        What are the challenges in translating physical phenomena into mathematical language?
-    subject: Physics
-    url: /learn/physics/questions/what-are-the-challenges-in-translating-physical-phenomena-into-mathematical-language
+        How does the Euclidean method differ from the Babylonian method in physics?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-does-the-euclidean-method-differ-from-the-babylonian-method-in-physics
 related_article2:
-    id: 120269
+    id: 120277
     title: >-
-        What is the local field method and its application in physics?
+        What are the historical developments in the mathematical description of force?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-local-field-method-and-its-application-in-physics
+    url: /learn/physics/questions/what-are-the-historical-developments-in-the-mathematical-description-of-force
 related_article3:
+    id: 120270
+    title: >-
+        Can you explain the minimum principle and its relevance in physics?
+    subject: Physics
+    url: /learn/physics/questions/can-you-explain-the-minimum-principle-and-its-relevance-in-physics
+related_article4:
     id: 120274
     title: >-
         How did ancient civilizations contribute to the development of mathematical physics?
     subject: Mathematics
     url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-physics
-related_article4:
-    id: 120265
-    title: >-
-        Can you describe the Euclidean method and its impact on physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/can-you-describe-the-euclidean-method-and-its-impact-on-physics
 ---
 
 &nbsp;

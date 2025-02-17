@@ -24,35 +24,35 @@ file_name: what-are-the-key-factors-driving-innovation-in-the-semiconductor-indu
 url: /learn/engineering/questions/what-are-the-key-factors-driving-innovation-in-the-semiconductor-industry
 score: -1.0
 related_article1:
-    id: 116365
+    id: 116360
     title: >-
-        What are the different types of semiconductors and their characteristics?
-    subject: Engineering
-    url: /learn/engineering/questions/what-are-the-different-types-of-semiconductors-and-their-characteristics
-related_article2:
-    id: 116361
-    title: >-
-        Who were the pioneering scientists and engineers in the field of semiconductor electronics?
-    subject: Engineering
-    url: /learn/engineering/questions/who-were-the-pioneering-scientists-and-engineers-in-the-field-of-semiconductor-electronics
-related_article3:
-    id: 116362
-    title: >-
-        How did World War II influence the development of semiconductor technology?
+        What were the key historical milestones in the development of semiconductor electronics?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-world-war-ii-influence-the-development-of-semiconductor-technology
+    url: /learn/history-of-the-world/questions/what-were-the-key-historical-milestones-in-the-development-of-semiconductor-electronics
+related_article2:
+    id: 116378
+    title: >-
+        What are the challenges faced in the production and development of semiconductor devices?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-challenges-faced-in-the-production-and-development-of-semiconductor-devices
+related_article3:
+    id: 116382
+    title: >-
+        What is the role of semiconductor physics in the development of renewable energy technologies?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-role-of-semiconductor-physics-in-the-development-of-renewable-energy-technologies
 related_article4:
-    id: 116364
+    id: 116370
     title: >-
-        How are semiconductors classified based on their conductivity?
-    subject: Engineering
-    url: /learn/engineering/questions/how-are-semiconductors-classified-based-on-their-conductivity
+        What is a p-n junction and why is it fundamental to semiconductor devices?
+    subject: Physics
+    url: /learn/physics/questions/what-is-a-pn-junction-and-why-is-it-fundamental-to-semiconductor-devices
 related_article5:
-    id: 116383
+    id: 116369
     title: >-
-        How do semiconductors contribute to the efficiency of electronic devices?
-    subject: Engineering
-    url: /learn/engineering/questions/how-do-semiconductors-contribute-to-the-efficiency-of-electronic-devices
+        What role do dopants play in the properties of extrinsic semiconductors?
+    subject: Physics
+    url: /learn/physics/questions/what-role-do-dopants-play-in-the-properties-of-extrinsic-semiconductors
 ---
 
 &nbsp;

@@ -24,23 +24,23 @@ file_name: what-are-the-prevalence-and-risk-factors-for-major-depressive-disorde
 url: /learn/psychology/questions/what-are-the-prevalence-and-risk-factors-for-major-depressive-disorder
 score: -1.0
 related_article1:
+    id: 117615
+    title: >-
+        What are the causes of panic disorder?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-causes-of-panic-disorder
+related_article2:
     id: 117617
     title: >-
         What are the main symptoms of obsessive-compulsive disorder (OCD)?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-main-symptoms-of-obsessivecompulsive-disorder-ocd
-related_article2:
-    id: 117610
-    title: >-
-        What role do genetic factors play in the biological perspective of psychological disorders?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-do-genetic-factors-play-in-the-biological-perspective-of-psychological-disorders
 related_article3:
-    id: 117622
+    id: 117630
     title: >-
-        What are the risk factors associated with PTSD?
+        What are the different types of dissociative disorders and their characteristics?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-risk-factors-associated-with-ptsd
+    url: /learn/psychology/questions/what-are-the-different-types-of-dissociative-disorders-and-their-characteristics
 ---
 
 &nbsp;

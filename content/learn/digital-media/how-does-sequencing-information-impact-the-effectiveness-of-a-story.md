@@ -24,29 +24,35 @@ file_name: how-does-sequencing-information-impact-the-effectiveness-of-a-story.m
 url: /learn/digital-media/questions/how-does-sequencing-information-impact-the-effectiveness-of-a-story
 score: -1.0
 related_article1:
-    id: 120717
+    id: 120693
     title: >-
-        What are some ways to test the effectiveness of a story before presenting it?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-are-some-ways-to-test-the-effectiveness-of-a-story-before-presenting-it
-related_article2:
-    id: 120715
-    title: >-
-        What are some techniques to maintain audience interest throughout a story?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-are-some-techniques-to-maintain-audience-interest-throughout-a-story
-related_article3:
-    id: 120698
-    title: >-
-        What does 'In Medias Res' mean, and how is it used in storytelling?
+        How can brainstorming help in filtering story options?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-does-in-medias-res-mean-and-how-is-it-used-in-storytelling
-related_article4:
-    id: 120692
+    url: /learn/art-history-and-literature/questions/how-can-brainstorming-help-in-filtering-story-options
+related_article2:
+    id: 120702
     title: >-
-        What are the key steps in the bottom-up approach to shaping a story?
+        What is the 'Man in Hole' story structure?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-is-the-man-in-hole-story-structure
+related_article3:
+    id: 120719
+    title: >-
+        What are the benefits of using storytelling in presentations?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-benefits-of-using-storytelling-in-presentations
+related_article4:
+    id: 120718
+    title: >-
+        How can storytelling be adapted for different types of audiences?
     subject: Digital Media
-    url: /learn/digital-media/questions/what-are-the-key-steps-in-the-bottomup-approach-to-shaping-a-story
+    url: /learn/digital-media/questions/how-can-storytelling-be-adapted-for-different-types-of-audiences
+related_article5:
+    id: 120706
+    title: >-
+        What role does a narrative arc play in effective communication?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-role-does-a-narrative-arc-play-in-effective-communication
 ---
 
 &nbsp;

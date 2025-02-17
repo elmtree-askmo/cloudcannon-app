@@ -24,11 +24,11 @@ file_name: how-do-the-arms-facilitate-movement-and-dexterity.md
 url: /learn/health-studies/questions/how-do-the-arms-facilitate-movement-and-dexterity
 score: -1.0
 related_article1:
-    id: 100358
+    id: 100362
     title: >-
-        What roles do bones play in blood production?
+        Can you describe the detailed anatomy of the skull?
     subject: Medicine
-    url: /learn/medicine/questions/what-roles-do-bones-play-in-blood-production
+    url: /learn/medicine/questions/can-you-describe-the-detailed-anatomy-of-the-skull
 related_article2:
     id: 100356
     title: >-
@@ -36,23 +36,23 @@ related_article2:
     subject: Nursing
     url: /learn/nursing/questions/how-does-the-skeleton-provide-support-and-protection-to-the-body
 related_article3:
-    id: 100364
+    id: 100369
     title: >-
-        How does the spine contribute to the overall function of the skeleton?
+        How do bones contribute to the protection of vital organs?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-spine-contribute-to-the-overall-function-of-the-skeleton
+    url: /learn/health-studies/questions/how-do-bones-contribute-to-the-protection-of-vital-organs
 related_article4:
-    id: 100370
+    id: 100368
     title: >-
-        What is the significance of the skull in protecting the brain?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-the-significance-of-the-skull-in-protecting-the-brain
+        Why is the femur considered an important bone in the body?
+    subject: Health Studies
+    url: /learn/health-studies/questions/why-is-the-femur-considered-an-important-bone-in-the-body
 related_article5:
-    id: 100378
+    id: 100355
     title: >-
-        What are the specific bones included in the thorax?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-specific-bones-included-in-the-thorax
+        What are the primary functions of the skeletal system?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-primary-functions-of-the-skeletal-system
 ---
 
 &nbsp;

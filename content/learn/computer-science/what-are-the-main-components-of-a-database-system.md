@@ -24,35 +24,35 @@ file_name: what-are-the-main-components-of-a-database-system.md
 url: /learn/computer-science/questions/what-are-the-main-components-of-a-database-system
 score: -1.0
 related_article1:
-    id: 123090
+    id: 123089
     title: >-
-        What are the essential features of a web server?
+        What is the relationship between storage solutions and DBMS performance?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-essential-features-of-a-web-server
+    url: /learn/computer-science/questions/what-is-the-relationship-between-storage-solutions-and-dbms-performance
 related_article2:
-    id: 123103
+    id: 123092
     title: >-
-        How is security and authentication managed in email services?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-is-security-and-authentication-managed-in-email-services
+        What factors should be considered in infrastructure planning for web services?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-factors-should-be-considered-in-infrastructure-planning-for-web-services
 related_article3:
-    id: 123087
+    id: 123098
     title: >-
-        What are the benefits of having a network-accessible DBMS?
+        How does LDAP facilitate single sign-on in network environments?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-benefits-of-having-a-networkaccessible-dbms
+    url: /learn/computer-science/questions/how-does-ldap-facilitate-single-signon-in-network-environments
 related_article4:
-    id: 123096
+    id: 123101
     title: >-
-        How do Active Directory and LDAP differ in terms of directory services?
+        What roles do Mail Transfer Agents (MTA) and Mail Delivery Agents (MDA) play in email delivery?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-active-directory-and-ldap-differ-in-terms-of-directory-services
+    url: /learn/computer-science/questions/what-roles-do-mail-transfer-agents-mta-and-mail-delivery-agents-mda-play-in-email-delivery
 related_article5:
-    id: 123093
+    id: 123099
     title: >-
-        What is virtual hosting and how does it relate to web server software?
+        What are the main components of email services?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-virtual-hosting-and-how-does-it-relate-to-web-server-software
+    url: /learn/computer-science/questions/what-are-the-main-components-of-email-services
 ---
 
 &nbsp;

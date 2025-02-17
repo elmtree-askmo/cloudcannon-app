@@ -24,23 +24,35 @@ file_name: how-does-the-anatomy-of-the-venous-system-relate-to-venous-diseases.m
 url: /learn/medicine/questions/how-does-the-anatomy-of-the-venous-system-relate-to-venous-diseases
 score: -1.0
 related_article1:
-    id: 102193
+    id: 102198
     title: >-
-        What are the current treatment options for CVI?
+        What are the treatment strategies for DVT?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-current-treatment-options-for-cvi
+    url: /learn/medicine/questions/what-are-the-treatment-strategies-for-dvt
 related_article2:
-    id: 102197
+    id: 102187
     title: >-
-        What complications can arise from untreated DVT?
-    subject: Medicine
-    url: /learn/medicine/questions/what-complications-can-arise-from-untreated-dvt
-related_article3:
-    id: 102210
-    title: >-
-        What role does genetics play in venous diseases?
+        What causes venous valve dysfunction?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-role-does-genetics-play-in-venous-diseases
+    url: /learn/health-studies/questions/what-causes-venous-valve-dysfunction
+related_article3:
+    id: 102190
+    title: >-
+        Can you describe the pathophysiology of CVI?
+    subject: Health Studies
+    url: /learn/health-studies/questions/can-you-describe-the-pathophysiology-of-cvi
+related_article4:
+    id: 102191
+    title: >-
+        What are the clinical features of CVI?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-clinical-features-of-cvi
+related_article5:
+    id: 102205
+    title: >-
+        How do lifestyle factors influence the development of venous diseases?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-lifestyle-factors-influence-the-development-of-venous-diseases
 ---
 
 &nbsp;

@@ -24,23 +24,23 @@ file_name: how-is-hepatomegaly-clinically-approached.md
 url: /learn/medicine/questions/how-is-hepatomegaly-clinically-approached
 score: -1.0
 related_article1:
-    id: 97060
+    id: 97053
     title: >-
-        How does the etiology of HCC differ from other liver cancers?
+        What treatment options are available for Metastatic Liver Cancer?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-the-etiology-of-hcc-differ-from-other-liver-cancers
+    url: /learn/medicine/questions/what-treatment-options-are-available-for-metastatic-liver-cancer
 related_article2:
-    id: 97062
+    id: 97049
     title: >-
-        How does Cholangiocarcinoma differ from other types of liver cancer?
+        What are the most common treatment options for Hepatocellular Carcinoma (HCC)?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-cholangiocarcinoma-differ-from-other-types-of-liver-cancer
+    url: /learn/medicine/questions/what-are-the-most-common-treatment-options-for-hepatocellular-carcinoma-hcc
 related_article3:
-    id: 97052
+    id: 97073
     title: >-
-        What are the common diagnostic methods for Metastatic Liver Cancer?
+        How does liver cancer impact overall liver function?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-diagnostic-methods-for-metastatic-liver-cancer
+    url: /learn/medicine/questions/how-does-liver-cancer-impact-overall-liver-function
 related_article4:
     id: 97069
     title: >-
@@ -48,11 +48,11 @@ related_article4:
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-common-laboratory-tests-used-in-the-investigation-of-liver-cancer
 related_article5:
-    id: 97048
+    id: 97067
     title: >-
-        How is Hepatocellular Carcinoma (HCC) typically diagnosed?
+        How is liver cancer typically managed in clinical settings?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-hepatocellular-carcinoma-hcc-typically-diagnosed
+    url: /learn/medicine/questions/how-is-liver-cancer-typically-managed-in-clinical-settings
 ---
 
 &nbsp;

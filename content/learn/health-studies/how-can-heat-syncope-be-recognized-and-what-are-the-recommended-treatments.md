@@ -29,12 +29,6 @@ related_article1:
         What role does clothing play in thermoregulation and preventing heat or cold injuries?
     subject: Health Studies
     url: /learn/health-studies/questions/what-role-does-clothing-play-in-thermoregulation-and-preventing-heat-or-cold-injuries
-related_article2:
-    id: 109803
-    title: >-
-        How can environmental risk factors for heat injuries be mitigated?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-can-environmental-risk-factors-for-heat-injuries-be-mitigated
 ---
 
 &nbsp;

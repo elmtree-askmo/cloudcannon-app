@@ -13,7 +13,7 @@ seo:
   page_description: >-
     Stenoses are abnormal narrowing of blood vessels that lead to increased resistance, altered flow dynamics, and energy losses in blood flow, impacting hemodynamics and cardiac workload.
   page_keywords: >-
-    stenoses,blood flow,narrowing blood vessels,energy loss,vascular system,pressure drop,Bernoulli principle,flow resistance,Poiseuille’s Law,abnormal flow patterns,turbulence,pressure gradients,cardiac output,ischemic conditions,hemodynamics
+    stenoses,blood flow,narrowing blood vessels,energy loss,vascular system,pressure drop,Bernoulli principle,flow resistance,Poiseuilles Law,abnormal flow patterns,turbulence,pressure gradients,cardiac output,ischemic conditions,hemodynamics
 author: QuickTakes
 question: >-
     What are stenoses and how do they lead to energy losses in blood flow?
@@ -24,35 +24,29 @@ file_name: what-are-stenoses-and-how-do-they-lead-to-energy-losses-in-blood-flow
 url: /learn/medicine/questions/what-are-stenoses-and-how-do-they-lead-to-energy-losses-in-blood-flow
 score: -1.0
 related_article1:
-    id: 123894
+    id: 123880
     title: >-
-        What mechanisms control peripheral circulation?
-    subject: Medicine
-    url: /learn/medicine/questions/what-mechanisms-control-peripheral-circulation
-related_article2:
-    id: 123887
-    title: >-
-        How does Poiseuille’s Law relate to vascular flow?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-poiseuilles-law-relate-to-vascular-flow
-related_article3:
-    id: 123904
-    title: >-
-        What role does inertia play in the transition between laminar and turbulent flow?
-    subject: Physics
-    url: /learn/physics/questions/what-role-does-inertia-play-in-the-transition-between-laminar-and-turbulent-flow
-related_article4:
-    id: 123882
-    title: >-
-        What is hydrostatic pressure and how does it affect blood flow?
+        How does kinetic energy influence blood flow in the arteries?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-hydrostatic-pressure-and-how-does-it-affect-blood-flow
-related_article5:
+    url: /learn/health-studies/questions/how-does-kinetic-energy-influence-blood-flow-in-the-arteries
+related_article2:
+    id: 123888
+    title: >-
+        What are the main factors contributing to resistance to blood flow?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-main-factors-contributing-to-resistance-to-blood-flow
+related_article3:
     id: 123879
     title: >-
         What is the role of potential energy in the vascular system?
     subject: Medicine
     url: /learn/medicine/questions/what-is-the-role-of-potential-energy-in-the-vascular-system
+related_article4:
+    id: 123884
+    title: >-
+        What is the significance of viscosity in blood flow?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-significance-of-viscosity-in-blood-flow
 ---
 
 &nbsp;

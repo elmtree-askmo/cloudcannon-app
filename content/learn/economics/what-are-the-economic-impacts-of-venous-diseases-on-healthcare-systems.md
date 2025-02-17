@@ -24,35 +24,29 @@ file_name: what-are-the-economic-impacts-of-venous-diseases-on-healthcare-system
 url: /learn/economics/questions/what-are-the-economic-impacts-of-venous-diseases-on-healthcare-systems
 score: -1.0
 related_article1:
+    id: 102193
+    title: >-
+        What are the current treatment options for CVI?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-current-treatment-options-for-cvi
+related_article2:
+    id: 102190
+    title: >-
+        Can you describe the pathophysiology of CVI?
+    subject: Health Studies
+    url: /learn/health-studies/questions/can-you-describe-the-pathophysiology-of-cvi
+related_article3:
+    id: 102203
+    title: >-
+        How do venous diseases impact overall health?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-venous-diseases-impact-overall-health
+related_article4:
     id: 102202
     title: >-
         Why is understanding venous diseases important for medical students?
     subject: Medicine
     url: /learn/medicine/questions/why-is-understanding-venous-diseases-important-for-medical-students
-related_article2:
-    id: 102187
-    title: >-
-        What causes venous valve dysfunction?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-causes-venous-valve-dysfunction
-related_article3:
-    id: 102186
-    title: >-
-        Can you explain the role of venous valves in venous diseases?
-    subject: Medicine
-    url: /learn/medicine/questions/can-you-explain-the-role-of-venous-valves-in-venous-diseases
-related_article4:
-    id: 102214
-    title: >-
-        What are the challenges in diagnosing and treating venous diseases?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-challenges-in-diagnosing-and-treating-venous-diseases
-related_article5:
-    id: 102200
-    title: >-
-        How does the anatomy of the venous system relate to venous diseases?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-the-anatomy-of-the-venous-system-relate-to-venous-diseases
 ---
 
 &nbsp;

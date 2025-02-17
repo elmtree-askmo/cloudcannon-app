@@ -24,29 +24,29 @@ file_name: what-are-the-different-types-of-combinatorial-formulas.md
 url: /learn/mathematics/questions/what-are-the-different-types-of-combinatorial-formulas
 score: -1.0
 related_article1:
-    id: 119566
-    title: >-
-        How is factorial defined in mathematics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-is-factorial-defined-in-mathematics
-related_article2:
-    id: 119576
-    title: >-
-        What are specific cases of combinations with special values?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-specific-cases-of-combinations-with-special-values
-related_article3:
     id: 119581
     title: >-
         What are the common mistakes to avoid when calculating factorials?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-common-mistakes-to-avoid-when-calculating-factorials
-related_article4:
-    id: 119586
+related_article2:
+    id: 119574
     title: >-
-        What are some historical developments in the study of symmetrical probability spaces?
+        How does replacement affect counting principles?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-historical-developments-in-the-study-of-symmetrical-probability-spaces
+    url: /learn/mathematics/questions/how-does-replacement-affect-counting-principles
+related_article3:
+    id: 119584
+    title: >-
+        How do you calculate permutations with replacement?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-calculate-permutations-with-replacement
+related_article4:
+    id: 119576
+    title: >-
+        What are specific cases of combinations with special values?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-specific-cases-of-combinations-with-special-values
 ---
 
 &nbsp;

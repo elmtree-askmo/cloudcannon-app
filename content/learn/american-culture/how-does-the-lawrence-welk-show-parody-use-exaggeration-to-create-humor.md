@@ -24,23 +24,23 @@ file_name: how-does-the-lawrence-welk-show-parody-use-exaggeration-to-create-hum
 url: /learn/american-culture/questions/how-does-the-lawrence-welk-show-parody-use-exaggeration-to-create-humor
 score: -1.0
 related_article1:
-    id: 1010
+    id: 1011
     title: >-
-        Why was Nirvana's performance of 'Smells Like Teen Spirit' on SNL considered iconic?
+        What is notable about Harry Styles' dual role as host and musical guest on SNL?
     subject: American Culture
-    url: /learn/american-culture/questions/why-was-nirvanas-performance-of-smells-like-teen-spirit-on-snl-considered-iconic
+    url: /learn/american-culture/questions/what-is-notable-about-harry-styles-dual-role-as-host-and-musical-guest-on-snl
 related_article2:
-    id: 1021
+    id: 1001
     title: >-
-        How does 'D*** in a Box' exemplify absurdity in comedy?
+        What is the main comedic element in the 'More Cowbell' sketch?
     subject: American Culture
-    url: /learn/american-culture/questions/how-does-d-in-a-box-exemplify-absurdity-in-comedy
+    url: /learn/american-culture/questions/what-is-the-main-comedic-element-in-the-more-cowbell-sketch
 related_article3:
-    id: 1018
+    id: 1023
     title: >-
-        How did 'Wayne's World' transition from SNL to film?
+        What elements make the 'Delicious Dish' parody a successful talk show spoof?
     subject: American Culture
-    url: /learn/american-culture/questions/how-did-waynes-world-transition-from-snl-to-film
+    url: /learn/american-culture/questions/what-elements-make-the-delicious-dish-parody-a-successful-talk-show-spoof
 related_article4:
     id: 1015
     title: >-
@@ -48,11 +48,11 @@ related_article4:
     subject: American Culture
     url: /learn/american-culture/questions/how-has-kenan-thompson-contributed-to-snl-as-a-longserving-cast-member
 related_article5:
-    id: 1028
+    id: 1010
     title: >-
-        What is the significance of the 'Lazy Sunday' digital short in the evolution of SNL's sketch format?
+        Why was Nirvana's performance of 'Smells Like Teen Spirit' on SNL considered iconic?
     subject: American Culture
-    url: /learn/american-culture/questions/what-is-the-significance-of-the-lazy-sunday-digital-short-in-the-evolution-of-snls-sketch-format
+    url: /learn/american-culture/questions/why-was-nirvanas-performance-of-smells-like-teen-spirit-on-snl-considered-iconic
 ---
 
 &nbsp;

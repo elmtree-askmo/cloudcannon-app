@@ -24,23 +24,29 @@ file_name: what-are-the-key-elements-that-contribute-to-a-strong-sense-of-commun
 url: /learn/sociology/questions/what-are-the-key-elements-that-contribute-to-a-strong-sense-of-community
 score: -1.0
 related_article1:
-    id: 95690
+    id: 95685
     title: >-
-        How can reassurance and support be tailored to meet the needs of diverse individuals and communities?
-    subject: Psychology
-    url: /learn/psychology/questions/how-can-reassurance-and-support-be-tailored-to-meet-the-needs-of-diverse-individuals-and-communities
+        What are some creative ways to involve an audience in community-building activities?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-some-creative-ways-to-involve-an-audience-in-communitybuilding-activities
 related_article2:
+    id: 95663
+    title: >-
+        How do collective goals differ from personal goals in terms of future aspirations?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-collective-goals-differ-from-personal-goals-in-terms-of-future-aspirations
+related_article3:
     id: 95666
     title: >-
         Why is community important for achieving future aspirations?
     subject: Sociology
     url: /learn/sociology/questions/why-is-community-important-for-achieving-future-aspirations
-related_article3:
-    id: 95676
+related_article4:
+    id: 95664
     title: >-
-        How can collective gratitude strengthen community bonds?
-    subject: Sociology
-    url: /learn/sociology/questions/how-can-collective-gratitude-strengthen-community-bonds
+        What are effective ways to express personal gratitude?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-effective-ways-to-express-personal-gratitude
 ---
 
 &nbsp;

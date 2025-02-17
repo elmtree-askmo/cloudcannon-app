@@ -24,29 +24,35 @@ file_name: what-are-some-examples-of-traditional-art-forms-in-the-philippines.md
 url: /learn/art-history-and-literature/questions/what-are-some-examples-of-traditional-art-forms-in-the-philippines
 score: -1.0
 related_article1:
-    id: 110257
-    title: >-
-        What are some contemporary art movements that address global issues?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-contemporary-art-movements-that-address-global-issues
-related_article2:
-    id: 110260
-    title: >-
-        How do the seven major contemporary art forms interact with each other?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-the-seven-major-contemporary-art-forms-interact-with-each-other
-related_article3:
     id: 110247
     title: >-
         What are the seven major contemporary art forms and their significance?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-are-the-seven-major-contemporary-art-forms-and-their-significance
-related_article4:
-    id: 110240
+related_article2:
+    id: 110258
     title: >-
-        What are the main differences between modern art and contemporary art?
+        How do contemporary artists engage with social and political themes?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-main-differences-between-modern-art-and-contemporary-art
+    url: /learn/art-history-and-literature/questions/how-do-contemporary-artists-engage-with-social-and-political-themes
+related_article3:
+    id: 110262
+    title: >-
+        How does contemporary art reflect technological advancements?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-does-contemporary-art-reflect-technological-advancements
+related_article4:
+    id: 110266
+    title: >-
+        How do contemporary art exhibitions influence public perception of art?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-do-contemporary-art-exhibitions-influence-public-perception-of-art
+related_article5:
+    id: 110239
+    title: >-
+        How has the definition of art evolved over time?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-has-the-definition-of-art-evolved-over-time
 ---
 
 &nbsp;

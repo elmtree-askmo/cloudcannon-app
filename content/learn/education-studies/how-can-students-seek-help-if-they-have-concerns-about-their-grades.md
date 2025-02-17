@@ -24,17 +24,17 @@ file_name: how-can-students-seek-help-if-they-have-concerns-about-their-grades.m
 url: /learn/education-studies/questions/how-can-students-seek-help-if-they-have-concerns-about-their-grades
 score: -1.0
 related_article1:
-    id: 119819
-    title: >-
-        How can students effectively manage their time during exams?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-students-effectively-manage-their-time-during-exams
-related_article2:
     id: 119801
     title: >-
         How is the grading policy structured for this course?
     subject: Education Studies
     url: /learn/education-studies/questions/how-is-the-grading-policy-structured-for-this-course
+related_article2:
+    id: 119819
+    title: >-
+        How can students effectively manage their time during exams?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-students-effectively-manage-their-time-during-exams
 ---
 
 &nbsp;

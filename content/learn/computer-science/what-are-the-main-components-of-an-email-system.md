@@ -24,35 +24,29 @@ file_name: what-are-the-main-components-of-an-email-system.md
 url: /learn/computer-science/questions/what-are-the-main-components-of-an-email-system
 score: -1.0
 related_article1:
-    id: 122314
-    title: >-
-        How does virtual hosting work and what are its benefits?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-virtual-hosting-work-and-what-are-its-benefits
-related_article2:
-    id: 122318
-    title: >-
-        What is the role of AD DS in network management?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-ad-ds-in-network-management
-related_article3:
     id: 122301
     title: >-
         What are the key considerations when implementing file services in a network?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-key-considerations-when-implementing-file-services-in-a-network
+related_article2:
+    id: 122322
+    title: >-
+        What are the differences between SMTP, POP3, and IMAP4 protocols?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-differences-between-smtp-pop3-and-imap4-protocols
+related_article3:
+    id: 122304
+    title: >-
+        What are the main advantages of using network printing over traditional printing methods?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-main-advantages-of-using-network-printing-over-traditional-printing-methods
 related_article4:
-    id: 122311
+    id: 122323
     title: >-
-        What functionalities are essential for a web server?
+        How do file services integrate with other network services?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-functionalities-are-essential-for-a-web-server
-related_article5:
-    id: 122309
-    title: >-
-        What are the benefits of clustering and virtualization in database management?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-benefits-of-clustering-and-virtualization-in-database-management
+    url: /learn/computer-science/questions/how-do-file-services-integrate-with-other-network-services
 ---
 
 &nbsp;

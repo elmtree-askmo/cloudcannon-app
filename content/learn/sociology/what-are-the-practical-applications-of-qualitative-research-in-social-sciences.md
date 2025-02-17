@@ -24,11 +24,11 @@ file_name: what-are-the-practical-applications-of-qualitative-research-in-social
 url: /learn/sociology/questions/what-are-the-practical-applications-of-qualitative-research-in-social-sciences
 score: -1.0
 related_article1:
-    id: 102755
+    id: 102752
     title: >-
-        What are the weaknesses of qualitative research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-weaknesses-of-qualitative-research
+        How does qualitative research provide a detailed examination of a subject?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-qualitative-research-provide-a-detailed-examination-of-a-subject
 related_article2:
     id: 102748
     title: >-
@@ -36,11 +36,11 @@ related_article2:
     subject: Sociology
     url: /learn/sociology/questions/why-is-understanding-participant-perceptions-important-in-qualitative-research
 related_article3:
-    id: 102764
+    id: 102773
     title: >-
-        How are content and discourse analysis conducted in qualitative research?
-    subject: Sociology
-    url: /learn/sociology/questions/how-are-content-and-discourse-analysis-conducted-in-qualitative-research
+        What should be included in an educational module on qualitative research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-should-be-included-in-an-educational-module-on-qualitative-research
 ---
 
 &nbsp;

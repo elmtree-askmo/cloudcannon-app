@@ -29,6 +29,12 @@ related_article1:
         What are the key logical transformations in categorical logic?
     subject: Philosophy and Greek Myths
     url: /learn/philosophy-and-greek-myths/questions/what-are-the-key-logical-transformations-in-categorical-logic
+related_article2:
+    id: 99891
+    title: >-
+        What are some effective strategies for learning categorical logic?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-some-effective-strategies-for-learning-categorical-logic
 ---
 
 &nbsp;

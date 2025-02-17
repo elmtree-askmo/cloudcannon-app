@@ -24,35 +24,35 @@ file_name: what-is-the-local-field-method-and-its-application-in-physics.md
 url: /learn/physics/questions/what-is-the-local-field-method-and-its-application-in-physics
 score: -1.0
 related_article1:
-    id: 120272
-    title: >-
-        How do mathematical models help in predicting physical phenomena?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
-related_article2:
-    id: 120273
-    title: >-
-        What role does symmetry play in the mathematical understanding of nature?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-role-does-symmetry-play-in-the-mathematical-understanding-of-nature
-related_article3:
     id: 120268
     title: >-
         How do Newton's laws demonstrate the interplay between physics and mathematics?
     subject: Physics
     url: /learn/physics/questions/how-do-newtons-laws-demonstrate-the-interplay-between-physics-and-mathematics
-related_article4:
-    id: 120275
+related_article2:
+    id: 120283
     title: >-
-        What are some examples of mathematical language simplifying complex physical concepts?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-examples-of-mathematical-language-simplifying-complex-physical-concepts
-related_article5:
-    id: 120270
-    title: >-
-        Can you explain the minimum principle and its relevance in physics?
+        What is the significance of the minimum principle in the context of energy conservation?
     subject: Physics
-    url: /learn/physics/questions/can-you-explain-the-minimum-principle-and-its-relevance-in-physics
+    url: /learn/physics/questions/what-is-the-significance-of-the-minimum-principle-in-the-context-of-energy-conservation
+related_article3:
+    id: 120266
+    title: >-
+        How does the law of gravitation illustrate the relationship between physics and mathematics?
+    subject: Physics
+    url: /learn/physics/questions/how-does-the-law-of-gravitation-illustrate-the-relationship-between-physics-and-mathematics
+related_article4:
+    id: 120272
+    title: >-
+        How do mathematical models help in predicting physical phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
+related_article5:
+    id: 120282
+    title: >-
+        How does the concept of equal areas relate to Kepler's laws of planetary motion?
+    subject: Physics
+    url: /learn/physics/questions/how-does-the-concept-of-equal-areas-relate-to-keplers-laws-of-planetary-motion
 ---
 
 &nbsp;

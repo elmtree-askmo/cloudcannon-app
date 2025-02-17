@@ -24,23 +24,35 @@ file_name: what-are-the-common-genetic-factors-associated-with-liver-cancer.md
 url: /learn/health-studies/questions/what-are-the-common-genetic-factors-associated-with-liver-cancer
 score: -1.0
 related_article1:
+    id: 97049
+    title: >-
+        What are the most common treatment options for Hepatocellular Carcinoma (HCC)?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-most-common-treatment-options-for-hepatocellular-carcinoma-hcc
+related_article2:
+    id: 97053
+    title: >-
+        What treatment options are available for Metastatic Liver Cancer?
+    subject: Medicine
+    url: /learn/medicine/questions/what-treatment-options-are-available-for-metastatic-liver-cancer
+related_article3:
+    id: 97076
+    title: >-
+        How does early detection impact the prognosis of liver cancer?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-early-detection-impact-the-prognosis-of-liver-cancer
+related_article4:
     id: 97073
     title: >-
         How does liver cancer impact overall liver function?
     subject: Medicine
     url: /learn/medicine/questions/how-does-liver-cancer-impact-overall-liver-function
-related_article2:
-    id: 97050
+related_article5:
+    id: 97051
     title: >-
-        What are the key characteristics of Cholangiocarcinoma?
+        How is Cholangiocarcinoma diagnosed and treated?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-key-characteristics-of-cholangiocarcinoma
-related_article3:
-    id: 97065
-    title: >-
-        How does the treatment of Metastatic Liver Cancer differ from primary liver cancers?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-the-treatment-of-metastatic-liver-cancer-differ-from-primary-liver-cancers
+    url: /learn/medicine/questions/how-is-cholangiocarcinoma-diagnosed-and-treated
 ---
 
 &nbsp;

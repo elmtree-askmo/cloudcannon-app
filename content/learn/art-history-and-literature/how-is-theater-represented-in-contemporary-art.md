@@ -24,29 +24,29 @@ file_name: how-is-theater-represented-in-contemporary-art.md
 url: /learn/art-history-and-literature/questions/how-is-theater-represented-in-contemporary-art
 score: -1.0
 related_article1:
-    id: 110254
+    id: 110246
     title: >-
-        How is visual art evolving in the contemporary art scene?
+        How does art contribute to cultural understanding and exchange?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-is-visual-art-evolving-in-the-contemporary-art-scene
+    url: /learn/art-history-and-literature/questions/how-does-art-contribute-to-cultural-understanding-and-exchange
 related_article2:
-    id: 110238
+    id: 110263
     title: >-
-        What are the key characteristics that distinguish traditional art from modern and contemporary art?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-that-distinguish-traditional-art-from-modern-and-contemporary-art
+        What is the role of contemporary art in education?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-role-of-contemporary-art-in-education
 related_article3:
-    id: 110247
+    id: 110255
     title: >-
-        What are the seven major contemporary art forms and their significance?
+        What are some examples of traditional art forms in the Philippines?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-seven-major-contemporary-art-forms-and-their-significance
+    url: /learn/art-history-and-literature/questions/what-are-some-examples-of-traditional-art-forms-in-the-philippines
 related_article4:
-    id: 110264
+    id: 110237
     title: >-
-        How do contemporary art forms vary across different regions of the world?
+        How is art defined across different cultures?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-contemporary-art-forms-vary-across-different-regions-of-the-world
+    url: /learn/art-history-and-literature/questions/how-is-art-defined-across-different-cultures
 ---
 
 &nbsp;

@@ -24,6 +24,12 @@ file_name: can-you-explain-the-hicklin-test-and-the-judicial-criticism-it-faced.
 url: /learn/criminal-or-civil-law/questions/can-you-explain-the-hicklin-test-and-the-judicial-criticism-it-faced
 score: -1.0
 related_article1:
+    id: 121951
+    title: >-
+        How do technological shifts impact the social implications of non-consensual image sharing?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-technological-shifts-impact-the-social-implications-of-nonconsensual-image-sharing
+related_article2:
     id: 121939
     title: >-
         What were the early obscenity laws, and how were they interpreted historically?

@@ -24,35 +24,35 @@ file_name: what-are-the-main-theories-of-speech-perception.md
 url: /learn/psychology/questions/what-are-the-main-theories-of-speech-perception
 score: -1.0
 related_article1:
-    id: 122518
+    id: 122538
     title: >-
-        What is spectral segregation and how does it aid in auditory scene analysis?
+        What is the neuropsychology of music and its impact on perception?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-spectral-segregation-and-how-does-it-aid-in-auditory-scene-analysis
+    url: /learn/psychology/questions/what-is-the-neuropsychology-of-music-and-its-impact-on-perception
 related_article2:
-    id: 122523
-    title: >-
-        How does coarticulation affect the variability in the acoustics of phonemes?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-coarticulation-affect-the-variability-in-the-acoustics-of-phonemes
-related_article3:
-    id: 122525
-    title: >-
-        How does vision influence speech perception, particularly in the McGurk effect?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-vision-influence-speech-perception-particularly-in-the-mcgurk-effect
-related_article4:
-    id: 122535
-    title: >-
-        What are the Gestalt principles of melody?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-gestalt-principles-of-melody
-related_article5:
     id: 122537
     title: >-
         How does synesthesia relate to music perception?
     subject: Psychology
     url: /learn/psychology/questions/how-does-synesthesia-relate-to-music-perception
+related_article3:
+    id: 122523
+    title: >-
+        How does coarticulation affect the variability in the acoustics of phonemes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-coarticulation-affect-the-variability-in-the-acoustics-of-phonemes
+related_article4:
+    id: 122514
+    title: >-
+        What methods are used to detect the distance of a sound source?
+    subject: Psychology
+    url: /learn/psychology/questions/what-methods-are-used-to-detect-the-distance-of-a-sound-source
+related_article5:
+    id: 122532
+    title: >-
+        How do dynamics and rhythm contribute to the perception of music?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-do-dynamics-and-rhythm-contribute-to-the-perception-of-music
 ---
 
 &nbsp;

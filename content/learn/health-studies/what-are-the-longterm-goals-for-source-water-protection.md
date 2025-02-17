@@ -24,35 +24,23 @@ file_name: what-are-the-longterm-goals-for-source-water-protection.md
 url: /learn/health-studies/questions/what-are-the-longterm-goals-for-source-water-protection
 score: -1.0
 related_article1:
+    id: 94649
+    title: >-
+        What potential projects and initiatives are being considered for future source water protection?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-potential-projects-and-initiatives-are-being-considered-for-future-source-water-protection
+related_article2:
     id: 94641
     title: >-
         How is water quality monitoring conducted to ensure source water safety?
     subject: Health Studies
     url: /learn/health-studies/questions/how-is-water-quality-monitoring-conducted-to-ensure-source-water-safety
-related_article2:
-    id: 94625
-    title: >-
-        What are the potential impacts of wildfires on source water quality?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-potential-impacts-of-wildfires-on-source-water-quality
 related_article3:
-    id: 94636
+    id: 94646
     title: >-
-        What are the primary flooding risks to source water and communities?
+        What are the essential components of an effective emergency response plan for source water protection?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-flooding-risks-to-source-water-and-communities
-related_article4:
-    id: 94645
-    title: >-
-        Who are the key stakeholders in source water protection and what are their roles?
-    subject: Health Studies
-    url: /learn/health-studies/questions/who-are-the-key-stakeholders-in-source-water-protection-and-what-are-their-roles
-related_article5:
-    id: 94643
-    title: >-
-        What are the main challenges in maintaining water quality and how can they be addressed?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-challenges-in-maintaining-water-quality-and-how-can-they-be-addressed
+    url: /learn/health-studies/questions/what-are-the-essential-components-of-an-effective-emergency-response-plan-for-source-water-protection
 ---
 
 &nbsp;

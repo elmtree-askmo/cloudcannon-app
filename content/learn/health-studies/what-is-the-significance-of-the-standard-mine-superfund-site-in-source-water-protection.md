@@ -24,29 +24,35 @@ file_name: what-is-the-significance-of-the-standard-mine-superfund-site-in-sourc
 url: /learn/health-studies/questions/what-is-the-significance-of-the-standard-mine-superfund-site-in-source-water-protection
 score: -1.0
 related_article1:
-    id: 94643
+    id: 94640
     title: >-
-        What are the main challenges in maintaining water quality and how can they be addressed?
+        What roles do stakeholders play in protecting source water?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-challenges-in-maintaining-water-quality-and-how-can-they-be-addressed
+    url: /learn/health-studies/questions/what-roles-do-stakeholders-play-in-protecting-source-water
 related_article2:
-    id: 94629
+    id: 94622
     title: >-
-        How are emergency response systems structured to address wildfire risks?
+        Why is source water protection important for communities?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-are-emergency-response-systems-structured-to-address-wildfire-risks
+    url: /learn/health-studies/questions/why-is-source-water-protection-important-for-communities
 related_article3:
-    id: 94636
-    title: >-
-        What are the primary flooding risks to source water and communities?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-flooding-risks-to-source-water-and-communities
-related_article4:
     id: 94624
     title: >-
         How do wildfires pose risks to source water?
     subject: Health Studies
     url: /learn/health-studies/questions/how-do-wildfires-pose-risks-to-source-water
+related_article4:
+    id: 94644
+    title: >-
+        Why is collaboration among stakeholders important for source water protection?
+    subject: Health Studies
+    url: /learn/health-studies/questions/why-is-collaboration-among-stakeholders-important-for-source-water-protection
+related_article5:
+    id: 94638
+    title: >-
+        What strategies are in place to mitigate flooding risks?
+    subject: Engineering
+    url: /learn/engineering/questions/what-strategies-are-in-place-to-mitigate-flooding-risks
 ---
 
 &nbsp;

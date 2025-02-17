@@ -24,35 +24,23 @@ file_name: how-does-flooding-impact-community-infrastructure-and-source-water.md
 url: /learn/sociology/questions/how-does-flooding-impact-community-infrastructure-and-source-water
 score: -1.0
 related_article1:
+    id: 94649
+    title: >-
+        What potential projects and initiatives are being considered for future source water protection?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-potential-projects-and-initiatives-are-being-considered-for-future-source-water-protection
+related_article2:
     id: 94638
     title: >-
         What strategies are in place to mitigate flooding risks?
     subject: Engineering
     url: /learn/engineering/questions/what-strategies-are-in-place-to-mitigate-flooding-risks
-related_article2:
+related_article3:
     id: 94624
     title: >-
         How do wildfires pose risks to source water?
     subject: Health Studies
     url: /learn/health-studies/questions/how-do-wildfires-pose-risks-to-source-water
-related_article3:
-    id: 94622
-    title: >-
-        Why is source water protection important for communities?
-    subject: Health Studies
-    url: /learn/health-studies/questions/why-is-source-water-protection-important-for-communities
-related_article4:
-    id: 94643
-    title: >-
-        What are the main challenges in maintaining water quality and how can they be addressed?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-challenges-in-maintaining-water-quality-and-how-can-they-be-addressed
-related_article5:
-    id: 94645
-    title: >-
-        Who are the key stakeholders in source water protection and what are their roles?
-    subject: Health Studies
-    url: /learn/health-studies/questions/who-are-the-key-stakeholders-in-source-water-protection-and-what-are-their-roles
 ---
 
 &nbsp;

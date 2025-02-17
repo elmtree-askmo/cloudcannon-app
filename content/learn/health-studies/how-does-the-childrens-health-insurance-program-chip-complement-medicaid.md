@@ -24,17 +24,23 @@ file_name: how-does-the-childrens-health-insurance-program-chip-complement-medic
 url: /learn/health-studies/questions/how-does-the-childrens-health-insurance-program-chip-complement-medicaid
 score: -1.0
 related_article1:
-    id: 111877
-    title: >-
-        What are the basic concepts of insurance in the context of healthcare?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-basic-concepts-of-insurance-in-the-context-of-healthcare
-related_article2:
     id: 111892
     title: >-
         What is short-term COBRA coverage and when is it applicable?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-shortterm-cobra-coverage-and-when-is-it-applicable
+related_article2:
+    id: 111877
+    title: >-
+        What are the basic concepts of insurance in the context of healthcare?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-basic-concepts-of-insurance-in-the-context-of-healthcare
+related_article3:
+    id: 111875
+    title: >-
+        What are the primary sources of financing for health care?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-primary-sources-of-financing-for-health-care
 ---
 
 &nbsp;

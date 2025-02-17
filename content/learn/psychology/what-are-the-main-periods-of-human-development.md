@@ -24,29 +24,29 @@ file_name: what-are-the-main-periods-of-human-development.md
 url: /learn/psychology/questions/what-are-the-main-periods-of-human-development
 score: -1.0
 related_article1:
-    id: 121409
+    id: 121388
     title: >-
-        What are the latest trends in research methodology in developmental psychology?
+        How does the nature vs. nurture debate influence our understanding of human development?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-latest-trends-in-research-methodology-in-developmental-psychology
+    url: /learn/psychology/questions/how-does-the-nature-vs-nurture-debate-influence-our-understanding-of-human-development
 related_article2:
-    id: 121413
+    id: 121390
     title: >-
-        What are the ethical considerations in studying sensitive periods and atypical development?
+        What are the three kinds of change in human development?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-ethical-considerations-in-studying-sensitive-periods-and-atypical-development
+    url: /learn/psychology/questions/what-are-the-three-kinds-of-change-in-human-development
 related_article3:
-    id: 121391
+    id: 121398
     title: >-
-        How do normative age-graded changes affect human development?
+        What is the lifespan perspective in developmental psychology?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-normative-agegraded-changes-affect-human-development
+    url: /learn/psychology/questions/what-is-the-lifespan-perspective-in-developmental-psychology
 related_article4:
-    id: 121405
+    id: 121402
     title: >-
-        What are the challenges of conducting cross-cultural research in developmental psychology?
+        What is sequential design in the context of developmental psychology research?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-challenges-of-conducting-crosscultural-research-in-developmental-psychology
+    url: /learn/psychology/questions/what-is-sequential-design-in-the-context-of-developmental-psychology-research
 ---
 
 &nbsp;

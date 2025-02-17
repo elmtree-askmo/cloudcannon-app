@@ -13,7 +13,7 @@ seo:
   page_description: >-
     This content explores the depiction of Achilles' emotional turmoil in Homer's The Iliad, focusing on themes of grief, rage, vengeance, and the complexities of human emotions.
   page_keywords: >-
-    Achilles, emotional turmoil, The Iliad, grief, rage, vengeance, Patroclus, honor, glory, kleos, timē, narrative influence, human emotion, conflict, resolution, Priam, warrior, compassion, legacy
+    Achilles, emotional turmoil, The Iliad, grief, rage, vengeance, Patroclus, honor, glory, kleos, tim, narrative influence, human emotion, conflict, resolution, Priam, warrior, compassion, legacy
 author: QuickTakes
 question: >-
     How is Achilles' emotional turmoil depicted in The Iliad?

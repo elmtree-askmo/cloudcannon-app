@@ -23,36 +23,7 @@ subject: Mathematics
 file_name: how-is-diagonalization-related-to-the-jordan-canonical-form.md
 url: /learn/mathematics/questions/how-is-diagonalization-related-to-the-jordan-canonical-form
 score: -1.0
-related_article1:
-    id: 104648
-    title: >-
-        How does Gaussian elimination work in solving linear equations?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-gaussian-elimination-work-in-solving-linear-equations
-related_article2:
-    id: 104668
-    title: >-
-        What role do Markov chains play in linear algebra applications?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-role-do-markov-chains-play-in-linear-algebra-applications
-related_article3:
-    id: 104675
-    title: >-
-        What are the conditions necessary for a matrix to be diagonalizable?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-conditions-necessary-for-a-matrix-to-be-diagonalizable
-related_article4:
-    id: 104655
-    title: >-
-        What is the relationship between the determinant and the invertibility of a matrix?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-relationship-between-the-determinant-and-the-invertibility-of-a-matrix
-related_article5:
-    id: 104667
-    title: >-
-        How is linear algebra applied in chemical reactions and economic models?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-is-linear-algebra-applied-in-chemical-reactions-and-economic-models
+
 ---
 
 &nbsp;

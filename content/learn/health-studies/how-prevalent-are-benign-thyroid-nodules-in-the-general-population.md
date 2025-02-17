@@ -24,35 +24,35 @@ file_name: how-prevalent-are-benign-thyroid-nodules-in-the-general-population.md
 url: /learn/health-studies/questions/how-prevalent-are-benign-thyroid-nodules-in-the-general-population
 score: -1.0
 related_article1:
-    id: 123943
-    title: >-
-        How does hyperthyroidism relate to toxic goiter?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-hyperthyroidism-relate-to-toxic-goiter
-related_article2:
-    id: 123967
-    title: >-
-        How is risk stratification performed in thyroid cancer management?
-    subject: Medicine
-    url: /learn/medicine/questions/how-is-risk-stratification-performed-in-thyroid-cancer-management
-related_article3:
-    id: 123959
-    title: >-
-        How is well-differentiated thyroid cancer managed?
-    subject: Medicine
-    url: /learn/medicine/questions/how-is-welldifferentiated-thyroid-cancer-managed
-related_article4:
     id: 123963
     title: >-
         How is lymph node management approached in thyroid cancer surgery?
     subject: Medicine
     url: /learn/medicine/questions/how-is-lymph-node-management-approached-in-thyroid-cancer-surgery
-related_article5:
-    id: 123939
+related_article2:
+    id: 123960
     title: >-
-        What are the most common types of benign thyroid nodules?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-most-common-types-of-benign-thyroid-nodules
+        What are the characteristics of medullary thyroid cancer?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-characteristics-of-medullary-thyroid-cancer
+related_article3:
+    id: 123947
+    title: >-
+        How is ultrasound used in the diagnosis of thyroid nodules?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-ultrasound-used-in-the-diagnosis-of-thyroid-nodules
+related_article4:
+    id: 123967
+    title: >-
+        How is risk stratification performed in thyroid cancer management?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-risk-stratification-performed-in-thyroid-cancer-management
+related_article5:
+    id: 123943
+    title: >-
+        How does hyperthyroidism relate to toxic goiter?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-hyperthyroidism-relate-to-toxic-goiter
 ---
 
 &nbsp;

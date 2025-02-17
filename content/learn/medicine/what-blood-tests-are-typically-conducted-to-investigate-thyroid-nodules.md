@@ -24,17 +24,17 @@ file_name: what-blood-tests-are-typically-conducted-to-investigate-thyroid-nodul
 url: /learn/medicine/questions/what-blood-tests-are-typically-conducted-to-investigate-thyroid-nodules
 score: -1.0
 related_article1:
+    id: 123979
+    title: >-
+        How is ultrasound used in the assessment of thyroid nodules?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-ultrasound-used-in-the-assessment-of-thyroid-nodules
+related_article2:
     id: 123983
     title: >-
         What are the indications for treating benign thyroid nodules?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-indications-for-treating-benign-thyroid-nodules
-related_article2:
-    id: 123988
-    title: >-
-        What is the process for staging and risk stratification in thyroid cancer diagnosis?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-the-process-for-staging-and-risk-stratification-in-thyroid-cancer-diagnosis
 related_article3:
     id: 123971
     title: >-
@@ -42,11 +42,17 @@ related_article3:
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-primary-factors-influencing-the-prevalence-of-thyroid-nodules
 related_article4:
-    id: 123994
+    id: 123985
     title: >-
-        What factors are considered in risk group stratification for thyroid cancer prognosis?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-factors-are-considered-in-risk-group-stratification-for-thyroid-cancer-prognosis
+        What non-surgical options exist for the management of benign thyroid nodules?
+    subject: Medicine
+    url: /learn/medicine/questions/what-nonsurgical-options-exist-for-the-management-of-benign-thyroid-nodules
+related_article5:
+    id: 123986
+    title: >-
+        What are the different types of thyroid cancer?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-different-types-of-thyroid-cancer
 ---
 
 &nbsp;

@@ -24,29 +24,29 @@ file_name: how-does-operator-experience-and-preference-affect-treatment-decision
 url: /learn/medicine/questions/how-does-operator-experience-and-preference-affect-treatment-decisions-in-acute-ischemia
 score: -1.0
 related_article1:
-    id: 102160
-    title: >-
-        Which sites are most commonly affected by embolism in acute limb ischemia?
-    subject: Medicine
-    url: /learn/medicine/questions/which-sites-are-most-commonly-affected-by-embolism-in-acute-limb-ischemia
-related_article2:
     id: 102169
     title: >-
         What is mechanical thrombectomy and how is it used in acute ischemia?
     subject: Medicine
     url: /learn/medicine/questions/what-is-mechanical-thrombectomy-and-how-is-it-used-in-acute-ischemia
+related_article2:
+    id: 102161
+    title: >-
+        What are the key diagnostic tools used for identifying acute ischemia?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-key-diagnostic-tools-used-for-identifying-acute-ischemia
 related_article3:
-    id: 102170
+    id: 102164
     title: >-
-        What are the key aspects of postoperative management for acute ischemia?
+        What are the main treatment approaches for acute ischemia?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-key-aspects-of-postoperative-management-for-acute-ischemia
+    url: /learn/medicine/questions/what-are-the-main-treatment-approaches-for-acute-ischemia
 related_article4:
-    id: 102174
+    id: 102171
     title: >-
-        How do the clinical features of chronic ischemia differ from acute ischemia?
+        How is monitoring for complications conducted after acute ischemia surgery?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-the-clinical-features-of-chronic-ischemia-differ-from-acute-ischemia
+    url: /learn/medicine/questions/how-is-monitoring-for-complications-conducted-after-acute-ischemia-surgery
 ---
 
 &nbsp;

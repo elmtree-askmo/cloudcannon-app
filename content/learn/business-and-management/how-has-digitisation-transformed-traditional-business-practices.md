@@ -24,29 +24,35 @@ file_name: how-has-digitisation-transformed-traditional-business-practices.md
 url: /learn/business-and-management/questions/how-has-digitisation-transformed-traditional-business-practices
 score: -1.0
 related_article1:
-    id: 98570
+    id: 98568
     title: >-
-        What are the security concerns specific to e-business that differ from traditional business?
+        What are the transformative impacts of e-business on traditional business models?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-security-concerns-specific-to-ebusiness-that-differ-from-traditional-business
+    url: /learn/business-and-management/questions/what-are-the-transformative-impacts-of-ebusiness-on-traditional-business-models
 related_article2:
-    id: 98563
+    id: 98546
     title: >-
-        What are the transaction risks associated with e-business?
+        What are the key learning objectives when studying emerging modes of business?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-transaction-risks-associated-with-ebusiness
+    url: /learn/business-and-management/questions/what-are-the-key-learning-objectives-when-studying-emerging-modes-of-business
 related_article3:
+    id: 98561
+    title: >-
+        What payment mechanisms are most commonly used in e-business?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-payment-mechanisms-are-most-commonly-used-in-ebusiness
+related_article4:
+    id: 98575
+    title: >-
+        How is the business studies curriculum for 2024-25 expected to address e-business and outsourcing?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-is-the-business-studies-curriculum-for-202425-expected-to-address-ebusiness-and-outsourcing
+related_article5:
     id: 98560
     title: >-
         What are the common methods for placing an order online?
     subject: Business and Management
     url: /learn/business-and-management/questions/what-are-the-common-methods-for-placing-an-order-online
-related_article4:
-    id: 98558
-    title: >-
-        What are the typical steps involved in online transactions?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-typical-steps-involved-in-online-transactions
 ---
 
 &nbsp;

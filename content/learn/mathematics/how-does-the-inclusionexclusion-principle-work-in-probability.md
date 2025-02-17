@@ -30,17 +30,23 @@ related_article1:
     subject: Mathematics
     url: /learn/mathematics/questions/how-is-bayes-theorem-applied-in-probability
 related_article2:
-    id: 122728
-    title: >-
-        Can you provide examples of real-world applications of probability?
-    subject: Mathematics
-    url: /learn/mathematics/questions/can-you-provide-examples-of-realworld-applications-of-probability
-related_article3:
     id: 122748
     title: >-
         What are the challenges in understanding and applying probability concepts?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-challenges-in-understanding-and-applying-probability-concepts
+related_article3:
+    id: 122728
+    title: >-
+        Can you provide examples of real-world applications of probability?
+    subject: Mathematics
+    url: /learn/mathematics/questions/can-you-provide-examples-of-realworld-applications-of-probability
+related_article4:
+    id: 122722
+    title: >-
+        Can you explain the difference between independent and dependent events with examples?
+    subject: Mathematics
+    url: /learn/mathematics/questions/can-you-explain-the-difference-between-independent-and-dependent-events-with-examples
 ---
 
 &nbsp;

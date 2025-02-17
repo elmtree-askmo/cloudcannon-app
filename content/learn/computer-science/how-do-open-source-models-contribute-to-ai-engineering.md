@@ -24,29 +24,35 @@ file_name: how-do-open-source-models-contribute-to-ai-engineering.md
 url: /learn/computer-science/questions/how-do-open-source-models-contribute-to-ai-engineering
 score: -1.0
 related_article1:
-    id: 118538
+    id: 118534
     title: >-
-        What are the main benefits and challenges of using Scrimba for learning coding?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-benefits-and-challenges-of-using-scrimba-for-learning-coding
+        What type of content is available on the Free Code Camp YouTube channel?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-type-of-content-is-available-on-the-free-code-camp-youtube-channel
 related_article2:
+    id: 118536
+    title: >-
+        How has Scrimba developed over the years?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-has-scrimba-developed-over-the-years
+related_article3:
     id: 118557
     title: >-
         What are the current trends in coding education?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-current-trends-in-coding-education
-related_article3:
-    id: 118530
-    title: >-
-        Can you provide a brief background on Quincy Larson and Per Borgin?
-    subject: Education Studies
-    url: /learn/education-studies/questions/can-you-provide-a-brief-background-on-quincy-larson-and-per-borgin
 related_article4:
-    id: 118548
+    id: 118554
     title: >-
-        What advice would you give to someone trying to break into the tech industry?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-advice-would-you-give-to-someone-trying-to-break-into-the-tech-industry
+        How do Quincy Larson and Per Borgin contribute to the field of coding education?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-quincy-larson-and-per-borgin-contribute-to-the-field-of-coding-education
+related_article5:
+    id: 118540
+    title: >-
+        What are the advantages and disadvantages of coding boot camps compared to self-learning?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-advantages-and-disadvantages-of-coding-boot-camps-compared-to-selflearning
 ---
 
 &nbsp;

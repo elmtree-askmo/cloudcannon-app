@@ -24,35 +24,35 @@ file_name: how-can-schools-overcome-barriers-to-providing-psychological-support.
 url: /learn/psychology/questions/how-can-schools-overcome-barriers-to-providing-psychological-support
 score: -1.0
 related_article1:
+    id: 116923
+    title: >-
+        Why is student well-being more important now than before the pandemic?
+    subject: Education Studies
+    url: /learn/education-studies/questions/why-is-student-wellbeing-more-important-now-than-before-the-pandemic
+related_article2:
     id: 116930
     title: >-
         What is narrative therapy and how can it be applied in educational settings?
     subject: Psychology
     url: /learn/psychology/questions/what-is-narrative-therapy-and-how-can-it-be-applied-in-educational-settings
-related_article2:
-    id: 116934
-    title: >-
-        How can schools prepare for future mental health challenges in education?
-    subject: Psychology
-    url: /learn/psychology/questions/how-can-schools-prepare-for-future-mental-health-challenges-in-education
 related_article3:
-    id: 116924
+    id: 116937
     title: >-
-        What role do schools play in ensuring student well-being during the pandemic?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-schools-play-in-ensuring-student-wellbeing-during-the-pandemic
-related_article4:
-    id: 116920
-    title: >-
-        What challenges have students faced in adapting to new learning processes?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-challenges-have-students-faced-in-adapting-to-new-learning-processes
-related_article5:
-    id: 116921
-    title: >-
-        How has the pandemic impacted students' mental health, specifically in terms of anxiety and depression?
+        What role do peer relationships play in student mental health during the pandemic?
     subject: Psychology
-    url: /learn/psychology/questions/how-has-the-pandemic-impacted-students-mental-health-specifically-in-terms-of-anxiety-and-depression
+    url: /learn/psychology/questions/what-role-do-peer-relationships-play-in-student-mental-health-during-the-pandemic
+related_article4:
+    id: 116919
+    title: >-
+        How have learning processes been affected by the shift to online education?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-have-learning-processes-been-affected-by-the-shift-to-online-education
+related_article5:
+    id: 116936
+    title: >-
+        How can parents support their children's mental health during and after the pandemic?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-parents-support-their-childrens-mental-health-during-and-after-the-pandemic
 ---
 
 &nbsp;

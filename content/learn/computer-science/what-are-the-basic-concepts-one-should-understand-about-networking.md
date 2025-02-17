@@ -24,35 +24,29 @@ file_name: what-are-the-basic-concepts-one-should-understand-about-networking.md
 url: /learn/computer-science/questions/what-are-the-basic-concepts-one-should-understand-about-networking
 score: -1.0
 related_article1:
-    id: 116164
+    id: 116161
     title: >-
-        How do access points facilitate wireless networking?
+        What roles do routers play in a network?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-access-points-facilitate-wireless-networking
+    url: /learn/computer-science/questions/what-roles-do-routers-play-in-a-network
 related_article2:
-    id: 116152
-    title: >-
-        What are the key characteristics of a Local Area Network (LAN)?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-characteristics-of-a-local-area-network-lan
-related_article3:
     id: 116162
     title: >-
         How do switches differ from hubs in networking?
     subject: Computer Science
     url: /learn/computer-science/questions/how-do-switches-differ-from-hubs-in-networking
+related_article3:
+    id: 116166
+    title: >-
+        How does subnetting work and why is it important?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-subnetting-work-and-why-is-it-important
 related_article4:
-    id: 116155
+    id: 116170
     title: >-
-        What are the advantages and disadvantages of different network topologies?
+        How does FTP work and what are its common uses?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-advantages-and-disadvantages-of-different-network-topologies
-related_article5:
-    id: 116169
-    title: >-
-        What are the main functions of HTTP and HTTPS protocols?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-functions-of-http-and-https-protocols
+    url: /learn/computer-science/questions/how-does-ftp-work-and-what-are-its-common-uses
 ---
 
 &nbsp;

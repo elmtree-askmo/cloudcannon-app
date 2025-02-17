@@ -36,17 +36,23 @@ related_article2:
     subject: Medicine
     url: /learn/medicine/questions/how-does-hepatic-artery-doppler-ultrasound-contribute-to-liver-assessment
 related_article3:
-    id: 118173
+    id: 118172
     title: >-
-        What are the common findings in abdominal X-rays related to habitability diseases?
+        What are the primary roles and limitations of abdominal X-rays in habitability diseases?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-findings-in-abdominal-xrays-related-to-habitability-diseases
+    url: /learn/medicine/questions/what-are-the-primary-roles-and-limitations-of-abdominal-xrays-in-habitability-diseases
 related_article4:
-    id: 118180
+    id: 118186
     title: >-
-        How effective is ultrasound in detecting focal liver lesions?
+        What information can be obtained from hepatic vein Doppler ultrasound?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-information-can-be-obtained-from-hepatic-vein-doppler-ultrasound
+related_article5:
+    id: 118182
+    title: >-
+        How are gallstones detected through radiological imaging?
     subject: Medicine
-    url: /learn/medicine/questions/how-effective-is-ultrasound-in-detecting-focal-liver-lesions
+    url: /learn/medicine/questions/how-are-gallstones-detected-through-radiological-imaging
 ---
 
 &nbsp;

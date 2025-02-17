@@ -24,35 +24,35 @@ file_name: what-is-the-difference-between-continuity-and-discontinuity-in-human-
 url: /learn/psychology/questions/what-is-the-difference-between-continuity-and-discontinuity-in-human-development
 score: -1.0
 related_article1:
-    id: 121403
+    id: 121407
     title: >-
-        How is cross-cultural research conducted in developmental psychology?
+        What are the key components of a course outline in developmental psychology?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-crosscultural-research-conducted-in-developmental-psychology
+    url: /learn/psychology/questions/what-are-the-key-components-of-a-course-outline-in-developmental-psychology
 related_article2:
-    id: 121413
-    title: >-
-        What are the ethical considerations in studying sensitive periods and atypical development?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-ethical-considerations-in-studying-sensitive-periods-and-atypical-development
-related_article3:
-    id: 121409
-    title: >-
-        What are the latest trends in research methodology in developmental psychology?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-latest-trends-in-research-methodology-in-developmental-psychology
-related_article4:
-    id: 121408
-    title: >-
-        How is assessment typically conducted in a developmental psychology course?
-    subject: Psychology
-    url: /learn/psychology/questions/how-is-assessment-typically-conducted-in-a-developmental-psychology-course
-related_article5:
     id: 121390
     title: >-
         What are the three kinds of change in human development?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-three-kinds-of-change-in-human-development
+related_article3:
+    id: 121388
+    title: >-
+        How does the nature vs. nurture debate influence our understanding of human development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-nature-vs-nurture-debate-influence-our-understanding-of-human-development
+related_article4:
+    id: 121387
+    title: >-
+        Can you explain the concept of inborn biases in human development?
+    subject: Psychology
+    url: /learn/psychology/questions/can-you-explain-the-concept-of-inborn-biases-in-human-development
+related_article5:
+    id: 121391
+    title: >-
+        How do normative age-graded changes affect human development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-normative-agegraded-changes-affect-human-development
 ---
 
 &nbsp;

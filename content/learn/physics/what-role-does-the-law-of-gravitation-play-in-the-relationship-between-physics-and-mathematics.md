@@ -24,29 +24,35 @@ file_name: what-role-does-the-law-of-gravitation-play-in-the-relationship-betwee
 url: /learn/physics/questions/what-role-does-the-law-of-gravitation-play-in-the-relationship-between-physics-and-mathematics
 score: -1.0
 related_article1:
-    id: 122710
+    id: 122705
     title: >-
-        What are some modern applications of Faraday's Law in technology?
-    subject: Physics
-    url: /learn/physics/questions/what-are-some-modern-applications-of-faradays-law-in-technology
+        How do mathematical models help in predicting physical phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
 related_article2:
-    id: 122709
-    title: >-
-        How do force and equal areas relate to Kepler's laws of planetary motion?
-    subject: Physics
-    url: /learn/physics/questions/how-do-force-and-equal-areas-relate-to-keplers-laws-of-planetary-motion
-related_article3:
     id: 122711
     title: >-
         How did Newton's work influence the mathematical formulation of physical laws?
     subject: Physics
     url: /learn/physics/questions/how-did-newtons-work-influence-the-mathematical-formulation-of-physical-laws
-related_article4:
-    id: 122708
+related_article3:
+    id: 122701
     title: >-
-        What is the importance of mathematical notation in communicating scientific ideas?
+        What are Newton's Laws and how are they mathematically formulated?
+    subject: Physics
+    url: /learn/physics/questions/what-are-newtons-laws-and-how-are-they-mathematically-formulated
+related_article4:
+    id: 122697
+    title: >-
+        What was the Babylonian method in physics and how did it influence modern science?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-was-the-babylonian-method-in-physics-and-how-did-it-influence-modern-science
+related_article5:
+    id: 122707
+    title: >-
+        How did ancient civilizations contribute to the development of mathematical physics?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-importance-of-mathematical-notation-in-communicating-scientific-ideas
+    url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-physics
 ---
 
 &nbsp;

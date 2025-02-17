@@ -24,35 +24,35 @@ file_name: what-does-it-mean-for-research-to-be-controlled-and-why-is-this-impor
 url: /learn/psychology/questions/what-does-it-mean-for-research-to-be-controlled-and-why-is-this-important
 score: -1.0
 related_article1:
-    id: 102743
+    id: 102727
     title: >-
-        What strategies are effective for problem identification and solution proposal in research?
+        What methods are commonly used for collecting data in research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-are-effective-for-problem-identification-and-solution-proposal-in-research
+    url: /learn/education-studies/questions/what-methods-are-commonly-used-for-collecting-data-in-research
 related_article2:
-    id: 102726
+    id: 102741
     title: >-
-        How is a research design developed, and what factors are considered?
+        What is the role of sentence formation in research education?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-a-research-design-developed-and-what-factors-are-considered
+    url: /learn/education-studies/questions/what-is-the-role-of-sentence-formation-in-research-education
 related_article3:
-    id: 102714
+    id: 102738
     title: >-
-        What is the definition of research in the context of academic inquiry?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-definition-of-research-in-the-context-of-academic-inquiry
+        How is research applied in the field of sports?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-research-applied-in-the-field-of-sports
 related_article4:
-    id: 102729
-    title: >-
-        How should research findings be interpreted and reported?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-should-research-findings-be-interpreted-and-reported
-related_article5:
     id: 102715
     title: >-
         How does research impact daily life and decision-making?
     subject: Psychology
     url: /learn/psychology/questions/how-does-research-impact-daily-life-and-decisionmaking
+related_article5:
+    id: 102722
+    title: >-
+        What constitutes original work in research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-constitutes-original-work-in-research
 ---
 
 &nbsp;

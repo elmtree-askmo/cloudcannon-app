@@ -24,29 +24,29 @@ file_name: how-do-the-seven-major-contemporary-art-forms-interact-with-each-othe
 url: /learn/art-history-and-literature/questions/how-do-the-seven-major-contemporary-art-forms-interact-with-each-other
 score: -1.0
 related_article1:
-    id: 110245
+    id: 110237
     title: >-
-        In what ways do contemporary, modern, and traditional art forms influence each other?
+        How is art defined across different cultures?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-do-contemporary-modern-and-traditional-art-forms-influence-each-other
+    url: /learn/art-history-and-literature/questions/how-is-art-defined-across-different-cultures
 related_article2:
-    id: 110250
+    id: 110254
     title: >-
-        How is theater represented in contemporary art?
+        How is visual art evolving in the contemporary art scene?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-is-theater-represented-in-contemporary-art
+    url: /learn/art-history-and-literature/questions/how-is-visual-art-evolving-in-the-contemporary-art-scene
 related_article3:
-    id: 110259
+    id: 110262
     title: >-
-        What is the impact of contemporary art on cultural understanding?
+        How does contemporary art reflect technological advancements?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-impact-of-contemporary-art-on-cultural-understanding
+    url: /learn/art-history-and-literature/questions/how-does-contemporary-art-reflect-technological-advancements
 related_article4:
-    id: 110253
+    id: 110246
     title: >-
-        What are the contemporary trends in architecture and allied arts?
+        How does art contribute to cultural understanding and exchange?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-contemporary-trends-in-architecture-and-allied-arts
+    url: /learn/art-history-and-literature/questions/how-does-art-contribute-to-cultural-understanding-and-exchange
 ---
 
 &nbsp;

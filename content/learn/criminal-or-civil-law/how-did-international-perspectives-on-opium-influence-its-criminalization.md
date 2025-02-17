@@ -24,17 +24,23 @@ file_name: how-did-international-perspectives-on-opium-influence-its-criminaliza
 url: /learn/criminal-or-civil-law/questions/how-did-international-perspectives-on-opium-influence-its-criminalization
 score: -1.0
 related_article1:
-    id: 119070
-    title: >-
-        How do different societies conceptualize victimless crimes?
-    subject: Sociology
-    url: /learn/sociology/questions/how-do-different-societies-conceptualize-victimless-crimes
-related_article2:
     id: 119066
     title: >-
         What were the social and economic consequences of alcohol criminalization during Prohibition?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-the-social-and-economic-consequences-of-alcohol-criminalization-during-prohibition
+related_article2:
+    id: 119072
+    title: >-
+        Can you provide examples of moral entrepreneurs who have impacted public order crime legislation?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/can-you-provide-examples-of-moral-entrepreneurs-who-have-impacted-public-order-crime-legislation
+related_article3:
+    id: 119070
+    title: >-
+        How do different societies conceptualize victimless crimes?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-different-societies-conceptualize-victimless-crimes
 ---
 
 &nbsp;

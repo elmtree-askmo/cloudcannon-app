@@ -24,29 +24,29 @@ file_name: what-is-the-definition-of-research-in-the-context-of-academic-inquiry
 url: /learn/education-studies/questions/what-is-the-definition-of-research-in-the-context-of-academic-inquiry
 score: -1.0
 related_article1:
-    id: 102735
+    id: 102716
     title: >-
-        What are some notable research contributions in Science, Technology, Engineering, and Mathematics?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-some-notable-research-contributions-in-science-technology-engineering-and-mathematics
-related_article2:
-    id: 102734
-    title: >-
-        Can you provide examples of research in the field of Information and Communication Technology?
-    subject: Education Studies
-    url: /learn/education-studies/questions/can-you-provide-examples-of-research-in-the-field-of-information-and-communication-technology
-related_article3:
-    id: 102719
-    title: >-
-        How is a hypothesis employed in the research process?
+        What are the key characteristics that define empirical research?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-a-hypothesis-employed-in-the-research-process
-related_article4:
+    url: /learn/psychology/questions/what-are-the-key-characteristics-that-define-empirical-research
+related_article2:
     id: 102731
     title: >-
         What are some common ethical codes and policies researchers must adhere to?
     subject: Psychology
     url: /learn/psychology/questions/what-are-some-common-ethical-codes-and-policies-researchers-must-adhere-to
+related_article3:
+    id: 102726
+    title: >-
+        How is a research design developed, and what factors are considered?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-is-a-research-design-developed-and-what-factors-are-considered
+related_article4:
+    id: 102740
+    title: >-
+        How can concept mapping be used as a practical activity in research education?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-concept-mapping-be-used-as-a-practical-activity-in-research-education
 ---
 
 &nbsp;

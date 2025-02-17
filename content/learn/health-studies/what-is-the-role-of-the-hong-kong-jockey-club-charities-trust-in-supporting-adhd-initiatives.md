@@ -24,29 +24,29 @@ file_name: what-is-the-role-of-the-hong-kong-jockey-club-charities-trust-in-supp
 url: /learn/health-studies/questions/what-is-the-role-of-the-hong-kong-jockey-club-charities-trust-in-supporting-adhd-initiatives
 score: -1.0
 related_article1:
-    id: 124197
-    title: >-
-        What strategies are used to create an inclusive environment for ADHD students?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-are-used-to-create-an-inclusive-environment-for-adhd-students
-related_article2:
-    id: 124200
-    title: >-
-        What role do extracurricular activities play in managing ADHD symptoms?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-do-extracurricular-activities-play-in-managing-adhd-symptoms
-related_article3:
     id: 124202
     title: >-
         What are the challenges in implementing ADHD support measures in schools?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-challenges-in-implementing-adhd-support-measures-in-schools
-related_article4:
-    id: 124191
+related_article2:
+    id: 124196
     title: >-
-        What are the main phases of the Jockey Club Joyful@School Project?
+        How is diversity expressed in inclusive learning environments?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-phases-of-the-jockey-club-joyfulschool-project
+    url: /learn/education-studies/questions/how-is-diversity-expressed-in-inclusive-learning-environments
+related_article3:
+    id: 124197
+    title: >-
+        What strategies are used to create an inclusive environment for ADHD students?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-strategies-are-used-to-create-an-inclusive-environment-for-adhd-students
+related_article4:
+    id: 124200
+    title: >-
+        What role do extracurricular activities play in managing ADHD symptoms?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-extracurricular-activities-play-in-managing-adhd-symptoms
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: how-does-vision-influence-speech-perception-particularly-in-the-mcgur
 url: /learn/psychology/questions/how-does-vision-influence-speech-perception-particularly-in-the-mcgurk-effect
 score: -1.0
 related_article1:
-    id: 122528
-    title: >-
-        How is speech integrated with brain functions?
-    subject: Psychology
-    url: /learn/psychology/questions/how-is-speech-integrated-with-brain-functions
-related_article2:
-    id: 122530
-    title: >-
-        How do pitch, chroma, and the octave relate to music perception?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-pitch-chroma-and-the-octave-relate-to-music-perception
-related_article3:
-    id: 122512
-    title: >-
-        Can you explain the concept of the cone of confusion in sound localization?
-    subject: Psychology
-    url: /learn/psychology/questions/can-you-explain-the-concept-of-the-cone-of-confusion-in-sound-localization
-related_article4:
-    id: 122511
-    title: >-
-        What role do interaural level differences play in sound localization?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-do-interaural-level-differences-play-in-sound-localization
-related_article5:
     id: 122529
     title: >-
         What are the key elements of music perception?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-key-elements-of-music-perception
+related_article2:
+    id: 122517
+    title: >-
+        How does spatial segregation work in auditory scene analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-spatial-segregation-work-in-auditory-scene-analysis
+related_article3:
+    id: 122537
+    title: >-
+        How does synesthesia relate to music perception?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-synesthesia-relate-to-music-perception
+related_article4:
+    id: 122513
+    title: >-
+        How is elevation perception achieved in the auditory system?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-elevation-perception-achieved-in-the-auditory-system
+related_article5:
+    id: 122512
+    title: >-
+        Can you explain the concept of the cone of confusion in sound localization?
+    subject: Psychology
+    url: /learn/psychology/questions/can-you-explain-the-concept-of-the-cone-of-confusion-in-sound-localization
 ---
 
 &nbsp;

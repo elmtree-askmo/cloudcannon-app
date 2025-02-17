@@ -24,35 +24,35 @@ file_name: can-you-elaborate-on-newtons-laws-and-their-mathematical-implications
 url: /learn/physics/questions/can-you-elaborate-on-newtons-laws-and-their-mathematical-implications
 score: -1.0
 related_article1:
-    id: 119477
+    id: 119473
     title: >-
-        How has modern mathematical notation evolved to aid in physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-to-aid-in-physics
+        What is Faraday's Law and how does it relate to mathematics?
+    subject: Physics
+    url: /learn/physics/questions/what-is-faradays-law-and-how-does-it-relate-to-mathematics
 related_article2:
-    id: 119474
+    id: 119478
     title: >-
-        Can you explain Newton's Law of Gravitation and its mathematical formulation?
-    subject: Physics
-    url: /learn/physics/questions/can-you-explain-newtons-law-of-gravitation-and-its-mathematical-formulation
-related_article3:
-    id: 119486
-    title: >-
-        How does the minimum principle apply to physics and mathematics?
-    subject: Physics
-    url: /learn/physics/questions/how-does-the-minimum-principle-apply-to-physics-and-mathematics
-related_article4:
-    id: 119480
-    title: >-
-        How did the Babylonian method influence the development of physics?
+        What contributions did Babylonian and Greek traditions make to the relationship between physics and mathematics?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-babylonian-method-influence-the-development-of-physics
-related_article5:
+    url: /learn/history-of-the-world/questions/what-contributions-did-babylonian-and-greek-traditions-make-to-the-relationship-between-physics-and-mathematics
+related_article3:
     id: 119487
     title: >-
         What are the philosophical implications of the relationship between physics and mathematics?
     subject: Philosophy and Greek Myths
     url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
+related_article4:
+    id: 119498
+    title: >-
+        How do mathematical simulations aid in experimental physics?
+    subject: Physics
+    url: /learn/physics/questions/how-do-mathematical-simulations-aid-in-experimental-physics
+related_article5:
+    id: 119489
+    title: >-
+        What role does calculus play in understanding physical laws?
+    subject: Physics
+    url: /learn/physics/questions/what-role-does-calculus-play-in-understanding-physical-laws
 ---
 
 &nbsp;

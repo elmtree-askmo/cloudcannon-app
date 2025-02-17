@@ -30,6 +30,12 @@ related_article1:
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-significance-of-variance-in-probability
 related_article2:
+    id: 122812
+    title: >-
+        How do covariance and correlation differ in statistical analysis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-covariance-and-correlation-differ-in-statistical-analysis
+related_article3:
     id: 122808
     title: >-
         What are the different types of probability distributions?

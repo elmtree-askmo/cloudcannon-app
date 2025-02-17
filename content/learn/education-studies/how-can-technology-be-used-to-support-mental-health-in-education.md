@@ -24,35 +24,29 @@ file_name: how-can-technology-be-used-to-support-mental-health-in-education.md
 url: /learn/education-studies/questions/how-can-technology-be-used-to-support-mental-health-in-education
 score: -1.0
 related_article1:
-    id: 116928
+    id: 116946
     title: >-
-        What is person-centered therapy and how can it benefit students during the pandemic?
+        How can schools create a culture of mental health awareness and support?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-personcentered-therapy-and-how-can-it-benefit-students-during-the-pandemic
+    url: /learn/psychology/questions/how-can-schools-create-a-culture-of-mental-health-awareness-and-support
 related_article2:
-    id: 116923
-    title: >-
-        Why is student well-being more important now than before the pandemic?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-is-student-wellbeing-more-important-now-than-before-the-pandemic
-related_article3:
-    id: 116920
-    title: >-
-        What challenges have students faced in adapting to new learning processes?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-challenges-have-students-faced-in-adapting-to-new-learning-processes
-related_article4:
     id: 116932
     title: >-
         How can schools assess the mental health needs of their students after the pandemic?
     subject: Psychology
     url: /learn/psychology/questions/how-can-schools-assess-the-mental-health-needs-of-their-students-after-the-pandemic
-related_article5:
-    id: 116941
+related_article3:
+    id: 116933
     title: >-
-        What training do teachers need to support student mental health effectively?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-training-do-teachers-need-to-support-student-mental-health-effectively
+        What strategies can be implemented to support students' mental health post-pandemic?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-can-be-implemented-to-support-students-mental-health-postpandemic
+related_article4:
+    id: 116921
+    title: >-
+        How has the pandemic impacted students' mental health, specifically in terms of anxiety and depression?
+    subject: Psychology
+    url: /learn/psychology/questions/how-has-the-pandemic-impacted-students-mental-health-specifically-in-terms-of-anxiety-and-depression
 ---
 
 &nbsp;

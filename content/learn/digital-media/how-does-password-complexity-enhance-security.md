@@ -24,29 +24,35 @@ file_name: how-does-password-complexity-enhance-security.md
 url: /learn/digital-media/questions/how-does-password-complexity-enhance-security
 score: -1.0
 related_article1:
-    id: 122280
+    id: 122297
     title: >-
-        What strategies are effective against phishing and ransomware attacks?
+        How does biometric authentication work and what are its benefits?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-strategies-are-effective-against-phishing-and-ransomware-attacks
+    url: /learn/computer-science/questions/how-does-biometric-authentication-work-and-what-are-its-benefits
 related_article2:
-    id: 122275
+    id: 122285
     title: >-
-        What role does physical security play in protecting network infrastructure?
+        What is the role of firewalls in network security?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-role-does-physical-security-play-in-protecting-network-infrastructure
+    url: /learn/computer-science/questions/what-is-the-role-of-firewalls-in-network-security
 related_article3:
-    id: 122298
+    id: 122271
     title: >-
-        What is the importance of input validation and sanitization in software security?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-importance-of-input-validation-and-sanitization-in-software-security
+        What is ransomware and how does it typically infiltrate a network?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-is-ransomware-and-how-does-it-typically-infiltrate-a-network
 related_article4:
-    id: 122278
+    id: 122289
     title: >-
-        What are the differences between DoS and DDoS attacks?
+        How do antivirus and antimalware software protect networks?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-differences-between-dos-and-ddos-attacks
+    url: /learn/computer-science/questions/how-do-antivirus-and-antimalware-software-protect-networks
+related_article5:
+    id: 122291
+    title: >-
+        What are the best practices for data backup and recovery?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-best-practices-for-data-backup-and-recovery
 ---
 
 &nbsp;

@@ -24,35 +24,29 @@ file_name: what-are-the-common-hepatic-pathologies-that-can-be-identified-throug
 url: /learn/medicine/questions/what-are-the-common-hepatic-pathologies-that-can-be-identified-through-imaging
 score: -1.0
 related_article1:
-    id: 118022
+    id: 118040
     title: >-
-        In what scenarios is CT imaging commonly used for the hepatobiliary system?
+        What are the limitations of ultrasound imaging for the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/in-what-scenarios-is-ct-imaging-commonly-used-for-the-hepatobiliary-system
+    url: /learn/medicine/questions/what-are-the-limitations-of-ultrasound-imaging-for-the-hepatobiliary-system
 related_article2:
-    id: 118031
+    id: 118025
     title: >-
-        What imaging findings are associated with hepatocellular carcinoma?
+        In what scenarios is MRI imaging commonly used for the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/what-imaging-findings-are-associated-with-hepatocellular-carcinoma
+    url: /learn/medicine/questions/in-what-scenarios-is-mri-imaging-commonly-used-for-the-hepatobiliary-system
 related_article3:
-    id: 118037
+    id: 118034
     title: >-
-        How does CT imaging compare to MRI imaging in terms of accuracy for the hepatobiliary system?
+        What are the typical findings in ultrasound imaging of the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-ct-imaging-compare-to-mri-imaging-in-terms-of-accuracy-for-the-hepatobiliary-system
+    url: /learn/medicine/questions/what-are-the-typical-findings-in-ultrasound-imaging-of-the-hepatobiliary-system
 related_article4:
-    id: 118033
+    id: 118039
     title: >-
-        What are the key imaging techniques used for the hepatobiliary system?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-key-imaging-techniques-used-for-the-hepatobiliary-system
-related_article5:
-    id: 118044
-    title: >-
-        What are the latest advancements in CT and MRI imaging technology for the hepatobiliary system?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-latest-advancements-in-ct-and-mri-imaging-technology-for-the-hepatobiliary-system
+        How does the cost of CT imaging compare to MRI imaging for the hepatobiliary system?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-cost-of-ct-imaging-compare-to-mri-imaging-for-the-hepatobiliary-system
 ---
 
 &nbsp;

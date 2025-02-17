@@ -30,29 +30,23 @@ related_article1:
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
 related_article2:
-    id: 122431
+    id: 122444
     title: >-
-        Can you explain Newton's Laws and their mathematical formulations?
-    subject: Physics
-    url: /learn/physics/questions/can-you-explain-newtons-laws-and-their-mathematical-formulations
+        What are some modern advancements in mathematical notation that have impacted physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-modern-advancements-in-mathematical-notation-that-have-impacted-physics
 related_article3:
-    id: 122446
+    id: 122443
     title: >-
-        What are some examples of consequential statements in physics derived from fundamental principles?
+        How do physicists use the concept of force and equal areas in practical applications?
     subject: Physics
-    url: /learn/physics/questions/what-are-some-examples-of-consequential-statements-in-physics-derived-from-fundamental-principles
+    url: /learn/physics/questions/how-do-physicists-use-the-concept-of-force-and-equal-areas-in-practical-applications
 related_article4:
-    id: 122432
+    id: 122421
     title: >-
-        What is the local field method in physics?
+        Can you explain Newton's Law of Gravitation in mathematical terms?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-local-field-method-in-physics
-related_article5:
-    id: 122440
-    title: >-
-        What are some examples of fundamental principles in physics that rely on mathematics?
-    subject: Physics
-    url: /learn/physics/questions/what-are-some-examples-of-fundamental-principles-in-physics-that-rely-on-mathematics
+    url: /learn/physics/questions/can-you-explain-newtons-law-of-gravitation-in-mathematical-terms
 ---
 
 &nbsp;

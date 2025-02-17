@@ -24,17 +24,17 @@ file_name: how-did-the-legacy-of-the-assassinations-shape-future-political-and-s
 url: /learn/history-of-the-world/questions/how-did-the-legacy-of-the-assassinations-shape-future-political-and-social-movements-in-san-francisco
 score: -1.0
 related_article1:
-    id: 123826
+    id: 123842
     title: >-
-        What role did the rise of the gay rights movement play in the socio-political climate of 1970s San Francisco?
-    subject: Sociology
-    url: /learn/sociology/questions/what-role-did-the-rise-of-the-gay-rights-movement-play-in-the-sociopolitical-climate-of-1970s-san-francisco
-related_article2:
-    id: 123823
-    title: >-
-        Can you describe the day of the assassinations and the sequence of events?
+        How did the political tensions in San Francisco contribute to the events leading to the assassinations?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/can-you-describe-the-day-of-the-assassinations-and-the-sequence-of-events
+    url: /learn/history-of-the-world/questions/how-did-the-political-tensions-in-san-francisco-contribute-to-the-events-leading-to-the-assassinations
+related_article2:
+    id: 123831
+    title: >-
+        What were the legal proceedings in Dan White's trial?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-were-the-legal-proceedings-in-dan-whites-trial
 related_article3:
     id: 123833
     title: >-
@@ -42,17 +42,11 @@ related_article3:
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-was-the-verdict-and-sentencing-in-dan-whites-trial
 related_article4:
-    id: 123829
+    id: 123845
     title: >-
-        What were the key events of the White Night Riot?
+        What role did George Moscone and Harvey Milk play in the political tensions of the time?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-events-of-the-white-night-riot
-related_article5:
-    id: 123842
-    title: >-
-        How did the political tensions in San Francisco contribute to the events leading to the assassinations?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-political-tensions-in-san-francisco-contribute-to-the-events-leading-to-the-assassinations
+    url: /learn/history-of-the-world/questions/what-role-did-george-moscone-and-harvey-milk-play-in-the-political-tensions-of-the-time
 ---
 
 &nbsp;

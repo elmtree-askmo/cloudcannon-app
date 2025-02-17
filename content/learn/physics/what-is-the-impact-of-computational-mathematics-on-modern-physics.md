@@ -24,35 +24,35 @@ file_name: what-is-the-impact-of-computational-mathematics-on-modern-physics.md
 url: /learn/physics/questions/what-is-the-impact-of-computational-mathematics-on-modern-physics
 score: -1.0
 related_article1:
+    id: 119461
+    title: >-
+        What is the significance of mathematical proofs in physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-mathematical-proofs-in-physics
+related_article2:
+    id: 119456
+    title: >-
+        How does the minimum principle apply to physical systems?
+    subject: Physics
+    url: /learn/physics/questions/how-does-the-minimum-principle-apply-to-physical-systems
+related_article3:
+    id: 119451
+    title: >-
+        What is the Euclidean method and its role in physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-euclidean-method-and-its-role-in-physics
+related_article4:
     id: 119442
     title: >-
         How does mathematics help us understand natural phenomena?
     subject: Mathematics
     url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
-related_article2:
-    id: 119448
-    title: >-
-        What contributions did Babylonian and Greek traditions make to the relationship between physics and mathematics?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-contributions-did-babylonian-and-greek-traditions-make-to-the-relationship-between-physics-and-mathematics
-related_article3:
-    id: 119443
-    title: >-
-        Can you explain Faraday's Law and its significance in physics?
-    subject: Physics
-    url: /learn/physics/questions/can-you-explain-faradays-law-and-its-significance-in-physics
-related_article4:
-    id: 119450
-    title: >-
-        How did the Babylonian method influence the development of physics?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-babylonian-method-influence-the-development-of-physics
 related_article5:
-    id: 119454
+    id: 119464
     title: >-
-        Can you explain Newton's Laws and their mathematical significance?
+        How do mathematical concepts like calculus apply to physics?
     subject: Physics
-    url: /learn/physics/questions/can-you-explain-newtons-laws-and-their-mathematical-significance
+    url: /learn/physics/questions/how-do-mathematical-concepts-like-calculus-apply-to-physics
 ---
 
 &nbsp;

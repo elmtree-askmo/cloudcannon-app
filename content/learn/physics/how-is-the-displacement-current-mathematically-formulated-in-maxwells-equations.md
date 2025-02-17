@@ -13,7 +13,7 @@ seo:
   page_description: >-
     The displacement current is a concept in electromagnetism that extends Ampre's law to include time-varying electric fields. It is mathematically defined as the rate of change of the electric displacement field and is crucial for electromagnetic wave propagation.
   page_keywords: >-
-    displacement current, Maxwell's equations, Ampère's law, electric field, magnetic field, current density, electric displacement field, electromagnetic waves, capacitance, permeability, permittivity
+    displacement current, Maxwell's equations, Ampre's law, electric field, magnetic field, current density, electric displacement field, electromagnetic waves, capacitance, permeability, permittivity
 author: QuickTakes
 question: >-
     How is the displacement current mathematically formulated in Maxwell's equations?
@@ -24,35 +24,35 @@ file_name: how-is-the-displacement-current-mathematically-formulated-in-maxwells
 url: /learn/physics/questions/how-is-the-displacement-current-mathematically-formulated-in-maxwells-equations
 score: -1.0
 related_article1:
-    id: 116218
+    id: 116224
     title: >-
-        What are the different types of waves in the electromagnetic spectrum?
-    subject: Physics
-    url: /learn/physics/questions/what-are-the-different-types-of-waves-in-the-electromagnetic-spectrum
+        What are the medical and industrial applications of X-rays?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-medical-and-industrial-applications-of-xrays
 related_article2:
-    id: 116225
+    id: 116226
     title: >-
-        How are gamma rays used in scientific research and technology?
+        How did Maxwell's work lead to the unification of electricity, magnetism, and light?
     subject: Physics
-    url: /learn/physics/questions/how-are-gamma-rays-used-in-scientific-research-and-technology
+    url: /learn/physics/questions/how-did-maxwells-work-lead-to-the-unification-of-electricity-magnetism-and-light
 related_article3:
-    id: 116230
+    id: 116234
     title: >-
-        How have Maxwell's equations contributed to scientific research and exploration?
+        How have Maxwell's equations been experimentally verified over time?
     subject: Physics
-    url: /learn/physics/questions/how-have-maxwells-equations-contributed-to-scientific-research-and-exploration
+    url: /learn/physics/questions/how-have-maxwells-equations-been-experimentally-verified-over-time
 related_article4:
-    id: 116227
+    id: 116209
     title: >-
-        What are some technological applications that have resulted from Maxwell's equations?
+        How did Maxwell's work build upon the contributions of previous scientists in the field of electromagnetism?
     subject: Physics
-    url: /learn/physics/questions/what-are-some-technological-applications-that-have-resulted-from-maxwells-equations
+    url: /learn/physics/questions/how-did-maxwells-work-build-upon-the-contributions-of-previous-scientists-in-the-field-of-electromagnetism
 related_article5:
-    id: 116211
+    id: 116223
     title: >-
-        What is the concept of displacement current and why was it introduced by Maxwell?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-concept-of-displacement-current-and-why-was-it-introduced-by-maxwell
+        What are the effects and uses of ultraviolet rays?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-effects-and-uses-of-ultraviolet-rays
 ---
 
 &nbsp;

@@ -24,23 +24,23 @@ file_name: what-is-the-dichotic-listening-task-and-what-does-it-reveal-about-att
 url: /learn/psychology/questions/what-is-the-dichotic-listening-task-and-what-does-it-reveal-about-attention
 score: -1.0
 related_article1:
-    id: 116812
+    id: 116824
     title: >-
-        What is the significance of non-REM sleep?
+        How do depressants like alcohol affect the brain and behavior?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-nonrem-sleep
+    url: /learn/health-studies/questions/how-do-depressants-like-alcohol-affect-the-brain-and-behavior
 related_article2:
+    id: 116798
+    title: >-
+        How does split-brain surgery affect consciousness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-splitbrain-surgery-affect-consciousness
+related_article3:
     id: 116805
     title: >-
         What is stimulus salience and how does it affect attention?
     subject: Psychology
     url: /learn/psychology/questions/what-is-stimulus-salience-and-how-does-it-affect-attention
-related_article3:
-    id: 116818
-    title: >-
-        What are the symptoms and causes of narcolepsy?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-symptoms-and-causes-of-narcolepsy
 related_article4:
     id: 116811
     title: >-
@@ -48,11 +48,11 @@ related_article4:
     subject: Psychology
     url: /learn/psychology/questions/how-do-brainwave-patterns-change-during-different-stages-of-sleep
 related_article5:
-    id: 116798
+    id: 116819
     title: >-
-        How does split-brain surgery affect consciousness?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-splitbrain-surgery-affect-consciousness
+        How do biological clocks regulate sleep and wakefulness?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-biological-clocks-regulate-sleep-and-wakefulness
 ---
 
 &nbsp;

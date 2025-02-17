@@ -24,35 +24,35 @@ file_name: what-imaging-techniques-are-used-for-intervention-and-sampling-in-bil
 url: /learn/medicine/questions/what-imaging-techniques-are-used-for-intervention-and-sampling-in-biliary-and-pancreatic-conditions
 score: -1.0
 related_article1:
-    id: 118060
+    id: 118061
     title: >-
-        How are stones in the biliary tree typically diagnosed?
+        What imaging techniques are most effective for detecting biliary strictures?
     subject: Medicine
-    url: /learn/medicine/questions/how-are-stones-in-the-biliary-tree-typically-diagnosed
+    url: /learn/medicine/questions/what-imaging-techniques-are-most-effective-for-detecting-biliary-strictures
 related_article2:
-    id: 118056
+    id: 118051
     title: >-
-        What specific conditions can MRCP detect in the pancreas?
+        How does MRCP enhance the imaging of the biliary tree compared to standard MRI?
     subject: Medicine
-    url: /learn/medicine/questions/what-specific-conditions-can-mrcp-detect-in-the-pancreas
+    url: /learn/medicine/questions/how-does-mrcp-enhance-the-imaging-of-the-biliary-tree-compared-to-standard-mri
 related_article3:
-    id: 118067
+    id: 118057
     title: >-
-        How are neuroendocrine tumors in the pancreas detected through imaging?
+        What is the role of EUS in pancreatic imaging?
     subject: Medicine
-    url: /learn/medicine/questions/how-are-neuroendocrine-tumors-in-the-pancreas-detected-through-imaging
+    url: /learn/medicine/questions/what-is-the-role-of-eus-in-pancreatic-imaging
 related_article4:
-    id: 118052
+    id: 118063
     title: >-
-        What are the advantages of using EUS for biliary tree imaging?
+        How is gallbladder cancer typically identified through imaging?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-advantages-of-using-eus-for-biliary-tree-imaging
+    url: /learn/medicine/questions/how-is-gallbladder-cancer-typically-identified-through-imaging
 related_article5:
-    id: 118074
+    id: 118054
     title: >-
-        How is imaging used in staging and determining the resectability of biliary and pancreatic tumors?
+        What are the risks associated with PTC in biliary imaging?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-imaging-used-in-staging-and-determining-the-resectability-of-biliary-and-pancreatic-tumors
+    url: /learn/medicine/questions/what-are-the-risks-associated-with-ptc-in-biliary-imaging
 ---
 
 &nbsp;

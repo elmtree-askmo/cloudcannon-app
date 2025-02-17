@@ -24,35 +24,29 @@ file_name: how-can-psychological-support-be-integrated-into-the-educational-syst
 url: /learn/education-studies/questions/how-can-psychological-support-be-integrated-into-the-educational-system
 score: -1.0
 related_article1:
-    id: 116935
+    id: 116932
     title: >-
-        What are the long-term effects of the pandemic on students' mental health?
+        How can schools assess the mental health needs of their students after the pandemic?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-longterm-effects-of-the-pandemic-on-students-mental-health
+    url: /learn/psychology/questions/how-can-schools-assess-the-mental-health-needs-of-their-students-after-the-pandemic
 related_article2:
-    id: 116943
+    id: 116937
     title: >-
-        What are the ethical considerations in providing psychological support in schools?
+        What role do peer relationships play in student mental health during the pandemic?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-ethical-considerations-in-providing-psychological-support-in-schools
+    url: /learn/psychology/questions/what-role-do-peer-relationships-play-in-student-mental-health-during-the-pandemic
 related_article3:
-    id: 116940
+    id: 116941
     title: >-
-        How can schools overcome barriers to providing psychological support?
-    subject: Psychology
-    url: /learn/psychology/questions/how-can-schools-overcome-barriers-to-providing-psychological-support
+        What training do teachers need to support student mental health effectively?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-training-do-teachers-need-to-support-student-mental-health-effectively
 related_article4:
-    id: 116936
+    id: 116927
     title: >-
-        How can parents support their children's mental health during and after the pandemic?
-    subject: Psychology
-    url: /learn/psychology/questions/how-can-parents-support-their-childrens-mental-health-during-and-after-the-pandemic
-related_article5:
-    id: 116942
-    title: >-
-        How can community resources be leveraged to support student mental health?
-    subject: Psychology
-    url: /learn/psychology/questions/how-can-community-resources-be-leveraged-to-support-student-mental-health
+        How can teachers and staff build supportive relationships with students?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-teachers-and-staff-build-supportive-relationships-with-students
 ---
 
 &nbsp;

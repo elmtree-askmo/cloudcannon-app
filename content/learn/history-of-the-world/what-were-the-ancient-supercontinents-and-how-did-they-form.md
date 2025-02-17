@@ -24,17 +24,17 @@ file_name: what-were-the-ancient-supercontinents-and-how-did-they-form.md
 url: /learn/history-of-the-world/questions/what-were-the-ancient-supercontinents-and-how-did-they-form
 score: -1.0
 related_article1:
-    id: 97182
-    title: >-
-        What is the ozone layer and why is it important for life on Earth?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-ozone-layer-and-why-is-it-important-for-life-on-earth
-related_article2:
     id: 97184
     title: >-
         What is Pangea and what evidence do we have of its existence?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-is-pangea-and-what-evidence-do-we-have-of-its-existence
+related_article2:
+    id: 97182
+    title: >-
+        What is the ozone layer and why is it important for life on Earth?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-ozone-layer-and-why-is-it-important-for-life-on-earth
 related_article3:
     id: 97190
     title: >-

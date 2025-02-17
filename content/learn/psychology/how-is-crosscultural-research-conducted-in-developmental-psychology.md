@@ -24,29 +24,29 @@ file_name: how-is-crosscultural-research-conducted-in-developmental-psychology.m
 url: /learn/psychology/questions/how-is-crosscultural-research-conducted-in-developmental-psychology
 score: -1.0
 related_article1:
-    id: 121386
+    id: 121410
     title: >-
-        What are the key biological influences on human development?
+        How do researchers address biases in developmental psychology studies?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-biological-influences-on-human-development
+    url: /learn/psychology/questions/how-do-researchers-address-biases-in-developmental-psychology-studies
 related_article2:
-    id: 121384
+    id: 121399
     title: >-
-        What are the main periods of human development?
+        Can you explain Bronfenbrenner’s Ecological Systems Theory?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-periods-of-human-development
+    url: /learn/psychology/questions/can-you-explain-bronfenbrenners-ecological-systems-theory
 related_article3:
-    id: 121398
+    id: 121409
     title: >-
-        What is the lifespan perspective in developmental psychology?
+        What are the latest trends in research methodology in developmental psychology?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-lifespan-perspective-in-developmental-psychology
+    url: /learn/psychology/questions/what-are-the-latest-trends-in-research-methodology-in-developmental-psychology
 related_article4:
-    id: 121412
+    id: 121387
     title: >-
-        How do sensitive periods influence learning and development?
+        Can you explain the concept of inborn biases in human development?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-sensitive-periods-influence-learning-and-development
+    url: /learn/psychology/questions/can-you-explain-the-concept-of-inborn-biases-in-human-development
 ---
 
 &nbsp;

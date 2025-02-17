@@ -24,29 +24,35 @@ file_name: what-are-the-different-methods-of-international-financing-available-t
 url: /learn/business-and-management/questions/what-are-the-different-methods-of-international-financing-available-to-businesses
 score: -1.0
 related_article1:
+    id: 98638
+    title: >-
+        What is factoring and how does it benefit businesses?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/what-is-factoring-and-how-does-it-benefit-businesses
+related_article2:
+    id: 98650
+    title: >-
+        What role do international agencies and development banks play in international financing?
+    subject: Economics
+    url: /learn/economics/questions/what-role-do-international-agencies-and-development-banks-play-in-international-financing
+related_article3:
+    id: 98637
+    title: >-
+        How does trade credit function as a source of finance?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/how-does-trade-credit-function-as-a-source-of-finance
+related_article4:
     id: 98649
     title: >-
         How do commercial banks facilitate international financing?
     subject: Business and Management
     url: /learn/business-and-management/questions/how-do-commercial-banks-facilitate-international-financing
-related_article2:
-    id: 98654
+related_article5:
+    id: 98655
     title: >-
-        How do Indian Depository Receipts (IDRs) differ from other depository receipts?
+        What are Foreign Currency Convertible Bonds (FCCBs) and their benefits?
     subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/how-do-indian-depository-receipts-idrs-differ-from-other-depository-receipts
-related_article3:
-    id: 98645
-    title: >-
-        What are debentures and how are they used in business finance?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-are-debentures-and-how-are-they-used-in-business-finance
-related_article4:
-    id: 98643
-    title: >-
-        What are the characteristics of equity shares?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-are-the-characteristics-of-equity-shares
+    url: /learn/accounting-and-finance/questions/what-are-foreign-currency-convertible-bonds-fccbs-and-their-benefits
 ---
 
 &nbsp;

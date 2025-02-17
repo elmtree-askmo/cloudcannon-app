@@ -24,23 +24,23 @@ file_name: how-does-replacement-affect-counting-principles.md
 url: /learn/mathematics/questions/how-does-replacement-affect-counting-principles
 score: -1.0
 related_article1:
-    id: 119578
-    title: >-
-        How is probability theory related to symmetrical probability space?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-is-probability-theory-related-to-symmetrical-probability-space
-related_article2:
-    id: 119571
-    title: >-
-        What are some examples where order matters in permutations?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-examples-where-order-matters-in-permutations
-related_article3:
     id: 119581
     title: >-
         What are the common mistakes to avoid when calculating factorials?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-common-mistakes-to-avoid-when-calculating-factorials
+related_article2:
+    id: 119586
+    title: >-
+        What are some historical developments in the study of symmetrical probability spaces?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-historical-developments-in-the-study-of-symmetrical-probability-spaces
+related_article3:
+    id: 119578
+    title: >-
+        How is probability theory related to symmetrical probability space?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-probability-theory-related-to-symmetrical-probability-space
 related_article4:
     id: 119564
     title: >-

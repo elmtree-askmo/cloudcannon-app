@@ -24,35 +24,35 @@ file_name: what-role-does-lithium-play-as-a-mood-stabilizer-and-what-are-its-sid
 url: /learn/medicine/questions/what-role-does-lithium-play-as-a-mood-stabilizer-and-what-are-its-side-effects
 score: -1.0
 related_article1:
-    id: 104615
+    id: 104609
     title: >-
-        What are the long-term effects of using antipsychotics and anxiolytics?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-longterm-effects-of-using-antipsychotics-and-anxiolytics
+        How do Monoamine Oxidase Inhibitors (MAOIs) work and what are their dietary restrictions?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-monoamine-oxidase-inhibitors-maois-work-and-what-are-their-dietary-restrictions
 related_article2:
-    id: 104607
+    id: 104602
     title: >-
-        How do Serotonin-Norepinephrine Reuptake Inhibitors (SNRI) differ from SSRIs?
-    subject: Medicine
-    url: /learn/medicine/questions/how-do-serotoninnorepinephrine-reuptake-inhibitors-snri-differ-from-ssris
+        What distinguishes primary anxiety from secondary anxiety?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-primary-anxiety-from-secondary-anxiety
 related_article3:
-    id: 104589
+    id: 104606
     title: >-
-        Can you explain the mechanism of action for both typical and atypical antipsychotics?
-    subject: Medicine
-    url: /learn/medicine/questions/can-you-explain-the-mechanism-of-action-for-both-typical-and-atypical-antipsychotics
-related_article4:
-    id: 104612
-    title: >-
-        How can nonadherence to antidepressant treatment be addressed in patients?
+        What are the benefits and drawbacks of using Selective Serotonin Reuptake Inhibitors (SSRI)?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-can-nonadherence-to-antidepressant-treatment-be-addressed-in-patients
-related_article5:
+    url: /learn/health-studies/questions/what-are-the-benefits-and-drawbacks-of-using-selective-serotonin-reuptake-inhibitors-ssri
+related_article4:
     id: 104613
     title: >-
         What are the risks of using antipsychotics in older adults and how can they be mitigated?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-risks-of-using-antipsychotics-in-older-adults-and-how-can-they-be-mitigated
+related_article5:
+    id: 104612
+    title: >-
+        How can nonadherence to antidepressant treatment be addressed in patients?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-can-nonadherence-to-antidepressant-treatment-be-addressed-in-patients
 ---
 
 &nbsp;

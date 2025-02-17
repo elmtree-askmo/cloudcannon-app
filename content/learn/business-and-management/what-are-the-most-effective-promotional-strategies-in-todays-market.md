@@ -24,35 +24,35 @@ file_name: what-are-the-most-effective-promotional-strategies-in-todays-market.m
 url: /learn/business-and-management/questions/what-are-the-most-effective-promotional-strategies-in-todays-market
 score: -1.0
 related_article1:
-    id: 110212
+    id: 110211
     title: >-
-        How do companies determine their target market?
+        What are the main criteria for effective market segmentation?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-do-companies-determine-their-target-market
+    url: /learn/business-and-management/questions/what-are-the-main-criteria-for-effective-market-segmentation
 related_article2:
-    id: 110222
+    id: 110214
     title: >-
-        What are the key considerations in making advertising decisions?
+        Can you explain the elements of the marketing mix?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-key-considerations-in-making-advertising-decisions
+    url: /learn/business-and-management/questions/can-you-explain-the-elements-of-the-marketing-mix
 related_article3:
-    id: 110228
+    id: 110217
     title: >-
-        What are the challenges in accurately segmenting a market?
+        What are the typical constraints that affect pricing policies?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-challenges-in-accurately-segmenting-a-market
+    url: /learn/business-and-management/questions/what-are-the-typical-constraints-that-affect-pricing-policies
 related_article4:
-    id: 110220
+    id: 110207
     title: >-
-        What factors influence the structure and design of marketing channels?
+        What are the core concepts of marketing?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-factors-influence-the-structure-and-design-of-marketing-channels
+    url: /learn/business-and-management/questions/what-are-the-core-concepts-of-marketing
 related_article5:
-    id: 110208
+    id: 110229
     title: >-
-        How does the marketing process typically unfold?
+        How do companies measure the effectiveness of their marketing mix?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-does-the-marketing-process-typically-unfold
+    url: /learn/business-and-management/questions/how-do-companies-measure-the-effectiveness-of-their-marketing-mix
 ---
 
 &nbsp;

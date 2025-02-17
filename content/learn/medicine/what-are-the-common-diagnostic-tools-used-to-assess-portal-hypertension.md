@@ -24,35 +24,35 @@ file_name: what-are-the-common-diagnostic-tools-used-to-assess-portal-hypertensi
 url: /learn/medicine/questions/what-are-the-common-diagnostic-tools-used-to-assess-portal-hypertension
 score: -1.0
 related_article1:
-    id: 98993
+    id: 98986
     title: >-
-        How is hepatic hydrothorax managed in cirrhosis patients?
-    subject: Medicine
-    url: /learn/medicine/questions/how-is-hepatic-hydrothorax-managed-in-cirrhosis-patients
+        How can the progression of cirrhosis be slowed or prevented?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-can-the-progression-of-cirrhosis-be-slowed-or-prevented
 related_article2:
-    id: 98999
+    id: 98997
     title: >-
-        How does the presence of ascites influence the prognosis of cirrhosis?
+        How is the risk of acute kidney injury managed in cirrhosis patients?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-the-presence-of-ascites-influence-the-prognosis-of-cirrhosis
+    url: /learn/medicine/questions/how-is-the-risk-of-acute-kidney-injury-managed-in-cirrhosis-patients
 related_article3:
-    id: 98974
+    id: 98987
     title: >-
-        How is acute variceal bleeding managed in patients with liver disease?
-    subject: Medicine
-    url: /learn/medicine/questions/how-is-acute-variceal-bleeding-managed-in-patients-with-liver-disease
+        What role does lifestyle modification play in the management of cirrhosis?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-role-does-lifestyle-modification-play-in-the-management-of-cirrhosis
 related_article4:
-    id: 98978
+    id: 98985
     title: >-
-        What is hepatic hydrothorax and how is it related to liver disease?
+        What are the treatment options for portal vein thrombosis in cirrhosis?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-hepatic-hydrothorax-and-how-is-it-related-to-liver-disease
+    url: /learn/medicine/questions/what-are-the-treatment-options-for-portal-vein-thrombosis-in-cirrhosis
 related_article5:
-    id: 98990
+    id: 98994
     title: >-
-        What are the latest advancements in the treatment of cirrhosis complications?
+        What are the challenges in diagnosing spontaneous bacterial peritonitis?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-latest-advancements-in-the-treatment-of-cirrhosis-complications
+    url: /learn/medicine/questions/what-are-the-challenges-in-diagnosing-spontaneous-bacterial-peritonitis
 ---
 
 &nbsp;

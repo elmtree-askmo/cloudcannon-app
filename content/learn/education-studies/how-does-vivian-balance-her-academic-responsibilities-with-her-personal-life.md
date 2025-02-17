@@ -23,12 +23,7 @@ subject: Education Studies
 file_name: how-does-vivian-balance-her-academic-responsibilities-with-her-personal-life.md
 url: /learn/education-studies/questions/how-does-vivian-balance-her-academic-responsibilities-with-her-personal-life
 score: -1.0
-related_article1:
-    id: 94185
-    title: >-
-        Can you describe some of Vivian's positive experiences in graduate school?
-    subject: Psychology
-    url: /learn/psychology/questions/can-you-describe-some-of-vivians-positive-experiences-in-graduate-school
+
 ---
 
 &nbsp;

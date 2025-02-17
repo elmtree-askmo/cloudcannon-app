@@ -24,29 +24,23 @@ file_name: what-are-the-defining-characteristics-of-negotiable-instruments.md
 url: /learn/criminal-or-civil-law/questions/what-are-the-defining-characteristics-of-negotiable-instruments
 score: -1.0
 related_article1:
-    id: 112174
-    title: >-
-        What are the legal implications of negotiable instruments?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-implications-of-negotiable-instruments
-related_article2:
     id: 112170
     title: >-
         How does an unconditional promise or order relate to negotiable instruments?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/how-does-an-unconditional-promise-or-order-relate-to-negotiable-instruments
-related_article3:
+related_article2:
     id: 112175
     title: >-
         Who is considered a holder in due course and what rights do they have?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/who-is-considered-a-holder-in-due-course-and-what-rights-do-they-have
-related_article4:
-    id: 112183
+related_article3:
+    id: 112174
     title: >-
-        What are best practices for drafting negotiable instruments?
+        What are the legal implications of negotiable instruments?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-best-practices-for-drafting-negotiable-instruments
+    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-implications-of-negotiable-instruments
 ---
 
 &nbsp;

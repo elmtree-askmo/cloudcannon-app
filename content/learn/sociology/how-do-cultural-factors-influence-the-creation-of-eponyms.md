@@ -24,29 +24,35 @@ file_name: how-do-cultural-factors-influence-the-creation-of-eponyms.md
 url: /learn/sociology/questions/how-do-cultural-factors-influence-the-creation-of-eponyms
 score: -1.0
 related_article1:
-    id: 111489
+    id: 111466
     title: >-
-        What are some famous eponyms in history?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-some-famous-eponyms-in-history
+        What are the steps involved in morphemic analysis?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-steps-involved-in-morphemic-analysis
 related_article2:
+    id: 111460
+    title: >-
+        What is the definition of a morpheme?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-definition-of-a-morpheme
+related_article3:
     id: 111484
     title: >-
         Can you provide examples of eponyms in medical terminology?
     subject: Medicine
     url: /learn/medicine/questions/can-you-provide-examples-of-eponyms-in-medical-terminology
-related_article3:
-    id: 111477
-    title: >-
-        Can you provide examples of eponyms in different fields?
-    subject: Medicine
-    url: /learn/medicine/questions/can-you-provide-examples-of-eponyms-in-different-fields
 related_article4:
     id: 111472
     title: >-
         What are motivating and motivated words in linguistics?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-motivating-and-motivated-words-in-linguistics
+related_article5:
+    id: 111470
+    title: >-
+        What is the role of affixes in word formation?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-role-of-affixes-in-word-formation
 ---
 
 &nbsp;

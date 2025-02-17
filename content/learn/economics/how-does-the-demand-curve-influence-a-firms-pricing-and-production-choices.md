@@ -24,11 +24,11 @@ file_name: how-does-the-demand-curve-influence-a-firms-pricing-and-production-ch
 url: /learn/economics/questions/how-does-the-demand-curve-influence-a-firms-pricing-and-production-choices
 score: -1.0
 related_article1:
-    id: 120060
+    id: 120061
     title: >-
-        What strategies do firms use to gain market power?
+        How does strategic price-setting work in competitive markets?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-strategies-do-firms-use-to-gain-market-power
+    url: /learn/business-and-management/questions/how-does-strategic-pricesetting-work-in-competitive-markets
 related_article2:
     id: 120050
     title: >-
@@ -36,11 +36,11 @@ related_article2:
     subject: Economics
     url: /learn/economics/questions/what-is-the-relationship-between-elasticity-and-revenue
 related_article3:
-    id: 120061
+    id: 120060
     title: >-
-        How does strategic price-setting work in competitive markets?
+        What strategies do firms use to gain market power?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-does-strategic-pricesetting-work-in-competitive-markets
+    url: /learn/business-and-management/questions/what-strategies-do-firms-use-to-gain-market-power
 ---
 
 &nbsp;

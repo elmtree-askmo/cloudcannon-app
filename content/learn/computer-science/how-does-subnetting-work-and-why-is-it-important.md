@@ -24,29 +24,35 @@ file_name: how-does-subnetting-work-and-why-is-it-important.md
 url: /learn/computer-science/questions/how-does-subnetting-work-and-why-is-it-important
 score: -1.0
 related_article1:
-    id: 116161
+    id: 116169
     title: >-
-        What roles do routers play in a network?
+        What are the main functions of HTTP and HTTPS protocols?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-roles-do-routers-play-in-a-network
+    url: /learn/computer-science/questions/what-are-the-main-functions-of-http-and-https-protocols
 related_article2:
+    id: 116160
+    title: >-
+        How does a hybrid topology combine different topologies, and what are its advantages?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-a-hybrid-topology-combine-different-topologies-and-what-are-its-advantages
+related_article3:
+    id: 116153
+    title: >-
+        How does a Wide Area Network (WAN) differ from a Metropolitan Area Network (MAN)?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-a-wide-area-network-wan-differ-from-a-metropolitan-area-network-man
+related_article4:
     id: 116155
     title: >-
         What are the advantages and disadvantages of different network topologies?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-advantages-and-disadvantages-of-different-network-topologies
-related_article3:
-    id: 116162
+related_article5:
+    id: 116173
     title: >-
-        How do switches differ from hubs in networking?
+        What are the primary functions of firewalls in network security?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-switches-differ-from-hubs-in-networking
-related_article4:
-    id: 116175
-    title: >-
-        What are the benefits of using VPNs for secure communication?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-are-the-benefits-of-using-vpns-for-secure-communication
+    url: /learn/computer-science/questions/what-are-the-primary-functions-of-firewalls-in-network-security
 ---
 
 &nbsp;

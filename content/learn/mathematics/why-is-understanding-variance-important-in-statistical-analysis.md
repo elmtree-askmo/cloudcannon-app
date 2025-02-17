@@ -24,23 +24,23 @@ file_name: why-is-understanding-variance-important-in-statistical-analysis.md
 url: /learn/mathematics/questions/why-is-understanding-variance-important-in-statistical-analysis
 score: -1.0
 related_article1:
+    id: 119646
+    title: >-
+        How do probability distributions relate to real-world data?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-probability-distributions-relate-to-realworld-data
+related_article2:
     id: 119624
     title: >-
         What is the formula for the variance of a sum of a constant and a random variable?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-formula-for-the-variance-of-a-sum-of-a-constant-and-a-random-variable
-related_article2:
-    id: 119644
-    title: >-
-        How are independent variables defined in the context of statistics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-are-independent-variables-defined-in-the-context-of-statistics
 related_article3:
-    id: 119637
+    id: 119633
     title: >-
-        How is the variance of a Bernoulli variable determined?
+        How is the variance of a uniform distribution calculated?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-the-variance-of-a-bernoulli-variable-determined
+    url: /learn/mathematics/questions/how-is-the-variance-of-a-uniform-distribution-calculated
 related_article4:
     id: 119627
     title: >-

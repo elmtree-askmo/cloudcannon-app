@@ -24,30 +24,24 @@ file_name: how-is-orthogonality-defined-in-inner-product-spaces.md
 url: /learn/mathematics/questions/how-is-orthogonality-defined-in-inner-product-spaces
 score: -1.0
 related_article1:
-    id: 104665
+    id: 104650
     title: >-
-        How are inner product spaces and norms related?
+        Can you explain the difference between row-echelon form and reduced row-echelon form?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-are-inner-product-spaces-and-norms-related
+    url: /learn/mathematics/questions/can-you-explain-the-difference-between-rowechelon-form-and-reduced-rowechelon-form
 related_article2:
-    id: 104660
+    id: 104664
     title: >-
-        What are linear transformations and their key properties?
+        What is the process of orthogonal diagonalization?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-linear-transformations-and-their-key-properties
+    url: /learn/mathematics/questions/what-is-the-process-of-orthogonal-diagonalization
 related_article3:
-    id: 104651
+    id: 104669
     title: >-
-        What are the basic operations that can be performed on matrices?
+        What are canonical forms and how are they used in advanced linear algebra?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-basic-operations-that-can-be-performed-on-matrices
+    url: /learn/mathematics/questions/what-are-canonical-forms-and-how-are-they-used-in-advanced-linear-algebra
 related_article4:
-    id: 104648
-    title: >-
-        How does Gaussian elimination work in solving linear equations?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-gaussian-elimination-work-in-solving-linear-equations
-related_article5:
     id: 104652
     title: >-
         How is matrix-vector multiplication carried out?

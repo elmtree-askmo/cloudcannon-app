@@ -24,17 +24,17 @@ file_name: how-does-the-heros-journey-structure-a-story.md
 url: /learn/art-history-and-literature/questions/how-does-the-heros-journey-structure-a-story
 score: -1.0
 related_article1:
-    id: 120711
+    id: 120691
     title: >-
-        How can one balance creativity and structure in storytelling?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-can-one-balance-creativity-and-structure-in-storytelling
-related_article2:
-    id: 120712
-    title: >-
-        What are some examples of successful stories that use the bottom-up approach?
+        How does sequencing information impact the effectiveness of a story?
     subject: Digital Media
-    url: /learn/digital-media/questions/what-are-some-examples-of-successful-stories-that-use-the-bottomup-approach
+    url: /learn/digital-media/questions/how-does-sequencing-information-impact-the-effectiveness-of-a-story
+related_article2:
+    id: 120705
+    title: >-
+        How do bottom-up and top-down approaches differ in crafting a story?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-do-bottomup-and-topdown-approaches-differ-in-crafting-a-story
 related_article3:
     id: 120713
     title: >-
@@ -42,11 +42,11 @@ related_article3:
     subject: Digital Media
     url: /learn/digital-media/questions/what-are-some-examples-of-successful-stories-that-use-the-topdown-approach
 related_article4:
-    id: 120719
+    id: 120716
     title: >-
-        What are the benefits of using storytelling in presentations?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-benefits-of-using-storytelling-in-presentations
+        How can one effectively transition between different parts of a story?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-can-one-effectively-transition-between-different-parts-of-a-story
 ---
 
 &nbsp;

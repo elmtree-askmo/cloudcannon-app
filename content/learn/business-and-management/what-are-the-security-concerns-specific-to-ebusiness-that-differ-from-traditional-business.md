@@ -24,35 +24,35 @@ file_name: what-are-the-security-concerns-specific-to-ebusiness-that-differ-from
 url: /learn/business-and-management/questions/what-are-the-security-concerns-specific-to-ebusiness-that-differ-from-traditional-business
 score: -1.0
 related_article1:
-    id: 98571
+    id: 98563
     title: >-
-        How is the scope of e-business expected to change in the future?
+        What are the transaction risks associated with e-business?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-is-the-scope-of-ebusiness-expected-to-change-in-the-future
+    url: /learn/business-and-management/questions/what-are-the-transaction-risks-associated-with-ebusiness
 related_article2:
-    id: 98552
-    title: >-
-        How does B2B commerce differ from B2C commerce in the context of e-business?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-does-b2b-commerce-differ-from-b2c-commerce-in-the-context-of-ebusiness
-related_article3:
     id: 98555
     title: >-
         What are the primary benefits of e-business for business organisations?
     subject: Business and Management
     url: /learn/business-and-management/questions/what-are-the-primary-benefits-of-ebusiness-for-business-organisations
+related_article3:
+    id: 98560
+    title: >-
+        What are the common methods for placing an order online?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-the-common-methods-for-placing-an-order-online
 related_article4:
-    id: 98554
+    id: 98547
     title: >-
-        How does C2C commerce operate within the e-business framework?
+        How has digitisation transformed traditional business practices?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-does-c2c-commerce-operate-within-the-ebusiness-framework
+    url: /learn/business-and-management/questions/how-has-digitisation-transformed-traditional-business-practices
 related_article5:
-    id: 98561
+    id: 98558
     title: >-
-        What payment mechanisms are most commonly used in e-business?
+        What are the typical steps involved in online transactions?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-payment-mechanisms-are-most-commonly-used-in-ebusiness
+    url: /learn/business-and-management/questions/what-are-the-typical-steps-involved-in-online-transactions
 ---
 
 &nbsp;

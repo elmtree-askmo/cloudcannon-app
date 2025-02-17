@@ -24,29 +24,35 @@ file_name: what-are-the-common-imaging-characteristics-of-hepatocellular-carcino
 url: /learn/medicine/questions/what-are-the-common-imaging-characteristics-of-hepatocellular-carcinoma
 score: -1.0
 related_article1:
-    id: 118119
-    title: >-
-        What differential diagnoses should be considered in cases of acute pancreatitis?
-    subject: Medicine
-    url: /learn/medicine/questions/what-differential-diagnoses-should-be-considered-in-cases-of-acute-pancreatitis
-related_article2:
-    id: 118138
-    title: >-
-        How does patient history and presentation influence the choice of imaging modality in hepatobiliary conditions?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-patient-history-and-presentation-influence-the-choice-of-imaging-modality-in-hepatobiliary-conditions
-related_article3:
-    id: 118111
-    title: >-
-        What are the specific indications for using imaging in hepatobiliary conditions?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-specific-indications-for-using-imaging-in-hepatobiliary-conditions
-related_article4:
     id: 118115
     title: >-
         Could you describe a case study of acute cholecystitis, focusing on patient presentation and imaging findings?
     subject: Medicine
     url: /learn/medicine/questions/could-you-describe-a-case-study-of-acute-cholecystitis-focusing-on-patient-presentation-and-imaging-findings
+related_article2:
+    id: 118131
+    title: >-
+        What are the key imaging modalities used in the diagnosis of hepatocellular carcinoma?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-key-imaging-modalities-used-in-the-diagnosis-of-hepatocellular-carcinoma
+related_article3:
+    id: 118137
+    title: >-
+        What are the cost considerations associated with different imaging modalities in hepatobiliary diagnosis?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-cost-considerations-associated-with-different-imaging-modalities-in-hepatobiliary-diagnosis
+related_article4:
+    id: 118120
+    title: >-
+        What are the typical treatment and management strategies for acute pancreatitis?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-typical-treatment-and-management-strategies-for-acute-pancreatitis
+related_article5:
+    id: 118116
+    title: >-
+        What are the differential diagnoses for acute cholecystitis based on imaging?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-differential-diagnoses-for-acute-cholecystitis-based-on-imaging
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: in-what-ways-did-the-assassinations-contribute-to-the-rise-of-the-gay
 url: /learn/history-of-the-world/questions/in-what-ways-did-the-assassinations-contribute-to-the-rise-of-the-gay-rights-movement
 score: -1.0
 related_article1:
-    id: 123841
+    id: 123822
     title: >-
-        What was the significance of the Castro district in the context of the gay rights movement?
-    subject: Sociology
-    url: /learn/sociology/questions/what-was-the-significance-of-the-castro-district-in-the-context-of-the-gay-rights-movement
-related_article2:
-    id: 123840
-    title: >-
-        How did the LGBTQ+ community in the Castro district react to the events?
+        What events led to the assassinations of George Moscone and Harvey Milk?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-lgbtq-community-in-the-castro-district-react-to-the-events
+    url: /learn/history-of-the-world/questions/what-events-led-to-the-assassinations-of-george-moscone-and-harvey-milk
+related_article2:
+    id: 123828
+    title: >-
+        How did the public react to the assassinations of George Moscone and Harvey Milk?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-public-react-to-the-assassinations-of-george-moscone-and-harvey-milk
 related_article3:
-    id: 123836
+    id: 123834
     title: >-
-        What were the long-term effects of the assassinations on politics and society?
+        How did the assassinations impact San Francisco as a city?
     subject: Sociology
-    url: /learn/sociology/questions/what-were-the-longterm-effects-of-the-assassinations-on-politics-and-society
+    url: /learn/sociology/questions/how-did-the-assassinations-impact-san-francisco-as-a-city
 related_article4:
-    id: 123846
+    id: 123823
     title: >-
-        How did the White Night Riot affect the relationship between the LGBTQ+ community and law enforcement?
-    subject: Sociology
-    url: /learn/sociology/questions/how-did-the-white-night-riot-affect-the-relationship-between-the-lgbtq-community-and-law-enforcement
+        Can you describe the day of the assassinations and the sequence of events?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/can-you-describe-the-day-of-the-assassinations-and-the-sequence-of-events
 related_article5:
-    id: 123847
+    id: 123827
     title: >-
-        What were the broader societal implications of the "Twinkie Defense" in legal proceedings?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-were-the-broader-societal-implications-of-the-twinkie-defense-in-legal-proceedings
+        What were the political tensions in San Francisco during the 1970s?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-political-tensions-in-san-francisco-during-the-1970s
 ---
 
 &nbsp;

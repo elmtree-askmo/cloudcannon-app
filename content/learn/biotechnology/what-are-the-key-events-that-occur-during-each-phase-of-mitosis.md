@@ -24,23 +24,23 @@ file_name: what-are-the-key-events-that-occur-during-each-phase-of-mitosis.md
 url: /learn/biotechnology/questions/what-are-the-key-events-that-occur-during-each-phase-of-mitosis
 score: -1.0
 related_article1:
-    id: 122388
-    title: >-
-        How does the study of cell division contribute to understanding genetic diseases?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-the-study-of-cell-division-contribute-to-understanding-genetic-diseases
-related_article2:
-    id: 122370
-    title: >-
-        What are the current methods of cancer treatment that target cell division?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-current-methods-of-cancer-treatment-that-target-cell-division
-related_article3:
     id: 122371
     title: >-
         How is genetic material organized within a cell?
     subject: Biotechnology
     url: /learn/biotechnology/questions/how-is-genetic-material-organized-within-a-cell
+related_article2:
+    id: 122388
+    title: >-
+        How does the study of cell division contribute to understanding genetic diseases?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-the-study-of-cell-division-contribute-to-understanding-genetic-diseases
+related_article3:
+    id: 122368
+    title: >-
+        What are the primary causes of uncontrolled cell division leading to cancer?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-primary-causes-of-uncontrolled-cell-division-leading-to-cancer
 ---
 
 &nbsp;

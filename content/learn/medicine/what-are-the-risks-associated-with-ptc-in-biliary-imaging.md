@@ -24,29 +24,35 @@ file_name: what-are-the-risks-associated-with-ptc-in-biliary-imaging.md
 url: /learn/medicine/questions/what-are-the-risks-associated-with-ptc-in-biliary-imaging
 score: -1.0
 related_article1:
-    id: 118073
+    id: 118075
     title: >-
-        What role does imaging play in identifying pathology in the biliary tree and pancreas?
+        What imaging techniques are used for intervention and sampling in biliary and pancreatic conditions?
     subject: Medicine
-    url: /learn/medicine/questions/what-role-does-imaging-play-in-identifying-pathology-in-the-biliary-tree-and-pancreas
+    url: /learn/medicine/questions/what-imaging-techniques-are-used-for-intervention-and-sampling-in-biliary-and-pancreatic-conditions
 related_article2:
-    id: 118077
+    id: 118071
     title: >-
-        What are the latest advancements in imaging technology for the biliary tree and pancreas?
+        What are the advantages and limitations of invasive imaging techniques for the biliary tree?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-latest-advancements-in-imaging-technology-for-the-biliary-tree-and-pancreas
+    url: /learn/medicine/questions/what-are-the-advantages-and-limitations-of-invasive-imaging-techniques-for-the-biliary-tree
 related_article3:
-    id: 118068
+    id: 118062
     title: >-
-        What are the common indications for imaging in biliary tree obstruction?
+        What are the imaging characteristics of cholangiocarcinoma?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-indications-for-imaging-in-biliary-tree-obstruction
+    url: /learn/medicine/questions/what-are-the-imaging-characteristics-of-cholangiocarcinoma
 related_article4:
-    id: 118053
+    id: 118061
     title: >-
-        Can you explain the role of ERCP in diagnosing biliary conditions?
+        What imaging techniques are most effective for detecting biliary strictures?
     subject: Medicine
-    url: /learn/medicine/questions/can-you-explain-the-role-of-ercp-in-diagnosing-biliary-conditions
+    url: /learn/medicine/questions/what-imaging-techniques-are-most-effective-for-detecting-biliary-strictures
+related_article5:
+    id: 118066
+    title: >-
+        What are the imaging features of cystic neoplasms in the pancreas?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-imaging-features-of-cystic-neoplasms-in-the-pancreas
 ---
 
 &nbsp;

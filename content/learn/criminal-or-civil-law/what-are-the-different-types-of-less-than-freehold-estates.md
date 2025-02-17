@@ -24,29 +24,35 @@ file_name: what-are-the-different-types-of-less-than-freehold-estates.md
 url: /learn/criminal-or-civil-law/questions/what-are-the-different-types-of-less-than-freehold-estates
 score: -1.0
 related_article1:
+    id: 96967
+    title: >-
+        What role does transferability play in property value?
+    subject: Economics
+    url: /learn/economics/questions/what-role-does-transferability-play-in-property-value
+related_article2:
     id: 96971
     title: >-
         What is economic obsolescence and how does it affect property value?
     subject: Economics
     url: /learn/economics/questions/what-is-economic-obsolescence-and-how-does-it-affect-property-value
-related_article2:
-    id: 96963
-    title: >-
-        What is joint tenancy and how does it work?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-joint-tenancy-and-how-does-it-work
 related_article3:
-    id: 96968
+    id: 96958
     title: >-
-        How does utility influence property value?
-    subject: Economics
-    url: /learn/economics/questions/how-does-utility-influence-property-value
-related_article4:
-    id: 96960
-    title: >-
-        What is escheat and when does it occur?
+        What is eminent domain and how does it affect property ownership?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-escheat-and-when-does-it-occur
+    url: /learn/criminal-or-civil-law/questions/what-is-eminent-domain-and-how-does-it-affect-property-ownership
+related_article4:
+    id: 96961
+    title: >-
+        What is ownership in severalty?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-is-ownership-in-severalty
+related_article5:
+    id: 96965
+    title: >-
+        What are the essential elements of value in property?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-essential-elements-of-value-in-property
 ---
 
 &nbsp;

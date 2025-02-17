@@ -23,30 +23,7 @@ subject: Computer Science
 file_name: how-do-http-and-https-protocols-ensure-secure-communication.md
 url: /learn/computer-science/questions/how-do-http-and-https-protocols-ensure-secure-communication
 score: -1.0
-related_article1:
-    id: 116145
-    title: >-
-        How does Linux contribute to the development of new networking technologies?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-linux-contribute-to-the-development-of-new-networking-technologies
-related_article2:
-    id: 116125
-    title: >-
-        What are the main differences between TCP and UDP protocols?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-differences-between-tcp-and-udp-protocols
-related_article3:
-    id: 116124
-    title: >-
-        How does the TCP/IP protocol work?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-tcpip-protocol-work
-related_article4:
-    id: 116121
-    title: >-
-        How do Linux distributions differ from one another?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-linux-distributions-differ-from-one-another
+
 ---
 
 &nbsp;

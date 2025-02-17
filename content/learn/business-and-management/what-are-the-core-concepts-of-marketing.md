@@ -24,35 +24,35 @@ file_name: what-are-the-core-concepts-of-marketing.md
 url: /learn/business-and-management/questions/what-are-the-core-concepts-of-marketing
 score: -1.0
 related_article1:
-    id: 110223
+    id: 110214
     title: >-
-        How do companies decide on the size and structure of their sales force?
+        Can you explain the elements of the marketing mix?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-do-companies-decide-on-the-size-and-structure-of-their-sales-force
+    url: /learn/business-and-management/questions/can-you-explain-the-elements-of-the-marketing-mix
 related_article2:
-    id: 110218
+    id: 110222
     title: >-
-        What are the different pricing methods used by businesses?
+        What are the key considerations in making advertising decisions?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-different-pricing-methods-used-by-businesses
+    url: /learn/business-and-management/questions/what-are-the-key-considerations-in-making-advertising-decisions
 related_article3:
-    id: 110230
+    id: 110209
     title: >-
-        What are the advantages and disadvantages of different pricing methods?
+        What are the key components of the marketing environment?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-advantages-and-disadvantages-of-different-pricing-methods
+    url: /learn/business-and-management/questions/what-are-the-key-components-of-the-marketing-environment
 related_article4:
+    id: 110212
+    title: >-
+        How do companies determine their target market?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-do-companies-determine-their-target-market
+related_article5:
     id: 110213
     title: >-
         What is the role of positioning in marketing strategy?
     subject: Business and Management
     url: /learn/business-and-management/questions/what-is-the-role-of-positioning-in-marketing-strategy
-related_article5:
-    id: 110220
-    title: >-
-        What factors influence the structure and design of marketing channels?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-factors-influence-the-structure-and-design-of-marketing-channels
 ---
 
 &nbsp;

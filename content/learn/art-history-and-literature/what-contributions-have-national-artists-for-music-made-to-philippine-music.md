@@ -24,29 +24,29 @@ file_name: what-contributions-have-national-artists-for-music-made-to-philippine
 url: /learn/art-history-and-literature/questions/what-contributions-have-national-artists-for-music-made-to-philippine-music
 score: -1.0
 related_article1:
-    id: 116095
+    id: 116098
     title: >-
-        Can you provide a brief biography of Nicanor Abelardo?
+        What are some notable works of Antonio J. Molina?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/can-you-provide-a-brief-biography-of-nicanor-abelardo
+    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-antonio-j-molina
 related_article2:
-    id: 116103
+    id: 116110
     title: >-
-        Can you provide a brief biography of Rodulfo S. Cornejo?
+        What are some notable works of Rosendo E. Santos Jr.?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/can-you-provide-a-brief-biography-of-rodulfo-s-cornejo
+    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-rosendo-e-santos-jr
 related_article3:
-    id: 116115
+    id: 116094
     title: >-
-        What are the main stylistic movements in contemporary Philippine music?
+        What are some notable works of Francisco Santiago?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-main-stylistic-movements-in-contemporary-philippine-music
+    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-francisco-santiago
 related_article4:
-    id: 116096
+    id: 116114
     title: >-
-        What are some notable works of Nicanor Abelardo?
+        What are some notable works of Ryan Cayabyab?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-nicanor-abelardo
+    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-ryan-cayabyab
 ---
 
 &nbsp;

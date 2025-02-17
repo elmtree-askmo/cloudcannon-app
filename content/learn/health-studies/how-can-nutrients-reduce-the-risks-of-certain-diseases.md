@@ -24,11 +24,11 @@ file_name: how-can-nutrients-reduce-the-risks-of-certain-diseases.md
 url: /learn/health-studies/questions/how-can-nutrients-reduce-the-risks-of-certain-diseases
 score: -1.0
 related_article1:
-    id: 104338
+    id: 104344
     title: >-
-        In what ways do nutrients regulate and control body processes?
+        What methods are used to analyze nutrients in food?
     subject: Health Studies
-    url: /learn/health-studies/questions/in-what-ways-do-nutrients-regulate-and-control-body-processes
+    url: /learn/health-studies/questions/what-methods-are-used-to-analyze-nutrients-in-food
 related_article2:
     id: 104337
     title: >-
@@ -36,11 +36,17 @@ related_article2:
     subject: Health Studies
     url: /learn/health-studies/questions/how-do-nutrients-provide-energy-to-the-body
 related_article3:
-    id: 104345
+    id: 104335
     title: >-
-        How can My Healthy Plate be applied to main meals?
+        How are nutrients classified based on molecular structures?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-can-my-healthy-plate-be-applied-to-main-meals
+    url: /learn/health-studies/questions/how-are-nutrients-classified-based-on-molecular-structures
+related_article4:
+    id: 104336
+    title: >-
+        What is the difference between essential and non-essential nutrients?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-difference-between-essential-and-nonessential-nutrients
 ---
 
 &nbsp;

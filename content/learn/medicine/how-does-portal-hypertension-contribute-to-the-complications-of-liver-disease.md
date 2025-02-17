@@ -24,11 +24,11 @@ file_name: how-does-portal-hypertension-contribute-to-the-complications-of-liver
 url: /learn/medicine/questions/how-does-portal-hypertension-contribute-to-the-complications-of-liver-disease
 score: -1.0
 related_article1:
-    id: 98971
+    id: 98983
     title: >-
-        What are the primary causes of cirrhosis?
+        What are the potential complications of advanced liver disease?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-primary-causes-of-cirrhosis
+    url: /learn/medicine/questions/what-are-the-potential-complications-of-advanced-liver-disease
 related_article2:
     id: 98999
     title: >-
@@ -36,23 +36,17 @@ related_article2:
     subject: Medicine
     url: /learn/medicine/questions/how-does-the-presence-of-ascites-influence-the-prognosis-of-cirrhosis
 related_article3:
-    id: 98989
+    id: 98975
     title: >-
-        How is the severity of cirrhosis assessed in clinical practice?
+        What are the long-term management strategies for variceal bleeding?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-the-severity-of-cirrhosis-assessed-in-clinical-practice
+    url: /learn/medicine/questions/what-are-the-longterm-management-strategies-for-variceal-bleeding
 related_article4:
-    id: 98991
+    id: 98979
     title: >-
-        How does ascites affect the quality of life in cirrhosis patients?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-ascites-affect-the-quality-of-life-in-cirrhosis-patients
-related_article5:
-    id: 98980
-    title: >-
-        How does acute kidney injury occur in patients with cirrhosis?
+        What are the risk factors for portal vein thrombosis in cirrhosis patients?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-acute-kidney-injury-occur-in-patients-with-cirrhosis
+    url: /learn/medicine/questions/what-are-the-risk-factors-for-portal-vein-thrombosis-in-cirrhosis-patients
 ---
 
 &nbsp;

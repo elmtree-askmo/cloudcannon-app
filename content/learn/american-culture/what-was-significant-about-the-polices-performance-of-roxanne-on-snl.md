@@ -24,35 +24,35 @@ file_name: what-was-significant-about-the-polices-performance-of-roxanne-on-snl.
 url: /learn/american-culture/questions/what-was-significant-about-the-polices-performance-of-roxanne-on-snl
 score: -1.0
 related_article1:
-    id: 1001
+    id: 1006
     title: >-
-        What is the main comedic element in the 'More Cowbell' sketch?
+        What are the defining characteristics of Matt Foley as a motivational speaker character?
     subject: American Culture
-    url: /learn/american-culture/questions/what-is-the-main-comedic-element-in-the-more-cowbell-sketch
+    url: /learn/american-culture/questions/what-are-the-defining-characteristics-of-matt-foley-as-a-motivational-speaker-character
 related_article2:
+    id: 1011
+    title: >-
+        What is notable about Harry Styles' dual role as host and musical guest on SNL?
+    subject: American Culture
+    url: /learn/american-culture/questions/what-is-notable-about-harry-styles-dual-role-as-host-and-musical-guest-on-snl
+related_article3:
     id: 1026
     title: >-
         How did Tina Fey's role as the first female head writer impact SNL's comedy history?
     subject: American Culture
     url: /learn/american-culture/questions/how-did-tina-feys-role-as-the-first-female-head-writer-impact-snls-comedy-history
-related_article3:
-    id: 1013
-    title: >-
-        What made The Weeknd's performance of 'Can't Feel My Face' memorable on SNL?
-    subject: American Culture
-    url: /learn/american-culture/questions/what-made-the-weeknds-performance-of-cant-feel-my-face-memorable-on-snl
 related_article4:
-    id: 1010
+    id: 1001
     title: >-
-        Why was Nirvana's performance of 'Smells Like Teen Spirit' on SNL considered iconic?
+        What is the main comedic element in the 'More Cowbell' sketch?
     subject: American Culture
-    url: /learn/american-culture/questions/why-was-nirvanas-performance-of-smells-like-teen-spirit-on-snl-considered-iconic
+    url: /learn/american-culture/questions/what-is-the-main-comedic-element-in-the-more-cowbell-sketch
 related_article5:
-    id: 1029
+    id: 1022
     title: >-
-        How does the parody song 'King Tut' reflect SNL's approach to comedic music videos?
+        What distinguishes digital shorts from live performances in SNL's sketch formats?
     subject: American Culture
-    url: /learn/american-culture/questions/how-does-the-parody-song-king-tut-reflect-snls-approach-to-comedic-music-videos
+    url: /learn/american-culture/questions/what-distinguishes-digital-shorts-from-live-performances-in-snls-sketch-formats
 ---
 
 &nbsp;

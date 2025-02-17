@@ -24,35 +24,35 @@ file_name: how-does-donnes-metaphysical-exploration-of-love-differ-from-other-po
 url: /learn/art-history-and-literature/questions/how-does-donnes-metaphysical-exploration-of-love-differ-from-other-poets-of-his-time
 score: -1.0
 related_article1:
-    id: 110273
+    id: 110272
     title: >-
-        What is the main argument presented in the second stanza of 'The Sun Rising'?
+        How does Donne's use of language in the first stanza reflect the poem's themes?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-main-argument-presented-in-the-second-stanza-of-the-sun-rising
+    url: /learn/art-history-and-literature/questions/how-does-donnes-use-of-language-in-the-first-stanza-reflect-the-poems-themes
 related_article2:
-    id: 110270
+    id: 110274
     title: >-
-        How does Donne establish the tone in the first stanza of 'The Sun Rising'?
+        How does Donne use hyperbole in the second stanza of 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-donne-establish-the-tone-in-the-first-stanza-of-the-sun-rising
+    url: /learn/art-history-and-literature/questions/how-does-donne-use-hyperbole-in-the-second-stanza-of-the-sun-rising
 related_article3:
-    id: 110293
+    id: 110277
     title: >-
-        What is the significance of personification in 'The Sun Rising'?
+        What is the significance of the cosmic imagery in the second stanza of 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-significance-of-personification-in-the-sun-rising
+    url: /learn/art-history-and-literature/questions/what-is-the-significance-of-the-cosmic-imagery-in-the-second-stanza-of-the-sun-rising
 related_article4:
-    id: 110294
+    id: 110283
     title: >-
-        How does Donne's playful mockery of celestial authority contribute to the poem's meaning?
+        What is the significance of the imagery in the third stanza of 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-donnes-playful-mockery-of-celestial-authority-contribute-to-the-poems-meaning
+    url: /learn/art-history-and-literature/questions/what-is-the-significance-of-the-imagery-in-the-third-stanza-of-the-sun-rising
 related_article5:
-    id: 110285
+    id: 110276
     title: >-
-        What are the overall themes of 'The Sun Rising'?
+        How does Donne's wit and humor manifest in the second stanza of 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-overall-themes-of-the-sun-rising
+    url: /learn/art-history-and-literature/questions/how-does-donnes-wit-and-humor-manifest-in-the-second-stanza-of-the-sun-rising
 ---
 
 &nbsp;

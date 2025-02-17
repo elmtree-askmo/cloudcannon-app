@@ -23,12 +23,7 @@ subject: Health Studies
 file_name: how-does-eutrophication-research-contribute-to-our-understanding-of-ecosystems.md
 url: /learn/health-studies/questions/how-does-eutrophication-research-contribute-to-our-understanding-of-ecosystems
 score: -1.0
-related_article1:
-    id: 116654
-    title: >-
-        How did the discovery of DNA structure impact ecological research?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/how-did-the-discovery-of-dna-structure-impact-ecological-research
+
 ---
 
 &nbsp;

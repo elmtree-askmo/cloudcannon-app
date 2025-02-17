@@ -24,11 +24,11 @@ file_name: in-what-ways-does-the-unfrozen-caveman-lawyer-sketch-incorporate-hist
 url: /learn/american-culture/questions/in-what-ways-does-the-unfrozen-caveman-lawyer-sketch-incorporate-historical-themes
 score: -1.0
 related_article1:
-    id: 1020
+    id: 1011
     title: >-
-        How did Stuart Smalley become a notable guest host character on SNL?
+        What is notable about Harry Styles' dual role as host and musical guest on SNL?
     subject: American Culture
-    url: /learn/american-culture/questions/how-did-stuart-smalley-become-a-notable-guest-host-character-on-snl
+    url: /learn/american-culture/questions/what-is-notable-about-harry-styles-dual-role-as-host-and-musical-guest-on-snl
 related_article2:
     id: 1006
     title: >-
@@ -36,12 +36,18 @@ related_article2:
     subject: American Culture
     url: /learn/american-culture/questions/what-are-the-defining-characteristics-of-matt-foley-as-a-motivational-speaker-character
 related_article3:
-    id: 1009
+    id: 1017
     title: >-
-        What was significant about The Police's performance of 'Roxanne' on SNL?
+        What cultural impact did Steve Martin's 'King Tut' have on SNL?
     subject: American Culture
-    url: /learn/american-culture/questions/what-was-significant-about-the-polices-performance-of-roxanne-on-snl
+    url: /learn/american-culture/questions/what-cultural-impact-did-steve-martins-king-tut-have-on-snl
 related_article4:
+    id: 1016
+    title: >-
+        What made Tina Fey's impersonation of Sarah Palin impactful in political satire?
+    subject: American Culture
+    url: /learn/american-culture/questions/what-made-tina-feys-impersonation-of-sarah-palin-impactful-in-political-satire
+related_article5:
     id: 1002
     title: >-
         How does 'Schweddy Balls' utilize innuendo for comedic effect?

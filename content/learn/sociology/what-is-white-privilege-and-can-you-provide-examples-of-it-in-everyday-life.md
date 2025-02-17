@@ -24,17 +24,17 @@ file_name: what-is-white-privilege-and-can-you-provide-examples-of-it-in-everyda
 url: /learn/sociology/questions/what-is-white-privilege-and-can-you-provide-examples-of-it-in-everyday-life
 score: -1.0
 related_article1:
-    id: 96678
-    title: >-
-        What are the current employment and income disparities related to institutional discrimination?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-current-employment-and-income-disparities-related-to-institutional-discrimination
-related_article2:
     id: 96686
     title: >-
         Can you provide examples of cultural appropriation in modern society?
     subject: Sociology
     url: /learn/sociology/questions/can-you-provide-examples-of-cultural-appropriation-in-modern-society
+related_article2:
+    id: 96678
+    title: >-
+        What are the current employment and income disparities related to institutional discrimination?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-current-employment-and-income-disparities-related-to-institutional-discrimination
 ---
 
 &nbsp;

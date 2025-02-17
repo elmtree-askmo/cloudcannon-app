@@ -24,29 +24,35 @@ file_name: what-are-some-examples-of-personalized-management-strategies-for-thyr
 url: /learn/medicine/questions/what-are-some-examples-of-personalized-management-strategies-for-thyroid-cancer
 score: -1.0
 related_article1:
-    id: 123975
+    id: 123990
     title: >-
-        What are the characteristics of differential thyroid carcinoma?
+        What are the surgical treatment options for thyroid cancer?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-characteristics-of-differential-thyroid-carcinoma
+    url: /learn/medicine/questions/what-are-the-surgical-treatment-options-for-thyroid-cancer
 related_article2:
+    id: 123979
+    title: >-
+        How is ultrasound used in the assessment of thyroid nodules?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-ultrasound-used-in-the-assessment-of-thyroid-nodules
+related_article3:
     id: 123981
     title: >-
         How does molecular testing contribute to the investigation of thyroid nodules?
     subject: Medicine
     url: /learn/medicine/questions/how-does-molecular-testing-contribute-to-the-investigation-of-thyroid-nodules
-related_article3:
-    id: 123987
-    title: >-
-        How is well-differentiated thyroid cancer different from medullary and anaplastic thyroid cancer?
-    subject: Medicine
-    url: /learn/medicine/questions/how-is-welldifferentiated-thyroid-cancer-different-from-medullary-and-anaplastic-thyroid-cancer
 related_article4:
-    id: 123996
+    id: 123983
     title: >-
-        Why is it important to have individualized treatment plans for thyroid cancer?
+        What are the indications for treating benign thyroid nodules?
     subject: Medicine
-    url: /learn/medicine/questions/why-is-it-important-to-have-individualized-treatment-plans-for-thyroid-cancer
+    url: /learn/medicine/questions/what-are-the-indications-for-treating-benign-thyroid-nodules
+related_article5:
+    id: 123992
+    title: >-
+        What adjuvant therapies are available for thyroid cancer management?
+    subject: Medicine
+    url: /learn/medicine/questions/what-adjuvant-therapies-are-available-for-thyroid-cancer-management
 ---
 
 &nbsp;

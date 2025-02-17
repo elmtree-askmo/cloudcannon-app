@@ -24,35 +24,35 @@ file_name: what-are-the-most-commonly-used-email-protocols-and-their-purposes.md
 url: /learn/computer-science/questions/what-are-the-most-commonly-used-email-protocols-and-their-purposes
 score: -1.0
 related_article1:
-    id: 122268
+    id: 122259
     title: >-
-        How can hands-on experience with network services be beneficial for IT professionals?
+        What is the LAMP stack and how is it used in web services?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-handson-experience-with-network-services-be-beneficial-for-it-professionals
+    url: /learn/computer-science/questions/what-is-the-lamp-stack-and-how-is-it-used-in-web-services
 related_article2:
+    id: 122246
+    title: >-
+        How does a print server facilitate network printing?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-a-print-server-facilitate-network-printing
+related_article3:
     id: 122254
     title: >-
         What functionalities does a web server provide in a network?
     subject: Computer Science
     url: /learn/computer-science/questions/what-functionalities-does-a-web-server-provide-in-a-network
-related_article3:
-    id: 122249
-    title: >-
-        How does software development impact network printing solutions?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-software-development-impact-network-printing-solutions
 related_article4:
-    id: 122253
+    id: 122261
     title: >-
-        How is storage managed in relation to DBMS?
+        How do Active Directory and LDAP function in directory services?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-storage-managed-in-relation-to-dbms
+    url: /learn/computer-science/questions/how-do-active-directory-and-ldap-function-in-directory-services
 related_article5:
-    id: 122247
+    id: 122242
     title: >-
-        What are the advantages of using network printing over traditional printing methods?
+        What are the primary functions of a file server in a network?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-advantages-of-using-network-printing-over-traditional-printing-methods
+    url: /learn/computer-science/questions/what-are-the-primary-functions-of-a-file-server-in-a-network
 ---
 
 &nbsp;

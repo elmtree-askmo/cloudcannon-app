@@ -24,35 +24,35 @@ file_name: how-does-the-treatment-of-metastatic-liver-cancer-differ-from-primary
 url: /learn/medicine/questions/how-does-the-treatment-of-metastatic-liver-cancer-differ-from-primary-liver-cancers
 score: -1.0
 related_article1:
-    id: 97076
+    id: 97071
     title: >-
-        How does early detection impact the prognosis of liver cancer?
+        What are the survival rates for different types of liver cancer?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-early-detection-impact-the-prognosis-of-liver-cancer
+    url: /learn/health-studies/questions/what-are-the-survival-rates-for-different-types-of-liver-cancer
 related_article2:
-    id: 97072
+    id: 97068
     title: >-
-        What are the potential complications of untreated liver cancer?
+        What role do imaging techniques play in the diagnosis of liver cancer?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-potential-complications-of-untreated-liver-cancer
+    url: /learn/medicine/questions/what-role-do-imaging-techniques-play-in-the-diagnosis-of-liver-cancer
 related_article3:
-    id: 97075
+    id: 97062
     title: >-
-        What lifestyle changes are recommended for liver cancer patients?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-lifestyle-changes-are-recommended-for-liver-cancer-patients
+        How does Cholangiocarcinoma differ from other types of liver cancer?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-cholangiocarcinoma-differ-from-other-types-of-liver-cancer
 related_article4:
-    id: 97054
+    id: 97060
     title: >-
-        What is the clinical approach to identifying liver masses?
+        How does the etiology of HCC differ from other liver cancers?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-the-clinical-approach-to-identifying-liver-masses
+    url: /learn/medicine/questions/how-does-the-etiology-of-hcc-differ-from-other-liver-cancers
 related_article5:
-    id: 97059
+    id: 97056
     title: >-
-        What investigations are typically conducted for liver cancer diagnosis?
+        What are the differential diagnoses for hepatomegaly?
     subject: Medicine
-    url: /learn/medicine/questions/what-investigations-are-typically-conducted-for-liver-cancer-diagnosis
+    url: /learn/medicine/questions/what-are-the-differential-diagnoses-for-hepatomegaly
 ---
 
 &nbsp;

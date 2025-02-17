@@ -24,23 +24,11 @@ file_name: how-do-pet-scans-function-in-the-context-of-brain-imaging.md
 url: /learn/medicine/questions/how-do-pet-scans-function-in-the-context-of-brain-imaging
 score: -1.0
 related_article1:
-    id: 123754
-    title: >-
-        What are the main functional brain imaging techniques used in cognitive neuroscience?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-functional-brain-imaging-techniques-used-in-cognitive-neuroscience
-related_article2:
     id: 123750
     title: >-
         What were the significant advances in psychology during the 1980s?
     subject: Psychology
     url: /learn/psychology/questions/what-were-the-significant-advances-in-psychology-during-the-1980s
-related_article3:
-    id: 123741
-    title: >-
-        How do schemas influence memory formation and recall?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-schemas-influence-memory-formation-and-recall
 ---
 
 &nbsp;

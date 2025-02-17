@@ -24,29 +24,29 @@ file_name: how-can-linux-be-integrated-with-other-operating-systems-in-a-network
 url: /learn/computer-science/questions/how-can-linux-be-integrated-with-other-operating-systems-in-a-network
 score: -1.0
 related_article1:
-    id: 116126
+    id: 116145
     title: >-
-        How do HTTP and HTTPS protocols ensure secure communication?
+        How does Linux contribute to the development of new networking technologies?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-http-and-https-protocols-ensure-secure-communication
+    url: /learn/computer-science/questions/how-does-linux-contribute-to-the-development-of-new-networking-technologies
 related_article2:
-    id: 116122
+    id: 116133
     title: >-
-        What are the most commonly used command line networking tools in Linux?
+        What are some emerging technologies in networking?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-most-commonly-used-command-line-networking-tools-in-linux
+    url: /learn/computer-science/questions/what-are-some-emerging-technologies-in-networking
 related_article3:
-    id: 116123
-    title: >-
-        Are there any graphical networking tools available in Linux?
-    subject: Computer Science
-    url: /learn/computer-science/questions/are-there-any-graphical-networking-tools-available-in-linux
-related_article4:
     id: 116130
     title: >-
         What are the steps involved in setting up a database server on Linux?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-steps-involved-in-setting-up-a-database-server-on-linux
+related_article4:
+    id: 116132
+    title: >-
+        What diagnostic tools are available for troubleshooting networking issues in Linux?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-diagnostic-tools-are-available-for-troubleshooting-networking-issues-in-linux
 ---
 
 &nbsp;

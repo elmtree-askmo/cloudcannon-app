@@ -13,7 +13,7 @@ seo:
   page_description: >-
     Explores the processes of mourning and healing in Hawaiian culture, emphasizing community, traditional practices, and the understanding of grief as a natural part of life.
   page_keywords: >-
-    Hawaiian culture, mourning, healing, community support, 'ohana, traditional practices, kaumaha, grief, rituals, prayers, ka-ku-ai, cultural values, Hui Mālama Ola Nā 'Ōiwi, modern influences, cultural activism, death, bereavement
+    Hawaiian culture, mourning, healing, community support, 'ohana, traditional practices, kaumaha, grief, rituals, prayers, ka-ku-ai, cultural values, Hui Mlama Ola N 'iwi, modern influences, cultural activism, death, bereavement
 author: QuickTakes
 question: >-
     What are the processes of mourning and healing in Hawaiian culture?
@@ -30,23 +30,29 @@ related_article1:
     subject: Sociology
     url: /learn/sociology/questions/what-are-the-current-debates-surrounding-hawaiian-sovereignty-and-independence
 related_article2:
-    id: 104628
+    id: 104619
     title: >-
-        How does storytelling play a role in transforming shame within Hawaiian communities?
-    subject: Sociology
-    url: /learn/sociology/questions/how-does-storytelling-play-a-role-in-transforming-shame-within-hawaiian-communities
+        How did the population of Hawaii decline during the colonial period?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-population-of-hawaii-decline-during-the-colonial-period
 related_article3:
-    id: 104638
+    id: 104632
     title: >-
-        What are the ongoing struggles faced by Native Hawaiians in preserving their culture?
+        How did Israel Kamakawiwo`ole influence Hawaiian cultural identity and activism?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-ongoing-struggles-faced-by-native-hawaiians-in-preserving-their-culture
+    url: /learn/sociology/questions/how-did-israel-kamakawiwoole-influence-hawaiian-cultural-identity-and-activism
 related_article4:
-    id: 104635
+    id: 104623
     title: >-
-        What are the contemporary challenges facing Hawaiian cultural identity?
+        What are the key initiatives for language preservation in Hawaii?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-initiatives-for-language-preservation-in-hawaii
+related_article5:
+    id: 104640
+    title: >-
+        How do personal narratives contribute to the understanding of Hawaiian identity?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-contemporary-challenges-facing-hawaiian-cultural-identity
+    url: /learn/sociology/questions/how-do-personal-narratives-contribute-to-the-understanding-of-hawaiian-identity
 ---
 
 &nbsp;

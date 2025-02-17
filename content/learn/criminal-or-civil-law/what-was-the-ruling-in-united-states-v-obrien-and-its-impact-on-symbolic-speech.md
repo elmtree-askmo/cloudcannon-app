@@ -24,17 +24,23 @@ file_name: what-was-the-ruling-in-united-states-v-obrien-and-its-impact-on-symbo
 url: /learn/criminal-or-civil-law/questions/what-was-the-ruling-in-united-states-v-obrien-and-its-impact-on-symbolic-speech
 score: -1.0
 related_article1:
-    id: 122079
+    id: 122097
     title: >-
-        How did the McCullen v. Coakley case impact public forum law?
+        How do content-neutral restrictions apply to symbolic speech?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-did-the-mccullen-v-coakley-case-impact-public-forum-law
+    url: /learn/criminal-or-civil-law/questions/how-do-contentneutral-restrictions-apply-to-symbolic-speech
 related_article2:
     id: 122090
     title: >-
         What is the legal concept of overbreadth and how does it apply to First Amendment cases?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-is-the-legal-concept-of-overbreadth-and-how-does-it-apply-to-first-amendment-cases
+related_article3:
+    id: 122079
+    title: >-
+        How did the McCullen v. Coakley case impact public forum law?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-did-the-mccullen-v-coakley-case-impact-public-forum-law
 ---
 
 &nbsp;

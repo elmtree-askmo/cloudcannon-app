@@ -24,17 +24,17 @@ file_name: in-what-ways-is-gender-represented-in-literature.md
 url: /learn/art-history-and-literature/questions/in-what-ways-is-gender-represented-in-literature
 score: -1.0
 related_article1:
-    id: 111432
+    id: 111444
     title: >-
-        What are the most common techniques used in textual analysis?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-are-the-most-common-techniques-used-in-textual-analysis
-related_article2:
-    id: 111430
-    title: >-
-        What is the primary purpose of literary theory?
+        Why is close reading considered important in literary analysis?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-primary-purpose-of-literary-theory
+    url: /learn/art-history-and-literature/questions/why-is-close-reading-considered-important-in-literary-analysis
+related_article2:
+    id: 111443
+    title: >-
+        What are the key techniques for effective close reading?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-the-key-techniques-for-effective-close-reading
 related_article3:
     id: 111446
     title: >-
@@ -42,11 +42,17 @@ related_article3:
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-are-theoretical-frameworks-applied-in-literary-analysis
 related_article4:
-    id: 111458
+    id: 111431
     title: >-
-        What role does reader-response theory play in textual analysis?
+        How do key concepts in literary theory influence textual analysis?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-does-readerresponse-theory-play-in-textual-analysis
+    url: /learn/art-history-and-literature/questions/how-do-key-concepts-in-literary-theory-influence-textual-analysis
+related_article5:
+    id: 111447
+    title: >-
+        Why is clear argumentation important in literary writing?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/why-is-clear-argumentation-important-in-literary-writing
 ---
 
 &nbsp;

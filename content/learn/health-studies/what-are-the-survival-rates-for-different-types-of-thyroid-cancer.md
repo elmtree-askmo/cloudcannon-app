@@ -24,29 +24,35 @@ file_name: what-are-the-survival-rates-for-different-types-of-thyroid-cancer.md
 url: /learn/health-studies/questions/what-are-the-survival-rates-for-different-types-of-thyroid-cancer
 score: -1.0
 related_article1:
-    id: 123977
+    id: 123981
     title: >-
-        How often are thyroid nodules found incidentally?
+        How does molecular testing contribute to the investigation of thyroid nodules?
     subject: Medicine
-    url: /learn/medicine/questions/how-often-are-thyroid-nodules-found-incidentally
+    url: /learn/medicine/questions/how-does-molecular-testing-contribute-to-the-investigation-of-thyroid-nodules
 related_article2:
-    id: 123983
+    id: 123970
     title: >-
-        What are the indications for treating benign thyroid nodules?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-indications-for-treating-benign-thyroid-nodules
+        How does the prevalence of thyroid nodules vary across different demographics?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-prevalence-of-thyroid-nodules-vary-across-different-demographics
 related_article3:
-    id: 123985
+    id: 123992
     title: >-
-        What non-surgical options exist for the management of benign thyroid nodules?
+        What adjuvant therapies are available for thyroid cancer management?
     subject: Medicine
-    url: /learn/medicine/questions/what-nonsurgical-options-exist-for-the-management-of-benign-thyroid-nodules
+    url: /learn/medicine/questions/what-adjuvant-therapies-are-available-for-thyroid-cancer-management
 related_article4:
-    id: 123978
+    id: 123993
     title: >-
-        What blood tests are typically conducted to investigate thyroid nodules?
+        How is the prognosis of thyroid cancer determined?
     subject: Medicine
-    url: /learn/medicine/questions/what-blood-tests-are-typically-conducted-to-investigate-thyroid-nodules
+    url: /learn/medicine/questions/how-is-the-prognosis-of-thyroid-cancer-determined
+related_article5:
+    id: 123984
+    title: >-
+        What surgical options are available for managing benign thyroid nodules?
+    subject: Medicine
+    url: /learn/medicine/questions/what-surgical-options-are-available-for-managing-benign-thyroid-nodules
 ---
 
 &nbsp;

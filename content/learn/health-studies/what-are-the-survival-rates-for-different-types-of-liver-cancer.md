@@ -24,29 +24,29 @@ file_name: what-are-the-survival-rates-for-different-types-of-liver-cancer.md
 url: /learn/health-studies/questions/what-are-the-survival-rates-for-different-types-of-liver-cancer
 score: -1.0
 related_article1:
-    id: 97047
+    id: 97050
     title: >-
-        What are the primary causes of Hepatocellular Carcinoma (HCC)?
+        What are the key characteristics of Cholangiocarcinoma?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-primary-causes-of-hepatocellular-carcinoma-hcc
+    url: /learn/medicine/questions/what-are-the-key-characteristics-of-cholangiocarcinoma
 related_article2:
-    id: 97058
+    id: 97048
     title: >-
-        What are the common risk factors for liver cancer in Hong Kong?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-common-risk-factors-for-liver-cancer-in-hong-kong
+        How is Hepatocellular Carcinoma (HCC) typically diagnosed?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-hepatocellular-carcinoma-hcc-typically-diagnosed
 related_article3:
-    id: 97063
+    id: 97064
     title: >-
-        What are the challenges in diagnosing Cholangiocarcinoma?
+        What are the common symptoms of Metastatic Liver Cancer?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-challenges-in-diagnosing-cholangiocarcinoma
+    url: /learn/medicine/questions/what-are-the-common-symptoms-of-metastatic-liver-cancer
 related_article4:
-    id: 97055
+    id: 97053
     title: >-
-        How is hepatomegaly clinically approached?
+        What treatment options are available for Metastatic Liver Cancer?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-hepatomegaly-clinically-approached
+    url: /learn/medicine/questions/what-treatment-options-are-available-for-metastatic-liver-cancer
 ---
 
 &nbsp;

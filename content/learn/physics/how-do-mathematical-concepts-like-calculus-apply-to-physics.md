@@ -13,7 +13,7 @@ seo:
   page_description: >-
     This content explains the applications of calculus in various branches of physics, including dynamics, mechanics, electromagnetism, thermodynamics, relativity, and quantum mechanics, highlighting its importance in understanding and modeling physical phenomena.
   page_keywords: >-
-    calculus, physics, motion, dynamics, classical mechanics, electromagnetism, thermodynamics, statistical mechanics, relativity, wave mechanics, quantum mechanics, mathematical modeling, derivatives, integrals, Maxwell's equations, Schrödinger equation
+    calculus, physics, motion, dynamics, classical mechanics, electromagnetism, thermodynamics, statistical mechanics, relativity, wave mechanics, quantum mechanics, mathematical modeling, derivatives, integrals, Maxwell's equations, Schrdinger equation
 author: QuickTakes
 question: >-
     How do mathematical concepts like calculus apply to physics?
@@ -24,35 +24,35 @@ file_name: how-do-mathematical-concepts-like-calculus-apply-to-physics.md
 url: /learn/physics/questions/how-do-mathematical-concepts-like-calculus-apply-to-physics
 score: -1.0
 related_article1:
-    id: 119452
+    id: 119453
     title: >-
-        How does the law of gravitation relate to other physical laws?
+        What is the principle of conservation of angular momentum?
     subject: Physics
-    url: /learn/physics/questions/how-does-the-law-of-gravitation-relate-to-other-physical-laws
+    url: /learn/physics/questions/what-is-the-principle-of-conservation-of-angular-momentum
 related_article2:
-    id: 119455
+    id: 119445
     title: >-
-        What is the local field method in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-local-field-method-in-physics
+        How is mathematical language used to describe physical laws?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-mathematical-language-used-to-describe-physical-laws
 related_article3:
-    id: 119443
+    id: 119458
     title: >-
-        Can you explain Faraday's Law and its significance in physics?
-    subject: Physics
-    url: /learn/physics/questions/can-you-explain-faradays-law-and-its-significance-in-physics
+        How do mathematical models help in predicting physical phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
 related_article4:
-    id: 119450
+    id: 119463
     title: >-
-        How did the Babylonian method influence the development of physics?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-babylonian-method-influence-the-development-of-physics
+        What is the historical development of mathematical physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-historical-development-of-mathematical-physics
 related_article5:
-    id: 119466
+    id: 119470
     title: >-
-        How do physicists validate mathematical models in experiments?
+        How do physicists deal with mathematical uncertainties in their models?
     subject: Physics
-    url: /learn/physics/questions/how-do-physicists-validate-mathematical-models-in-experiments
+    url: /learn/physics/questions/how-do-physicists-deal-with-mathematical-uncertainties-in-their-models
 ---
 
 &nbsp;

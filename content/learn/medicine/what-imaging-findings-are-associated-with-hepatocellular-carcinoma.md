@@ -24,35 +24,29 @@ file_name: what-imaging-findings-are-associated-with-hepatocellular-carcinoma.md
 url: /learn/medicine/questions/what-imaging-findings-are-associated-with-hepatocellular-carcinoma
 score: -1.0
 related_article1:
-    id: 118023
+    id: 118028
     title: >-
-        What are the main advantages of MRI imaging for the hepatobiliary system?
+        What are the primary indications for imaging the pancreas?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-main-advantages-of-mri-imaging-for-the-hepatobiliary-system
+    url: /learn/medicine/questions/what-are-the-primary-indications-for-imaging-the-pancreas
 related_article2:
-    id: 118048
+    id: 118040
     title: >-
-        What are the common artifacts or errors encountered in CT and MRI imaging of the hepatobiliary system?
+        What are the limitations of ultrasound imaging for the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-artifacts-or-errors-encountered-in-ct-and-mri-imaging-of-the-hepatobiliary-system
+    url: /learn/medicine/questions/what-are-the-limitations-of-ultrasound-imaging-for-the-hepatobiliary-system
 related_article3:
-    id: 118027
+    id: 118020
     title: >-
-        What are the primary indications for imaging the biliary system?
+        What are the main advantages of CT imaging for the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-primary-indications-for-imaging-the-biliary-system
+    url: /learn/medicine/questions/what-are-the-main-advantages-of-ct-imaging-for-the-hepatobiliary-system
 related_article4:
-    id: 118044
+    id: 118034
     title: >-
-        What are the latest advancements in CT and MRI imaging technology for the hepatobiliary system?
+        What are the typical findings in ultrasound imaging of the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-latest-advancements-in-ct-and-mri-imaging-technology-for-the-hepatobiliary-system
-related_article5:
-    id: 118022
-    title: >-
-        In what scenarios is CT imaging commonly used for the hepatobiliary system?
-    subject: Medicine
-    url: /learn/medicine/questions/in-what-scenarios-is-ct-imaging-commonly-used-for-the-hepatobiliary-system
+    url: /learn/medicine/questions/what-are-the-typical-findings-in-ultrasound-imaging-of-the-hepatobiliary-system
 ---
 
 &nbsp;

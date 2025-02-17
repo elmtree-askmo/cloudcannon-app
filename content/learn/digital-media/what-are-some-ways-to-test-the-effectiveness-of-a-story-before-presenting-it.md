@@ -24,35 +24,29 @@ file_name: what-are-some-ways-to-test-the-effectiveness-of-a-story-before-presen
 url: /learn/digital-media/questions/what-are-some-ways-to-test-the-effectiveness-of-a-story-before-presenting-it
 score: -1.0
 related_article1:
-    id: 120710
+    id: 120702
     title: >-
-        What are some common pitfalls to avoid when shaping information into a story?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-are-some-common-pitfalls-to-avoid-when-shaping-information-into-a-story
-related_article2:
-    id: 120701
-    title: >-
-        Can you describe the 'Cinderella Story' narrative arc?
+        What is the 'Man in Hole' story structure?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/can-you-describe-the-cinderella-story-narrative-arc
+    url: /learn/art-history-and-literature/questions/what-is-the-man-in-hole-story-structure
+related_article2:
+    id: 120711
+    title: >-
+        How can one balance creativity and structure in storytelling?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-can-one-balance-creativity-and-structure-in-storytelling
 related_article3:
-    id: 120692
+    id: 120699
     title: >-
-        What are the key steps in the bottom-up approach to shaping a story?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-are-the-key-steps-in-the-bottomup-approach-to-shaping-a-story
+        How does the Hero’s Journey structure a story?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-does-the-heros-journey-structure-a-story
 related_article4:
-    id: 120715
+    id: 120708
     title: >-
-        What are some techniques to maintain audience interest throughout a story?
+        What are some methods to ensure emotional engagement in storytelling?
     subject: Digital Media
-    url: /learn/digital-media/questions/what-are-some-techniques-to-maintain-audience-interest-throughout-a-story
-related_article5:
-    id: 120694
-    title: >-
-        What are 'beats' in storytelling, and why are they important?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-are-beats-in-storytelling-and-why-are-they-important
+    url: /learn/digital-media/questions/what-are-some-methods-to-ensure-emotional-engagement-in-storytelling
 ---
 
 &nbsp;

@@ -24,29 +24,35 @@ file_name: what-qualifications-are-typically-required-for-an-infrastructure-anal
 url: /learn/computer-science/questions/what-qualifications-are-typically-required-for-an-infrastructure-analyst-role
 score: -1.0
 related_article1:
-    id: 122333
+    id: 122357
     title: >-
-        What are the main duties of Deskside Services personnel?
+        What are the main duties of someone in Application Services?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-duties-of-deskside-services-personnel
+    url: /learn/computer-science/questions/what-are-the-main-duties-of-someone-in-application-services
 related_article2:
-    id: 122337
+    id: 122335
     title: >-
-        What are the key responsibilities of a Network Administrator?
+        What qualifications are needed for a career in Deskside Services?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-responsibilities-of-a-network-administrator
+    url: /learn/computer-science/questions/what-qualifications-are-needed-for-a-career-in-deskside-services
 related_article3:
-    id: 122338
+    id: 122334
     title: >-
-        What skills are crucial for a Network Administrator to possess?
+        What skills are necessary for someone working in Deskside Services?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-skills-are-crucial-for-a-network-administrator-to-possess
+    url: /learn/computer-science/questions/what-skills-are-necessary-for-someone-working-in-deskside-services
 related_article4:
-    id: 122342
+    id: 122341
     title: >-
-        What skills are important for a Data Centre Administrator to have?
+        What are the primary duties of a Data Centre Administrator?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-skills-are-important-for-a-data-centre-administrator-to-have
+    url: /learn/computer-science/questions/what-are-the-primary-duties-of-a-data-centre-administrator
+related_article5:
+    id: 122351
+    title: >-
+        What qualifications are needed for a career as a Storage Analyst?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-qualifications-are-needed-for-a-career-as-a-storage-analyst
 ---
 
 &nbsp;

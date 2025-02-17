@@ -24,29 +24,29 @@ file_name: what-is-the-significance-of-intertextuality-in-textual-analysis.md
 url: /learn/art-history-and-literature/questions/what-is-the-significance-of-intertextuality-in-textual-analysis
 score: -1.0
 related_article1:
-    id: 111441
+    id: 111430
     title: >-
-        In what ways is gender represented in literature?
+        What is the primary purpose of literary theory?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-is-gender-represented-in-literature
+    url: /learn/art-history-and-literature/questions/what-is-the-primary-purpose-of-literary-theory
 related_article2:
-    id: 111458
+    id: 111443
     title: >-
-        What role does reader-response theory play in textual analysis?
+        What are the key techniques for effective close reading?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-does-readerresponse-theory-play-in-textual-analysis
+    url: /learn/art-history-and-literature/questions/what-are-the-key-techniques-for-effective-close-reading
 related_article3:
-    id: 111444
-    title: >-
-        Why is close reading considered important in literary analysis?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/why-is-close-reading-considered-important-in-literary-analysis
-related_article4:
     id: 111440
     title: >-
         How are cyclical narratives defined and characterized?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-are-cyclical-narratives-defined-and-characterized
+related_article4:
+    id: 111441
+    title: >-
+        In what ways is gender represented in literature?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/in-what-ways-is-gender-represented-in-literature
 ---
 
 &nbsp;

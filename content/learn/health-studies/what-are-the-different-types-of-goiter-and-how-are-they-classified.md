@@ -24,11 +24,11 @@ file_name: what-are-the-different-types-of-goiter-and-how-are-they-classified.md
 url: /learn/health-studies/questions/what-are-the-different-types-of-goiter-and-how-are-they-classified
 score: -1.0
 related_article1:
-    id: 123967
+    id: 123968
     title: >-
-        How is risk stratification performed in thyroid cancer management?
+        What are the management options for papillary microcarcinoma?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-risk-stratification-performed-in-thyroid-cancer-management
+    url: /learn/medicine/questions/what-are-the-management-options-for-papillary-microcarcinoma
 related_article2:
     id: 123946
     title: >-
@@ -36,23 +36,23 @@ related_article2:
     subject: Health Studies
     url: /learn/health-studies/questions/what-blood-tests-are-commonly-used-in-the-investigation-of-thyroid-conditions
 related_article3:
-    id: 123952
+    id: 123944
     title: >-
-        What are the indications for treating benign thyroid nodules?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-indications-for-treating-benign-thyroid-nodules
+        What are the common inflammatory thyroid conditions?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-common-inflammatory-thyroid-conditions
 related_article4:
-    id: 123954
+    id: 123966
     title: >-
-        What is the difference between hemithyroidectomy and total thyroidectomy?
+        What is TSH suppression therapy and how is it used in thyroid cancer management?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-the-difference-between-hemithyroidectomy-and-total-thyroidectomy
+    url: /learn/medicine/questions/what-is-tsh-suppression-therapy-and-how-is-it-used-in-thyroid-cancer-management
 related_article5:
-    id: 123947
+    id: 123959
     title: >-
-        How is ultrasound used in the diagnosis of thyroid nodules?
+        How is well-differentiated thyroid cancer managed?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-ultrasound-used-in-the-diagnosis-of-thyroid-nodules
+    url: /learn/medicine/questions/how-is-welldifferentiated-thyroid-cancer-managed
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: what-is-eminent-domain-and-how-does-it-affect-property-ownership.md
 url: /learn/criminal-or-civil-law/questions/what-is-eminent-domain-and-how-does-it-affect-property-ownership
 score: -1.0
 related_article1:
-    id: 96978
+    id: 96979
     title: >-
-        What is the difference between a deed and a title in real estate?
+        What are specific liens and how do they affect property?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-the-difference-between-a-deed-and-a-title-in-real-estate
+    url: /learn/criminal-or-civil-law/questions/what-are-specific-liens-and-how-do-they-affect-property
 related_article2:
-    id: 96956
+    id: 96974
     title: >-
-        What are the different types of less than freehold estates?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-different-types-of-less-than-freehold-estates
-related_article3:
-    id: 96973
-    title: >-
-        What is physical deterioration in property?
+        What are the different appraisal methods used in real estate?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-is-physical-deterioration-in-property
-related_article4:
-    id: 96950
+    url: /learn/business-and-management/questions/what-are-the-different-appraisal-methods-used-in-real-estate
+related_article3:
+    id: 96961
     title: >-
-        What are the key differences between real and personal property?
+        What is ownership in severalty?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-key-differences-between-real-and-personal-property
-related_article5:
-    id: 96975
+    url: /learn/criminal-or-civil-law/questions/what-is-ownership-in-severalty
+related_article4:
+    id: 96968
     title: >-
-        How does the market data approach work in property appraisal?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/how-does-the-market-data-approach-work-in-property-appraisal
+        How does utility influence property value?
+    subject: Economics
+    url: /learn/economics/questions/how-does-utility-influence-property-value
+related_article5:
+    id: 96981
+    title: >-
+        What is the history and enactment of fair housing laws?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-is-the-history-and-enactment-of-fair-housing-laws
 ---
 
 &nbsp;

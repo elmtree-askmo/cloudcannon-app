@@ -24,35 +24,35 @@ file_name: how-do-you-decide-between-using-barium-and-watersoluble-contrast.md
 url: /learn/medicine/questions/how-do-you-decide-between-using-barium-and-watersoluble-contrast
 score: -1.0
 related_article1:
-    id: 118153
+    id: 118149
     title: >-
-        How can you differentiate between large and small bowel on an X-ray?
+        In what scenarios is ultrasound preferred for GI imaging?
     subject: Medicine
-    url: /learn/medicine/questions/how-can-you-differentiate-between-large-and-small-bowel-on-an-xray
+    url: /learn/medicine/questions/in-what-scenarios-is-ultrasound-preferred-for-gi-imaging
 related_article2:
-    id: 118141
+    id: 118143
     title: >-
-        How do plain films contribute to GI radiology?
+        Can you explain the procedure and purpose of a barium swallow?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-plain-films-contribute-to-gi-radiology
+    url: /learn/medicine/questions/can-you-explain-the-procedure-and-purpose-of-a-barium-swallow
 related_article3:
-    id: 118155
+    id: 118142
     title: >-
-        What does a barium meal reveal about the GI anatomy?
+        What are the differences between barium and water-soluble contrast in GI studies?
     subject: Medicine
-    url: /learn/medicine/questions/what-does-a-barium-meal-reveal-about-the-gi-anatomy
+    url: /learn/medicine/questions/what-are-the-differences-between-barium-and-watersoluble-contrast-in-gi-studies
 related_article4:
-    id: 118152
+    id: 118168
     title: >-
-        What are the key anatomical features visible on an abdominal X-ray?
+        What specific roles does MRI play in diagnosing GI disorders?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-key-anatomical-features-visible-on-an-abdominal-xray
+    url: /learn/medicine/questions/what-specific-roles-does-mri-play-in-diagnosing-gi-disorders
 related_article5:
-    id: 118157
+    id: 118158
     title: >-
-        What are the radiological features of the large bowel anatomy?
+        What are common abnormal findings on an abdominal X-ray?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-radiological-features-of-the-large-bowel-anatomy
+    url: /learn/medicine/questions/what-are-common-abnormal-findings-on-an-abdominal-xray
 ---
 
 &nbsp;

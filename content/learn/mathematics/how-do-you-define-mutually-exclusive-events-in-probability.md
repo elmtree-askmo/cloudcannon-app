@@ -24,17 +24,29 @@ file_name: how-do-you-define-mutually-exclusive-events-in-probability.md
 url: /learn/mathematics/questions/how-do-you-define-mutually-exclusive-events-in-probability
 score: -1.0
 related_article1:
-    id: 106163
-    title: >-
-        What is an example problem involving course enrollment that illustrates the Addition Rule of Probability?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-an-example-problem-involving-course-enrollment-that-illustrates-the-addition-rule-of-probability
-related_article2:
     id: 106181
     title: >-
         How can technology be used to enhance understanding of probability rules?
     subject: Mathematics
     url: /learn/mathematics/questions/how-can-technology-be-used-to-enhance-understanding-of-probability-rules
+related_article2:
+    id: 106172
+    title: >-
+        What are some common misconceptions about the Multiplication Rule of Probability?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-common-misconceptions-about-the-multiplication-rule-of-probability
+related_article3:
+    id: 106163
+    title: >-
+        What is an example problem involving course enrollment that illustrates the Addition Rule of Probability?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-an-example-problem-involving-course-enrollment-that-illustrates-the-addition-rule-of-probability
+related_article4:
+    id: 106177
+    title: >-
+        How do you explain the concept of conditional probability to beginners?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-explain-the-concept-of-conditional-probability-to-beginners
 ---
 
 &nbsp;

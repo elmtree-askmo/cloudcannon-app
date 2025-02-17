@@ -24,29 +24,35 @@ file_name: how-do-modern-physicists-use-mathematical-notation-to-express-complex
 url: /learn/physics/questions/how-do-modern-physicists-use-mathematical-notation-to-express-complex-ideas
 score: -1.0
 related_article1:
-    id: 111830
+    id: 111828
     title: >-
-        How do mathematical models help in predicting physical phenomena?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
+        How does the minimum principle apply to physics and mathematics?
+    subject: Physics
+    url: /learn/physics/questions/how-does-the-minimum-principle-apply-to-physics-and-mathematics
 related_article2:
-    id: 111840
+    id: 111822
     title: >-
-        How do the principles of geometry apply to physical laws?
-    subject: Physics
-    url: /learn/physics/questions/how-do-the-principles-of-geometry-apply-to-physical-laws
+        How did the Babylonian method influence the development of physics?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-babylonian-method-influence-the-development-of-physics
 related_article3:
-    id: 111820
+    id: 111831
     title: >-
-        What contributions did Babylonian and Greek traditions make to mathematics and physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-contributions-did-babylonian-and-greek-traditions-make-to-mathematics-and-physics
-related_article4:
-    id: 111842
-    title: >-
-        How do physicists determine the accuracy of mathematical models in describing reality?
+        What role does calculus play in understanding physical laws?
     subject: Physics
-    url: /learn/physics/questions/how-do-physicists-determine-the-accuracy-of-mathematical-models-in-describing-reality
+    url: /learn/physics/questions/what-role-does-calculus-play-in-understanding-physical-laws
+related_article4:
+    id: 111825
+    title: >-
+        What is the conservation of angular momentum and its mathematical representation?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-conservation-of-angular-momentum-and-its-mathematical-representation
+related_article5:
+    id: 111818
+    title: >-
+        What is the significance of force and equal areas in physics?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-significance-of-force-and-equal-areas-in-physics
 ---
 
 &nbsp;

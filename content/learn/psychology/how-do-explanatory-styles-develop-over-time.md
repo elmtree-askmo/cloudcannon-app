@@ -24,11 +24,11 @@ file_name: how-do-explanatory-styles-develop-over-time.md
 url: /learn/psychology/questions/how-do-explanatory-styles-develop-over-time
 score: -1.0
 related_article1:
-    id: 96783
+    id: 96797
     title: >-
-        How do explanatory styles influence mental health outcomes?
+        What research has been conducted on cultural influences on attribution?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-explanatory-styles-influence-mental-health-outcomes
+    url: /learn/psychology/questions/what-research-has-been-conducted-on-cultural-influences-on-attribution
 related_article2:
     id: 96807
     title: >-
@@ -41,18 +41,6 @@ related_article3:
         How does a pessimistic explanatory style differ from an optimistic one?
     subject: Psychology
     url: /learn/psychology/questions/how-does-a-pessimistic-explanatory-style-differ-from-an-optimistic-one
-related_article4:
-    id: 96784
-    title: >-
-        What is the fundamental attribution error and how is it defined?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-fundamental-attribution-error-and-how-is-it-defined
-related_article5:
-    id: 96797
-    title: >-
-        What research has been conducted on cultural influences on attribution?
-    subject: Psychology
-    url: /learn/psychology/questions/what-research-has-been-conducted-on-cultural-influences-on-attribution
 ---
 
 &nbsp;

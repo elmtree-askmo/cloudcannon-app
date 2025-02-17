@@ -30,29 +30,29 @@ related_article1:
     subject: Economics
     url: /learn/economics/questions/what-is-the-economic-influence-of-the-tech-industry-in-norway
 related_article2:
-    id: 118543
-    title: >-
-        How is AI engineering defined and what is its scope?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-is-ai-engineering-defined-and-what-is-its-scope
-related_article3:
-    id: 118555
-    title: >-
-        What are some success stories from Free Code Camp alumni?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-success-stories-from-free-code-camp-alumni
-related_article4:
     id: 118559
     title: >-
         What are the ethical considerations in AI engineering?
     subject: Engineering
     url: /learn/engineering/questions/what-are-the-ethical-considerations-in-ai-engineering
-related_article5:
+related_article3:
     id: 118530
     title: >-
         Can you provide a brief background on Quincy Larson and Per Borgin?
     subject: Education Studies
     url: /learn/education-studies/questions/can-you-provide-a-brief-background-on-quincy-larson-and-per-borgin
+related_article4:
+    id: 118538
+    title: >-
+        What are the main benefits and challenges of using Scrimba for learning coding?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-main-benefits-and-challenges-of-using-scrimba-for-learning-coding
+related_article5:
+    id: 118536
+    title: >-
+        How has Scrimba developed over the years?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-has-scrimba-developed-over-the-years
 ---
 
 &nbsp;

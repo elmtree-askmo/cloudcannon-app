@@ -24,17 +24,17 @@ file_name: what-role-does-faith-play-in-the-wisdom-literature-of-the-old-testame
 url: /learn/philosophy-and-greek-myths/questions/what-role-does-faith-play-in-the-wisdom-literature-of-the-old-testament
 score: -1.0
 related_article1:
-    id: 115691
+    id: 115670
     title: >-
-        How does the wisdom literature address the concept of justice?
+        What is the relationship between the Torah, Nevi’im, and Ketuvim in the context of wisdom literature?
     subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-does-the-wisdom-literature-address-the-concept-of-justice
+    url: /learn/philosophy-and-greek-myths/questions/what-is-the-relationship-between-the-torah-neviim-and-ketuvim-in-the-context-of-wisdom-literature
 related_article2:
-    id: 115665
+    id: 115666
     title: >-
-        How does the Book of Job contribute to our understanding of suffering?
+        What are some key themes in the Book of Proverbs?
     subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-does-the-book-of-job-contribute-to-our-understanding-of-suffering
+    url: /learn/philosophy-and-greek-myths/questions/what-are-some-key-themes-in-the-book-of-proverbs
 related_article3:
     id: 115668
     title: >-
@@ -42,11 +42,11 @@ related_article3:
     subject: Philosophy and Greek Myths
     url: /learn/philosophy-and-greek-myths/questions/in-what-ways-does-wisdom-literature-integrate-faith-and-life-experiences
 related_article4:
-    id: 115686
+    id: 115665
     title: >-
-        What is the role of fear of the Lord in the wisdom literature?
+        How does the Book of Job contribute to our understanding of suffering?
     subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-is-the-role-of-fear-of-the-lord-in-the-wisdom-literature
+    url: /learn/philosophy-and-greek-myths/questions/how-does-the-book-of-job-contribute-to-our-understanding-of-suffering
 ---
 
 &nbsp;

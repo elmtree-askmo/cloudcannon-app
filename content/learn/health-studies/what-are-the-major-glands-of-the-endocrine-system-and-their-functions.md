@@ -29,12 +29,6 @@ related_article1:
         What role does the pineal gland play in regulating circadian rhythms?
     subject: Health Studies
     url: /learn/health-studies/questions/what-role-does-the-pineal-gland-play-in-regulating-circadian-rhythms
-related_article2:
-    id: 99148
-    title: >-
-        How do genetic and environmental factors influence development?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-genetic-and-environmental-factors-influence-development
 ---
 
 &nbsp;

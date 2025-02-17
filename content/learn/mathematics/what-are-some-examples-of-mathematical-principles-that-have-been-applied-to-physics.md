@@ -13,7 +13,7 @@ seo:
   page_description: >-
     This content discusses various mathematical principles applied in physics, such as Newton's laws, the universal gravitation law, Faraday's law of induction, and Schrdinger's equation, highlighting their significance in understanding and predicting physical phenomena.
   page_keywords: >-
-    Newton's Laws, Law of Universal Gravitation, Faraday's Law, Schrödinger's Equation, Conservation of Angular Momentum, Differential Equations, Mathematical Physics, Classical Mechanics, Quantum Mechanics, Electromagnetic Induction
+    Newton's Laws, Law of Universal Gravitation, Faraday's Law, Schrdinger's Equation, Conservation of Angular Momentum, Differential Equations, Mathematical Physics, Classical Mechanics, Quantum Mechanics, Electromagnetic Induction
 author: QuickTakes
 question: >-
     What are some examples of mathematical principles that have been applied to physics?
@@ -24,35 +24,29 @@ file_name: what-are-some-examples-of-mathematical-principles-that-have-been-appl
 url: /learn/mathematics/questions/what-are-some-examples-of-mathematical-principles-that-have-been-applied-to-physics
 score: -1.0
 related_article1:
-    id: 111819
+    id: 111822
     title: >-
-        How has modern mathematical notation evolved over time?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-over-time
+        How did the Babylonian method influence the development of physics?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-babylonian-method-influence-the-development-of-physics
 related_article2:
-    id: 111814
+    id: 111820
     title: >-
-        How does mathematics help us understand natural phenomena?
+        What contributions did Babylonian and Greek traditions make to mathematics and physics?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
+    url: /learn/mathematics/questions/what-contributions-did-babylonian-and-greek-traditions-make-to-mathematics-and-physics
 related_article3:
-    id: 111837
+    id: 111836
     title: >-
-        What is the historical significance of Newton's contributions to physics and mathematics?
+        How does the concept of force relate to mathematical equations?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-historical-significance-of-newtons-contributions-to-physics-and-mathematics
+    url: /learn/physics/questions/how-does-the-concept-of-force-relate-to-mathematical-equations
 related_article4:
-    id: 111817
+    id: 111827
     title: >-
-        How is mathematical language used in physics?
+        What is the local field method in physics?
     subject: Physics
-    url: /learn/physics/questions/how-is-mathematical-language-used-in-physics
-related_article5:
-    id: 111838
-    title: >-
-        How do modern physicists use mathematical notation to express complex ideas?
-    subject: Physics
-    url: /learn/physics/questions/how-do-modern-physicists-use-mathematical-notation-to-express-complex-ideas
+    url: /learn/physics/questions/what-is-the-local-field-method-in-physics
 ---
 
 &nbsp;

@@ -23,12 +23,7 @@ subject: Health Studies
 file_name: what-are-the-different-types-of-taste-receptors-and-how-do-they-function.md
 url: /learn/health-studies/questions/what-are-the-different-types-of-taste-receptors-and-how-do-they-function
 score: -1.0
-related_article1:
-    id: 99253
-    title: >-
-        What role does the dermis play in tactile perception?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-role-does-the-dermis-play-in-tactile-perception
+
 ---
 
 &nbsp;

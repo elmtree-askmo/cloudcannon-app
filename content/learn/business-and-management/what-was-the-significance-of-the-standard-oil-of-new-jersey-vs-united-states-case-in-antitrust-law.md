@@ -24,29 +24,35 @@ file_name: what-was-the-significance-of-the-standard-oil-of-new-jersey-vs-united
 url: /learn/business-and-management/questions/what-was-the-significance-of-the-standard-oil-of-new-jersey-vs-united-states-case-in-antitrust-law
 score: -1.0
 related_article1:
-    id: 122988
+    id: 123003
     title: >-
-        What role did the National Labor Relations Board (NLRB) play after its creation in 1935?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-did-the-national-labor-relations-board-nlrb-play-after-its-creation-in-1935
+        How do price fixing and division of markets violate the Clayton Antitrust Act?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-do-price-fixing-and-division-of-markets-violate-the-clayton-antitrust-act
 related_article2:
-    id: 123015
-    title: >-
-        What is the short swing profit rule and how does it apply to insiders?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-the-short-swing-profit-rule-and-how-does-it-apply-to-insiders
-related_article3:
-    id: 122998
-    title: >-
-        What are the key differences between disparate treatment and disparate impact under the Civil Rights Act of 1964?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-key-differences-between-disparate-treatment-and-disparate-impact-under-the-civil-rights-act-of-1964
-related_article4:
     id: 123000
     title: >-
         What is a bona fide occupational qualification (FOQ) and how is it applied?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-is-a-bona-fide-occupational-qualification-foq-and-how-is-it-applied
+related_article3:
+    id: 123014
+    title: >-
+        What constitutes insider trading and who is considered an insider?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-constitutes-insider-trading-and-who-is-considered-an-insider
+related_article4:
+    id: 123011
+    title: >-
+        What is the statute of limitations for securities violations under the Securities Act of 1933?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-is-the-statute-of-limitations-for-securities-violations-under-the-securities-act-of-1933
+related_article5:
+    id: 122990
+    title: >-
+        How did the Wagner Act and Taft-Hartley Act of 1937 impact labor relations?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-did-the-wagner-act-and-tafthartley-act-of-1937-impact-labor-relations
 ---
 
 &nbsp;

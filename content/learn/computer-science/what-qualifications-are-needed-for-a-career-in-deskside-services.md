@@ -24,17 +24,17 @@ file_name: what-qualifications-are-needed-for-a-career-in-deskside-services.md
 url: /learn/computer-science/questions/what-qualifications-are-needed-for-a-career-in-deskside-services
 score: -1.0
 related_article1:
-    id: 122352
-    title: >-
-        What is the career progression for a Storage Analyst to become an Architect?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-career-progression-for-a-storage-analyst-to-become-an-architect
-related_article2:
     id: 122349
     title: >-
         What are the key duties of a Storage Analyst?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-key-duties-of-a-storage-analyst
+related_article2:
+    id: 122352
+    title: >-
+        What is the career progression for a Storage Analyst to become an Architect?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-career-progression-for-a-storage-analyst-to-become-an-architect
 related_article3:
     id: 122344
     title: >-
@@ -42,17 +42,17 @@ related_article3:
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-career-path-for-a-data-centre-administrator
 related_article4:
-    id: 122329
+    id: 122336
     title: >-
-        What are the primary responsibilities of a Help Desk Analyst?
+        What is the typical career progression for someone in Deskside Services?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-primary-responsibilities-of-a-help-desk-analyst
+    url: /learn/computer-science/questions/what-is-the-typical-career-progression-for-someone-in-deskside-services
 related_article5:
-    id: 122332
+    id: 122338
     title: >-
-        How can a Help Desk Analyst advance in their career?
+        What skills are crucial for a Network Administrator to possess?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-a-help-desk-analyst-advance-in-their-career
+    url: /learn/computer-science/questions/what-skills-are-crucial-for-a-network-administrator-to-possess
 ---
 
 &nbsp;

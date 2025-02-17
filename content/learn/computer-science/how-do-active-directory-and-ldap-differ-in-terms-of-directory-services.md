@@ -24,23 +24,23 @@ file_name: how-do-active-directory-and-ldap-differ-in-terms-of-directory-service
 url: /learn/computer-science/questions/how-do-active-directory-and-ldap-differ-in-terms-of-directory-services
 score: -1.0
 related_article1:
-    id: 123077
+    id: 123081
     title: >-
-        How does HTTP differ from FTP in terms of file services?
+        How do print server solutions address network printing challenges?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-http-differ-from-ftp-in-terms-of-file-services
+    url: /learn/computer-science/questions/how-do-print-server-solutions-address-network-printing-challenges
 related_article2:
-    id: 123094
+    id: 123098
     title: >-
-        Why is web technology important for modern businesses?
-    subject: Digital Media
-    url: /learn/digital-media/questions/why-is-web-technology-important-for-modern-businesses
+        How does LDAP facilitate single sign-on in network environments?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-ldap-facilitate-single-signon-in-network-environments
 related_article3:
-    id: 123103
+    id: 123090
     title: >-
-        How is security and authentication managed in email services?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-is-security-and-authentication-managed-in-email-services
+        What are the essential features of a web server?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-essential-features-of-a-web-server
 ---
 
 &nbsp;

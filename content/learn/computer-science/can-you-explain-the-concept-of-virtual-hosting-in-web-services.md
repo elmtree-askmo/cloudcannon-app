@@ -24,29 +24,29 @@ file_name: can-you-explain-the-concept-of-virtual-hosting-in-web-services.md
 url: /learn/computer-science/questions/can-you-explain-the-concept-of-virtual-hosting-in-web-services
 score: -1.0
 related_article1:
+    id: 122673
+    title: >-
+        What is Active Directory Domain Services (AD DS) and how does it function?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-active-directory-domain-services-ad-ds-and-how-does-it-function
+related_article2:
     id: 122685
     title: >-
         What are the benefits of using directory services in a corporate network?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-benefits-of-using-directory-services-in-a-corporate-network
-related_article2:
-    id: 122683
-    title: >-
-        What are the challenges associated with managing databases in a network?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-challenges-associated-with-managing-databases-in-a-network
 related_article3:
-    id: 122672
+    id: 122664
     title: >-
-        How do directory services support network management?
+        How does NFS facilitate file sharing in a network environment?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-directory-services-support-network-management
+    url: /learn/computer-science/questions/how-does-nfs-facilitate-file-sharing-in-a-network-environment
 related_article4:
-    id: 122679
+    id: 122659
     title: >-
-        What are the best practices for implementing file services in a network?
+        What are the primary functions of file services in a network?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-best-practices-for-implementing-file-services-in-a-network
+    url: /learn/computer-science/questions/what-are-the-primary-functions-of-file-services-in-a-network
 ---
 
 &nbsp;

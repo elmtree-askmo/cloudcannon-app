@@ -24,29 +24,35 @@ file_name: what-are-the-primary-roles-and-limitations-of-abdominal-xrays-in-habi
 url: /learn/medicine/questions/what-are-the-primary-roles-and-limitations-of-abdominal-xrays-in-habitability-diseases
 score: -1.0
 related_article1:
-    id: 118178
-    title: >-
-        How is ultrasound used in the assessment of liver conditions like cirrhosis and steatosis?
-    subject: Medicine
-    url: /learn/medicine/questions/how-is-ultrasound-used-in-the-assessment-of-liver-conditions-like-cirrhosis-and-steatosis
-related_article2:
     id: 118188
     title: >-
         What are the challenges faced in ultrasound imaging, particularly regarding operator dependency?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-challenges-faced-in-ultrasound-imaging-particularly-regarding-operator-dependency
+related_article2:
+    id: 118199
+    title: >-
+        How do imaging modalities impact the prognosis of patients with habitability disorders?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-imaging-modalities-impact-the-prognosis-of-patients-with-habitability-disorders
 related_article3:
-    id: 118171
+    id: 118184
     title: >-
-        How does an abdominal X-ray work in diagnosing habitability diseases?
+        What are the radiological features of pancreatic head mass and chronic pancreatitis?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-an-abdominal-xray-work-in-diagnosing-habitability-diseases
+    url: /learn/medicine/questions/what-are-the-radiological-features-of-pancreatic-head-mass-and-chronic-pancreatitis
 related_article4:
-    id: 118187
+    id: 118192
     title: >-
-        How does hepatic artery Doppler ultrasound contribute to liver assessment?
+        What are the latest advancements in imaging techniques for habitability disorders?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-hepatic-artery-doppler-ultrasound-contribute-to-liver-assessment
+    url: /learn/medicine/questions/what-are-the-latest-advancements-in-imaging-techniques-for-habitability-disorders
+related_article5:
+    id: 118175
+    title: >-
+        What is pneumobilia and how is it identified on an abdominal X-ray?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-pneumobilia-and-how-is-it-identified-on-an-abdominal-xray
 ---
 
 &nbsp;

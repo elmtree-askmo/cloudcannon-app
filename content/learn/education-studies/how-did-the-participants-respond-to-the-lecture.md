@@ -30,17 +30,23 @@ related_article1:
     subject: Education Studies
     url: /learn/education-studies/questions/were-there-any-followup-activities-or-discussions-planned-after-the-lecture
 related_article2:
-    id: 124151
+    id: 124171
     title: >-
-        What were the key points discussed during the lecture?
+        Were there any partnerships or collaborations involved in organizing the lecture?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-were-the-key-points-discussed-during-the-lecture
+    url: /learn/education-studies/questions/were-there-any-partnerships-or-collaborations-involved-in-organizing-the-lecture
 related_article3:
     id: 124157
     title: >-
         How were the questions addressed during the Q&A session?
     subject: Education Studies
     url: /learn/education-studies/questions/how-were-the-questions-addressed-during-the-qa-session
+related_article4:
+    id: 124151
+    title: >-
+        What were the key points discussed during the lecture?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-were-the-key-points-discussed-during-the-lecture
 ---
 
 &nbsp;

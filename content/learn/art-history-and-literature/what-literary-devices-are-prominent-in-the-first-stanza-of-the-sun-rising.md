@@ -24,11 +24,11 @@ file_name: what-literary-devices-are-prominent-in-the-first-stanza-of-the-sun-ri
 url: /learn/art-history-and-literature/questions/what-literary-devices-are-prominent-in-the-first-stanza-of-the-sun-rising
 score: -1.0
 related_article1:
-    id: 110287
+    id: 110288
     title: >-
-        In what ways does Donne mock authority in 'The Sun Rising'?
+        How does Donne use hyperbole to emphasize his themes in 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-does-donne-mock-authority-in-the-sun-rising
+    url: /learn/art-history-and-literature/questions/how-does-donne-use-hyperbole-to-emphasize-his-themes-in-the-sun-rising
 related_article2:
     id: 110295
     title: >-
@@ -36,17 +36,17 @@ related_article2:
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-is-the-impact-of-donnes-use-of-language-on-the-readers-understanding-of-the-poem
 related_article3:
-    id: 110275
+    id: 110267
     title: >-
-        What role does authority play in the second stanza of 'The Sun Rising'?
+        What is the main theme of the first stanza in John Donne's 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-does-authority-play-in-the-second-stanza-of-the-sun-rising
+    url: /learn/art-history-and-literature/questions/what-is-the-main-theme-of-the-first-stanza-in-john-donnes-the-sun-rising
 related_article4:
-    id: 110283
+    id: 110289
     title: >-
-        What is the significance of the imagery in the third stanza of 'The Sun Rising'?
+        What is the role of idealization in 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-significance-of-the-imagery-in-the-third-stanza-of-the-sun-rising
+    url: /learn/art-history-and-literature/questions/what-is-the-role-of-idealization-in-the-sun-rising
 ---
 
 &nbsp;

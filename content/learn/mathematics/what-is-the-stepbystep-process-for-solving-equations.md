@@ -24,23 +24,23 @@ file_name: what-is-the-stepbystep-process-for-solving-equations.md
 url: /learn/mathematics/questions/what-is-the-stepbystep-process-for-solving-equations
 score: -1.0
 related_article1:
-    id: 111658
+    id: 111652
     title: >-
-        How do basic arithmetic operations relate to solving equations?
+        How does the distributive property apply to multiplication in equations?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-basic-arithmetic-operations-relate-to-solving-equations
+    url: /learn/mathematics/questions/how-does-the-distributive-property-apply-to-multiplication-in-equations
 related_article2:
-    id: 111640
-    title: >-
-        What are the basic arithmetic operations and their significance in mathematics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-basic-arithmetic-operations-and-their-significance-in-mathematics
-related_article3:
     id: 111644
     title: >-
         How is division performed and what are its fundamental rules?
     subject: Mathematics
     url: /learn/mathematics/questions/how-is-division-performed-and-what-are-its-fundamental-rules
+related_article3:
+    id: 111655
+    title: >-
+        What are the techniques for simplifying expressions in equations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-techniques-for-simplifying-expressions-in-equations
 ---
 
 &nbsp;

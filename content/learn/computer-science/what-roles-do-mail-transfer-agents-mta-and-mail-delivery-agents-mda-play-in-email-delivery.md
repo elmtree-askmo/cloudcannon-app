@@ -24,35 +24,35 @@ file_name: what-roles-do-mail-transfer-agents-mta-and-mail-delivery-agents-mda-p
 url: /learn/computer-science/questions/what-roles-do-mail-transfer-agents-mta-and-mail-delivery-agents-mda-play-in-email-delivery
 score: -1.0
 related_article1:
-    id: 123080
-    title: >-
-        What are some common challenges associated with network printing?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-common-challenges-associated-with-network-printing
-related_article2:
     id: 123091
     title: >-
         How do web services support dynamic content and web applications?
     subject: Computer Science
     url: /learn/computer-science/questions/how-do-web-services-support-dynamic-content-and-web-applications
+related_article2:
+    id: 123081
+    title: >-
+        How do print server solutions address network printing challenges?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-print-server-solutions-address-network-printing-challenges
 related_article3:
-    id: 123085
+    id: 123083
     title: >-
-        What are the main components of a database system?
+        What role do internal network print servers play in network printing?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-components-of-a-database-system
+    url: /learn/computer-science/questions/what-role-do-internal-network-print-servers-play-in-network-printing
 related_article4:
-    id: 123103
+    id: 123089
     title: >-
-        How is security and authentication managed in email services?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-is-security-and-authentication-managed-in-email-services
-related_article5:
-    id: 123082
-    title: >-
-        What are the key advantages of implementing network printing in an organization?
+        What is the relationship between storage solutions and DBMS performance?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-advantages-of-implementing-network-printing-in-an-organization
+    url: /learn/computer-science/questions/what-is-the-relationship-between-storage-solutions-and-dbms-performance
+related_article5:
+    id: 123076
+    title: >-
+        What are the primary functions of a file server in a network?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-primary-functions-of-a-file-server-in-a-network
 ---
 
 &nbsp;

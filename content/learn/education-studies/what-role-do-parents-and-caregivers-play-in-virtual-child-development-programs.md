@@ -24,35 +24,35 @@ file_name: what-role-do-parents-and-caregivers-play-in-virtual-child-development
 url: /learn/education-studies/questions/what-role-do-parents-and-caregivers-play-in-virtual-child-development-programs
 score: -1.0
 related_article1:
-    id: 116956
+    id: 116952
     title: >-
-        What specific support is available for children with special needs in virtual programs?
+        How can parent support groups be facilitated online?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-specific-support-is-available-for-children-with-special-needs-in-virtual-programs
+    url: /learn/education-studies/questions/how-can-parent-support-groups-be-facilitated-online
 related_article2:
-    id: 116970
-    title: >-
-        How do virtual programs support newcomer families?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-virtual-programs-support-newcomer-families
-related_article3:
-    id: 116963
-    title: >-
-        What are the core services and mission of early childhood virtual programs?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-core-services-and-mission-of-early-childhood-virtual-programs
-related_article4:
     id: 116964
     title: >-
         How do drop-in programs function in a virtual learning framework?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-dropin-programs-function-in-a-virtual-learning-framework
-related_article5:
-    id: 116973
+related_article3:
+    id: 116956
     title: >-
-        What methods are used for debriefing and feedback in virtual early childhood programs?
+        What specific support is available for children with special needs in virtual programs?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-methods-are-used-for-debriefing-and-feedback-in-virtual-early-childhood-programs
+    url: /learn/education-studies/questions/what-specific-support-is-available-for-children-with-special-needs-in-virtual-programs
+related_article4:
+    id: 116976
+    title: >-
+        How are special needs and disabilities addressed in virtual program language and terminology?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-are-special-needs-and-disabilities-addressed-in-virtual-program-language-and-terminology
+related_article5:
+    id: 116948
+    title: >-
+        How can families be effectively connected and supported in a virtual learning environment?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-families-be-effectively-connected-and-supported-in-a-virtual-learning-environment
 ---
 
 &nbsp;

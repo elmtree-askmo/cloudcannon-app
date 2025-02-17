@@ -24,29 +24,29 @@ file_name: how-do-physicists-determine-the-accuracy-of-mathematical-models-in-de
 url: /learn/physics/questions/how-do-physicists-determine-the-accuracy-of-mathematical-models-in-describing-physical-phenomena
 score: -1.0
 related_article1:
-    id: 96696
+    id: 96708
     title: >-
-        What are fundamental principles and consequential statements in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-are-fundamental-principles-and-consequential-statements-in-physics
+        What is the importance of mathematical proofs in physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-mathematical-proofs-in-physics
 related_article2:
-    id: 96694
+    id: 96695
     title: >-
-        How has modern mathematical notation evolved over time?
+        What contributions did Babylonian and Greek traditions make to mathematics and physics?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-over-time
+    url: /learn/mathematics/questions/what-contributions-did-babylonian-and-greek-traditions-make-to-mathematics-and-physics
 related_article3:
-    id: 96709
+    id: 96700
     title: >-
-        How do physicists use mathematical equations to describe the universe?
+        What is the conservation of angular momentum and its mathematical representation?
     subject: Physics
-    url: /learn/physics/questions/how-do-physicists-use-mathematical-equations-to-describe-the-universe
+    url: /learn/physics/questions/what-is-the-conservation-of-angular-momentum-and-its-mathematical-representation
 related_article4:
-    id: 96707
+    id: 96715
     title: >-
-        How did ancient civilizations contribute to the development of mathematical concepts used in physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-concepts-used-in-physics
+        How do mathematical transformations help in understanding physical systems?
+    subject: Physics
+    url: /learn/physics/questions/how-do-mathematical-transformations-help-in-understanding-physical-systems
 ---
 
 &nbsp;

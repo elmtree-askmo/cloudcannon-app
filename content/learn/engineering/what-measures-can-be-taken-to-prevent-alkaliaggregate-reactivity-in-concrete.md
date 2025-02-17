@@ -24,29 +24,35 @@ file_name: what-measures-can-be-taken-to-prevent-alkaliaggregate-reactivity-in-c
 url: /learn/engineering/questions/what-measures-can-be-taken-to-prevent-alkaliaggregate-reactivity-in-concrete
 score: -1.0
 related_article1:
-    id: 120406
+    id: 120410
     title: >-
-        How do metamorphic rocks contribute to the mineralogical composition of aggregates?
+        What is the significance of specific gravity in the classification of aggregates?
     subject: Engineering
-    url: /learn/engineering/questions/how-do-metamorphic-rocks-contribute-to-the-mineralogical-composition-of-aggregates
+    url: /learn/engineering/questions/what-is-the-significance-of-specific-gravity-in-the-classification-of-aggregates
 related_article2:
+    id: 120428
+    title: >-
+        What role do aggregates play in the sustainability of construction materials?
+    subject: Engineering
+    url: /learn/engineering/questions/what-role-do-aggregates-play-in-the-sustainability-of-construction-materials
+related_article3:
+    id: 120408
+    title: >-
+        How does the chemical composition of aggregates affect their performance in construction?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-chemical-composition-of-aggregates-affect-their-performance-in-construction
+related_article4:
+    id: 120424
+    title: >-
+        What are the potential environmental impacts of using different types of aggregates?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-potential-environmental-impacts-of-using-different-types-of-aggregates
+related_article5:
     id: 120429
     title: >-
         How can the selection of aggregates impact the overall cost of a construction project?
     subject: Engineering
     url: /learn/engineering/questions/how-can-the-selection-of-aggregates-impact-the-overall-cost-of-a-construction-project
-related_article3:
-    id: 120409
-    title: >-
-        How are aggregates classified based on particle size?
-    subject: Engineering
-    url: /learn/engineering/questions/how-are-aggregates-classified-based-on-particle-size
-related_article4:
-    id: 120417
-    title: >-
-        Why is particle size distribution important in the context of aggregates?
-    subject: Engineering
-    url: /learn/engineering/questions/why-is-particle-size-distribution-important-in-the-context-of-aggregates
 ---
 
 &nbsp;

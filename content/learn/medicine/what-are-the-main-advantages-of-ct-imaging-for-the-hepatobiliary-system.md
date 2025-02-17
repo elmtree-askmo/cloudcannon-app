@@ -24,35 +24,35 @@ file_name: what-are-the-main-advantages-of-ct-imaging-for-the-hepatobiliary-syst
 url: /learn/medicine/questions/what-are-the-main-advantages-of-ct-imaging-for-the-hepatobiliary-system
 score: -1.0
 related_article1:
-    id: 118029
+    id: 118044
     title: >-
-        What are the common hepatic pathologies that can be identified through imaging?
+        What are the latest advancements in CT and MRI imaging technology for the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-hepatic-pathologies-that-can-be-identified-through-imaging
+    url: /learn/medicine/questions/what-are-the-latest-advancements-in-ct-and-mri-imaging-technology-for-the-hepatobiliary-system
 related_article2:
-    id: 118025
+    id: 118049
     title: >-
-        In what scenarios is MRI imaging commonly used for the hepatobiliary system?
+        How do imaging findings influence the prognosis of hepatic pathologies?
     subject: Medicine
-    url: /learn/medicine/questions/in-what-scenarios-is-mri-imaging-commonly-used-for-the-hepatobiliary-system
+    url: /learn/medicine/questions/how-do-imaging-findings-influence-the-prognosis-of-hepatic-pathologies
 related_article3:
-    id: 118037
-    title: >-
-        How does CT imaging compare to MRI imaging in terms of accuracy for the hepatobiliary system?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-ct-imaging-compare-to-mri-imaging-in-terms-of-accuracy-for-the-hepatobiliary-system
-related_article4:
-    id: 118030
-    title: >-
-        How is cirrhosis typically identified through imaging techniques?
-    subject: Medicine
-    url: /learn/medicine/questions/how-is-cirrhosis-typically-identified-through-imaging-techniques
-related_article5:
     id: 118028
     title: >-
         What are the primary indications for imaging the pancreas?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-primary-indications-for-imaging-the-pancreas
+related_article4:
+    id: 118026
+    title: >-
+        What are the primary indications for imaging the liver?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-primary-indications-for-imaging-the-liver
+related_article5:
+    id: 118029
+    title: >-
+        What are the common hepatic pathologies that can be identified through imaging?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-common-hepatic-pathologies-that-can-be-identified-through-imaging
 ---
 
 &nbsp;

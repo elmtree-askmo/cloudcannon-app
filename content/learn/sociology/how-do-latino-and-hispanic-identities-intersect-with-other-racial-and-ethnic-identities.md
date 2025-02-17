@@ -29,12 +29,6 @@ related_article1:
         What are the implications of considering race as a social construct for policy-making?
     subject: Sociology
     url: /learn/sociology/questions/what-are-the-implications-of-considering-race-as-a-social-construct-for-policymaking
-related_article2:
-    id: 96540
-    title: >-
-        How does racism manifest as a learned behavior in society?
-    subject: Sociology
-    url: /learn/sociology/questions/how-does-racism-manifest-as-a-learned-behavior-in-society
 ---
 
 &nbsp;

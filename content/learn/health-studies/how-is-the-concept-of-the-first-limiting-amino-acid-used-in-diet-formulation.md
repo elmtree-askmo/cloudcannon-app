@@ -24,12 +24,6 @@ file_name: how-is-the-concept-of-the-first-limiting-amino-acid-used-in-diet-form
 url: /learn/health-studies/questions/how-is-the-concept-of-the-first-limiting-amino-acid-used-in-diet-formulation
 score: -1.0
 related_article1:
-    id: 112802
-    title: >-
-        What are the main differences between glucogenic and ketogenic amino acids?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-the-main-differences-between-glucogenic-and-ketogenic-amino-acids
-related_article2:
     id: 112807
     title: >-
         What are the specific amino acid requirements for monogastric animals?

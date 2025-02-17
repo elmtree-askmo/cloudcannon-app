@@ -23,12 +23,7 @@ subject: Chemistry
 file_name: what-are-some-realworld-applications-of-understanding-diffusion.md
 url: /learn/chemistry/questions/what-are-some-realworld-applications-of-understanding-diffusion
 score: -1.0
-related_article1:
-    id: 123207
-    title: >-
-        How does temperature affect diffusion?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-does-temperature-affect-diffusion
+
 ---
 
 &nbsp;

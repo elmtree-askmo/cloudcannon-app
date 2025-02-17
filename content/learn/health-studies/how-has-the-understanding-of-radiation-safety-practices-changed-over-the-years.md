@@ -24,35 +24,35 @@ file_name: how-has-the-understanding-of-radiation-safety-practices-changed-over-
 url: /learn/health-studies/questions/how-has-the-understanding-of-radiation-safety-practices-changed-over-the-years
 score: -1.0
 related_article1:
-    id: 116084
-    title: >-
-        How does collimation help in reducing scatter radiation?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-collimation-help-in-reducing-scatter-radiation
-related_article2:
-    id: 116066
-    title: >-
-        What is attenuation in X-rays and why is it important?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-attenuation-in-xrays-and-why-is-it-important
-related_article3:
     id: 116073
     title: >-
         How are current tissue weighting factors applied in medical imaging?
     subject: Medicine
     url: /learn/medicine/questions/how-are-current-tissue-weighting-factors-applied-in-medical-imaging
-related_article4:
-    id: 116068
+related_article2:
+    id: 116069
     title: >-
-        What are the different units used for dose measurement in radiography?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-different-units-used-for-dose-measurement-in-radiography
-related_article5:
-    id: 116070
-    title: >-
-        What is the difference between equivalent dose and effective dose?
+        How is absorbed dose measured and what does it signify?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-difference-between-equivalent-dose-and-effective-dose
+    url: /learn/health-studies/questions/how-is-absorbed-dose-measured-and-what-does-it-signify
+related_article3:
+    id: 116083
+    title: >-
+        What role do KVP and MAS adjustments play in radiation safety?
+    subject: Medicine
+    url: /learn/medicine/questions/what-role-do-kvp-and-mas-adjustments-play-in-radiation-safety
+related_article4:
+    id: 116082
+    title: >-
+        How do time, distance, and shielding contribute to radiation protection?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-time-distance-and-shielding-contribute-to-radiation-protection
+related_article5:
+    id: 116078
+    title: >-
+        How do ionisation chambers work in measuring radiation?
+    subject: Physics
+    url: /learn/physics/questions/how-do-ionisation-chambers-work-in-measuring-radiation
 ---
 
 &nbsp;

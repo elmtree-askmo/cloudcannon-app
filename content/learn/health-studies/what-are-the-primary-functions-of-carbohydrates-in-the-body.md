@@ -24,35 +24,35 @@ file_name: what-are-the-primary-functions-of-carbohydrates-in-the-body.md
 url: /learn/health-studies/questions/what-are-the-primary-functions-of-carbohydrates-in-the-body
 score: -1.0
 related_article1:
-    id: 119057
+    id: 119048
     title: >-
-        How do balance and posture affect athletic performance?
+        What are some examples of calcium-rich foods and their benefits?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-balance-and-posture-affect-athletic-performance
+    url: /learn/health-studies/questions/what-are-some-examples-of-calciumrich-foods-and-their-benefits
 related_article2:
-    id: 119038
-    title: >-
-        How can players improve their free throw shooting accuracy?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-players-improve-their-free-throw-shooting-accuracy
-related_article3:
-    id: 119051
-    title: >-
-        What are the major components of the muscular system?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-major-components-of-the-muscular-system
-related_article4:
-    id: 119043
-    title: >-
-        What constitutes a legal serve in volleyball?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-constitutes-a-legal-serve-in-volleyball
-related_article5:
     id: 119041
     title: >-
         How does player rotation work in volleyball?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-player-rotation-work-in-volleyball
+related_article3:
+    id: 119049
+    title: >-
+        What are the key dietary goals for maintaining good health?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-key-dietary-goals-for-maintaining-good-health
+related_article4:
+    id: 119056
+    title: >-
+        What constitutes good player conduct in sports?
+    subject: Psychology
+    url: /learn/psychology/questions/what-constitutes-good-player-conduct-in-sports
+related_article5:
+    id: 119052
+    title: >-
+        How does the skeletal system support the human body?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-skeletal-system-support-the-human-body
 ---
 
 &nbsp;

@@ -24,17 +24,17 @@ file_name: what-are-the-core-components-of-a-database-management-system-dbms.md
 url: /learn/computer-science/questions/what-are-the-core-components-of-a-database-management-system-dbms
 score: -1.0
 related_article1:
-    id: 122312
+    id: 122315
     title: >-
-        How do dynamic content and web applications influence web server requirements?
+        What is the LAMP stack and why is it significant in web hosting?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-dynamic-content-and-web-applications-influence-web-server-requirements
+    url: /learn/computer-science/questions/what-is-the-lamp-stack-and-why-is-it-significant-in-web-hosting
 related_article2:
-    id: 122311
+    id: 122304
     title: >-
-        What functionalities are essential for a web server?
+        What are the main advantages of using network printing over traditional printing methods?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-functionalities-are-essential-for-a-web-server
+    url: /learn/computer-science/questions/what-are-the-main-advantages-of-using-network-printing-over-traditional-printing-methods
 related_article3:
     id: 122310
     title: >-
@@ -42,17 +42,11 @@ related_article3:
     subject: Computer Science
     url: /learn/computer-science/questions/how-is-storage-managed-in-relation-to-dbms
 related_article4:
-    id: 122327
+    id: 122319
     title: >-
-        How do web services integrate with other network services?
+        How does LDAP facilitate single sign-on solutions?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-web-services-integrate-with-other-network-services
-related_article5:
-    id: 122314
-    title: >-
-        How does virtual hosting work and what are its benefits?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-virtual-hosting-work-and-what-are-its-benefits
+    url: /learn/computer-science/questions/how-does-ldap-facilitate-single-signon-solutions
 ---
 
 &nbsp;

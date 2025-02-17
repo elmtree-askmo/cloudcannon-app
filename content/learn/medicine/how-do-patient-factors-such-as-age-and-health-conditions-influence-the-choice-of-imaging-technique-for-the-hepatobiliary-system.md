@@ -24,35 +24,35 @@ file_name: how-do-patient-factors-such-as-age-and-health-conditions-influence-th
 url: /learn/medicine/questions/how-do-patient-factors-such-as-age-and-health-conditions-influence-the-choice-of-imaging-technique-for-the-hepatobiliary-system
 score: -1.0
 related_article1:
-    id: 118024
+    id: 118021
     title: >-
-        What are the disadvantages of using MRI imaging for the hepatobiliary system?
+        What are the disadvantages of using CT imaging for the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-disadvantages-of-using-mri-imaging-for-the-hepatobiliary-system
+    url: /learn/medicine/questions/what-are-the-disadvantages-of-using-ct-imaging-for-the-hepatobiliary-system
 related_article2:
-    id: 118030
-    title: >-
-        How is cirrhosis typically identified through imaging techniques?
-    subject: Medicine
-    url: /learn/medicine/questions/how-is-cirrhosis-typically-identified-through-imaging-techniques
-related_article3:
     id: 118039
     title: >-
         How does the cost of CT imaging compare to MRI imaging for the hepatobiliary system?
     subject: Health Studies
     url: /learn/health-studies/questions/how-does-the-cost-of-ct-imaging-compare-to-mri-imaging-for-the-hepatobiliary-system
+related_article3:
+    id: 118045
+    title: >-
+        How do CT and MRI imaging techniques aid in the management and treatment planning of hepatic pathologies?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-ct-and-mri-imaging-techniques-aid-in-the-management-and-treatment-planning-of-hepatic-pathologies
 related_article4:
-    id: 118020
+    id: 118026
     title: >-
-        What are the main advantages of CT imaging for the hepatobiliary system?
+        What are the primary indications for imaging the liver?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-main-advantages-of-ct-imaging-for-the-hepatobiliary-system
+    url: /learn/medicine/questions/what-are-the-primary-indications-for-imaging-the-liver
 related_article5:
-    id: 118042
+    id: 118023
     title: >-
-        What role does contrast material play in CT and MRI imaging of the hepatobiliary system?
+        What are the main advantages of MRI imaging for the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/what-role-does-contrast-material-play-in-ct-and-mri-imaging-of-the-hepatobiliary-system
+    url: /learn/medicine/questions/what-are-the-main-advantages-of-mri-imaging-for-the-hepatobiliary-system
 ---
 
 &nbsp;

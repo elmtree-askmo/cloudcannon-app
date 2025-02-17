@@ -24,35 +24,35 @@ file_name: how-is-art-defined-across-different-cultures.md
 url: /learn/art-history-and-literature/questions/how-is-art-defined-across-different-cultures
 score: -1.0
 related_article1:
+    id: 110256
+    title: >-
+        How do modern art characteristics differ from those of traditional art?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-do-modern-art-characteristics-differ-from-those-of-traditional-art
+related_article2:
+    id: 110238
+    title: >-
+        What are the key characteristics that distinguish traditional art from modern and contemporary art?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-that-distinguish-traditional-art-from-modern-and-contemporary-art
+related_article3:
+    id: 110254
+    title: >-
+        How is visual art evolving in the contemporary art scene?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-is-visual-art-evolving-in-the-contemporary-art-scene
+related_article4:
     id: 110240
     title: >-
         What are the main differences between modern art and contemporary art?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-are-the-main-differences-between-modern-art-and-contemporary-art
-related_article2:
-    id: 110251
-    title: >-
-        What is the impact of film as a contemporary art form?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-impact-of-film-as-a-contemporary-art-form
-related_article3:
-    id: 110239
-    title: >-
-        How has the definition of art evolved over time?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-has-the-definition-of-art-evolved-over-time
-related_article4:
-    id: 110257
-    title: >-
-        What are some contemporary art movements that address global issues?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-contemporary-art-movements-that-address-global-issues
 related_article5:
-    id: 110250
+    id: 110262
     title: >-
-        How is theater represented in contemporary art?
+        How does contemporary art reflect technological advancements?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-is-theater-represented-in-contemporary-art
+    url: /learn/art-history-and-literature/questions/how-does-contemporary-art-reflect-technological-advancements
 ---
 
 &nbsp;

@@ -24,35 +24,29 @@ file_name: what-training-is-required-for-radiologists-to-specialize-in-habitabil
 url: /learn/medicine/questions/what-training-is-required-for-radiologists-to-specialize-in-habitability-disorders
 score: -1.0
 related_article1:
-    id: 118173
+    id: 118189
     title: >-
-        What are the common findings in abdominal X-rays related to habitability diseases?
+        How do rib cage and gas interference affect ultrasound imaging?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-findings-in-abdominal-xrays-related-to-habitability-diseases
+    url: /learn/medicine/questions/how-do-rib-cage-and-gas-interference-affect-ultrasound-imaging
 related_article2:
-    id: 118196
+    id: 118185
     title: >-
-        What are the cost implications of using different imaging modalities for habitability disorders?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-cost-implications-of-using-different-imaging-modalities-for-habitability-disorders
+        How is Doppler ultrasound used in liver assessment, specifically for the portal vein?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-doppler-ultrasound-used-in-liver-assessment-specifically-for-the-portal-vein
 related_article3:
-    id: 118184
+    id: 118190
     title: >-
-        What are the radiological features of pancreatic head mass and chronic pancreatitis?
+        What are the common post-surgical artifacts that impede ultrasound visualization?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-radiological-features-of-pancreatic-head-mass-and-chronic-pancreatitis
+    url: /learn/medicine/questions/what-are-the-common-postsurgical-artifacts-that-impede-ultrasound-visualization
 related_article4:
-    id: 118172
+    id: 118182
     title: >-
-        What are the primary roles and limitations of abdominal X-rays in habitability diseases?
+        How are gallstones detected through radiological imaging?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-primary-roles-and-limitations-of-abdominal-xrays-in-habitability-diseases
-related_article5:
-    id: 118175
-    title: >-
-        What is pneumobilia and how is it identified on an abdominal X-ray?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-pneumobilia-and-how-is-it-identified-on-an-abdominal-xray
+    url: /learn/medicine/questions/how-are-gallstones-detected-through-radiological-imaging
 ---
 
 &nbsp;

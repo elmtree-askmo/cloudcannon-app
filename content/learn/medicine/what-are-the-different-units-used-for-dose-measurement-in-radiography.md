@@ -24,35 +24,35 @@ file_name: what-are-the-different-units-used-for-dose-measurement-in-radiography
 url: /learn/medicine/questions/what-are-the-different-units-used-for-dose-measurement-in-radiography
 score: -1.0
 related_article1:
-    id: 116081
+    id: 116073
     title: >-
-        What are the key strategies for radiation protection in medical imaging?
+        How are current tissue weighting factors applied in medical imaging?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-key-strategies-for-radiation-protection-in-medical-imaging
+    url: /learn/medicine/questions/how-are-current-tissue-weighting-factors-applied-in-medical-imaging
 related_article2:
-    id: 116063
+    id: 116070
     title: >-
-        How has the understanding of radiation safety practices changed over the years?
+        What is the difference between equivalent dose and effective dose?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-has-the-understanding-of-radiation-safety-practices-changed-over-the-years
+    url: /learn/health-studies/questions/what-is-the-difference-between-equivalent-dose-and-effective-dose
 related_article3:
-    id: 116083
+    id: 116078
     title: >-
-        What role do KVP and MAS adjustments play in radiation safety?
-    subject: Medicine
-    url: /learn/medicine/questions/what-role-do-kvp-and-mas-adjustments-play-in-radiation-safety
-related_article4:
-    id: 116086
-    title: >-
-        How can the concept of Banana Equivalent Dose (BED) be explained to patients?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-can-the-concept-of-banana-equivalent-dose-bed-be-explained-to-patients
-related_article5:
-    id: 116058
-    title: >-
-        What were the key events leading to the discovery of X-rays and radioactive materials?
+        How do ionisation chambers work in measuring radiation?
     subject: Physics
-    url: /learn/physics/questions/what-were-the-key-events-leading-to-the-discovery-of-xrays-and-radioactive-materials
+    url: /learn/physics/questions/how-do-ionisation-chambers-work-in-measuring-radiation
+related_article4:
+    id: 116065
+    title: >-
+        How is the conservation of energy applied in dose measurement and control?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-the-conservation-of-energy-applied-in-dose-measurement-and-control
+related_article5:
+    id: 116069
+    title: >-
+        How is absorbed dose measured and what does it signify?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-absorbed-dose-measured-and-what-does-it-signify
 ---
 
 &nbsp;

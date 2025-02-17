@@ -24,35 +24,35 @@ file_name: what-are-the-different-forms-of-potential-energy-and-how-are-they-cal
 url: /learn/physics/questions/what-are-the-different-forms-of-potential-energy-and-how-are-they-calculated
 score: -1.0
 related_article1:
-    id: 122451
+    id: 122465
     title: >-
-        What strategies can be used to verify the accuracy of an answer in physics?
+        How is work defined in physics, and how does it relate to energy?
     subject: Physics
-    url: /learn/physics/questions/what-strategies-can-be-used-to-verify-the-accuracy-of-an-answer-in-physics
+    url: /learn/physics/questions/how-is-work-defined-in-physics-and-how-does-it-relate-to-energy
 related_article2:
-    id: 122467
+    id: 122462
     title: >-
-        How is kinetic energy calculated, and what factors affect it?
+        What are some examples of Newton's Third Law in everyday life?
     subject: Physics
-    url: /learn/physics/questions/how-is-kinetic-energy-calculated-and-what-factors-affect-it
+    url: /learn/physics/questions/what-are-some-examples-of-newtons-third-law-in-everyday-life
 related_article3:
-    id: 122450
+    id: 122455
     title: >-
-        How do you determine which equations to use during the calculation phase of problem-solving?
+        How do velocity and speed differ in the context of motion?
     subject: Physics
-    url: /learn/physics/questions/how-do-you-determine-which-equations-to-use-during-the-calculation-phase-of-problemsolving
+    url: /learn/physics/questions/how-do-velocity-and-speed-differ-in-the-context-of-motion
 related_article4:
-    id: 122452
+    id: 122464
     title: >-
-        Can you explain the difference between displacement and distance in motion and kinematics?
+        What is the role of torque in rotational equilibrium?
     subject: Physics
-    url: /learn/physics/questions/can-you-explain-the-difference-between-displacement-and-distance-in-motion-and-kinematics
+    url: /learn/physics/questions/what-is-the-role-of-torque-in-rotational-equilibrium
 related_article5:
-    id: 122449
+    id: 122468
     title: >-
-        What are the key steps involved in setting up a physics problem?
+        What is the principle of conservation of energy, and how is it applied in physics problems?
     subject: Physics
-    url: /learn/physics/questions/what-are-the-key-steps-involved-in-setting-up-a-physics-problem
+    url: /learn/physics/questions/what-is-the-principle-of-conservation-of-energy-and-how-is-it-applied-in-physics-problems
 ---
 
 &nbsp;

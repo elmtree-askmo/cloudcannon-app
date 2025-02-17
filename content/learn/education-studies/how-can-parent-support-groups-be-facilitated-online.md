@@ -24,35 +24,35 @@ file_name: how-can-parent-support-groups-be-facilitated-online.md
 url: /learn/education-studies/questions/how-can-parent-support-groups-be-facilitated-online
 score: -1.0
 related_article1:
-    id: 116950
+    id: 116968
     title: >-
-        How do location and convenience impact program accessibility for families?
+        How can programs effectively engage families and caregivers in a virtual setting?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-location-and-convenience-impact-program-accessibility-for-families
+    url: /learn/education-studies/questions/how-can-programs-effectively-engage-families-and-caregivers-in-a-virtual-setting
 related_article2:
-    id: 116972
+    id: 116962
     title: >-
-        How is dental hygiene and literacy promotion integrated into virtual programs?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-is-dental-hygiene-and-literacy-promotion-integrated-into-virtual-programs
-related_article3:
-    id: 116967
-    title: >-
-        What role do parents and caregivers play in virtual child development programs?
+        What strategies are effective in promoting friendships and community among families in virtual settings?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-parents-and-caregivers-play-in-virtual-child-development-programs
-related_article4:
+    url: /learn/education-studies/questions/what-strategies-are-effective-in-promoting-friendships-and-community-among-families-in-virtual-settings
+related_article3:
     id: 116965
     title: >-
         What is the structure of a school readiness program in a virtual environment?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-structure-of-a-school-readiness-program-in-a-virtual-environment
-related_article5:
-    id: 116951
+related_article4:
+    id: 116972
     title: >-
-        What types of child development activities are most effective in a virtual setting?
+        How is dental hygiene and literacy promotion integrated into virtual programs?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-dental-hygiene-and-literacy-promotion-integrated-into-virtual-programs
+related_article5:
+    id: 116967
+    title: >-
+        What role do parents and caregivers play in virtual child development programs?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-types-of-child-development-activities-are-most-effective-in-a-virtual-setting
+    url: /learn/education-studies/questions/what-role-do-parents-and-caregivers-play-in-virtual-child-development-programs
 ---
 
 &nbsp;

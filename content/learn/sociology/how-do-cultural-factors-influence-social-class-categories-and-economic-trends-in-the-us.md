@@ -30,12 +30,6 @@ related_article1:
     subject: Sociology
     url: /learn/sociology/questions/what-are-the-current-trends-in-social-mobility-in-the-us
 related_article2:
-    id: 96179
-    title: >-
-        What are the major economic and social impacts of stagnant wages in the U.S.?
-    subject: Economics
-    url: /learn/economics/questions/what-are-the-major-economic-and-social-impacts-of-stagnant-wages-in-the-us
-related_article3:
     id: 96198
     title: >-
         What are the historical patterns of economic inequality in the U.S.?

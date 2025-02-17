@@ -24,35 +24,35 @@ file_name: how-do-statisticians-ensure-the-accuracy-of-random-variable-models.md
 url: /learn/mathematics/questions/how-do-statisticians-ensure-the-accuracy-of-random-variable-models
 score: -1.0
 related_article1:
-    id: 102687
+    id: 102693
     title: >-
-        What are the main types of random variables?
+        How can one determine the possible values of a discrete random variable?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-main-types-of-random-variables
+    url: /learn/mathematics/questions/how-can-one-determine-the-possible-values-of-a-discrete-random-variable
 related_article2:
-    id: 102691
+    id: 102707
     title: >-
-        How are random variables classified in practice?
+        What is the historical development of the concept of random variables?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-are-random-variables-classified-in-practice
+    url: /learn/mathematics/questions/what-is-the-historical-development-of-the-concept-of-random-variables
 related_article3:
-    id: 102692
+    id: 102710
     title: >-
-        What criteria are used to classify random variables?
+        How do random variables help in understanding uncertainty and risk?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-criteria-are-used-to-classify-random-variables
+    url: /learn/mathematics/questions/how-do-random-variables-help-in-understanding-uncertainty-and-risk
 related_article4:
-    id: 102705
+    id: 102703
     title: >-
-        What are some common misconceptions about random variables?
+        What are the challenges in working with random variables?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-common-misconceptions-about-random-variables
+    url: /learn/mathematics/questions/what-are-the-challenges-in-working-with-random-variables
 related_article5:
-    id: 102709
+    id: 102689
     title: >-
-        What are the limitations of using random variables in statistical analysis?
+        Can you provide examples of discrete random variables?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-limitations-of-using-random-variables-in-statistical-analysis
+    url: /learn/mathematics/questions/can-you-provide-examples-of-discrete-random-variables
 ---
 
 &nbsp;

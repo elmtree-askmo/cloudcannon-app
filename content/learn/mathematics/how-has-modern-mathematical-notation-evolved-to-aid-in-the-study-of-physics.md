@@ -24,35 +24,35 @@ file_name: how-has-modern-mathematical-notation-evolved-to-aid-in-the-study-of-p
 url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-to-aid-in-the-study-of-physics
 score: -1.0
 related_article1:
-    id: 99812
+    id: 99801
     title: >-
-        What is the role of the local field method in modern physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-role-of-the-local-field-method-in-modern-physics
-related_article2:
-    id: 99798
-    title: >-
-        Can you explain the local field method in physics?
-    subject: Physics
-    url: /learn/physics/questions/can-you-explain-the-local-field-method-in-physics
-related_article3:
-    id: 99806
-    title: >-
-        What are some examples of mathematical concepts that have been crucial in physics discoveries?
+        How do mathematical models help in predicting physical phenomena?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-examples-of-mathematical-concepts-that-have-been-crucial-in-physics-discoveries
+    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
+related_article2:
+    id: 99803
+    title: >-
+        How did ancient civilizations contribute to the development of mathematical physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-physics
+related_article3:
+    id: 99788
+    title: >-
+        What is Newton's Law of Gravitation and how is it mathematically formulated?
+    subject: Physics
+    url: /learn/physics/questions/what-is-newtons-law-of-gravitation-and-how-is-it-mathematically-formulated
 related_article4:
-    id: 99787
+    id: 99796
     title: >-
-        Can you explain Faraday's Law and its significance in physics?
+        How does the law of gravitation relate to the conservation of angular momentum?
     subject: Physics
-    url: /learn/physics/questions/can-you-explain-faradays-law-and-its-significance-in-physics
+    url: /learn/physics/questions/how-does-the-law-of-gravitation-relate-to-the-conservation-of-angular-momentum
 related_article5:
-    id: 99811
+    id: 99813
     title: >-
-        How do Newton's Laws form the foundation of classical mechanics?
+        How does the minimum principle relate to optimization problems in physics?
     subject: Physics
-    url: /learn/physics/questions/how-do-newtons-laws-form-the-foundation-of-classical-mechanics
+    url: /learn/physics/questions/how-does-the-minimum-principle-relate-to-optimization-problems-in-physics
 ---
 
 &nbsp;

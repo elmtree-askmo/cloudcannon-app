@@ -13,7 +13,7 @@ seo:
   page_description: >-
     The concept of displacement current was introduced by Maxwell to resolve inconsistencies in Ampre's law related to capacitors, allowing for a comprehensive understanding of electromagnetism and the prediction of electromagnetic waves.
   page_keywords: >-
-    displacement current, Maxwell, Ampère's law, electromagnetic waves, electric flux, electromagnetism, magnetic field, electric current, permittivity of free space, capacitors, changing electric field
+    displacement current, Maxwell, Ampre's law, electromagnetic waves, electric flux, electromagnetism, magnetic field, electric current, permittivity of free space, capacitors, changing electric field
 author: QuickTakes
 question: >-
     What is the concept of displacement current and why was it introduced by Maxwell?
@@ -24,29 +24,29 @@ file_name: what-is-the-concept-of-displacement-current-and-why-was-it-introduced
 url: /learn/physics/questions/what-is-the-concept-of-displacement-current-and-why-was-it-introduced-by-maxwell
 score: -1.0
 related_article1:
-    id: 116208
+    id: 116209
     title: >-
-        What was the historical context in which Maxwell developed his equations?
+        How did Maxwell's work build upon the contributions of previous scientists in the field of electromagnetism?
     subject: Physics
-    url: /learn/physics/questions/what-was-the-historical-context-in-which-maxwell-developed-his-equations
+    url: /learn/physics/questions/how-did-maxwells-work-build-upon-the-contributions-of-previous-scientists-in-the-field-of-electromagnetism
 related_article2:
+    id: 116219
+    title: >-
+        What are the characteristics and uses of radio waves?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-characteristics-and-uses-of-radio-waves
+related_article3:
     id: 116213
     title: >-
         Can you explain the Ampere-Maxwell Law and its significance in electromagnetism?
     subject: Physics
     url: /learn/physics/questions/can-you-explain-the-amperemaxwell-law-and-its-significance-in-electromagnetism
-related_article3:
-    id: 116215
-    title: >-
-        What are the fundamental nature and properties of electromagnetic waves?
-    subject: Physics
-    url: /learn/physics/questions/what-are-the-fundamental-nature-and-properties-of-electromagnetic-waves
 related_article4:
-    id: 116216
+    id: 116210
     title: >-
-        How do electric and magnetic fields interact in electromagnetic waves?
+        What specific contributions did Maxwell make to the field of electromagnetism?
     subject: Physics
-    url: /learn/physics/questions/how-do-electric-and-magnetic-fields-interact-in-electromagnetic-waves
+    url: /learn/physics/questions/what-specific-contributions-did-maxwell-make-to-the-field-of-electromagnetism
 ---
 
 &nbsp;

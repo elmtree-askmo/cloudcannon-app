@@ -24,17 +24,17 @@ file_name: what-are-the-historical-origins-of-the-bicameral-legislature-in-the-u
 url: /learn/history-of-the-world/questions/what-are-the-historical-origins-of-the-bicameral-legislature-in-the-us
 score: -1.0
 related_article1:
-    id: 120169
-    title: >-
-        How did the Civil War impact the U.S. Constitution and legislative processes?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-civil-war-impact-the-us-constitution-and-legislative-processes
-related_article2:
     id: 120183
     title: >-
         How did World War II impact U.S. domestic policies?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-world-war-ii-impact-us-domestic-policies
+related_article2:
+    id: 120169
+    title: >-
+        How did the Civil War impact the U.S. Constitution and legislative processes?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-civil-war-impact-the-us-constitution-and-legislative-processes
 ---
 
 &nbsp;

@@ -30,29 +30,23 @@ related_article1:
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-just-world-hypothesis-and-how-does-it-influence-behavior
 related_article2:
-    id: 111846
+    id: 111857
     title: >-
-        What are the main interpersonal topics studied in social psychology?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-interpersonal-topics-studied-in-social-psychology
+        How do social roles impact individual behavior in a group setting?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-social-roles-impact-individual-behavior-in-a-group-setting
 related_article3:
-    id: 111866
+    id: 111864
     title: >-
-        What were Solomon Asch's contributions to the study of conformity?
+        What is the elaboration likelihood model in the context of persuasion?
     subject: Psychology
-    url: /learn/psychology/questions/what-were-solomon-aschs-contributions-to-the-study-of-conformity
+    url: /learn/psychology/questions/what-is-the-elaboration-likelihood-model-in-the-context-of-persuasion
 related_article4:
     id: 111852
     title: >-
         What was the Quizmaster Study and what did it reveal about attribution?
     subject: Psychology
     url: /learn/psychology/questions/what-was-the-quizmaster-study-and-what-did-it-reveal-about-attribution
-related_article5:
-    id: 111864
-    title: >-
-        What is the elaboration likelihood model in the context of persuasion?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-elaboration-likelihood-model-in-the-context-of-persuasion
 ---
 
 &nbsp;

@@ -24,23 +24,23 @@ file_name: what-are-the-key-considerations-in-making-a-differential-diagnosis-fo
 url: /learn/medicine/questions/what-are-the-key-considerations-in-making-a-differential-diagnosis-for-tendinopathy
 score: -1.0
 related_article1:
-    id: 94132
-    title: >-
-        How are range of motion tests conducted, and what do they reveal about a patient's condition?
-    subject: Nursing
-    url: /learn/nursing/questions/how-are-range-of-motion-tests-conducted-and-what-do-they-reveal-about-a-patients-condition
-related_article2:
     id: 94144
     title: >-
         What lifestyle and activity adjustments are recommended for tendinopathy patients?
     subject: Health Studies
     url: /learn/health-studies/questions/what-lifestyle-and-activity-adjustments-are-recommended-for-tendinopathy-patients
-related_article3:
-    id: 94130
+related_article2:
+    id: 94132
     title: >-
-        How can symptoms impact a patient's daily activities, and how should this be assessed?
+        How are range of motion tests conducted, and what do they reveal about a patient's condition?
+    subject: Nursing
+    url: /learn/nursing/questions/how-are-range-of-motion-tests-conducted-and-what-do-they-reveal-about-a-patients-condition
+related_article3:
+    id: 94138
+    title: >-
+        What massage techniques are effective in treating tendinopathy?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-can-symptoms-impact-a-patients-daily-activities-and-how-should-this-be-assessed
+    url: /learn/health-studies/questions/what-massage-techniques-are-effective-in-treating-tendinopathy
 ---
 
 &nbsp;

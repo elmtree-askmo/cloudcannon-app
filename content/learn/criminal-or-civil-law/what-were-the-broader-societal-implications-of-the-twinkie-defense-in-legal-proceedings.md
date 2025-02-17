@@ -24,35 +24,35 @@ file_name: what-were-the-broader-societal-implications-of-the-twinkie-defense-in
 url: /learn/criminal-or-civil-law/questions/what-were-the-broader-societal-implications-of-the-twinkie-defense-in-legal-proceedings
 score: -1.0
 related_article1:
-    id: 123841
+    id: 123821
     title: >-
-        What was the significance of the Castro district in the context of the gay rights movement?
+        What contributions did Harvey Milk make to the LGBTQ+ community and San Francisco politics?
     subject: Sociology
-    url: /learn/sociology/questions/what-was-the-significance-of-the-castro-district-in-the-context-of-the-gay-rights-movement
+    url: /learn/sociology/questions/what-contributions-did-harvey-milk-make-to-the-lgbtq-community-and-san-francisco-politics
 related_article2:
-    id: 123844
+    id: 123848
     title: >-
-        How did the socio-political climate of the 1970s influence the public's reaction to the trial and verdict?
-    subject: Sociology
-    url: /learn/sociology/questions/how-did-the-sociopolitical-climate-of-the-1970s-influence-the-publics-reaction-to-the-trial-and-verdict
-related_article3:
-    id: 123823
-    title: >-
-        Can you describe the day of the assassinations and the sequence of events?
+        How did the legacy of the assassinations shape future political and social movements in San Francisco?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/can-you-describe-the-day-of-the-assassinations-and-the-sequence-of-events
+    url: /learn/history-of-the-world/questions/how-did-the-legacy-of-the-assassinations-shape-future-political-and-social-movements-in-san-francisco
+related_article3:
+    id: 123845
+    title: >-
+        What role did George Moscone and Harvey Milk play in the political tensions of the time?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-role-did-george-moscone-and-harvey-milk-play-in-the-political-tensions-of-the-time
 related_article4:
-    id: 123837
+    id: 123839
     title: >-
-        How did the community respond to the assassinations and the subsequent trial?
+        What were the long-term consequences of the assassinations and the White Night Riot?
     subject: Sociology
-    url: /learn/sociology/questions/how-did-the-community-respond-to-the-assassinations-and-the-subsequent-trial
+    url: /learn/sociology/questions/what-were-the-longterm-consequences-of-the-assassinations-and-the-white-night-riot
 related_article5:
-    id: 123830
+    id: 123833
     title: >-
-        How did the police respond to the White Night Riot?
+        What was the verdict and sentencing in Dan White's trial?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-did-the-police-respond-to-the-white-night-riot
+    url: /learn/criminal-or-civil-law/questions/what-was-the-verdict-and-sentencing-in-dan-whites-trial
 ---
 
 &nbsp;

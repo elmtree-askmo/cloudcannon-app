@@ -23,12 +23,7 @@ subject: Criminal or Civil Law
 file_name: how-does-the-concept-of-justice-influence-sentencing-practices.md
 url: /learn/criminal-or-civil-law/questions/how-does-the-concept-of-justice-influence-sentencing-practices
 score: -1.0
-related_article1:
-    id: 122644
-    title: >-
-        What is the relationship between rehabilitation and recidivism in sentencing?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-the-relationship-between-rehabilitation-and-recidivism-in-sentencing
+
 ---
 
 &nbsp;

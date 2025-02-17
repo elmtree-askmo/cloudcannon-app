@@ -24,12 +24,6 @@ file_name: how-do-social-behaviors-in-williams-syndrome-differ-from-those-in-oth
 url: /learn/psychology/questions/how-do-social-behaviors-in-williams-syndrome-differ-from-those-in-other-genetic-syndromes
 score: -1.0
 related_article1:
-    id: 108322
-    title: >-
-        How can families be supported in managing the challenges of intellectual disabilities?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-can-families-be-supported-in-managing-the-challenges-of-intellectual-disabilities
-related_article2:
     id: 108329
     title: >-
         What are the long-term outcomes for individuals with genetic syndromes and intellectual disabilities?

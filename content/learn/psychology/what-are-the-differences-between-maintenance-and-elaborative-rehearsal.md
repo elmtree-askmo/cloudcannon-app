@@ -24,11 +24,11 @@ file_name: what-are-the-differences-between-maintenance-and-elaborative-rehearsa
 url: /learn/psychology/questions/what-are-the-differences-between-maintenance-and-elaborative-rehearsal
 score: -1.0
 related_article1:
-    id: 112493
+    id: 112484
     title: >-
-        Can you explain procedural memory and its significance?
+        What is the encoding specificity principle?
     subject: Psychology
-    url: /learn/psychology/questions/can-you-explain-procedural-memory-and-its-significance
+    url: /learn/psychology/questions/what-is-the-encoding-specificity-principle
 related_article2:
     id: 112485
     title: >-
@@ -36,17 +36,11 @@ related_article2:
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-components-of-the-working-memory-model
 related_article3:
-    id: 112499
+    id: 112496
     title: >-
-        How does retrograde amnesia affect memory?
+        What is the process of consolidation in memory?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-retrograde-amnesia-affect-memory
-related_article4:
-    id: 112484
-    title: >-
-        What is the encoding specificity principle?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-encoding-specificity-principle
+    url: /learn/psychology/questions/what-is-the-process-of-consolidation-in-memory
 ---
 
 &nbsp;

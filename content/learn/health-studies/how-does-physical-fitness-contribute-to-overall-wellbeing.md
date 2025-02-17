@@ -24,29 +24,29 @@ file_name: how-does-physical-fitness-contribute-to-overall-wellbeing.md
 url: /learn/health-studies/questions/how-does-physical-fitness-contribute-to-overall-wellbeing
 score: -1.0
 related_article1:
-    id: 119052
+    id: 119048
     title: >-
-        How does the skeletal system support the human body?
+        What are some examples of calcium-rich foods and their benefits?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-skeletal-system-support-the-human-body
+    url: /learn/health-studies/questions/what-are-some-examples-of-calciumrich-foods-and-their-benefits
 related_article2:
-    id: 119047
+    id: 119046
     title: >-
-        How do proteins contribute to overall health and fitness?
+        What are the primary functions of carbohydrates in the body?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-proteins-contribute-to-overall-health-and-fitness
+    url: /learn/health-studies/questions/what-are-the-primary-functions-of-carbohydrates-in-the-body
 related_article3:
-    id: 119049
+    id: 119056
     title: >-
-        What are the key dietary goals for maintaining good health?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-key-dietary-goals-for-maintaining-good-health
+        What constitutes good player conduct in sports?
+    subject: Psychology
+    url: /learn/psychology/questions/what-constitutes-good-player-conduct-in-sports
 related_article4:
-    id: 119051
+    id: 119054
     title: >-
-        What are the major components of the muscular system?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-major-components-of-the-muscular-system
+        How does the heart function within the circulatory system?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-the-heart-function-within-the-circulatory-system
 ---
 
 &nbsp;

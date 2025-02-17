@@ -24,29 +24,35 @@ file_name: how-can-network-media-security-be-ensured.md
 url: /learn/computer-science/questions/how-can-network-media-security-be-ensured
 score: -1.0
 related_article1:
+    id: 122271
+    title: >-
+        What is ransomware and how does it typically infiltrate a network?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-is-ransomware-and-how-does-it-typically-infiltrate-a-network
+related_article2:
+    id: 122282
+    title: >-
+        What are some examples of internal threats and how can they be mitigated?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-some-examples-of-internal-threats-and-how-can-they-be-mitigated
+related_article3:
+    id: 122290
+    title: >-
+        Why are regular updates and patches crucial for network security?
+    subject: Computer Science
+    url: /learn/computer-science/questions/why-are-regular-updates-and-patches-crucial-for-network-security
+related_article4:
+    id: 122285
+    title: >-
+        What is the role of firewalls in network security?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-role-of-firewalls-in-network-security
+related_article5:
     id: 122291
     title: >-
         What are the best practices for data backup and recovery?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-best-practices-for-data-backup-and-recovery
-related_article2:
-    id: 122283
-    title: >-
-        What are the best practices for physical protection of network infrastructure?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-best-practices-for-physical-protection-of-network-infrastructure
-related_article3:
-    id: 122276
-    title: >-
-        Why are login credentials critical in network security?
-    subject: Computer Science
-    url: /learn/computer-science/questions/why-are-login-credentials-critical-in-network-security
-related_article4:
-    id: 122272
-    title: >-
-        Can you explain the concept of internal threats and how social engineering is used in these scenarios?
-    subject: Computer Science
-    url: /learn/computer-science/questions/can-you-explain-the-concept-of-internal-threats-and-how-social-engineering-is-used-in-these-scenarios
 ---
 
 &nbsp;

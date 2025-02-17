@@ -24,35 +24,35 @@ file_name: how-are-different-imaging-techniques-integrated-in-the-diagnosis-and-
 url: /learn/medicine/questions/how-are-different-imaging-techniques-integrated-in-the-diagnosis-and-management-of-hepatobiliary-conditions
 score: -1.0
 related_article1:
-    id: 118133
+    id: 118116
     title: >-
-        What are the latest advancements in imaging techniques for hepatobiliary diagnosis?
+        What are the differential diagnoses for acute cholecystitis based on imaging?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-latest-advancements-in-imaging-techniques-for-hepatobiliary-diagnosis
+    url: /learn/medicine/questions/what-are-the-differential-diagnoses-for-acute-cholecystitis-based-on-imaging
 related_article2:
-    id: 118123
-    title: >-
-        What are the sonographic features indicative of acute cholecystitis?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-sonographic-features-indicative-of-acute-cholecystitis
-related_article3:
     id: 118124
     title: >-
         What CT imaging findings are associated with acute cholecystitis?
     subject: Medicine
     url: /learn/medicine/questions/what-ct-imaging-findings-are-associated-with-acute-cholecystitis
-related_article4:
-    id: 118139
+related_article3:
+    id: 118114
     title: >-
-        What are the potential risks or side effects associated with imaging techniques used in hepatobiliary diagnosis?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-potential-risks-or-side-effects-associated-with-imaging-techniques-used-in-hepatobiliary-diagnosis
-related_article5:
-    id: 118136
-    title: >-
-        How does imaging influence the treatment planning for hepatobiliary diseases?
+        What treatment and management strategies are typically employed for hepatocellular carcinoma?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-imaging-influence-the-treatment-planning-for-hepatobiliary-diseases
+    url: /learn/medicine/questions/what-treatment-and-management-strategies-are-typically-employed-for-hepatocellular-carcinoma
+related_article4:
+    id: 118121
+    title: >-
+        What are the common imaging characteristics of hepatocellular carcinoma?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-common-imaging-characteristics-of-hepatocellular-carcinoma
+related_article5:
+    id: 118118
+    title: >-
+        Can you provide insights into a case study of acute pancreatitis, including patient presentation and imaging findings?
+    subject: Medicine
+    url: /learn/medicine/questions/can-you-provide-insights-into-a-case-study-of-acute-pancreatitis-including-patient-presentation-and-imaging-findings
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: how-is-cirrhosis-typically-identified-through-imaging-techniques.md
 url: /learn/medicine/questions/how-is-cirrhosis-typically-identified-through-imaging-techniques
 score: -1.0
 related_article1:
-    id: 118040
+    id: 118025
     title: >-
-        What are the limitations of ultrasound imaging for the hepatobiliary system?
+        In what scenarios is MRI imaging commonly used for the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-limitations-of-ultrasound-imaging-for-the-hepatobiliary-system
+    url: /learn/medicine/questions/in-what-scenarios-is-mri-imaging-commonly-used-for-the-hepatobiliary-system
 related_article2:
-    id: 118035
+    id: 118042
     title: >-
-        What are the typical findings in CT imaging of the hepatobiliary system?
+        What role does contrast material play in CT and MRI imaging of the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-typical-findings-in-ct-imaging-of-the-hepatobiliary-system
+    url: /learn/medicine/questions/what-role-does-contrast-material-play-in-ct-and-mri-imaging-of-the-hepatobiliary-system
 related_article3:
+    id: 118043
+    title: >-
+        How do patient factors, such as age and health conditions, influence the choice of imaging technique for the hepatobiliary system?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-patient-factors-such-as-age-and-health-conditions-influence-the-choice-of-imaging-technique-for-the-hepatobiliary-system
+related_article4:
     id: 118026
     title: >-
         What are the primary indications for imaging the liver?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-primary-indications-for-imaging-the-liver
-related_article4:
-    id: 118028
-    title: >-
-        What are the primary indications for imaging the pancreas?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-primary-indications-for-imaging-the-pancreas
 related_article5:
-    id: 118039
+    id: 118033
     title: >-
-        How does the cost of CT imaging compare to MRI imaging for the hepatobiliary system?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-cost-of-ct-imaging-compare-to-mri-imaging-for-the-hepatobiliary-system
+        What are the key imaging techniques used for the hepatobiliary system?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-key-imaging-techniques-used-for-the-hepatobiliary-system
 ---
 
 &nbsp;

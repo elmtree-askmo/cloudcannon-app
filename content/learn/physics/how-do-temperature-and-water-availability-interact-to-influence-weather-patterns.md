@@ -13,7 +13,7 @@ seo:
   page_description: >-
     The interaction between temperature and water availability significantly influences weather patterns, including evaporation, humidity levels, atmospheric dynamics, pressure systems, seasonal variations, and effects of climate change.
   page_keywords: >-
-    temperature, water availability, weather patterns, evaporation, humidity, atmospheric dynamics, pressure systems, seasonal variations, climate change, El Niño, La Niña
+    temperature, water availability, weather patterns, evaporation, humidity, atmospheric dynamics, pressure systems, seasonal variations, climate change, El Nio, La Nia
 author: QuickTakes
 question: >-
     How do temperature and water availability interact to influence weather patterns?

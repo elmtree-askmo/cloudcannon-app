@@ -24,35 +24,35 @@ file_name: what-factors-affect-solubility-predictions.md
 url: /learn/chemistry/questions/what-factors-affect-solubility-predictions
 score: -1.0
 related_article1:
+    id: 117907
+    title: >-
+        What factors affect ionization energies of elements?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-factors-affect-ionization-energies-of-elements
+related_article2:
     id: 117929
     title: >-
         How do molecular orbital diagrams help in understanding chemical bonding?
     subject: Chemistry
     url: /learn/chemistry/questions/how-do-molecular-orbital-diagrams-help-in-understanding-chemical-bonding
-related_article2:
+related_article3:
+    id: 117928
+    title: >-
+        What trends are observed in ionization energies across the periodic table?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-trends-are-observed-in-ionization-energies-across-the-periodic-table
+related_article4:
     id: 117926
     title: >-
         How do quantum numbers influence the properties of elements?
     subject: Chemistry
     url: /learn/chemistry/questions/how-do-quantum-numbers-influence-the-properties-of-elements
-related_article3:
-    id: 117927
-    title: >-
-        How does Hess's Law apply to real-world chemical reactions?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-does-hesss-law-apply-to-realworld-chemical-reactions
-related_article4:
-    id: 117913
-    title: >-
-        What is hybridization in covalent bonding?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-is-hybridization-in-covalent-bonding
 related_article5:
-    id: 117905
+    id: 117901
     title: >-
-        What are quantum numbers and how do they relate to electron configurations?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-are-quantum-numbers-and-how-do-they-relate-to-electron-configurations
+        How is heat calculated for a temperature change in a substance?
+    subject: Physics
+    url: /learn/physics/questions/how-is-heat-calculated-for-a-temperature-change-in-a-substance
 ---
 
 &nbsp;

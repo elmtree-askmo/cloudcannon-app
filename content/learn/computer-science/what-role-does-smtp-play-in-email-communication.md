@@ -24,11 +24,11 @@ file_name: what-role-does-smtp-play-in-email-communication.md
 url: /learn/computer-science/questions/what-role-does-smtp-play-in-email-communication
 score: -1.0
 related_article1:
-    id: 116165
+    id: 116152
     title: >-
-        What are the differences between IPv4 and IPv6 addressing?
+        What are the key characteristics of a Local Area Network (LAN)?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-differences-between-ipv4-and-ipv6-addressing
+    url: /learn/computer-science/questions/what-are-the-key-characteristics-of-a-local-area-network-lan
 related_article2:
     id: 116153
     title: >-
@@ -36,23 +36,23 @@ related_article2:
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-a-wide-area-network-wan-differ-from-a-metropolitan-area-network-man
 related_article3:
-    id: 116170
-    title: >-
-        How does FTP work and what are its common uses?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-ftp-work-and-what-are-its-common-uses
-related_article4:
     id: 116150
     title: >-
         What are the basic concepts one should understand about networking?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-basic-concepts-one-should-understand-about-networking
-related_article5:
-    id: 116177
+related_article4:
+    id: 116155
     title: >-
-        What are the different Wi-Fi standards and how do they differ?
+        What are the advantages and disadvantages of different network topologies?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-different-wifi-standards-and-how-do-they-differ
+    url: /learn/computer-science/questions/what-are-the-advantages-and-disadvantages-of-different-network-topologies
+related_article5:
+    id: 116164
+    title: >-
+        How do access points facilitate wireless networking?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-access-points-facilitate-wireless-networking
 ---
 
 &nbsp;

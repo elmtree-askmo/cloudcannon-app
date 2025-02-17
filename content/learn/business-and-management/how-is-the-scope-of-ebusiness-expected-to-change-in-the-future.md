@@ -24,35 +24,35 @@ file_name: how-is-the-scope-of-ebusiness-expected-to-change-in-the-future.md
 url: /learn/business-and-management/questions/how-is-the-scope-of-ebusiness-expected-to-change-in-the-future
 score: -1.0
 related_article1:
-    id: 98568
+    id: 98567
     title: >-
-        What are the transformative impacts of e-business on traditional business models?
+        How has the evolution of e-business influenced outsourcing practices?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-transformative-impacts-of-ebusiness-on-traditional-business-models
+    url: /learn/business-and-management/questions/how-has-the-evolution-of-ebusiness-influenced-outsourcing-practices
 related_article2:
-    id: 98556
+    id: 98547
     title: >-
-        How does e-business benefit consumers and society as a whole?
+        How has digitisation transformed traditional business practices?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-does-ebusiness-benefit-consumers-and-society-as-a-whole
+    url: /learn/business-and-management/questions/how-has-digitisation-transformed-traditional-business-practices
 related_article3:
-    id: 98572
+    id: 98570
     title: >-
-        What are the limitations of e-business that businesses need to be aware of?
+        What are the security concerns specific to e-business that differ from traditional business?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-limitations-of-ebusiness-that-businesses-need-to-be-aware-of
+    url: /learn/business-and-management/questions/what-are-the-security-concerns-specific-to-ebusiness-that-differ-from-traditional-business
 related_article4:
-    id: 98554
+    id: 98548
     title: >-
-        How does C2C commerce operate within the e-business framework?
+        What role does outsourcing play in modern business strategies?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-does-c2c-commerce-operate-within-the-ebusiness-framework
+    url: /learn/business-and-management/questions/what-role-does-outsourcing-play-in-modern-business-strategies
 related_article5:
-    id: 98549
+    id: 98555
     title: >-
-        How do internationalisation and globalisation impact e-business?
+        What are the primary benefits of e-business for business organisations?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-do-internationalisation-and-globalisation-impact-ebusiness
+    url: /learn/business-and-management/questions/what-are-the-primary-benefits-of-ebusiness-for-business-organisations
 ---
 
 &nbsp;

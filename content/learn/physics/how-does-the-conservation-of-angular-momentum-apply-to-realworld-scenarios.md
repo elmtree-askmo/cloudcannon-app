@@ -24,35 +24,35 @@ file_name: how-does-the-conservation-of-angular-momentum-apply-to-realworld-scen
 url: /learn/physics/questions/how-does-the-conservation-of-angular-momentum-apply-to-realworld-scenarios
 score: -1.0
 related_article1:
+    id: 123050
+    title: >-
+        What is the significance of force and equal areas in physics?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-significance-of-force-and-equal-areas-in-physics
+related_article2:
+    id: 123060
+    title: >-
+        Can you explain the minimum principle and its importance in physics?
+    subject: Physics
+    url: /learn/physics/questions/can-you-explain-the-minimum-principle-and-its-importance-in-physics
+related_article3:
+    id: 123061
+    title: >-
+        What are the philosophical implications of the relationship between physics and mathematics?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
+related_article4:
+    id: 123065
+    title: >-
+        What is the historical significance of the Babylonian method in physics?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-the-babylonian-method-in-physics
+related_article5:
     id: 123059
     title: >-
         What is the local field method in physics?
     subject: Physics
     url: /learn/physics/questions/what-is-the-local-field-method-in-physics
-related_article2:
-    id: 123058
-    title: >-
-        How do Newton's Laws demonstrate the connection between physics and mathematics?
-    subject: Physics
-    url: /learn/physics/questions/how-do-newtons-laws-demonstrate-the-connection-between-physics-and-mathematics
-related_article3:
-    id: 123055
-    title: >-
-        What is the Euclidean method and its role in physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-euclidean-method-and-its-role-in-physics
-related_article4:
-    id: 123066
-    title: >-
-        How did Greek philosophers influence the mathematical understanding of nature?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-did-greek-philosophers-influence-the-mathematical-understanding-of-nature
-related_article5:
-    id: 123056
-    title: >-
-        How does the law of gravitation illustrate the relationship between physics and mathematics?
-    subject: Physics
-    url: /learn/physics/questions/how-does-the-law-of-gravitation-illustrate-the-relationship-between-physics-and-mathematics
 ---
 
 &nbsp;

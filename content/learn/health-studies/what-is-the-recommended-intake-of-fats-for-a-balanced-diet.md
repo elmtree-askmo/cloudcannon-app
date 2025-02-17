@@ -24,11 +24,11 @@ file_name: what-is-the-recommended-intake-of-fats-for-a-balanced-diet.md
 url: /learn/health-studies/questions/what-is-the-recommended-intake-of-fats-for-a-balanced-diet
 score: -1.0
 related_article1:
-    id: 104414
+    id: 104433
     title: >-
-        What is the difference between energy density and nutrient density?
+        How do cholesterol, LDL, and HDL affect health?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-difference-between-energy-density-and-nutrient-density
+    url: /learn/health-studies/questions/how-do-cholesterol-ldl-and-hdl-affect-health
 related_article2:
     id: 104424
     title: >-
@@ -36,11 +36,23 @@ related_article2:
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-risks-associated-with-overconsumption-of-dietary-fiber
 related_article3:
-    id: 104433
+    id: 104425
     title: >-
-        How do cholesterol, LDL, and HDL affect health?
+        What are the primary functions of carbohydrates in the body?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-cholesterol-ldl-and-hdl-affect-health
+    url: /learn/health-studies/questions/what-are-the-primary-functions-of-carbohydrates-in-the-body
+related_article4:
+    id: 104434
+    title: >-
+        What are the essential functions of lipids in the body?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-essential-functions-of-lipids-in-the-body
+related_article5:
+    id: 104414
+    title: >-
+        What is the difference between energy density and nutrient density?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-difference-between-energy-density-and-nutrient-density
 ---
 
 &nbsp;

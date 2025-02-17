@@ -24,35 +24,35 @@ file_name: how-does-airtable-ensure-data-security-and-privacy.md
 url: /learn/digital-media/questions/how-does-airtable-ensure-data-security-and-privacy
 score: -1.0
 related_article1:
-    id: 117990
+    id: 118005
     title: >-
-        What is Airtable and how does it function as a database?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-airtable-and-how-does-it-function-as-a-database
+        In what ways does Airtable differ from project management tools like Asana?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/in-what-ways-does-airtable-differ-from-project-management-tools-like-asana
 related_article2:
-    id: 117996
-    title: >-
-        How do Airtable forms work and what are their benefits?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-do-airtable-forms-work-and-what-are-their-benefits
-related_article3:
     id: 118007
     title: >-
         How can Airtable be used for personal data management?
     subject: Digital Media
     url: /learn/digital-media/questions/how-can-airtable-be-used-for-personal-data-management
-related_article4:
-    id: 118000
+related_article3:
+    id: 117998
     title: >-
-        What systems can Airtable integrate with and how does this integration work?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-systems-can-airtable-integrate-with-and-how-does-this-integration-work
-related_article5:
+        What is the automation engine in Airtable and how does it work?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-is-the-automation-engine-in-airtable-and-how-does-it-work
+related_article4:
     id: 118002
     title: >-
         What are the advantages of using Airtable for startups and small businesses?
     subject: Business and Management
     url: /learn/business-and-management/questions/what-are-the-advantages-of-using-airtable-for-startups-and-small-businesses
+related_article5:
+    id: 118018
+    title: >-
+        How does Airtable's automation engine improve workflow efficiency?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-does-airtables-automation-engine-improve-workflow-efficiency
 ---
 
 &nbsp;

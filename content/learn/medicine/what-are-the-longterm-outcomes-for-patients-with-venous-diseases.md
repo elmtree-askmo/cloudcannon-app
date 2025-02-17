@@ -24,23 +24,29 @@ file_name: what-are-the-longterm-outcomes-for-patients-with-venous-diseases.md
 url: /learn/medicine/questions/what-are-the-longterm-outcomes-for-patients-with-venous-diseases
 score: -1.0
 related_article1:
-    id: 102202
-    title: >-
-        Why is understanding venous diseases important for medical students?
-    subject: Medicine
-    url: /learn/medicine/questions/why-is-understanding-venous-diseases-important-for-medical-students
-related_article2:
-    id: 102206
-    title: >-
-        What preventive measures can be taken to reduce the risk of venous diseases?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-preventive-measures-can-be-taken-to-reduce-the-risk-of-venous-diseases
-related_article3:
     id: 102186
     title: >-
         Can you explain the role of venous valves in venous diseases?
     subject: Medicine
     url: /learn/medicine/questions/can-you-explain-the-role-of-venous-valves-in-venous-diseases
+related_article2:
+    id: 102195
+    title: >-
+        What symptoms are typically associated with DVT?
+    subject: Medicine
+    url: /learn/medicine/questions/what-symptoms-are-typically-associated-with-dvt
+related_article3:
+    id: 102188
+    title: >-
+        How does venous obstruction contribute to chronic venous insufficiency (CVI)?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-venous-obstruction-contribute-to-chronic-venous-insufficiency-cvi
+related_article4:
+    id: 102205
+    title: >-
+        How do lifestyle factors influence the development of venous diseases?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-lifestyle-factors-influence-the-development-of-venous-diseases
 ---
 
 &nbsp;

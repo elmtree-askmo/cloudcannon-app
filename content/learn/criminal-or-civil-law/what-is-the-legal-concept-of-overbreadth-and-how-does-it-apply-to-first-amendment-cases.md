@@ -30,11 +30,11 @@ related_article1:
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-was-the-ruling-in-united-states-v-obrien-and-its-impact-on-symbolic-speech
 related_article2:
-    id: 122079
+    id: 122097
     title: >-
-        How did the McCullen v. Coakley case impact public forum law?
+        How do content-neutral restrictions apply to symbolic speech?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-did-the-mccullen-v-coakley-case-impact-public-forum-law
+    url: /learn/criminal-or-civil-law/questions/how-do-contentneutral-restrictions-apply-to-symbolic-speech
 ---
 
 &nbsp;

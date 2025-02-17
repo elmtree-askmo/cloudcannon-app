@@ -24,23 +24,29 @@ file_name: how-do-cultural-bonds-and-identity-contribute-to-societal-cohesion.md
 url: /learn/sociology/questions/how-do-cultural-bonds-and-identity-contribute-to-societal-cohesion
 score: -1.0
 related_article1:
+    id: 120559
+    title: >-
+        How is society defined in terms of cultural bonds and identity?
+    subject: Sociology
+    url: /learn/sociology/questions/how-is-society-defined-in-terms-of-cultural-bonds-and-identity
+related_article2:
+    id: 120555
+    title: >-
+        In what ways do aesthetics reflect cultural values?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/in-what-ways-do-aesthetics-reflect-cultural-values
+related_article3:
     id: 120553
     title: >-
         What role does language play in shaping cultural identity?
     subject: Sociology
     url: /learn/sociology/questions/what-role-does-language-play-in-shaping-cultural-identity
-related_article2:
-    id: 120566
+related_article4:
+    id: 120568
     title: >-
-        How does the Supreme Court influence the judicial system in the U.S.?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-does-the-supreme-court-influence-the-judicial-system-in-the-us
-related_article3:
-    id: 120561
-    title: >-
-        How do the executive, legislative, and judicial branches function in politics?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-do-the-executive-legislative-and-judicial-branches-function-in-politics
+        How does religion play a role in shaping cultural norms and values?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-religion-play-a-role-in-shaping-cultural-norms-and-values
 ---
 
 &nbsp;

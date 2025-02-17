@@ -24,30 +24,24 @@ file_name: what-are-some-notable-works-of-felipe-padilla-de-leon-sr.md
 url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-felipe-padilla-de-leon-sr
 score: -1.0
 related_article1:
-    id: 116096
+    id: 116090
     title: >-
-        What are some notable works of Nicanor Abelardo?
+        What Western techniques have been assimilated into Filipino music?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-nicanor-abelardo
+    url: /learn/art-history-and-literature/questions/what-western-techniques-have-been-assimilated-into-filipino-music
 related_article2:
-    id: 116112
+    id: 116103
     title: >-
-        What are some notable works of Alfredo Buenaventura?
+        Can you provide a brief biography of Rodulfo S. Cornejo?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-alfredo-buenaventura
+    url: /learn/art-history-and-literature/questions/can-you-provide-a-brief-biography-of-rodulfo-s-cornejo
 related_article3:
-    id: 116110
-    title: >-
-        What are some notable works of Rosendo E. Santos Jr.?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-rosendo-e-santos-jr
-related_article4:
     id: 116117
     title: >-
         What contributions have National Artists for Music made to Philippine music?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-contributions-have-national-artists-for-music-made-to-philippine-music
-related_article5:
+related_article4:
     id: 116115
     title: >-
         What are the main stylistic movements in contemporary Philippine music?

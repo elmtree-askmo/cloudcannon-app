@@ -30,11 +30,11 @@ related_article1:
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-a-variable-in-the-context-of-equations
 related_article2:
-    id: 111652
+    id: 111655
     title: >-
-        How does the distributive property apply to multiplication in equations?
+        What are the techniques for simplifying expressions in equations?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-distributive-property-apply-to-multiplication-in-equations
+    url: /learn/mathematics/questions/what-are-the-techniques-for-simplifying-expressions-in-equations
 related_article3:
     id: 111640
     title: >-

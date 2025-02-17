@@ -24,29 +24,35 @@ file_name: how-do-mathematical-models-help-in-predicting-physical-phenomena.md
 url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
 score: -1.0
 related_article1:
-    id: 124228
+    id: 124227
     title: >-
-        What is the historical significance of the Babylonian method in physics?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-the-babylonian-method-in-physics
+        How did ancient civilizations contribute to the development of mathematical concepts used in physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-concepts-used-in-physics
 related_article2:
+    id: 124209
+    title: >-
+        How does mathematics help us understand natural phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
+related_article3:
+    id: 124211
+    title: >-
+        Can you explain Newton's Law of Gravitation in mathematical terms?
+    subject: Physics
+    url: /learn/physics/questions/can-you-explain-newtons-law-of-gravitation-in-mathematical-terms
+related_article4:
+    id: 124220
+    title: >-
+        What is the conservation of angular momentum and its mathematical representation?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-conservation-of-angular-momentum-and-its-mathematical-representation
+related_article5:
     id: 124222
     title: >-
         What is the local field method in physics?
     subject: Physics
     url: /learn/physics/questions/what-is-the-local-field-method-in-physics
-related_article3:
-    id: 124230
-    title: >-
-        What are some examples of fundamental principles in physics that rely on mathematics?
-    subject: Physics
-    url: /learn/physics/questions/what-are-some-examples-of-fundamental-principles-in-physics-that-rely-on-mathematics
-related_article4:
-    id: 124221
-    title: >-
-        Can you explain Newton's Laws and their mathematical formulations?
-    subject: Physics
-    url: /learn/physics/questions/can-you-explain-newtons-laws-and-their-mathematical-formulations
 ---
 
 &nbsp;

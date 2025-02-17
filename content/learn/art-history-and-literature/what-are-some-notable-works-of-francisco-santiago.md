@@ -24,35 +24,23 @@ file_name: what-are-some-notable-works-of-francisco-santiago.md
 url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-francisco-santiago
 score: -1.0
 related_article1:
-    id: 116088
+    id: 116103
     title: >-
-        What are the defining characteristics of contemporary music in the Philippines?
+        Can you provide a brief biography of Rodulfo S. Cornejo?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-defining-characteristics-of-contemporary-music-in-the-philippines
+    url: /learn/art-history-and-literature/questions/can-you-provide-a-brief-biography-of-rodulfo-s-cornejo
 related_article2:
-    id: 116089
-    title: >-
-        How has Western music historically influenced Filipino music?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-has-western-music-historically-influenced-filipino-music
-related_article3:
     id: 116092
     title: >-
         What are some notable works of Francisco Buen Camino Sr.?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-francisco-buen-camino-sr
-related_article4:
-    id: 116112
+related_article3:
+    id: 116117
     title: >-
-        What are some notable works of Alfredo Buenaventura?
+        What contributions have National Artists for Music made to Philippine music?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-alfredo-buenaventura
-related_article5:
-    id: 116116
-    title: >-
-        How do Filipino composers incorporate folk elements into their music?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-filipino-composers-incorporate-folk-elements-into-their-music
+    url: /learn/art-history-and-literature/questions/what-contributions-have-national-artists-for-music-made-to-philippine-music
 ---
 
 &nbsp;

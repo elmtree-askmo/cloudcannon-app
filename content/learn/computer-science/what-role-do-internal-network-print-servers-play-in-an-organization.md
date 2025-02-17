@@ -24,35 +24,35 @@ file_name: what-role-do-internal-network-print-servers-play-in-an-organization.m
 url: /learn/computer-science/questions/what-role-do-internal-network-print-servers-play-in-an-organization
 score: -1.0
 related_article1:
-    id: 122328
-    title: >-
-        What are the best practices for managing directory services in a large organization?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-best-practices-for-managing-directory-services-in-a-large-organization
-related_article2:
-    id: 122316
-    title: >-
-        What are the potential risks associated with using technology stacks like LAMP?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-potential-risks-associated-with-using-technology-stacks-like-lamp
-related_article3:
-    id: 122301
-    title: >-
-        What are the key considerations when implementing file services in a network?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-considerations-when-implementing-file-services-in-a-network
-related_article4:
     id: 122318
     title: >-
         What is the role of AD DS in network management?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-role-of-ad-ds-in-network-management
-related_article5:
-    id: 122310
+related_article2:
+    id: 122321
     title: >-
-        How is storage managed in relation to DBMS?
+        How do MUA, MTA, and MDA interact in an email system?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-storage-managed-in-relation-to-dbms
+    url: /learn/computer-science/questions/how-do-mua-mta-and-mda-interact-in-an-email-system
+related_article3:
+    id: 122328
+    title: >-
+        What are the best practices for managing directory services in a large organization?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-best-practices-for-managing-directory-services-in-a-large-organization
+related_article4:
+    id: 122322
+    title: >-
+        What are the differences between SMTP, POP3, and IMAP4 protocols?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-differences-between-smtp-pop3-and-imap4-protocols
+related_article5:
+    id: 122309
+    title: >-
+        What are the benefits of clustering and virtualization in database management?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-benefits-of-clustering-and-virtualization-in-database-management
 ---
 
 &nbsp;

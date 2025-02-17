@@ -24,35 +24,35 @@ file_name: what-are-the-primary-imaging-modalities-used-in-gastrointestinal-radi
 url: /learn/medicine/questions/what-are-the-primary-imaging-modalities-used-in-gastrointestinal-radiology
 score: -1.0
 related_article1:
-    id: 118168
+    id: 118163
     title: >-
-        What specific roles does MRI play in diagnosing GI disorders?
+        What are the limitations of plain abdominal X-rays in GI imaging?
     subject: Medicine
-    url: /learn/medicine/questions/what-specific-roles-does-mri-play-in-diagnosing-gi-disorders
+    url: /learn/medicine/questions/what-are-the-limitations-of-plain-abdominal-xrays-in-gi-imaging
 related_article2:
-    id: 118154
+    id: 118162
     title: >-
-        What anatomical details are highlighted in a barium swallow study?
+        What is the significance of nasogastric tube positioning in radiology?
     subject: Medicine
-    url: /learn/medicine/questions/what-anatomical-details-are-highlighted-in-a-barium-swallow-study
+    url: /learn/medicine/questions/what-is-the-significance-of-nasogastric-tube-positioning-in-radiology
 related_article3:
-    id: 118145
+    id: 118157
     title: >-
-        How is a small bowel follow-through conducted and what does it diagnose?
+        What are the radiological features of the large bowel anatomy?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-a-small-bowel-followthrough-conducted-and-what-does-it-diagnose
+    url: /learn/medicine/questions/what-are-the-radiological-features-of-the-large-bowel-anatomy
 related_article4:
-    id: 118159
+    id: 118149
     title: >-
-        How are dilated small bowel loops identified on an X-ray?
+        In what scenarios is ultrasound preferred for GI imaging?
     subject: Medicine
-    url: /learn/medicine/questions/how-are-dilated-small-bowel-loops-identified-on-an-xray
+    url: /learn/medicine/questions/in-what-scenarios-is-ultrasound-preferred-for-gi-imaging
 related_article5:
-    id: 118161
+    id: 118151
     title: >-
-        How is pneumoperitoneum detected radiologically?
+        How does PET CT differ from other imaging modalities in GI radiology?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-pneumoperitoneum-detected-radiologically
+    url: /learn/medicine/questions/how-does-pet-ct-differ-from-other-imaging-modalities-in-gi-radiology
 ---
 
 &nbsp;

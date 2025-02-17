@@ -24,35 +24,35 @@ file_name: what-are-some-innovative-ways-businesses-have-used-airtable.md
 url: /learn/business-and-management/questions/what-are-some-innovative-ways-businesses-have-used-airtable
 score: -1.0
 related_article1:
-    id: 117994
+    id: 118007
     title: >-
-        How can users customize tables and fields in Airtable?
+        How can Airtable be used for personal data management?
     subject: Digital Media
-    url: /learn/digital-media/questions/how-can-users-customize-tables-and-fields-in-airtable
+    url: /learn/digital-media/questions/how-can-airtable-be-used-for-personal-data-management
 related_article2:
-    id: 117995
-    title: >-
-        What types of data views are available in Airtable?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-types-of-data-views-are-available-in-airtable
-related_article3:
-    id: 117998
-    title: >-
-        What is the automation engine in Airtable and how does it work?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-is-the-automation-engine-in-airtable-and-how-does-it-work
-related_article4:
     id: 118003
     title: >-
         How can solo founders benefit from using Airtable?
     subject: Business and Management
     url: /learn/business-and-management/questions/how-can-solo-founders-benefit-from-using-airtable
-related_article5:
-    id: 117990
+related_article3:
+    id: 117997
     title: >-
-        What is Airtable and how does it function as a database?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-airtable-and-how-does-it-function-as-a-database
+        Is there a mobile application for Airtable and what functionalities does it offer?
+    subject: Digital Media
+    url: /learn/digital-media/questions/is-there-a-mobile-application-for-airtable-and-what-functionalities-does-it-offer
+related_article4:
+    id: 118001
+    title: >-
+        How suitable is Airtable for large companies and functional teams?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-suitable-is-airtable-for-large-companies-and-functional-teams
+related_article5:
+    id: 118006
+    title: >-
+        What are some personal applications of Airtable, such as trip planning?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-are-some-personal-applications-of-airtable-such-as-trip-planning
 ---
 
 &nbsp;

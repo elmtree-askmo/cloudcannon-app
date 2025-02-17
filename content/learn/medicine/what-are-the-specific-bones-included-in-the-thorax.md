@@ -24,35 +24,35 @@ file_name: what-are-the-specific-bones-included-in-the-thorax.md
 url: /learn/medicine/questions/what-are-the-specific-bones-included-in-the-thorax
 score: -1.0
 related_article1:
-    id: 100366
+    id: 100375
     title: >-
-        How does the pelvis support the body?
+        How do the legs support locomotion and weight-bearing?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-pelvis-support-the-body
+    url: /learn/health-studies/questions/how-do-the-legs-support-locomotion-and-weightbearing
 related_article2:
-    id: 100358
-    title: >-
-        What roles do bones play in blood production?
-    subject: Medicine
-    url: /learn/medicine/questions/what-roles-do-bones-play-in-blood-production
-related_article3:
     id: 100382
     title: >-
         How does the pelvis connect the spine to the lower limbs?
     subject: Medicine
     url: /learn/medicine/questions/how-does-the-pelvis-connect-the-spine-to-the-lower-limbs
-related_article4:
-    id: 100376
+related_article3:
+    id: 100357
     title: >-
-        What are the unique characteristics of the femur compared to other bones?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-unique-characteristics-of-the-femur-compared-to-other-bones
-related_article5:
-    id: 100368
-    title: >-
-        Why is the femur considered an important bone in the body?
+        In what ways does the skeleton facilitate movement?
     subject: Health Studies
-    url: /learn/health-studies/questions/why-is-the-femur-considered-an-important-bone-in-the-body
+    url: /learn/health-studies/questions/in-what-ways-does-the-skeleton-facilitate-movement
+related_article4:
+    id: 100370
+    title: >-
+        What is the significance of the skull in protecting the brain?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-significance-of-the-skull-in-protecting-the-brain
+related_article5:
+    id: 100381
+    title: >-
+        What are the structural differences between the upper and lower limbs?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-structural-differences-between-the-upper-and-lower-limbs
 ---
 
 &nbsp;

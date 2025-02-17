@@ -24,29 +24,35 @@ file_name: what-causes-alkaliaggregate-reactivity-and-what-are-its-effects-on-co
 url: /learn/engineering/questions/what-causes-alkaliaggregate-reactivity-and-what-are-its-effects-on-concrete-structures
 score: -1.0
 related_article1:
-    id: 120402
+    id: 120425
     title: >-
-        How do aggregates contribute to the properties of concrete and mortar?
+        How do aggregates from different geological origins compare in terms of performance?
     subject: Engineering
-    url: /learn/engineering/questions/how-do-aggregates-contribute-to-the-properties-of-concrete-and-mortar
+    url: /learn/engineering/questions/how-do-aggregates-from-different-geological-origins-compare-in-terms-of-performance
 related_article2:
-    id: 120421
+    id: 120430
     title: >-
-        How do harmful substances in aggregates impact the durability of concrete?
+        What are the challenges in sourcing high-quality aggregates for construction?
     subject: Engineering
-    url: /learn/engineering/questions/how-do-harmful-substances-in-aggregates-impact-the-durability-of-concrete
+    url: /learn/engineering/questions/what-are-the-challenges-in-sourcing-highquality-aggregates-for-construction
 related_article3:
+    id: 120416
+    title: >-
+        How is laboratory testing of aggregates conducted and what parameters are typically assessed?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-laboratory-testing-of-aggregates-conducted-and-what-parameters-are-typically-assessed
+related_article4:
+    id: 120423
+    title: >-
+        How does the granulometry of aggregates influence the workability of concrete?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-the-granulometry-of-aggregates-influence-the-workability-of-concrete
+related_article5:
     id: 120403
     title: >-
         What are the most common applications of aggregates in civil construction?
     subject: Engineering
     url: /learn/engineering/questions/what-are-the-most-common-applications-of-aggregates-in-civil-construction
-related_article4:
-    id: 120428
-    title: >-
-        What role do aggregates play in the sustainability of construction materials?
-    subject: Engineering
-    url: /learn/engineering/questions/what-role-do-aggregates-play-in-the-sustainability-of-construction-materials
 ---
 
 &nbsp;

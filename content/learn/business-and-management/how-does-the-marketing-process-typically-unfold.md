@@ -24,29 +24,35 @@ file_name: how-does-the-marketing-process-typically-unfold.md
 url: /learn/business-and-management/questions/how-does-the-marketing-process-typically-unfold
 score: -1.0
 related_article1:
+    id: 110226
+    title: >-
+        What are the ethical considerations in marketing practices?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-the-ethical-considerations-in-marketing-practices
+related_article2:
+    id: 110234
+    title: >-
+        What are the most effective promotional strategies in today's market?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-the-most-effective-promotional-strategies-in-todays-market
+related_article3:
+    id: 110211
+    title: >-
+        What are the main criteria for effective market segmentation?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-the-main-criteria-for-effective-market-segmentation
+related_article4:
+    id: 110210
+    title: >-
+        How do cultural factors influence buyer behavior?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-do-cultural-factors-influence-buyer-behavior
+related_article5:
     id: 110229
     title: >-
         How do companies measure the effectiveness of their marketing mix?
     subject: Business and Management
     url: /learn/business-and-management/questions/how-do-companies-measure-the-effectiveness-of-their-marketing-mix
-related_article2:
-    id: 110207
-    title: >-
-        What are the core concepts of marketing?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-core-concepts-of-marketing
-related_article3:
-    id: 110214
-    title: >-
-        Can you explain the elements of the marketing mix?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/can-you-explain-the-elements-of-the-marketing-mix
-related_article4:
-    id: 110221
-    title: >-
-        What roles do retailers and wholesalers play in marketing channels?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-roles-do-retailers-and-wholesalers-play-in-marketing-channels
 ---
 
 &nbsp;

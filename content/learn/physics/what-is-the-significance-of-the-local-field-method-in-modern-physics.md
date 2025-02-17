@@ -24,29 +24,29 @@ file_name: what-is-the-significance-of-the-local-field-method-in-modern-physics.
 url: /learn/physics/questions/what-is-the-significance-of-the-local-field-method-in-modern-physics
 score: -1.0
 related_article1:
-    id: 124218
+    id: 124223
     title: >-
-        What is the Euclidean method and its role in physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-euclidean-method-and-its-role-in-physics
+        How does the minimum principle apply to physics and mathematics?
+    subject: Physics
+    url: /learn/physics/questions/how-does-the-minimum-principle-apply-to-physics-and-mathematics
 related_article2:
+    id: 124237
+    title: >-
+        How does the minimum principle relate to optimization problems in physics?
+    subject: Physics
+    url: /learn/physics/questions/how-does-the-minimum-principle-relate-to-optimization-problems-in-physics
+related_article3:
+    id: 124214
+    title: >-
+        How has modern mathematical notation evolved over time?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-over-time
+related_article4:
     id: 124213
     title: >-
         What is the significance of force and equal areas in physics?
     subject: Physics
     url: /learn/physics/questions/what-is-the-significance-of-force-and-equal-areas-in-physics
-related_article3:
-    id: 124234
-    title: >-
-        What are some modern advancements in mathematical notation that have impacted physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-modern-advancements-in-mathematical-notation-that-have-impacted-physics
-related_article4:
-    id: 124230
-    title: >-
-        What are some examples of fundamental principles in physics that rely on mathematics?
-    subject: Physics
-    url: /learn/physics/questions/what-are-some-examples-of-fundamental-principles-in-physics-that-rely-on-mathematics
 ---
 
 &nbsp;

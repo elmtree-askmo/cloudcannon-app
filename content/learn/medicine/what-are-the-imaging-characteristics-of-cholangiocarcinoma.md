@@ -30,29 +30,17 @@ related_article1:
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-risks-associated-with-ptc-in-biliary-imaging
 related_article2:
+    id: 118051
+    title: >-
+        How does MRCP enhance the imaging of the biliary tree compared to standard MRI?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-mrcp-enhance-the-imaging-of-the-biliary-tree-compared-to-standard-mri
+related_article3:
     id: 118066
     title: >-
         What are the imaging features of cystic neoplasms in the pancreas?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-imaging-features-of-cystic-neoplasms-in-the-pancreas
-related_article3:
-    id: 118075
-    title: >-
-        What imaging techniques are used for intervention and sampling in biliary and pancreatic conditions?
-    subject: Medicine
-    url: /learn/medicine/questions/what-imaging-techniques-are-used-for-intervention-and-sampling-in-biliary-and-pancreatic-conditions
-related_article4:
-    id: 118070
-    title: >-
-        How do different imaging modalities compare in terms of accuracy for biliary and pancreatic assessment?
-    subject: Medicine
-    url: /learn/medicine/questions/how-do-different-imaging-modalities-compare-in-terms-of-accuracy-for-biliary-and-pancreatic-assessment
-related_article5:
-    id: 118052
-    title: >-
-        What are the advantages of using EUS for biliary tree imaging?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-advantages-of-using-eus-for-biliary-tree-imaging
 ---
 
 &nbsp;

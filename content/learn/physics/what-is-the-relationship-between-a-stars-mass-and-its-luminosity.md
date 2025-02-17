@@ -30,18 +30,6 @@ related_article1:
     subject: Physics
     url: /learn/physics/questions/what-are-the-defining-characteristics-of-brown-dwarfs
 related_article2:
-    id: 117709
-    title: >-
-        How does the mass of a star affect its evolutionary path?
-    subject: Physics
-    url: /learn/physics/questions/how-does-the-mass-of-a-star-affect-its-evolutionary-path
-related_article3:
-    id: 117704
-    title: >-
-        How do gas pressure and gravity achieve hydrostatic equilibrium in stars?
-    subject: Physics
-    url: /learn/physics/questions/how-do-gas-pressure-and-gravity-achieve-hydrostatic-equilibrium-in-stars
-related_article4:
     id: 117721
     title: >-
         What are the challenges in modeling the process of star formation?

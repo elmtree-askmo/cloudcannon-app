@@ -24,29 +24,35 @@ file_name: how-does-airtables-automation-engine-improve-workflow-efficiency.md
 url: /learn/digital-media/questions/how-does-airtables-automation-engine-improve-workflow-efficiency
 score: -1.0
 related_article1:
-    id: 117996
+    id: 118008
     title: >-
-        How do Airtable forms work and what are their benefits?
+        What are the limitations of using Airtable as a database?
     subject: Digital Media
-    url: /learn/digital-media/questions/how-do-airtable-forms-work-and-what-are-their-benefits
+    url: /learn/digital-media/questions/what-are-the-limitations-of-using-airtable-as-a-database
 related_article2:
+    id: 118007
+    title: >-
+        How can Airtable be used for personal data management?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-can-airtable-be-used-for-personal-data-management
+related_article3:
+    id: 117993
+    title: >-
+        What are the key features of Airtable's drag and drop interface?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-are-the-key-features-of-airtables-drag-and-drop-interface
+related_article4:
+    id: 118005
+    title: >-
+        In what ways does Airtable differ from project management tools like Asana?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/in-what-ways-does-airtable-differ-from-project-management-tools-like-asana
+related_article5:
     id: 117990
     title: >-
         What is Airtable and how does it function as a database?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-airtable-and-how-does-it-function-as-a-database
-related_article3:
-    id: 118010
-    title: >-
-        What are the pricing plans for Airtable and what features do they include?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-pricing-plans-for-airtable-and-what-features-do-they-include
-related_article4:
-    id: 118014
-    title: >-
-        How does Airtable's customer support compare to other similar tools?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-does-airtables-customer-support-compare-to-other-similar-tools
 ---
 
 &nbsp;

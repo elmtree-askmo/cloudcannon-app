@@ -24,29 +24,29 @@ file_name: what-are-the-fundamental-differences-between-conductors-insulators-an
 url: /learn/physics/questions/what-are-the-fundamental-differences-between-conductors-insulators-and-semiconductors
 score: -1.0
 related_article1:
-    id: 116361
+    id: 116358
     title: >-
-        Who were the pioneering scientists and engineers in the field of semiconductor electronics?
+        What were the main limitations of vacuum tubes that led to the development of solid-state devices?
     subject: Engineering
-    url: /learn/engineering/questions/who-were-the-pioneering-scientists-and-engineers-in-the-field-of-semiconductor-electronics
+    url: /learn/engineering/questions/what-were-the-main-limitations-of-vacuum-tubes-that-led-to-the-development-of-solidstate-devices
 related_article2:
-    id: 116380
+    id: 116373
     title: >-
-        What are the latest advancements in semiconductor technology?
-    subject: Engineering
-    url: /learn/engineering/questions/what-are-the-latest-advancements-in-semiconductor-technology
+        How has semiconductor physics revolutionized modern electronics?
+    subject: Physics
+    url: /learn/physics/questions/how-has-semiconductor-physics-revolutionized-modern-electronics
 related_article3:
-    id: 116384
+    id: 116362
     title: >-
-        What are the future trends in semiconductor electronics?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-future-trends-in-semiconductor-electronics
+        How did World War II influence the development of semiconductor technology?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-world-war-ii-influence-the-development-of-semiconductor-technology
 related_article4:
-    id: 116375
+    id: 116374
     title: >-
-        How do semiconductor materials contribute to the miniaturization of electronic components?
+        What are some examples of modern electronic devices that rely on semiconductor technology?
     subject: Engineering
-    url: /learn/engineering/questions/how-do-semiconductor-materials-contribute-to-the-miniaturization-of-electronic-components
+    url: /learn/engineering/questions/what-are-some-examples-of-modern-electronic-devices-that-rely-on-semiconductor-technology
 ---
 
 &nbsp;

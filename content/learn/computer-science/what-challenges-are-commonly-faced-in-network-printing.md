@@ -30,29 +30,23 @@ related_article1:
     subject: Computer Science
     url: /learn/computer-science/questions/how-do-http-ftp-scp-smbcifs-and-nfs-differ-in-terms-of-file-service-protocols
 related_article2:
-    id: 122318
+    id: 122310
     title: >-
-        What is the role of AD DS in network management?
+        How is storage managed in relation to DBMS?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-ad-ds-in-network-management
+    url: /learn/computer-science/questions/how-is-storage-managed-in-relation-to-dbms
 related_article3:
+    id: 122324
+    title: >-
+        What security considerations should be taken into account for file services?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-security-considerations-should-be-taken-into-account-for-file-services
+related_article4:
     id: 122322
     title: >-
         What are the differences between SMTP, POP3, and IMAP4 protocols?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-differences-between-smtp-pop3-and-imap4-protocols
-related_article4:
-    id: 122313
-    title: >-
-        What are the key factors in infrastructure planning for web services?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-factors-in-infrastructure-planning-for-web-services
-related_article5:
-    id: 122309
-    title: >-
-        What are the benefits of clustering and virtualization in database management?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-benefits-of-clustering-and-virtualization-in-database-management
 ---
 
 &nbsp;

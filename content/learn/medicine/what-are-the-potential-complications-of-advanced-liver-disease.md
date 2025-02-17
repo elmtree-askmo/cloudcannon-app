@@ -24,29 +24,29 @@ file_name: what-are-the-potential-complications-of-advanced-liver-disease.md
 url: /learn/medicine/questions/what-are-the-potential-complications-of-advanced-liver-disease
 score: -1.0
 related_article1:
+    id: 98981
+    title: >-
+        What are the most common complications associated with cirrhosis?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-most-common-complications-associated-with-cirrhosis
+related_article2:
+    id: 98973
+    title: >-
+        What are the common symptoms and signs of portal hypertension?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-common-symptoms-and-signs-of-portal-hypertension
+related_article3:
     id: 98992
     title: >-
         What are the potential side effects of treatments for variceal bleeding?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-potential-side-effects-of-treatments-for-variceal-bleeding
-related_article2:
-    id: 98991
-    title: >-
-        How does ascites affect the quality of life in cirrhosis patients?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-ascites-affect-the-quality-of-life-in-cirrhosis-patients
-related_article3:
-    id: 98982
-    title: >-
-        How does clinical judgment play a role in the management of liver disease?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-clinical-judgment-play-a-role-in-the-management-of-liver-disease
 related_article4:
-    id: 98989
+    id: 98999
     title: >-
-        How is the severity of cirrhosis assessed in clinical practice?
+        How does the presence of ascites influence the prognosis of cirrhosis?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-the-severity-of-cirrhosis-assessed-in-clinical-practice
+    url: /learn/medicine/questions/how-does-the-presence-of-ascites-influence-the-prognosis-of-cirrhosis
 ---
 
 &nbsp;

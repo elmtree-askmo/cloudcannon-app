@@ -24,17 +24,23 @@ file_name: what-is-the-ongoing-impact-of-redlining-and-housing-segregation-today
 url: /learn/sociology/questions/what-is-the-ongoing-impact-of-redlining-and-housing-segregation-today
 score: -1.0
 related_article1:
-    id: 98417
-    title: >-
-        What are the core principles and beliefs of libertarianism?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-the-core-principles-and-beliefs-of-libertarianism
-related_article2:
     id: 98410
     title: >-
         How did the cultural movements of the 1950s influence the counterculture of the 1960s?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-the-cultural-movements-of-the-1950s-influence-the-counterculture-of-the-1960s
+related_article2:
+    id: 98417
+    title: >-
+        What are the core principles and beliefs of libertarianism?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-core-principles-and-beliefs-of-libertarianism
+related_article3:
+    id: 98413
+    title: >-
+        What forms of activism and resistance were prominent during the Civil Rights Movement?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-forms-of-activism-and-resistance-were-prominent-during-the-civil-rights-movement
 ---
 
 &nbsp;

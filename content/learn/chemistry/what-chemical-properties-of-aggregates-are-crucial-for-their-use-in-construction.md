@@ -24,35 +24,35 @@ file_name: what-chemical-properties-of-aggregates-are-crucial-for-their-use-in-c
 url: /learn/chemistry/questions/what-chemical-properties-of-aggregates-are-crucial-for-their-use-in-construction
 score: -1.0
 related_article1:
-    id: 120402
+    id: 120419
     title: >-
-        How do aggregates contribute to the properties of concrete and mortar?
+        What causes alkali-aggregate reactivity and what are its effects on concrete structures?
     subject: Engineering
-    url: /learn/engineering/questions/how-do-aggregates-contribute-to-the-properties-of-concrete-and-mortar
+    url: /learn/engineering/questions/what-causes-alkaliaggregate-reactivity-and-what-are-its-effects-on-concrete-structures
 related_article2:
-    id: 120422
+    id: 120407
     title: >-
-        What are the best practices for ensuring the quality of aggregates used in construction?
+        In what ways does the mineralogical composition of aggregates influence their mechanical properties?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-best-practices-for-ensuring-the-quality-of-aggregates-used-in-construction
+    url: /learn/engineering/questions/in-what-ways-does-the-mineralogical-composition-of-aggregates-influence-their-mechanical-properties
 related_article3:
-    id: 120428
+    id: 120418
     title: >-
-        What role do aggregates play in the sustainability of construction materials?
+        What are the standard testing methods for assessing the granulometry of aggregates?
     subject: Engineering
-    url: /learn/engineering/questions/what-role-do-aggregates-play-in-the-sustainability-of-construction-materials
+    url: /learn/engineering/questions/what-are-the-standard-testing-methods-for-assessing-the-granulometry-of-aggregates
 related_article4:
-    id: 120408
+    id: 120415
     title: >-
-        How does the chemical composition of aggregates affect their performance in construction?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-chemical-composition-of-aggregates-affect-their-performance-in-construction
-related_article5:
-    id: 120430
-    title: >-
-        What are the challenges in sourcing high-quality aggregates for construction?
+        What are the common methods for field sampling of aggregates?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-challenges-in-sourcing-highquality-aggregates-for-construction
+    url: /learn/engineering/questions/what-are-the-common-methods-for-field-sampling-of-aggregates
+related_article5:
+    id: 120427
+    title: >-
+        How do aggregates affect the thermal properties of concrete?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-aggregates-affect-the-thermal-properties-of-concrete
 ---
 
 &nbsp;

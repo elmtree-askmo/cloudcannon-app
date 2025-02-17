@@ -24,11 +24,11 @@ file_name: what-is-hepatic-hydrothorax-and-how-is-it-related-to-liver-disease.md
 url: /learn/medicine/questions/what-is-hepatic-hydrothorax-and-how-is-it-related-to-liver-disease
 score: -1.0
 related_article1:
-    id: 98995
+    id: 98996
     title: >-
-        How does portal hypertension lead to variceal bleeding?
+        What are the indications for liver transplantation in cirrhosis patients?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-portal-hypertension-lead-to-variceal-bleeding
+    url: /learn/medicine/questions/what-are-the-indications-for-liver-transplantation-in-cirrhosis-patients
 related_article2:
     id: 98991
     title: >-
@@ -36,23 +36,17 @@ related_article2:
     subject: Health Studies
     url: /learn/health-studies/questions/how-does-ascites-affect-the-quality-of-life-in-cirrhosis-patients
 related_article3:
-    id: 98979
+    id: 98983
     title: >-
-        What are the risk factors for portal vein thrombosis in cirrhosis patients?
+        What are the potential complications of advanced liver disease?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-risk-factors-for-portal-vein-thrombosis-in-cirrhosis-patients
+    url: /learn/medicine/questions/what-are-the-potential-complications-of-advanced-liver-disease
 related_article4:
-    id: 99000
+    id: 98974
     title: >-
-        What are the emerging therapies for managing complications of advanced liver disease?
+        How is acute variceal bleeding managed in patients with liver disease?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-emerging-therapies-for-managing-complications-of-advanced-liver-disease
-related_article5:
-    id: 98987
-    title: >-
-        What role does lifestyle modification play in the management of cirrhosis?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-role-does-lifestyle-modification-play-in-the-management-of-cirrhosis
+    url: /learn/medicine/questions/how-is-acute-variceal-bleeding-managed-in-patients-with-liver-disease
 ---
 
 &nbsp;

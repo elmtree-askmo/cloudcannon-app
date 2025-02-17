@@ -24,35 +24,29 @@ file_name: what-are-the-primary-indications-for-imaging-the-liver.md
 url: /learn/medicine/questions/what-are-the-primary-indications-for-imaging-the-liver
 score: -1.0
 related_article1:
-    id: 118040
+    id: 118037
     title: >-
-        What are the limitations of ultrasound imaging for the hepatobiliary system?
+        How does CT imaging compare to MRI imaging in terms of accuracy for the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-limitations-of-ultrasound-imaging-for-the-hepatobiliary-system
+    url: /learn/medicine/questions/how-does-ct-imaging-compare-to-mri-imaging-in-terms-of-accuracy-for-the-hepatobiliary-system
 related_article2:
-    id: 118042
+    id: 118028
     title: >-
-        What role does contrast material play in CT and MRI imaging of the hepatobiliary system?
+        What are the primary indications for imaging the pancreas?
     subject: Medicine
-    url: /learn/medicine/questions/what-role-does-contrast-material-play-in-ct-and-mri-imaging-of-the-hepatobiliary-system
+    url: /learn/medicine/questions/what-are-the-primary-indications-for-imaging-the-pancreas
 related_article3:
-    id: 118038
+    id: 118027
     title: >-
-        What are the radiation risks associated with CT imaging of the hepatobiliary system?
+        What are the primary indications for imaging the biliary system?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-radiation-risks-associated-with-ct-imaging-of-the-hepatobiliary-system
+    url: /learn/medicine/questions/what-are-the-primary-indications-for-imaging-the-biliary-system
 related_article4:
     id: 118025
     title: >-
         In what scenarios is MRI imaging commonly used for the hepatobiliary system?
     subject: Medicine
     url: /learn/medicine/questions/in-what-scenarios-is-mri-imaging-commonly-used-for-the-hepatobiliary-system
-related_article5:
-    id: 118022
-    title: >-
-        In what scenarios is CT imaging commonly used for the hepatobiliary system?
-    subject: Medicine
-    url: /learn/medicine/questions/in-what-scenarios-is-ct-imaging-commonly-used-for-the-hepatobiliary-system
 ---
 
 &nbsp;

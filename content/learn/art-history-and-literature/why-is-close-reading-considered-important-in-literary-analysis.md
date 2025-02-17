@@ -30,29 +30,23 @@ related_article1:
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-is-the-significance-of-intertextuality-in-textual-analysis
 related_article2:
-    id: 111446
+    id: 111441
     title: >-
-        How are theoretical frameworks applied in literary analysis?
+        In what ways is gender represented in literature?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-are-theoretical-frameworks-applied-in-literary-analysis
+    url: /learn/art-history-and-literature/questions/in-what-ways-is-gender-represented-in-literature
 related_article3:
-    id: 111447
+    id: 111431
     title: >-
-        Why is clear argumentation important in literary writing?
+        How do key concepts in literary theory influence textual analysis?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/why-is-clear-argumentation-important-in-literary-writing
+    url: /learn/art-history-and-literature/questions/how-do-key-concepts-in-literary-theory-influence-textual-analysis
 related_article4:
     id: 111430
     title: >-
         What is the primary purpose of literary theory?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-is-the-primary-purpose-of-literary-theory
-related_article5:
-    id: 111440
-    title: >-
-        How are cyclical narratives defined and characterized?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-are-cyclical-narratives-defined-and-characterized
 ---
 
 &nbsp;

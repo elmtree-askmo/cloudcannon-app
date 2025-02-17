@@ -24,35 +24,29 @@ file_name: what-are-the-challenges-of-conducting-crosscultural-research-in-devel
 url: /learn/psychology/questions/what-are-the-challenges-of-conducting-crosscultural-research-in-developmental-psychology
 score: -1.0
 related_article1:
-    id: 121404
+    id: 121385
     title: >-
-        What role do ethnographies play in developmental psychology research?
+        How are the domains of human development categorized?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-do-ethnographies-play-in-developmental-psychology-research
+    url: /learn/psychology/questions/how-are-the-domains-of-human-development-categorized
 related_article2:
-    id: 121396
+    id: 121408
     title: >-
-        What are on-time and off-time events in human development?
+        How is assessment typically conducted in a developmental psychology course?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-ontime-and-offtime-events-in-human-development
+    url: /learn/psychology/questions/how-is-assessment-typically-conducted-in-a-developmental-psychology-course
 related_article3:
-    id: 121391
+    id: 121401
     title: >-
-        How do normative age-graded changes affect human development?
+        How do cross-sectional designs differ from longitudinal studies in developmental research?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-normative-agegraded-changes-affect-human-development
+    url: /learn/psychology/questions/how-do-crosssectional-designs-differ-from-longitudinal-studies-in-developmental-research
 related_article4:
-    id: 121412
+    id: 121411
     title: >-
-        How do sensitive periods influence learning and development?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-sensitive-periods-influence-learning-and-development
-related_article5:
-    id: 121387
-    title: >-
-        Can you explain the concept of inborn biases in human development?
-    subject: Psychology
-    url: /learn/psychology/questions/can-you-explain-the-concept-of-inborn-biases-in-human-development
+        What are the implications of atypical development for intervention strategies?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-implications-of-atypical-development-for-intervention-strategies
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: what-is-the-topdown-approach-in-sequencing-information-for-presentati
 url: /learn/education-studies/questions/what-is-the-topdown-approach-in-sequencing-information-for-presentations
 score: -1.0
 related_article1:
+    id: 120687
+    title: >-
+        What role does audience feedback play in refining storytelling techniques in presentations?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-role-does-audience-feedback-play-in-refining-storytelling-techniques-in-presentations
+related_article2:
+    id: 120666
+    title: >-
+        What are the steps involved in shaping information using a bottom-up approach?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-the-steps-involved-in-shaping-information-using-a-bottomup-approach
+related_article3:
+    id: 120683
+    title: >-
+        What are the benefits of using a story arc in presentations?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-benefits-of-using-a-story-arc-in-presentations
+related_article4:
+    id: 120686
+    title: >-
+        How can one measure the effectiveness of storytelling in a presentation?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-can-one-measure-the-effectiveness-of-storytelling-in-a-presentation
+related_article5:
     id: 120668
     title: >-
         What does defining the beats mean in the context of a presentation?
     subject: Digital Media
     url: /learn/digital-media/questions/what-does-defining-the-beats-mean-in-the-context-of-a-presentation
-related_article2:
-    id: 120664
-    title: >-
-        How does the bottom-up approach help in sequencing information for a presentation?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-bottomup-approach-help-in-sequencing-information-for-a-presentation
-related_article3:
-    id: 120684
-    title: >-
-        How can one balance emotional engagement with factual information in a presentation?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-one-balance-emotional-engagement-with-factual-information-in-a-presentation
-related_article4:
-    id: 120685
-    title: >-
-        What are some common pitfalls to avoid when using storytelling in presentations?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-common-pitfalls-to-avoid-when-using-storytelling-in-presentations
-related_article5:
-    id: 120678
-    title: >-
-        How can experimentation with sequences improve storytelling in presentations?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-can-experimentation-with-sequences-improve-storytelling-in-presentations
 ---
 
 &nbsp;

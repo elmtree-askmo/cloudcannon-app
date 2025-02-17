@@ -24,11 +24,11 @@ file_name: how-does-symmetry-play-a-role-in-the-mathematical-formulation-of-phys
 url: /learn/physics/questions/how-does-symmetry-play-a-role-in-the-mathematical-formulation-of-physical-laws
 score: -1.0
 related_article1:
-    id: 116185
+    id: 116206
     title: >-
-        What are fundamental principles and consequential statements in physics?
+        How do mathematical transformations help in solving physical problems?
     subject: Physics
-    url: /learn/physics/questions/what-are-fundamental-principles-and-consequential-statements-in-physics
+    url: /learn/physics/questions/how-do-mathematical-transformations-help-in-solving-physical-problems
 related_article2:
     id: 116205
     title: >-
@@ -36,17 +36,23 @@ related_article2:
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-some-challenges-in-translating-physical-concepts-into-mathematical-language
 related_article3:
-    id: 116201
+    id: 116187
     title: >-
-        What is the historical significance of the relationship between physics and mathematics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-historical-significance-of-the-relationship-between-physics-and-mathematics
+        What is the Euclidean method and its role in physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-euclidean-method-and-its-role-in-physics
 related_article4:
-    id: 116184
+    id: 116199
     title: >-
-        What contributions did Babylonian and Greek traditions make to mathematics and physics?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-contributions-did-babylonian-and-greek-traditions-make-to-mathematics-and-physics
+        What are some examples of mathematical concepts that have been crucial in physics discoveries?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-examples-of-mathematical-concepts-that-have-been-crucial-in-physics-discoveries
+related_article5:
+    id: 116188
+    title: >-
+        How does the law of gravitation demonstrate the relationship between physics and mathematics?
+    subject: Physics
+    url: /learn/physics/questions/how-does-the-law-of-gravitation-demonstrate-the-relationship-between-physics-and-mathematics
 ---
 
 &nbsp;

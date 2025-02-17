@@ -24,18 +24,30 @@ file_name: what-is-the-significance-of-viscosity-in-blood-flow.md
 url: /learn/medicine/questions/what-is-the-significance-of-viscosity-in-blood-flow
 score: -1.0
 related_article1:
-    id: 123887
+    id: 123890
     title: >-
-        How does Poiseuille’s Law relate to vascular flow?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-poiseuilles-law-relate-to-vascular-flow
-related_article2:
-    id: 123880
-    title: >-
-        How does kinetic energy influence blood flow in the arteries?
+        What distinguishes low peripheral resistance from high peripheral resistance?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-kinetic-energy-influence-blood-flow-in-the-arteries
+    url: /learn/health-studies/questions/what-distinguishes-low-peripheral-resistance-from-high-peripheral-resistance
+related_article2:
+    id: 123888
+    title: >-
+        What are the main factors contributing to resistance to blood flow?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-main-factors-contributing-to-resistance-to-blood-flow
 related_article3:
+    id: 123894
+    title: >-
+        What mechanisms control peripheral circulation?
+    subject: Medicine
+    url: /learn/medicine/questions/what-mechanisms-control-peripheral-circulation
+related_article4:
+    id: 123879
+    title: >-
+        What is the role of potential energy in the vascular system?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-role-of-potential-energy-in-the-vascular-system
+related_article5:
     id: 123882
     title: >-
         What is hydrostatic pressure and how does it affect blood flow?

@@ -24,29 +24,35 @@ file_name: how-did-the-development-of-the-steam-engine-affect-transportation-and
 url: /learn/history-of-the-world/questions/how-did-the-development-of-the-steam-engine-affect-transportation-and-industry
 score: -1.0
 related_article1:
-    id: 123023
+    id: 123035
     title: >-
-        What was China's industrial potential during the Industrial Revolution?
+        What were the criticisms of Eurocentric explanations of the Industrial Revolution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-chinas-industrial-potential-during-the-industrial-revolution
+    url: /learn/history-of-the-world/questions/what-were-the-criticisms-of-eurocentric-explanations-of-the-industrial-revolution
 related_article2:
-    id: 123031
+    id: 123037
     title: >-
-        What were the social and economic impacts of the British textile industry's innovations?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-social-and-economic-impacts-of-the-british-textile-industrys-innovations
-related_article3:
-    id: 123028
-    title: >-
-        What were the economic conditions in China during the Industrial Revolution?
+        What were the technological and economic barriers to industrialization in India?
     subject: Economics
-    url: /learn/economics/questions/what-were-the-economic-conditions-in-china-during-the-industrial-revolution
-related_article4:
+    url: /learn/economics/questions/what-were-the-technological-and-economic-barriers-to-industrialization-in-india
+related_article3:
     id: 123045
     title: >-
         What lessons can be learned from the Industrial Revolution for future economic development?
     subject: Economics
     url: /learn/economics/questions/what-lessons-can-be-learned-from-the-industrial-revolution-for-future-economic-development
+related_article4:
+    id: 123017
+    title: >-
+        How did the British textile industry evolve during the Industrial Revolution?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-british-textile-industry-evolve-during-the-industrial-revolution
+related_article5:
+    id: 123025
+    title: >-
+        What were the global impacts of industrialization on agriculture?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-were-the-global-impacts-of-industrialization-on-agriculture
 ---
 
 &nbsp;

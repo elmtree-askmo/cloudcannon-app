@@ -24,29 +24,29 @@ file_name: what-are-the-key-components-of-building-and-maintaining-secure-networ
 url: /learn/computer-science/questions/what-are-the-key-components-of-building-and-maintaining-secure-networks
 score: -1.0
 related_article1:
-    id: 123130
+    id: 123121
     title: >-
-        What are the most common social engineering tactics used by attackers?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-most-common-social-engineering-tactics-used-by-attackers
+        Why is password management critical for network security?
+    subject: Computer Science
+    url: /learn/computer-science/questions/why-is-password-management-critical-for-network-security
 related_article2:
-    id: 123117
+    id: 123126
     title: >-
-        What are privilege escalation attacks and how can they be mitigated?
+        What are the advantages and disadvantages of two-factor authentication?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-privilege-escalation-attacks-and-how-can-they-be-mitigated
+    url: /learn/computer-science/questions/what-are-the-advantages-and-disadvantages-of-twofactor-authentication
 related_article3:
-    id: 123119
+    id: 123124
     title: >-
-        How can controlled access improve network security?
+        What are the benefits of using password management tools?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-controlled-access-improve-network-security
+    url: /learn/computer-science/questions/what-are-the-benefits-of-using-password-management-tools
 related_article4:
-    id: 123114
+    id: 123109
     title: >-
-        What is code injection and how can it be prevented?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-code-injection-and-how-can-it-be-prevented
+        How does social engineering exploit human psychology in network security breaches?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-social-engineering-exploit-human-psychology-in-network-security-breaches
 ---
 
 &nbsp;

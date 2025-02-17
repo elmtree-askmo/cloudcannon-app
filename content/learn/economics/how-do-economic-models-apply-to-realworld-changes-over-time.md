@@ -24,23 +24,23 @@ file_name: how-do-economic-models-apply-to-realworld-changes-over-time.md
 url: /learn/economics/questions/how-do-economic-models-apply-to-realworld-changes-over-time
 score: -1.0
 related_article1:
-    id: 119924
+    id: 119925
     title: >-
-        How does opportunity cost relate to the feasible set in economic models?
+        What is the Marginal Rate of Transformation (MRT) and its role in decision-making?
     subject: Economics
-    url: /learn/economics/questions/how-does-opportunity-cost-relate-to-the-feasible-set-in-economic-models
+    url: /learn/economics/questions/what-is-the-marginal-rate-of-transformation-mrt-and-its-role-in-decisionmaking
 related_article2:
-    id: 119919
-    title: >-
-        How does the model of constrained choice explain individual decision-making?
-    subject: Economics
-    url: /learn/economics/questions/how-does-the-model-of-constrained-choice-explain-individual-decisionmaking
-related_article3:
     id: 119940
     title: >-
         What is the effect of inequality on labor choices and economic wellbeing?
     subject: Economics
     url: /learn/economics/questions/what-is-the-effect-of-inequality-on-labor-choices-and-economic-wellbeing
+related_article3:
+    id: 119919
+    title: >-
+        How does the model of constrained choice explain individual decision-making?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-model-of-constrained-choice-explain-individual-decisionmaking
 ---
 
 &nbsp;

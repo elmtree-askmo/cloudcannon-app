@@ -24,35 +24,35 @@ file_name: how-has-the-development-of-semiconductor-electronics-influenced-globa
 url: /learn/engineering/questions/how-has-the-development-of-semiconductor-electronics-influenced-global-technological-advancement
 score: -1.0
 related_article1:
-    id: 116378
+    id: 116369
     title: >-
-        What are the challenges faced in the production and development of semiconductor devices?
-    subject: Engineering
-    url: /learn/engineering/questions/what-are-the-challenges-faced-in-the-production-and-development-of-semiconductor-devices
+        What role do dopants play in the properties of extrinsic semiconductors?
+    subject: Physics
+    url: /learn/physics/questions/what-role-do-dopants-play-in-the-properties-of-extrinsic-semiconductors
 related_article2:
+    id: 116358
+    title: >-
+        What were the main limitations of vacuum tubes that led to the development of solid-state devices?
+    subject: Engineering
+    url: /learn/engineering/questions/what-were-the-main-limitations-of-vacuum-tubes-that-led-to-the-development-of-solidstate-devices
+related_article3:
+    id: 116375
+    title: >-
+        How do semiconductor materials contribute to the miniaturization of electronic components?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-semiconductor-materials-contribute-to-the-miniaturization-of-electronic-components
+related_article4:
+    id: 116384
+    title: >-
+        What are the future trends in semiconductor electronics?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-future-trends-in-semiconductor-electronics
+related_article5:
     id: 116380
     title: >-
         What are the latest advancements in semiconductor technology?
     subject: Engineering
     url: /learn/engineering/questions/what-are-the-latest-advancements-in-semiconductor-technology
-related_article3:
-    id: 116372
-    title: >-
-        What are the advantages of using diodes in electronic circuits?
-    subject: Engineering
-    url: /learn/engineering/questions/what-are-the-advantages-of-using-diodes-in-electronic-circuits
-related_article4:
-    id: 116359
-    title: >-
-        How did the transition from vacuum tubes to solid-state devices impact the electronics industry?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-did-the-transition-from-vacuum-tubes-to-solidstate-devices-impact-the-electronics-industry
-related_article5:
-    id: 116382
-    title: >-
-        What is the role of semiconductor physics in the development of renewable energy technologies?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-role-of-semiconductor-physics-in-the-development-of-renewable-energy-technologies
 ---
 
 &nbsp;

@@ -24,35 +24,23 @@ file_name: what-was-chinas-industrial-potential-during-the-industrial-revolution
 url: /learn/history-of-the-world/questions/what-was-chinas-industrial-potential-during-the-industrial-revolution
 score: -1.0
 related_article1:
-    id: 123030
+    id: 123036
     title: >-
-        How did the Industrial Revolution set the stage for future discussions on capitalism?
+        How did China's economic policies affect its industrial potential?
     subject: Economics
-    url: /learn/economics/questions/how-did-the-industrial-revolution-set-the-stage-for-future-discussions-on-capitalism
+    url: /learn/economics/questions/how-did-chinas-economic-policies-affect-its-industrial-potential
 related_article2:
-    id: 123016
+    id: 123032
     title: >-
-        What were the key technological innovations during the Industrial Revolution?
-    subject: Engineering
-    url: /learn/engineering/questions/what-were-the-key-technological-innovations-during-the-industrial-revolution
+        How did the development of the steam engine affect transportation and industry?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-development-of-the-steam-engine-affect-transportation-and-industry
 related_article3:
-    id: 123039
+    id: 123035
     title: >-
-        What were the major shifts in global trade routes due to industrialization?
+        What were the criticisms of Eurocentric explanations of the Industrial Revolution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-major-shifts-in-global-trade-routes-due-to-industrialization
-related_article4:
-    id: 123029
-    title: >-
-        What were the economic conditions in India during the Industrial Revolution?
-    subject: Economics
-    url: /learn/economics/questions/what-were-the-economic-conditions-in-india-during-the-industrial-revolution
-related_article5:
-    id: 123020
-    title: >-
-        How did coal availability in Britain influence the Industrial Revolution?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-coal-availability-in-britain-influence-the-industrial-revolution
+    url: /learn/history-of-the-world/questions/what-were-the-criticisms-of-eurocentric-explanations-of-the-industrial-revolution
 ---
 
 &nbsp;

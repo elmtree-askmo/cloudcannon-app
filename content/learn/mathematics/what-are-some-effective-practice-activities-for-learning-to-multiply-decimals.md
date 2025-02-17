@@ -24,23 +24,11 @@ file_name: what-are-some-effective-practice-activities-for-learning-to-multiply-
 url: /learn/mathematics/questions/what-are-some-effective-practice-activities-for-learning-to-multiply-decimals
 score: -1.0
 related_article1:
-    id: 111525
-    title: >-
-        Could you give an example of multiplying two decimal numbers?
-    subject: Mathematics
-    url: /learn/mathematics/questions/could-you-give-an-example-of-multiplying-two-decimal-numbers
-related_article2:
     id: 111534
     title: >-
         How can technology be used to assist in learning decimal multiplication?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-technology-be-used-to-assist-in-learning-decimal-multiplication
-related_article3:
-    id: 111529
-    title: >-
-        How does multiplying decimals differ from multiplying whole numbers?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-multiplying-decimals-differ-from-multiplying-whole-numbers
 ---
 
 &nbsp;

@@ -24,35 +24,23 @@ file_name: what-are-the-ethical-considerations-in-ai-engineering.md
 url: /learn/engineering/questions/what-are-the-ethical-considerations-in-ai-engineering
 score: -1.0
 related_article1:
-    id: 118542
+    id: 118548
     title: >-
-        What is the economic influence of the tech industry in Norway?
-    subject: Economics
-    url: /learn/economics/questions/what-is-the-economic-influence-of-the-tech-industry-in-norway
+        What advice would you give to someone trying to break into the tech industry?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-advice-would-you-give-to-someone-trying-to-break-into-the-tech-industry
 related_article2:
-    id: 118530
+    id: 118536
     title: >-
-        Can you provide a brief background on Quincy Larson and Per Borgin?
+        How has Scrimba developed over the years?
     subject: Education Studies
-    url: /learn/education-studies/questions/can-you-provide-a-brief-background-on-quincy-larson-and-per-borgin
+    url: /learn/education-studies/questions/how-has-scrimba-developed-over-the-years
 related_article3:
-    id: 118540
-    title: >-
-        What are the advantages and disadvantages of coding boot camps compared to self-learning?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-advantages-and-disadvantages-of-coding-boot-camps-compared-to-selflearning
-related_article4:
     id: 118557
     title: >-
         What are the current trends in coding education?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-current-trends-in-coding-education
-related_article5:
-    id: 118555
-    title: >-
-        What are some success stories from Free Code Camp alumni?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-success-stories-from-free-code-camp-alumni
 ---
 
 &nbsp;

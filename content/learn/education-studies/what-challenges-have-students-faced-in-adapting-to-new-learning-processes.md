@@ -24,29 +24,35 @@ file_name: what-challenges-have-students-faced-in-adapting-to-new-learning-proce
 url: /learn/education-studies/questions/what-challenges-have-students-faced-in-adapting-to-new-learning-processes
 score: -1.0
 related_article1:
-    id: 116943
+    id: 116922
     title: >-
-        What are the ethical considerations in providing psychological support in schools?
+        What are the signs of anxiety and depression in students during the pandemic?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-ethical-considerations-in-providing-psychological-support-in-schools
+    url: /learn/psychology/questions/what-are-the-signs-of-anxiety-and-depression-in-students-during-the-pandemic
 related_article2:
-    id: 116917
+    id: 116942
     title: >-
-        How has COVID-19 changed traditional teaching methods?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-has-covid19-changed-traditional-teaching-methods
-related_article3:
-    id: 116921
-    title: >-
-        How has the pandemic impacted students' mental health, specifically in terms of anxiety and depression?
+        How can community resources be leveraged to support student mental health?
     subject: Psychology
-    url: /learn/psychology/questions/how-has-the-pandemic-impacted-students-mental-health-specifically-in-terms-of-anxiety-and-depression
-related_article4:
-    id: 116923
+    url: /learn/psychology/questions/how-can-community-resources-be-leveraged-to-support-student-mental-health
+related_article3:
+    id: 116925
     title: >-
-        Why is student well-being more important now than before the pandemic?
+        How can psychological support be integrated into the educational system?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-student-wellbeing-more-important-now-than-before-the-pandemic
+    url: /learn/education-studies/questions/how-can-psychological-support-be-integrated-into-the-educational-system
+related_article4:
+    id: 116933
+    title: >-
+        What strategies can be implemented to support students' mental health post-pandemic?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-can-be-implemented-to-support-students-mental-health-postpandemic
+related_article5:
+    id: 116932
+    title: >-
+        How can schools assess the mental health needs of their students after the pandemic?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-schools-assess-the-mental-health-needs-of-their-students-after-the-pandemic
 ---
 
 &nbsp;

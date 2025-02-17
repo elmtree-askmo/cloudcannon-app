@@ -24,29 +24,35 @@ file_name: how-do-the-principles-of-geometry-apply-to-physical-laws.md
 url: /learn/physics/questions/how-do-the-principles-of-geometry-apply-to-physical-laws
 score: -1.0
 related_article1:
-    id: 111818
-    title: >-
-        What is the significance of force and equal areas in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-significance-of-force-and-equal-areas-in-physics
-related_article2:
     id: 111838
     title: >-
         How do modern physicists use mathematical notation to express complex ideas?
     subject: Physics
     url: /learn/physics/questions/how-do-modern-physicists-use-mathematical-notation-to-express-complex-ideas
+related_article2:
+    id: 111822
+    title: >-
+        How did the Babylonian method influence the development of physics?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-babylonian-method-influence-the-development-of-physics
 related_article3:
-    id: 111830
+    id: 111836
     title: >-
-        How do mathematical models help in predicting physical phenomena?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
-related_article4:
-    id: 111825
-    title: >-
-        What is the conservation of angular momentum and its mathematical representation?
+        How does the concept of force relate to mathematical equations?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-conservation-of-angular-momentum-and-its-mathematical-representation
+    url: /learn/physics/questions/how-does-the-concept-of-force-relate-to-mathematical-equations
+related_article4:
+    id: 111839
+    title: >-
+        What are some challenges in translating physical concepts into mathematical language?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-challenges-in-translating-physical-concepts-into-mathematical-language
+related_article5:
+    id: 111835
+    title: >-
+        What are some examples of mathematical principles that have been applied to physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-examples-of-mathematical-principles-that-have-been-applied-to-physics
 ---
 
 &nbsp;

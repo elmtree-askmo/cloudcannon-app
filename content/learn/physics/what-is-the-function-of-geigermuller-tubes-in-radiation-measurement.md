@@ -13,7 +13,7 @@ seo:
   page_description: >-
     The Geiger-Muller tube, or Geiger counter, is an essential instrument for detecting and measuring ionizing radiation through the ionization of gas, widely used in medical and environmental applications.
   page_keywords: >-
-    Geiger-Muller tube, Geiger counter, ionizing radiation, radiation measurement, alpha particles, beta particles, gamma rays, ionization, radiation detection, radiation dosimetry, radiological protection, experimental physics, Hans Geiger, Walther Müller
+    Geiger-Muller tube, Geiger counter, ionizing radiation, radiation measurement, alpha particles, beta particles, gamma rays, ionization, radiation detection, radiation dosimetry, radiological protection, experimental physics, Hans Geiger, Walther Mller
 author: QuickTakes
 question: >-
     What is the function of Geiger-Muller tubes in radiation measurement?
@@ -24,29 +24,29 @@ file_name: what-is-the-function-of-geigermuller-tubes-in-radiation-measurement.m
 url: /learn/physics/questions/what-is-the-function-of-geigermuller-tubes-in-radiation-measurement
 score: -1.0
 related_article1:
-    id: 116086
+    id: 116073
     title: >-
-        How can the concept of Banana Equivalent Dose (BED) be explained to patients?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-can-the-concept-of-banana-equivalent-dose-bed-be-explained-to-patients
+        How are current tissue weighting factors applied in medical imaging?
+    subject: Medicine
+    url: /learn/medicine/questions/how-are-current-tissue-weighting-factors-applied-in-medical-imaging
 related_article2:
-    id: 116084
+    id: 116063
     title: >-
-        How does collimation help in reducing scatter radiation?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-collimation-help-in-reducing-scatter-radiation
-related_article3:
-    id: 116080
-    title: >-
-        How are personnel monitoring devices used in radiation protection?
+        How has the understanding of radiation safety practices changed over the years?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-are-personnel-monitoring-devices-used-in-radiation-protection
-related_article4:
-    id: 116081
+    url: /learn/health-studies/questions/how-has-the-understanding-of-radiation-safety-practices-changed-over-the-years
+related_article3:
+    id: 116069
     title: >-
-        What are the key strategies for radiation protection in medical imaging?
+        How is absorbed dose measured and what does it signify?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-absorbed-dose-measured-and-what-does-it-signify
+related_article4:
+    id: 116068
+    title: >-
+        What are the different units used for dose measurement in radiography?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-key-strategies-for-radiation-protection-in-medical-imaging
+    url: /learn/medicine/questions/what-are-the-different-units-used-for-dose-measurement-in-radiography
 ---
 
 &nbsp;

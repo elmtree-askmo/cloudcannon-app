@@ -24,35 +24,35 @@ file_name: what-are-the-typical-use-cases-for-a-personal-area-network-pan.md
 url: /learn/computer-science/questions/what-are-the-typical-use-cases-for-a-personal-area-network-pan
 score: -1.0
 related_article1:
-    id: 116153
+    id: 116161
     title: >-
-        How does a Wide Area Network (WAN) differ from a Metropolitan Area Network (MAN)?
+        What roles do routers play in a network?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-a-wide-area-network-wan-differ-from-a-metropolitan-area-network-man
+    url: /learn/computer-science/questions/what-roles-do-routers-play-in-a-network
 related_article2:
-    id: 116160
+    id: 116177
     title: >-
-        How does a hybrid topology combine different topologies, and what are its advantages?
+        What are the different Wi-Fi standards and how do they differ?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-a-hybrid-topology-combine-different-topologies-and-what-are-its-advantages
+    url: /learn/computer-science/questions/what-are-the-different-wifi-standards-and-how-do-they-differ
 related_article3:
-    id: 116166
-    title: >-
-        How does subnetting work and why is it important?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-subnetting-work-and-why-is-it-important
-related_article4:
     id: 116165
     title: >-
         What are the differences between IPv4 and IPv6 addressing?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-differences-between-ipv4-and-ipv6-addressing
-related_article5:
-    id: 116171
+related_article4:
+    id: 116176
     title: >-
-        What role does SMTP play in email communication?
+        How do intrusion detection systems enhance network security?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-role-does-smtp-play-in-email-communication
+    url: /learn/computer-science/questions/how-do-intrusion-detection-systems-enhance-network-security
+related_article5:
+    id: 116151
+    title: >-
+        Can you explain the differences between LAN, WAN, MAN, and PAN?
+    subject: Computer Science
+    url: /learn/computer-science/questions/can-you-explain-the-differences-between-lan-wan-man-and-pan
 ---
 
 &nbsp;

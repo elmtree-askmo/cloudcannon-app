@@ -24,17 +24,23 @@ file_name: how-does-cognitive-psychology-influence-behavior-in-practical-setting
 url: /learn/psychology/questions/how-does-cognitive-psychology-influence-behavior-in-practical-settings
 score: -1.0
 related_article1:
-    id: 123631
+    id: 123639
     title: >-
-        Can you provide examples and applications of cognitive psychology inferences?
+        How are computational models used in cognitive psychology?
     subject: Psychology
-    url: /learn/psychology/questions/can-you-provide-examples-and-applications-of-cognitive-psychology-inferences
+    url: /learn/psychology/questions/how-are-computational-models-used-in-cognitive-psychology
 related_article2:
     id: 123632
     title: >-
         What is the historical context of cognitive psychology?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-historical-context-of-cognitive-psychology
+related_article3:
+    id: 123631
+    title: >-
+        Can you provide examples and applications of cognitive psychology inferences?
+    subject: Psychology
+    url: /learn/psychology/questions/can-you-provide-examples-and-applications-of-cognitive-psychology-inferences
 ---
 
 &nbsp;

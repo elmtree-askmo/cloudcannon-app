@@ -24,29 +24,35 @@ file_name: what-are-the-latest-technological-advances-in-vascular-surgery.md
 url: /learn/medicine/questions/what-are-the-latest-technological-advances-in-vascular-surgery
 score: -1.0
 related_article1:
-    id: 102183
+    id: 102172
     title: >-
-        What are the benefits and limitations of different imaging techniques for acute ischemia?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-benefits-and-limitations-of-different-imaging-techniques-for-acute-ischemia
-related_article2:
-    id: 102174
-    title: >-
-        How do the clinical features of chronic ischemia differ from acute ischemia?
+        What is the role of fasciotomy in managing compartment syndrome post-surgery?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-the-clinical-features-of-chronic-ischemia-differ-from-acute-ischemia
+    url: /learn/medicine/questions/what-is-the-role-of-fasciotomy-in-managing-compartment-syndrome-postsurgery
+related_article2:
+    id: 102180
+    title: >-
+        How does operator experience and preference affect treatment decisions in acute ischemia?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-operator-experience-and-preference-affect-treatment-decisions-in-acute-ischemia
 related_article3:
+    id: 102179
+    title: >-
+        What factors influence the choice of treatment for acute ischemia?
+    subject: Medicine
+    url: /learn/medicine/questions/what-factors-influence-the-choice-of-treatment-for-acute-ischemia
+related_article4:
     id: 102178
     title: >-
         How do mechanical thrombectomy devices like Rotarex and AngioJet work?
     subject: Medicine
     url: /learn/medicine/questions/how-do-mechanical-thrombectomy-devices-like-rotarex-and-angiojet-work
-related_article4:
-    id: 102166
+related_article5:
+    id: 102173
     title: >-
-        What is the process of bypass surgery in managing acute ischemia?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-the-process-of-bypass-surgery-in-managing-acute-ischemia
+        What are the common causes and risk factors for chronic ischemia?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-common-causes-and-risk-factors-for-chronic-ischemia
 ---
 
 &nbsp;

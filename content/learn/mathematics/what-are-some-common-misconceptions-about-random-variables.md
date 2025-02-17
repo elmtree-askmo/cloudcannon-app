@@ -24,17 +24,17 @@ file_name: what-are-some-common-misconceptions-about-random-variables.md
 url: /learn/mathematics/questions/what-are-some-common-misconceptions-about-random-variables
 score: -1.0
 related_article1:
-    id: 102694
-    title: >-
-        What methods are used to find the possible values of discrete random variables?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-methods-are-used-to-find-the-possible-values-of-discrete-random-variables
-related_article2:
     id: 102693
     title: >-
         How can one determine the possible values of a discrete random variable?
     subject: Mathematics
     url: /learn/mathematics/questions/how-can-one-determine-the-possible-values-of-a-discrete-random-variable
+related_article2:
+    id: 102701
+    title: >-
+        What is the significance of understanding random variables in data analysis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-understanding-random-variables-in-data-analysis
 related_article3:
     id: 102687
     title: >-
@@ -42,11 +42,17 @@ related_article3:
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-main-types-of-random-variables
 related_article4:
-    id: 102701
+    id: 102686
     title: >-
-        What is the significance of understanding random variables in data analysis?
+        Can you explain the formal definition of a random variable?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-significance-of-understanding-random-variables-in-data-analysis
+    url: /learn/mathematics/questions/can-you-explain-the-formal-definition-of-a-random-variable
+related_article5:
+    id: 102697
+    title: >-
+        How are random variables used in statistical modeling?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-random-variables-used-in-statistical-modeling
 ---
 
 &nbsp;

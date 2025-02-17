@@ -24,35 +24,29 @@ file_name: what-is-the-historical-development-of-the-concept-of-random-variables
 url: /learn/mathematics/questions/what-is-the-historical-development-of-the-concept-of-random-variables
 score: -1.0
 related_article1:
-    id: 102692
+    id: 102710
     title: >-
-        What criteria are used to classify random variables?
+        How do random variables help in understanding uncertainty and risk?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-criteria-are-used-to-classify-random-variables
+    url: /learn/mathematics/questions/how-do-random-variables-help-in-understanding-uncertainty-and-risk
 related_article2:
-    id: 102709
+    id: 102704
     title: >-
-        What are the limitations of using random variables in statistical analysis?
+        How do statisticians ensure the accuracy of random variable models?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-limitations-of-using-random-variables-in-statistical-analysis
+    url: /learn/mathematics/questions/how-do-statisticians-ensure-the-accuracy-of-random-variable-models
 related_article3:
-    id: 102702
+    id: 102703
     title: >-
-        How do random variables contribute to decision-making processes?
+        What are the challenges in working with random variables?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-random-variables-contribute-to-decisionmaking-processes
+    url: /learn/mathematics/questions/what-are-the-challenges-in-working-with-random-variables
 related_article4:
-    id: 102684
+    id: 102695
     title: >-
-        What is a random variable in the context of probability and statistics?
+        Can you provide a step-by-step example of finding possible values for a discrete random variable?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-a-random-variable-in-the-context-of-probability-and-statistics
-related_article5:
-    id: 102697
-    title: >-
-        How are random variables used in statistical modeling?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-are-random-variables-used-in-statistical-modeling
+    url: /learn/mathematics/questions/can-you-provide-a-stepbystep-example-of-finding-possible-values-for-a-discrete-random-variable
 ---
 
 &nbsp;

@@ -24,23 +24,17 @@ file_name: what-research-has-been-conducted-on-cultural-influences-on-attributio
 url: /learn/psychology/questions/what-research-has-been-conducted-on-cultural-influences-on-attribution
 score: -1.0
 related_article1:
-    id: 96807
-    title: >-
-        What are the practical applications of understanding explanatory styles and attribution errors?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-practical-applications-of-understanding-explanatory-styles-and-attribution-errors
-related_article2:
     id: 96783
     title: >-
         How do explanatory styles influence mental health outcomes?
     subject: Psychology
     url: /learn/psychology/questions/how-do-explanatory-styles-influence-mental-health-outcomes
-related_article3:
-    id: 96780
+related_article2:
+    id: 96784
     title: >-
-        How does a pessimistic explanatory style differ from an optimistic one?
+        What is the fundamental attribution error and how is it defined?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-a-pessimistic-explanatory-style-differ-from-an-optimistic-one
+    url: /learn/psychology/questions/what-is-the-fundamental-attribution-error-and-how-is-it-defined
 ---
 
 &nbsp;

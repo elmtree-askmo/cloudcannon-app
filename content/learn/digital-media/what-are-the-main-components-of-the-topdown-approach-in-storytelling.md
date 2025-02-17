@@ -24,35 +24,35 @@ file_name: what-are-the-main-components-of-the-topdown-approach-in-storytelling.
 url: /learn/digital-media/questions/what-are-the-main-components-of-the-topdown-approach-in-storytelling
 score: -1.0
 related_article1:
-    id: 120705
+    id: 120718
     title: >-
-        How do bottom-up and top-down approaches differ in crafting a story?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-bottomup-and-topdown-approaches-differ-in-crafting-a-story
+        How can storytelling be adapted for different types of audiences?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-can-storytelling-be-adapted-for-different-types-of-audiences
 related_article2:
-    id: 120716
-    title: >-
-        How can one effectively transition between different parts of a story?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-can-one-effectively-transition-between-different-parts-of-a-story
-related_article3:
     id: 120702
     title: >-
         What is the 'Man in Hole' story structure?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-is-the-man-in-hole-story-structure
-related_article4:
-    id: 120701
+related_article3:
+    id: 120716
     title: >-
-        Can you describe the 'Cinderella Story' narrative arc?
+        How can one effectively transition between different parts of a story?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/can-you-describe-the-cinderella-story-narrative-arc
-related_article5:
-    id: 120715
+    url: /learn/art-history-and-literature/questions/how-can-one-effectively-transition-between-different-parts-of-a-story
+related_article4:
+    id: 120708
     title: >-
-        What are some techniques to maintain audience interest throughout a story?
+        What are some methods to ensure emotional engagement in storytelling?
     subject: Digital Media
-    url: /learn/digital-media/questions/what-are-some-techniques-to-maintain-audience-interest-throughout-a-story
+    url: /learn/digital-media/questions/what-are-some-methods-to-ensure-emotional-engagement-in-storytelling
+related_article5:
+    id: 120711
+    title: >-
+        How can one balance creativity and structure in storytelling?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-can-one-balance-creativity-and-structure-in-storytelling
 ---
 
 &nbsp;

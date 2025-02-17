@@ -24,11 +24,11 @@ file_name: what-is-the-significance-of-the-energy-band-gap-in-semiconductors.md
 url: /learn/physics/questions/what-is-the-significance-of-the-energy-band-gap-in-semiconductors
 score: -1.0
 related_article1:
-    id: 116385
+    id: 116358
     title: >-
-        How do semiconductor devices compare to their vacuum tube predecessors in terms of performance and reliability?
+        What were the main limitations of vacuum tubes that led to the development of solid-state devices?
     subject: Engineering
-    url: /learn/engineering/questions/how-do-semiconductor-devices-compare-to-their-vacuum-tube-predecessors-in-terms-of-performance-and-reliability
+    url: /learn/engineering/questions/what-were-the-main-limitations-of-vacuum-tubes-that-led-to-the-development-of-solidstate-devices
 related_article2:
     id: 116381
     title: >-
@@ -36,23 +36,17 @@ related_article2:
     subject: Engineering
     url: /learn/engineering/questions/how-do-semiconductors-enable-the-functionality-of-integrated-circuits
 related_article3:
-    id: 116366
+    id: 116378
     title: >-
-        How do energy bands in solids relate to the conductivity of materials?
-    subject: Physics
-    url: /learn/physics/questions/how-do-energy-bands-in-solids-relate-to-the-conductivity-of-materials
+        What are the challenges faced in the production and development of semiconductor devices?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-challenges-faced-in-the-production-and-development-of-semiconductor-devices
 related_article4:
-    id: 116364
+    id: 116370
     title: >-
-        How are semiconductors classified based on their conductivity?
-    subject: Engineering
-    url: /learn/engineering/questions/how-are-semiconductors-classified-based-on-their-conductivity
-related_article5:
-    id: 116361
-    title: >-
-        Who were the pioneering scientists and engineers in the field of semiconductor electronics?
-    subject: Engineering
-    url: /learn/engineering/questions/who-were-the-pioneering-scientists-and-engineers-in-the-field-of-semiconductor-electronics
+        What is a p-n junction and why is it fundamental to semiconductor devices?
+    subject: Physics
+    url: /learn/physics/questions/what-is-a-pn-junction-and-why-is-it-fundamental-to-semiconductor-devices
 ---
 
 &nbsp;

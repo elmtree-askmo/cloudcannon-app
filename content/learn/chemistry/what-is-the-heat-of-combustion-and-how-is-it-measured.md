@@ -24,35 +24,35 @@ file_name: what-is-the-heat-of-combustion-and-how-is-it-measured.md
 url: /learn/chemistry/questions/what-is-the-heat-of-combustion-and-how-is-it-measured
 score: -1.0
 related_article1:
-    id: 117922
+    id: 117925
     title: >-
-        How is concentration calculated in solutions?
+        What is freezing point depression and how is it calculated?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-is-concentration-calculated-in-solutions
+    url: /learn/chemistry/questions/what-is-freezing-point-depression-and-how-is-it-calculated
 related_article2:
-    id: 117911
+    id: 117920
     title: >-
-        How is the polarity of a molecule determined?
+        How are phase diagrams used to represent states of matter?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-is-the-polarity-of-a-molecule-determined
+    url: /learn/chemistry/questions/how-are-phase-diagrams-used-to-represent-states-of-matter
 related_article3:
-    id: 117919
-    title: >-
-        What factors determine the boiling and melting points of substances?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-factors-determine-the-boiling-and-melting-points-of-substances
-related_article4:
     id: 117906
     title: >-
         How is electron configuration determined for an element?
     subject: Chemistry
     url: /learn/chemistry/questions/how-is-electron-configuration-determined-for-an-element
-related_article5:
+related_article4:
     id: 117927
     title: >-
         How does Hess's Law apply to real-world chemical reactions?
     subject: Chemistry
     url: /learn/chemistry/questions/how-does-hesss-law-apply-to-realworld-chemical-reactions
+related_article5:
+    id: 117903
+    title: >-
+        Can you explain Hess's Law and its significance in thermochemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/can-you-explain-hesss-law-and-its-significance-in-thermochemistry
 ---
 
 &nbsp;

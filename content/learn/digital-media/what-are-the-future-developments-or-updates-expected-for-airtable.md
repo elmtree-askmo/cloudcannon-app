@@ -24,35 +24,35 @@ file_name: what-are-the-future-developments-or-updates-expected-for-airtable.md
 url: /learn/digital-media/questions/what-are-the-future-developments-or-updates-expected-for-airtable
 score: -1.0
 related_article1:
+    id: 118018
+    title: >-
+        How does Airtable's automation engine improve workflow efficiency?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-does-airtables-automation-engine-improve-workflow-efficiency
+related_article2:
+    id: 118010
+    title: >-
+        What are the pricing plans for Airtable and what features do they include?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-the-pricing-plans-for-airtable-and-what-features-do-they-include
+related_article3:
+    id: 118000
+    title: >-
+        What systems can Airtable integrate with and how does this integration work?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-systems-can-airtable-integrate-with-and-how-does-this-integration-work
+related_article4:
+    id: 118013
+    title: >-
+        What are some common challenges users face when using Airtable?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-some-common-challenges-users-face-when-using-airtable
+related_article5:
     id: 118005
     title: >-
         In what ways does Airtable differ from project management tools like Asana?
     subject: Business and Management
     url: /learn/business-and-management/questions/in-what-ways-does-airtable-differ-from-project-management-tools-like-asana
-related_article2:
-    id: 118004
-    title: >-
-        How does Airtable compare to CRM tools like Salesforce?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-does-airtable-compare-to-crm-tools-like-salesforce
-related_article3:
-    id: 117996
-    title: >-
-        How do Airtable forms work and what are their benefits?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-do-airtable-forms-work-and-what-are-their-benefits
-related_article4:
-    id: 117994
-    title: >-
-        How can users customize tables and fields in Airtable?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-can-users-customize-tables-and-fields-in-airtable
-related_article5:
-    id: 117995
-    title: >-
-        What types of data views are available in Airtable?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-types-of-data-views-are-available-in-airtable
 ---
 
 &nbsp;

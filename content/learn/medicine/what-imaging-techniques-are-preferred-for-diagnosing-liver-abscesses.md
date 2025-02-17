@@ -23,30 +23,7 @@ subject: Medicine
 file_name: what-imaging-techniques-are-preferred-for-diagnosing-liver-abscesses.md
 url: /learn/medicine/questions/what-imaging-techniques-are-preferred-for-diagnosing-liver-abscesses
 score: -1.0
-related_article1:
-    id: 118094
-    title: >-
-        How is hemangioma differentiated from HCC in imaging studies?
-    subject: Medicine
-    url: /learn/medicine/questions/how-is-hemangioma-differentiated-from-hcc-in-imaging-studies
-related_article2:
-    id: 118080
-    title: >-
-        What are the key differences between Lyrad and European imaging guidelines for HCC?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-key-differences-between-lyrad-and-european-imaging-guidelines-for-hcc
-related_article3:
-    id: 118098
-    title: >-
-        Which organisms are most frequently associated with liver abscesses?
-    subject: Medicine
-    url: /learn/medicine/questions/which-organisms-are-most-frequently-associated-with-liver-abscesses
-related_article4:
-    id: 118084
-    title: >-
-        What are the advantages and limitations of CT and MRI in imaging HCC?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-advantages-and-limitations-of-ct-and-mri-in-imaging-hcc
+
 ---
 
 &nbsp;

@@ -24,17 +24,17 @@ file_name: how-has-public-opinion-on-mass-surveillance-changed-over-time.md
 url: /learn/sociology/questions/how-has-public-opinion-on-mass-surveillance-changed-over-time
 score: -1.0
 related_article1:
-    id: 119201
-    title: >-
-        How do technological advancements impact the effectiveness of mass surveillance?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-do-technological-advancements-impact-the-effectiveness-of-mass-surveillance
-related_article2:
     id: 119180
     title: >-
         What are the main risks faced by whistleblowers in the context of mass surveillance?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-are-the-main-risks-faced-by-whistleblowers-in-the-context-of-mass-surveillance
+related_article2:
+    id: 119201
+    title: >-
+        How do technological advancements impact the effectiveness of mass surveillance?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-do-technological-advancements-impact-the-effectiveness-of-mass-surveillance
 ---
 
 &nbsp;

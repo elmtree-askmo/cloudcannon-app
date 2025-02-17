@@ -24,35 +24,35 @@ file_name: how-do-intrinsic-semiconductors-differ-from-extrinsic-semiconductors.
 url: /learn/physics/questions/how-do-intrinsic-semiconductors-differ-from-extrinsic-semiconductors
 score: -1.0
 related_article1:
-    id: 116366
+    id: 116371
     title: >-
-        How do energy bands in solids relate to the conductivity of materials?
-    subject: Physics
-    url: /learn/physics/questions/how-do-energy-bands-in-solids-relate-to-the-conductivity-of-materials
+        How does a diode function and what are its primary applications?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-a-diode-function-and-what-are-its-primary-applications
 related_article2:
-    id: 116375
+    id: 116361
     title: >-
-        How do semiconductor materials contribute to the miniaturization of electronic components?
+        Who were the pioneering scientists and engineers in the field of semiconductor electronics?
     subject: Engineering
-    url: /learn/engineering/questions/how-do-semiconductor-materials-contribute-to-the-miniaturization-of-electronic-components
+    url: /learn/engineering/questions/who-were-the-pioneering-scientists-and-engineers-in-the-field-of-semiconductor-electronics
 related_article3:
-    id: 116378
+    id: 116384
     title: >-
-        What are the challenges faced in the production and development of semiconductor devices?
-    subject: Engineering
-    url: /learn/engineering/questions/what-are-the-challenges-faced-in-the-production-and-development-of-semiconductor-devices
+        What are the future trends in semiconductor electronics?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-future-trends-in-semiconductor-electronics
 related_article4:
-    id: 116358
+    id: 116373
     title: >-
-        What were the main limitations of vacuum tubes that led to the development of solid-state devices?
-    subject: Engineering
-    url: /learn/engineering/questions/what-were-the-main-limitations-of-vacuum-tubes-that-led-to-the-development-of-solidstate-devices
+        How has semiconductor physics revolutionized modern electronics?
+    subject: Physics
+    url: /learn/physics/questions/how-has-semiconductor-physics-revolutionized-modern-electronics
 related_article5:
-    id: 116383
+    id: 116382
     title: >-
-        How do semiconductors contribute to the efficiency of electronic devices?
-    subject: Engineering
-    url: /learn/engineering/questions/how-do-semiconductors-contribute-to-the-efficiency-of-electronic-devices
+        What is the role of semiconductor physics in the development of renewable energy technologies?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-role-of-semiconductor-physics-in-the-development-of-renewable-energy-technologies
 ---
 
 &nbsp;

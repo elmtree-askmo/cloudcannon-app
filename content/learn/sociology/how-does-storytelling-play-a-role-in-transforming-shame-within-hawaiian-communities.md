@@ -24,11 +24,11 @@ file_name: how-does-storytelling-play-a-role-in-transforming-shame-within-hawaii
 url: /learn/sociology/questions/how-does-storytelling-play-a-role-in-transforming-shame-within-hawaiian-communities
 score: -1.0
 related_article1:
-    id: 104627
+    id: 104635
     title: >-
-        What are some examples of community empowerment initiatives in Hawaii?
+        What are the contemporary challenges facing Hawaiian cultural identity?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-some-examples-of-community-empowerment-initiatives-in-hawaii
+    url: /learn/sociology/questions/what-are-the-contemporary-challenges-facing-hawaiian-cultural-identity
 related_article2:
     id: 104631
     title: >-
@@ -36,23 +36,23 @@ related_article2:
     subject: Sociology
     url: /learn/sociology/questions/what-were-john-dominis-holts-perspectives-on-hawaiian-culture-and-identity
 related_article3:
-    id: 104622
+    id: 104636
     title: >-
-        How have cultural revitalization efforts been implemented in Hawaii?
+        What are the current debates surrounding Hawaiian sovereignty and independence?
     subject: Sociology
-    url: /learn/sociology/questions/how-have-cultural-revitalization-efforts-been-implemented-in-hawaii
+    url: /learn/sociology/questions/what-are-the-current-debates-surrounding-hawaiian-sovereignty-and-independence
 related_article4:
-    id: 104625
+    id: 104619
     title: >-
-        Can you provide examples of intergenerational trauma experienced by Native Hawaiians?
-    subject: Sociology
-    url: /learn/sociology/questions/can-you-provide-examples-of-intergenerational-trauma-experienced-by-native-hawaiians
+        How did the population of Hawaii decline during the colonial period?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-population-of-hawaii-decline-during-the-colonial-period
 related_article5:
-    id: 104640
+    id: 104644
     title: >-
-        How do personal narratives contribute to the understanding of Hawaiian identity?
+        How do personal narratives and community experiences shape the understanding of historical trauma?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-personal-narratives-contribute-to-the-understanding-of-hawaiian-identity
+    url: /learn/sociology/questions/how-do-personal-narratives-and-community-experiences-shape-the-understanding-of-historical-trauma
 ---
 
 &nbsp;

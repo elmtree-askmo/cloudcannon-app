@@ -24,35 +24,29 @@ file_name: what-is-the-main-loop-in-tkinter-and-why-is-it-important.md
 url: /learn/computer-science/questions/what-is-the-main-loop-in-tkinter-and-why-is-it-important
 score: -1.0
 related_article1:
-    id: 119384
-    title: >-
-        Who was Douglas Engelbart and what was his contribution to early GUI development?
-    subject: Computer Science
-    url: /learn/computer-science/questions/who-was-douglas-engelbart-and-what-was-his-contribution-to-early-gui-development
-related_article2:
-    id: 119390
-    title: >-
-        How does the Tkinter library in Python facilitate GUI development?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-tkinter-library-in-python-facilitate-gui-development
-related_article3:
-    id: 119400
-    title: >-
-        Can you provide an example of a simple survey UI using the grid layout manager in Tkinter?
-    subject: Computer Science
-    url: /learn/computer-science/questions/can-you-provide-an-example-of-a-simple-survey-ui-using-the-grid-layout-manager-in-tkinter
-related_article4:
     id: 119385
     title: >-
         What innovations did Xerox PARC introduce with the Xerox Alto in 1973?
     subject: Computer Science
     url: /learn/computer-science/questions/what-innovations-did-xerox-parc-introduce-with-the-xerox-alto-in-1973
-related_article5:
-    id: 119382
+related_article2:
+    id: 119387
     title: >-
-        What were the key features of the Macintosh GUI released in 1984?
+        What are some of the key innovations from Xerox that have influenced modern computing?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-were-the-key-features-of-the-macintosh-gui-released-in-1984
+    url: /learn/computer-science/questions/what-are-some-of-the-key-innovations-from-xerox-that-have-influenced-modern-computing
+related_article3:
+    id: 119390
+    title: >-
+        How does the Tkinter library in Python facilitate GUI development?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-the-tkinter-library-in-python-facilitate-gui-development
+related_article4:
+    id: 119388
+    title: >-
+        What challenges did early GUI developers face and what is the legacy of these challenges?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-challenges-did-early-gui-developers-face-and-what-is-the-legacy-of-these-challenges
 ---
 
 &nbsp;

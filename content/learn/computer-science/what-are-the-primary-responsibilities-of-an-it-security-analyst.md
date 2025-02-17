@@ -24,35 +24,35 @@ file_name: what-are-the-primary-responsibilities-of-an-it-security-analyst.md
 url: /learn/computer-science/questions/what-are-the-primary-responsibilities-of-an-it-security-analyst
 score: -1.0
 related_article1:
-    id: 122348
+    id: 122345
     title: >-
-        How can an Infrastructure Analyst advance to an Architect position?
+        What are the main responsibilities of an Infrastructure Analyst?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-an-infrastructure-analyst-advance-to-an-architect-position
+    url: /learn/computer-science/questions/what-are-the-main-responsibilities-of-an-infrastructure-analyst
 related_article2:
-    id: 122329
+    id: 122352
     title: >-
-        What are the primary responsibilities of a Help Desk Analyst?
+        What is the career progression for a Storage Analyst to become an Architect?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-primary-responsibilities-of-a-help-desk-analyst
+    url: /learn/computer-science/questions/what-is-the-career-progression-for-a-storage-analyst-to-become-an-architect
 related_article3:
-    id: 122341
-    title: >-
-        What are the primary duties of a Data Centre Administrator?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-primary-duties-of-a-data-centre-administrator
-related_article4:
     id: 122346
     title: >-
         What skills are essential for an Infrastructure Analyst and Architect?
     subject: Computer Science
     url: /learn/computer-science/questions/what-skills-are-essential-for-an-infrastructure-analyst-and-architect
-related_article5:
-    id: 122337
+related_article4:
+    id: 122342
     title: >-
-        What are the key responsibilities of a Network Administrator?
+        What skills are important for a Data Centre Administrator to have?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-responsibilities-of-a-network-administrator
+    url: /learn/computer-science/questions/what-skills-are-important-for-a-data-centre-administrator-to-have
+related_article5:
+    id: 122341
+    title: >-
+        What are the primary duties of a Data Centre Administrator?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-primary-duties-of-a-data-centre-administrator
 ---
 
 &nbsp;

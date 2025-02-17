@@ -24,30 +24,24 @@ file_name: what-role-does-imaging-play-in-detecting-complications-of-pancreatiti
 url: /learn/medicine/questions/what-role-does-imaging-play-in-detecting-complications-of-pancreatitis
 score: -1.0
 related_article1:
-    id: 118112
+    id: 118114
     title: >-
-        Can you provide details on a case study involving hepatocellular carcinoma, including patient presentation and imaging findings?
+        What treatment and management strategies are typically employed for hepatocellular carcinoma?
     subject: Medicine
-    url: /learn/medicine/questions/can-you-provide-details-on-a-case-study-involving-hepatocellular-carcinoma-including-patient-presentation-and-imaging-findings
+    url: /learn/medicine/questions/what-treatment-and-management-strategies-are-typically-employed-for-hepatocellular-carcinoma
 related_article2:
-    id: 118117
+    id: 118138
     title: >-
-        What are the common treatment and management approaches for acute cholecystitis?
+        How does patient history and presentation influence the choice of imaging modality in hepatobiliary conditions?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-treatment-and-management-approaches-for-acute-cholecystitis
+    url: /learn/medicine/questions/how-does-patient-history-and-presentation-influence-the-choice-of-imaging-modality-in-hepatobiliary-conditions
 related_article3:
-    id: 118120
+    id: 118125
     title: >-
-        What are the typical treatment and management strategies for acute pancreatitis?
+        What are the common imaging characteristics of acute pancreatitis?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-typical-treatment-and-management-strategies-for-acute-pancreatitis
+    url: /learn/medicine/questions/what-are-the-common-imaging-characteristics-of-acute-pancreatitis
 related_article4:
-    id: 118137
-    title: >-
-        What are the cost considerations associated with different imaging modalities in hepatobiliary diagnosis?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-cost-considerations-associated-with-different-imaging-modalities-in-hepatobiliary-diagnosis
-related_article5:
     id: 118139
     title: >-
         What are the potential risks or side effects associated with imaging techniques used in hepatobiliary diagnosis?

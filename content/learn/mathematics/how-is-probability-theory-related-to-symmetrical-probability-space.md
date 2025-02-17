@@ -24,35 +24,35 @@ file_name: how-is-probability-theory-related-to-symmetrical-probability-space.md
 url: /learn/mathematics/questions/how-is-probability-theory-related-to-symmetrical-probability-space
 score: -1.0
 related_article1:
-    id: 119564
+    id: 119571
     title: >-
-        What is the multiplication principle in probability theory?
+        What are some examples where order matters in permutations?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-multiplication-principle-in-probability-theory
+    url: /learn/mathematics/questions/what-are-some-examples-where-order-matters-in-permutations
 related_article2:
-    id: 119586
-    title: >-
-        What are some historical developments in the study of symmetrical probability spaces?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-historical-developments-in-the-study-of-symmetrical-probability-spaces
-related_article3:
     id: 119566
     title: >-
         How is factorial defined in mathematics?
     subject: Mathematics
     url: /learn/mathematics/questions/how-is-factorial-defined-in-mathematics
-related_article4:
-    id: 119581
+related_article3:
+    id: 119576
     title: >-
-        What are the common mistakes to avoid when calculating factorials?
+        What are specific cases of combinations with special values?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-common-mistakes-to-avoid-when-calculating-factorials
-related_article5:
+    url: /learn/mathematics/questions/what-are-specific-cases-of-combinations-with-special-values
+related_article4:
     id: 119569
     title: >-
         What are the different types of combinatorial formulas?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-different-types-of-combinatorial-formulas
+related_article5:
+    id: 119574
+    title: >-
+        How does replacement affect counting principles?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-replacement-affect-counting-principles
 ---
 
 &nbsp;

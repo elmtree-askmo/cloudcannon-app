@@ -24,35 +24,29 @@ file_name: what-role-do-interaural-level-differences-play-in-sound-localization.
 url: /learn/psychology/questions/what-role-do-interaural-level-differences-play-in-sound-localization
 score: -1.0
 related_article1:
+    id: 122530
+    title: >-
+        How do pitch, chroma, and the octave relate to music perception?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-pitch-chroma-and-the-octave-relate-to-music-perception
+related_article2:
+    id: 122523
+    title: >-
+        How does coarticulation affect the variability in the acoustics of phonemes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-coarticulation-affect-the-variability-in-the-acoustics-of-phonemes
+related_article3:
     id: 122527
     title: >-
         What are the main theories of speech perception?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-main-theories-of-speech-perception
-related_article2:
-    id: 122537
-    title: >-
-        How does synesthesia relate to music perception?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-synesthesia-relate-to-music-perception
-related_article3:
-    id: 122535
-    title: >-
-        What are the Gestalt principles of melody?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-gestalt-principles-of-melody
 related_article4:
-    id: 122512
+    id: 122526
     title: >-
-        Can you explain the concept of the cone of confusion in sound localization?
+        What is the phonemic restoration effect in top-down processing of speech perception?
     subject: Psychology
-    url: /learn/psychology/questions/can-you-explain-the-concept-of-the-cone-of-confusion-in-sound-localization
-related_article5:
-    id: 122528
-    title: >-
-        How is speech integrated with brain functions?
-    subject: Psychology
-    url: /learn/psychology/questions/how-is-speech-integrated-with-brain-functions
+    url: /learn/psychology/questions/what-is-the-phonemic-restoration-effect-in-topdown-processing-of-speech-perception
 ---
 
 &nbsp;

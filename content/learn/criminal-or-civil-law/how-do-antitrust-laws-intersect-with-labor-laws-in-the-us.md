@@ -24,35 +24,29 @@ file_name: how-do-antitrust-laws-intersect-with-labor-laws-in-the-us.md
 url: /learn/criminal-or-civil-law/questions/how-do-antitrust-laws-intersect-with-labor-laws-in-the-us
 score: -1.0
 related_article1:
-    id: 122992
+    id: 123007
     title: >-
-        How did the Landrum-Griffin Act of 1959 address union member rights?
+        What are the exemptions to registration requirements under the Securities Act of 1933?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-did-the-landrumgriffin-act-of-1959-address-union-member-rights
+    url: /learn/criminal-or-civil-law/questions/what-are-the-exemptions-to-registration-requirements-under-the-securities-act-of-1933
 related_article2:
-    id: 123011
+    id: 123002
     title: >-
-        What is the statute of limitations for securities violations under the Securities Act of 1933?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-the-statute-of-limitations-for-securities-violations-under-the-securities-act-of-1933
+        What was the significance of the Standard Oil of New Jersey vs United States case in antitrust law?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-was-the-significance-of-the-standard-oil-of-new-jersey-vs-united-states-case-in-antitrust-law
 related_article3:
-    id: 122990
+    id: 122991
     title: >-
-        How did the Wagner Act and Taft-Hartley Act of 1937 impact labor relations?
+        What is an agency shop agreement and how does it differ from a closed shop agreement?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-did-the-wagner-act-and-tafthartley-act-of-1937-impact-labor-relations
+    url: /learn/criminal-or-civil-law/questions/what-is-an-agency-shop-agreement-and-how-does-it-differ-from-a-closed-shop-agreement
 related_article4:
-    id: 123009
+    id: 122987
     title: >-
-        What is the non-materiality defense in securities regulation?
+        How did the Yellow Dog Contract affect employee rights?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-the-nonmateriality-defense-in-securities-regulation
-related_article5:
-    id: 123014
-    title: >-
-        What constitutes insider trading and who is considered an insider?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-constitutes-insider-trading-and-who-is-considered-an-insider
+    url: /learn/criminal-or-civil-law/questions/how-did-the-yellow-dog-contract-affect-employee-rights
 ---
 
 &nbsp;

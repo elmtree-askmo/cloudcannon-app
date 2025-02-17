@@ -24,23 +24,29 @@ file_name: what-is-higherorder-conditioning-and-how-does-it-differ-from-firstord
 url: /learn/psychology/questions/what-is-higherorder-conditioning-and-how-does-it-differ-from-firstorder-conditioning
 score: -1.0
 related_article1:
-    id: 99497
+    id: 99500
     title: >-
-        Can you explain the concept of taste aversion in classical conditioning?
+        What are the key concepts of operant conditioning?
     subject: Psychology
-    url: /learn/psychology/questions/can-you-explain-the-concept-of-taste-aversion-in-classical-conditioning
+    url: /learn/psychology/questions/what-are-the-key-concepts-of-operant-conditioning
 related_article2:
-    id: 99538
-    title: >-
-        What were the historical experiments conducted by Pavlov in classical conditioning?
-    subject: Psychology
-    url: /learn/psychology/questions/what-were-the-historical-experiments-conducted-by-pavlov-in-classical-conditioning
-related_article3:
     id: 99486
     title: >-
         What are the key concepts of classical conditioning?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-key-concepts-of-classical-conditioning
+related_article3:
+    id: 99538
+    title: >-
+        What were the historical experiments conducted by Pavlov in classical conditioning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-the-historical-experiments-conducted-by-pavlov-in-classical-conditioning
+related_article4:
+    id: 99497
+    title: >-
+        Can you explain the concept of taste aversion in classical conditioning?
+    subject: Psychology
+    url: /learn/psychology/questions/can-you-explain-the-concept-of-taste-aversion-in-classical-conditioning
 ---
 
 &nbsp;

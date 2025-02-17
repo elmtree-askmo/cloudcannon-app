@@ -24,29 +24,29 @@ file_name: can-you-explain-the-elements-of-the-marketing-mix.md
 url: /learn/business-and-management/questions/can-you-explain-the-elements-of-the-marketing-mix
 score: -1.0
 related_article1:
-    id: 110212
+    id: 110233
     title: >-
-        How do companies determine their target market?
+        How do companies balance online and offline marketing channels?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-do-companies-determine-their-target-market
+    url: /learn/business-and-management/questions/how-do-companies-balance-online-and-offline-marketing-channels
 related_article2:
-    id: 110236
+    id: 110221
     title: >-
-        What metrics are used to evaluate the success of advertising campaigns?
+        What roles do retailers and wholesalers play in marketing channels?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-metrics-are-used-to-evaluate-the-success-of-advertising-campaigns
+    url: /learn/business-and-management/questions/what-roles-do-retailers-and-wholesalers-play-in-marketing-channels
 related_article3:
-    id: 110228
-    title: >-
-        What are the challenges in accurately segmenting a market?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-challenges-in-accurately-segmenting-a-market
-related_article4:
     id: 110218
     title: >-
         What are the different pricing methods used by businesses?
     subject: Business and Management
     url: /learn/business-and-management/questions/what-are-the-different-pricing-methods-used-by-businesses
+related_article4:
+    id: 110225
+    title: >-
+        How does technology influence the marketing process today?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-does-technology-influence-the-marketing-process-today
 ---
 
 &nbsp;

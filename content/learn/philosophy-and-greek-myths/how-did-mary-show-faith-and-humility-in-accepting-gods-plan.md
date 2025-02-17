@@ -30,23 +30,17 @@ related_article1:
     subject: Philosophy and Greek Myths
     url: /learn/philosophy-and-greek-myths/questions/how-does-the-annunciation-illustrate-humandivine-interaction
 related_article2:
-    id: 115639
-    title: >-
-        How is Elizabeth's pregnancy a sign of divine intervention?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-is-elizabeths-pregnancy-a-sign-of-divine-intervention
-related_article3:
     id: 115644
     title: >-
         How does the announcement to Zechariah compare to Mary's announcement?
     subject: Philosophy and Greek Myths
     url: /learn/philosophy-and-greek-myths/questions/how-does-the-announcement-to-zechariah-compare-to-marys-announcement
-related_article4:
-    id: 115659
+related_article3:
+    id: 115639
     title: >-
-        What is the importance of faith and humility in the context of the Annunciation?
+        How is Elizabeth's pregnancy a sign of divine intervention?
     subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-is-the-importance-of-faith-and-humility-in-the-context-of-the-annunciation
+    url: /learn/philosophy-and-greek-myths/questions/how-is-elizabeths-pregnancy-a-sign-of-divine-intervention
 ---
 
 &nbsp;

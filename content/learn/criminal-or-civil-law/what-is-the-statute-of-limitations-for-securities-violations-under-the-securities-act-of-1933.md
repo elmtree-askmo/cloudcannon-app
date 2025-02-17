@@ -24,11 +24,11 @@ file_name: what-is-the-statute-of-limitations-for-securities-violations-under-th
 url: /learn/criminal-or-civil-law/questions/what-is-the-statute-of-limitations-for-securities-violations-under-the-securities-act-of-1933
 score: -1.0
 related_article1:
-    id: 122997
+    id: 123003
     title: >-
-        How did the Equal Pay Act of 1963 address employment discrimination?
+        How do price fixing and division of markets violate the Clayton Antitrust Act?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-did-the-equal-pay-act-of-1963-address-employment-discrimination
+    url: /learn/criminal-or-civil-law/questions/how-do-price-fixing-and-division-of-markets-violate-the-clayton-antitrust-act
 related_article2:
     id: 123015
     title: >-
@@ -36,17 +36,23 @@ related_article2:
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-is-the-short-swing-profit-rule-and-how-does-it-apply-to-insiders
 related_article3:
-    id: 123000
+    id: 122986
     title: >-
-        What is a bona fide occupational qualification (FOQ) and how is it applied?
+        What were the key provisions of the National Railway Act and Norris-LaGuardia Act of 1932?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-a-bona-fide-occupational-qualification-foq-and-how-is-it-applied
+    url: /learn/criminal-or-civil-law/questions/what-were-the-key-provisions-of-the-national-railway-act-and-norrislaguardia-act-of-1932
 related_article4:
-    id: 122994
+    id: 122988
     title: >-
-        What constitutes an unfair labor practice under U.S. labor laws?
+        What role did the National Labor Relations Board (NLRB) play after its creation in 1935?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-role-did-the-national-labor-relations-board-nlrb-play-after-its-creation-in-1935
+related_article5:
+    id: 122990
+    title: >-
+        How did the Wagner Act and Taft-Hartley Act of 1937 impact labor relations?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-constitutes-an-unfair-labor-practice-under-us-labor-laws
+    url: /learn/criminal-or-civil-law/questions/how-did-the-wagner-act-and-tafthartley-act-of-1937-impact-labor-relations
 ---
 
 &nbsp;

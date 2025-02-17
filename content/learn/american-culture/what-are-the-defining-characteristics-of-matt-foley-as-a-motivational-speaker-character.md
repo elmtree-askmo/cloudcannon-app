@@ -24,29 +24,29 @@ file_name: what-are-the-defining-characteristics-of-matt-foley-as-a-motivational
 url: /learn/american-culture/questions/what-are-the-defining-characteristics-of-matt-foley-as-a-motivational-speaker-character
 score: -1.0
 related_article1:
-    id: 1023
+    id: 1022
     title: >-
-        What elements make the 'Delicious Dish' parody a successful talk show spoof?
+        What distinguishes digital shorts from live performances in SNL's sketch formats?
     subject: American Culture
-    url: /learn/american-culture/questions/what-elements-make-the-delicious-dish-parody-a-successful-talk-show-spoof
+    url: /learn/american-culture/questions/what-distinguishes-digital-shorts-from-live-performances-in-snls-sketch-formats
 related_article2:
-    id: 1015
+    id: 1004
     title: >-
-        How has Kenan Thompson contributed to SNL as a long-serving cast member?
+        In what ways does the 'Single Ladies' parody on SNL differ from the original performance?
     subject: American Culture
-    url: /learn/american-culture/questions/how-has-kenan-thompson-contributed-to-snl-as-a-longserving-cast-member
+    url: /learn/american-culture/questions/in-what-ways-does-the-single-ladies-parody-on-snl-differ-from-the-original-performance
 related_article3:
-    id: 1029
+    id: 1001
     title: >-
-        How does the parody song 'King Tut' reflect SNL's approach to comedic music videos?
+        What is the main comedic element in the 'More Cowbell' sketch?
     subject: American Culture
-    url: /learn/american-culture/questions/how-does-the-parody-song-king-tut-reflect-snls-approach-to-comedic-music-videos
+    url: /learn/american-culture/questions/what-is-the-main-comedic-element-in-the-more-cowbell-sketch
 related_article4:
-    id: 1018
+    id: 1002
     title: >-
-        How did 'Wayne's World' transition from SNL to film?
+        How does 'Schweddy Balls' utilize innuendo for comedic effect?
     subject: American Culture
-    url: /learn/american-culture/questions/how-did-waynes-world-transition-from-snl-to-film
+    url: /learn/american-culture/questions/how-does-schweddy-balls-utilize-innuendo-for-comedic-effect
 ---
 
 &nbsp;

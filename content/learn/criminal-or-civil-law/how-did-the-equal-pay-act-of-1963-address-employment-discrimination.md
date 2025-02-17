@@ -24,35 +24,35 @@ file_name: how-did-the-equal-pay-act-of-1963-address-employment-discrimination.m
 url: /learn/criminal-or-civil-law/questions/how-did-the-equal-pay-act-of-1963-address-employment-discrimination
 score: -1.0
 related_article1:
-    id: 123000
+    id: 122989
     title: >-
-        What is a bona fide occupational qualification (FOQ) and how is it applied?
+        What is the significance of the quasi-legislative power of the NLRB?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-a-bona-fide-occupational-qualification-foq-and-how-is-it-applied
+    url: /learn/criminal-or-civil-law/questions/what-is-the-significance-of-the-quasilegislative-power-of-the-nlrb
 related_article2:
-    id: 122992
+    id: 122994
     title: >-
-        How did the Landrum-Griffin Act of 1959 address union member rights?
+        What constitutes an unfair labor practice under U.S. labor laws?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-did-the-landrumgriffin-act-of-1959-address-union-member-rights
+    url: /learn/criminal-or-civil-law/questions/what-constitutes-an-unfair-labor-practice-under-us-labor-laws
 related_article3:
+    id: 123007
+    title: >-
+        What are the exemptions to registration requirements under the Securities Act of 1933?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-are-the-exemptions-to-registration-requirements-under-the-securities-act-of-1933
+related_article4:
+    id: 123003
+    title: >-
+        How do price fixing and division of markets violate the Clayton Antitrust Act?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-do-price-fixing-and-division-of-markets-violate-the-clayton-antitrust-act
+related_article5:
     id: 123001
     title: >-
         How do antitrust laws intersect with labor laws in the U.S.?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/how-do-antitrust-laws-intersect-with-labor-laws-in-the-us
-related_article4:
-    id: 123009
-    title: >-
-        What is the non-materiality defense in securities regulation?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-the-nonmateriality-defense-in-securities-regulation
-related_article5:
-    id: 123011
-    title: >-
-        What is the statute of limitations for securities violations under the Securities Act of 1933?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-the-statute-of-limitations-for-securities-violations-under-the-securities-act-of-1933
 ---
 
 &nbsp;

@@ -24,29 +24,35 @@ file_name: what-are-the-key-imaging-techniques-used-for-the-hepatobiliary-system
 url: /learn/medicine/questions/what-are-the-key-imaging-techniques-used-for-the-hepatobiliary-system
 score: -1.0
 related_article1:
-    id: 118037
+    id: 118034
     title: >-
-        How does CT imaging compare to MRI imaging in terms of accuracy for the hepatobiliary system?
+        What are the typical findings in ultrasound imaging of the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-ct-imaging-compare-to-mri-imaging-in-terms-of-accuracy-for-the-hepatobiliary-system
+    url: /learn/medicine/questions/what-are-the-typical-findings-in-ultrasound-imaging-of-the-hepatobiliary-system
 related_article2:
-    id: 118029
+    id: 118046
     title: >-
-        What are the common hepatic pathologies that can be identified through imaging?
+        What are the common challenges faced in imaging the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-hepatic-pathologies-that-can-be-identified-through-imaging
+    url: /learn/medicine/questions/what-are-the-common-challenges-faced-in-imaging-the-hepatobiliary-system
 related_article3:
-    id: 118042
+    id: 118043
     title: >-
-        What role does contrast material play in CT and MRI imaging of the hepatobiliary system?
+        How do patient factors, such as age and health conditions, influence the choice of imaging technique for the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/what-role-does-contrast-material-play-in-ct-and-mri-imaging-of-the-hepatobiliary-system
+    url: /learn/medicine/questions/how-do-patient-factors-such-as-age-and-health-conditions-influence-the-choice-of-imaging-technique-for-the-hepatobiliary-system
 related_article4:
-    id: 118031
+    id: 118023
     title: >-
-        What imaging findings are associated with hepatocellular carcinoma?
+        What are the main advantages of MRI imaging for the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/what-imaging-findings-are-associated-with-hepatocellular-carcinoma
+    url: /learn/medicine/questions/what-are-the-main-advantages-of-mri-imaging-for-the-hepatobiliary-system
+related_article5:
+    id: 118020
+    title: >-
+        What are the main advantages of CT imaging for the hepatobiliary system?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-main-advantages-of-ct-imaging-for-the-hepatobiliary-system
 ---
 
 &nbsp;

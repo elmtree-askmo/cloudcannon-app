@@ -24,35 +24,35 @@ file_name: how-does-the-skeletal-system-change-with-age-or-disease.md
 url: /learn/health-studies/questions/how-does-the-skeletal-system-change-with-age-or-disease
 score: -1.0
 related_article1:
-    id: 100357
+    id: 100379
     title: >-
-        In what ways does the skeleton facilitate movement?
+        How do the bones of the spine interact to allow flexibility and support?
     subject: Health Studies
-    url: /learn/health-studies/questions/in-what-ways-does-the-skeleton-facilitate-movement
+    url: /learn/health-studies/questions/how-do-the-bones-of-the-spine-interact-to-allow-flexibility-and-support
 related_article2:
-    id: 100372
-    title: >-
-        What is the role of the spine in maintaining posture and balance?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-role-of-the-spine-in-maintaining-posture-and-balance
-related_article3:
-    id: 100374
-    title: >-
-        What is the importance of the pelvis in terms of weight distribution?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-importance-of-the-pelvis-in-terms-of-weight-distribution
-related_article4:
-    id: 100367
-    title: >-
-        What are the main functions of the legs in the skeletal system?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-functions-of-the-legs-in-the-skeletal-system
-related_article5:
     id: 100360
     title: >-
         What are the main components of the axial skeleton?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-main-components-of-the-axial-skeleton
+related_article3:
+    id: 100358
+    title: >-
+        What roles do bones play in blood production?
+    subject: Medicine
+    url: /learn/medicine/questions/what-roles-do-bones-play-in-blood-production
+related_article4:
+    id: 100366
+    title: >-
+        How does the pelvis support the body?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-pelvis-support-the-body
+related_article5:
+    id: 100378
+    title: >-
+        What are the specific bones included in the thorax?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-specific-bones-included-in-the-thorax
 ---
 
 &nbsp;

@@ -24,23 +24,29 @@ file_name: what-are-the-basic-arithmetic-operations-and-their-significance-in-ma
 url: /learn/mathematics/questions/what-are-the-basic-arithmetic-operations-and-their-significance-in-mathematics
 score: -1.0
 related_article1:
-    id: 111662
+    id: 111667
     title: >-
-        How does one determine the most efficient method for solving a particular equation?
+        What resources are available for learning more about arithmetic operations and equations?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-one-determine-the-most-efficient-method-for-solving-a-particular-equation
+    url: /learn/mathematics/questions/what-resources-are-available-for-learning-more-about-arithmetic-operations-and-equations
 related_article2:
-    id: 111645
+    id: 111652
     title: >-
-        What is a variable in the context of equations?
+        How does the distributive property apply to multiplication in equations?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-a-variable-in-the-context-of-equations
+    url: /learn/mathematics/questions/how-does-the-distributive-property-apply-to-multiplication-in-equations
 related_article3:
     id: 111658
     title: >-
         How do basic arithmetic operations relate to solving equations?
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-basic-arithmetic-operations-relate-to-solving-equations
+related_article4:
+    id: 111644
+    title: >-
+        How is division performed and what are its fundamental rules?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-division-performed-and-what-are-its-fundamental-rules
 ---
 
 &nbsp;

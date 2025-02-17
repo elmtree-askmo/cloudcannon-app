@@ -24,35 +24,29 @@ file_name: what-are-the-signs-of-anxiety-and-depression-in-students-during-the-p
 url: /learn/psychology/questions/what-are-the-signs-of-anxiety-and-depression-in-students-during-the-pandemic
 score: -1.0
 related_article1:
-    id: 116945
+    id: 116946
     title: >-
-        What are the best practices for implementing therapeutic approaches in schools?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-best-practices-for-implementing-therapeutic-approaches-in-schools
+        How can schools create a culture of mental health awareness and support?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-schools-create-a-culture-of-mental-health-awareness-and-support
 related_article2:
-    id: 116921
+    id: 116917
     title: >-
-        How has the pandemic impacted students' mental health, specifically in terms of anxiety and depression?
-    subject: Psychology
-    url: /learn/psychology/questions/how-has-the-pandemic-impacted-students-mental-health-specifically-in-terms-of-anxiety-and-depression
+        How has COVID-19 changed traditional teaching methods?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-has-covid19-changed-traditional-teaching-methods
 related_article3:
-    id: 116918
+    id: 116941
     title: >-
-        What are the new teaching methods adopted during the pandemic?
+        What training do teachers need to support student mental health effectively?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-new-teaching-methods-adopted-during-the-pandemic
+    url: /learn/education-studies/questions/what-training-do-teachers-need-to-support-student-mental-health-effectively
 related_article4:
-    id: 116936
+    id: 116939
     title: >-
-        How can parents support their children's mental health during and after the pandemic?
+        What are the barriers to accessing psychological support for students?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-parents-support-their-childrens-mental-health-during-and-after-the-pandemic
-related_article5:
-    id: 116924
-    title: >-
-        What role do schools play in ensuring student well-being during the pandemic?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-schools-play-in-ensuring-student-wellbeing-during-the-pandemic
+    url: /learn/psychology/questions/what-are-the-barriers-to-accessing-psychological-support-for-students
 ---
 
 &nbsp;

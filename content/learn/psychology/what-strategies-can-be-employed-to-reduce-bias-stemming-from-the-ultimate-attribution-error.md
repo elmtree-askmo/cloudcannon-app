@@ -30,18 +30,6 @@ related_article1:
     subject: Psychology
     url: /learn/psychology/questions/what-role-does-the-ultimate-attribution-error-play-in-ingroup-vs-outgroup-dynamics
 related_article2:
-    id: 96733
-    title: >-
-        How can understanding the Ultimate Attribution Error help in addressing prejudice?
-    subject: Psychology
-    url: /learn/psychology/questions/how-can-understanding-the-ultimate-attribution-error-help-in-addressing-prejudice
-related_article3:
-    id: 96747
-    title: >-
-        How do individual differences (e.g., personality, experience) influence susceptibility to the Ultimate Attribution Error?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-individual-differences-eg-personality-experience-influence-susceptibility-to-the-ultimate-attribution-error
-related_article4:
     id: 96740
     title: >-
         What are the limitations of current research on the Ultimate Attribution Error?

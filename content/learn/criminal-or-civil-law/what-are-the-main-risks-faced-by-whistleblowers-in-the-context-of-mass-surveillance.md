@@ -29,12 +29,6 @@ related_article1:
         How do technological advancements impact the effectiveness of mass surveillance?
     subject: Digital Media
     url: /learn/digital-media/questions/how-do-technological-advancements-impact-the-effectiveness-of-mass-surveillance
-related_article2:
-    id: 119207
-    title: >-
-        How has public opinion on mass surveillance changed over time?
-    subject: Sociology
-    url: /learn/sociology/questions/how-has-public-opinion-on-mass-surveillance-changed-over-time
 ---
 
 &nbsp;

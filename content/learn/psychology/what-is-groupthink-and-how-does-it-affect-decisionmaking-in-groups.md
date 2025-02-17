@@ -24,30 +24,24 @@ file_name: what-is-groupthink-and-how-does-it-affect-decisionmaking-in-groups.md
 url: /learn/psychology/questions/what-is-groupthink-and-how-does-it-affect-decisionmaking-in-groups
 score: -1.0
 related_article1:
-    id: 111846
-    title: >-
-        What are the main interpersonal topics studied in social psychology?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-interpersonal-topics-studied-in-social-psychology
-related_article2:
     id: 111867
     title: >-
         What motivates individuals to conform to group norms?
     subject: Psychology
     url: /learn/psychology/questions/what-motivates-individuals-to-conform-to-group-norms
-related_article3:
-    id: 111857
+related_article2:
+    id: 111847
     title: >-
-        How do social roles impact individual behavior in a group setting?
-    subject: Sociology
-    url: /learn/sociology/questions/how-do-social-roles-impact-individual-behavior-in-a-group-setting
-related_article4:
-    id: 111852
-    title: >-
-        What was the Quizmaster Study and what did it reveal about attribution?
+        How do situational influences affect human behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-was-the-quizmaster-study-and-what-did-it-reveal-about-attribution
-related_article5:
+    url: /learn/psychology/questions/how-do-situational-influences-affect-human-behavior
+related_article3:
+    id: 111864
+    title: >-
+        What is the elaboration likelihood model in the context of persuasion?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-elaboration-likelihood-model-in-the-context-of-persuasion
+related_article4:
     id: 111861
     title: >-
         What is cognitive dissonance and how does it affect decision-making?

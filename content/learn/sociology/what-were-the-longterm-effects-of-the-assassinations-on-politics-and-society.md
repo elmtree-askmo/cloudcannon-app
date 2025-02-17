@@ -24,35 +24,29 @@ file_name: what-were-the-longterm-effects-of-the-assassinations-on-politics-and-
 url: /learn/sociology/questions/what-were-the-longterm-effects-of-the-assassinations-on-politics-and-society
 score: -1.0
 related_article1:
-    id: 123823
+    id: 123834
     title: >-
-        Can you describe the day of the assassinations and the sequence of events?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/can-you-describe-the-day-of-the-assassinations-and-the-sequence-of-events
+        How did the assassinations impact San Francisco as a city?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-assassinations-impact-san-francisco-as-a-city
 related_article2:
-    id: 123821
+    id: 123844
     title: >-
-        What contributions did Harvey Milk make to the LGBTQ+ community and San Francisco politics?
+        How did the socio-political climate of the 1970s influence the public's reaction to the trial and verdict?
     subject: Sociology
-    url: /learn/sociology/questions/what-contributions-did-harvey-milk-make-to-the-lgbtq-community-and-san-francisco-politics
+    url: /learn/sociology/questions/how-did-the-sociopolitical-climate-of-the-1970s-influence-the-publics-reaction-to-the-trial-and-verdict
 related_article3:
-    id: 123843
+    id: 123820
     title: >-
-        What were the motivations behind Dan White's actions?
+        Who was George Moscone and what was his role in San Francisco politics?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-motivations-behind-dan-whites-actions
+    url: /learn/history-of-the-world/questions/who-was-george-moscone-and-what-was-his-role-in-san-francisco-politics
 related_article4:
-    id: 123832
+    id: 123848
     title: >-
-        What was the "Twinkie Defense" and how did it play a role in Dan White's defense strategy?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-was-the-twinkie-defense-and-how-did-it-play-a-role-in-dan-whites-defense-strategy
-related_article5:
-    id: 123841
-    title: >-
-        What was the significance of the Castro district in the context of the gay rights movement?
-    subject: Sociology
-    url: /learn/sociology/questions/what-was-the-significance-of-the-castro-district-in-the-context-of-the-gay-rights-movement
+        How did the legacy of the assassinations shape future political and social movements in San Francisco?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-legacy-of-the-assassinations-shape-future-political-and-social-movements-in-san-francisco
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: how-did-newtons-work-influence-the-mathematical-formulation-of-physic
 url: /learn/physics/questions/how-did-newtons-work-influence-the-mathematical-formulation-of-physical-laws
 score: -1.0
 related_article1:
-    id: 122698
+    id: 122708
     title: >-
-        How did the Euclidean method contribute to the development of physics?
+        What is the importance of mathematical notation in communicating scientific ideas?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-did-the-euclidean-method-contribute-to-the-development-of-physics
+    url: /learn/mathematics/questions/what-is-the-importance-of-mathematical-notation-in-communicating-scientific-ideas
 related_article2:
+    id: 122700
+    title: >-
+        How is the conservation of angular momentum expressed mathematically?
+    subject: Physics
+    url: /learn/physics/questions/how-is-the-conservation-of-angular-momentum-expressed-mathematically
+related_article3:
     id: 122706
     title: >-
         What are some examples of mathematical understanding in nature?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-some-examples-of-mathematical-understanding-in-nature
-related_article3:
-    id: 122713
-    title: >-
-        How do the Babylonian and Greek traditions differ in their approach to mathematical proofs?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-the-babylonian-and-greek-traditions-differ-in-their-approach-to-mathematical-proofs
 related_article4:
-    id: 122717
+    id: 122698
     title: >-
-        How do philosophical perspectives shape our understanding of the physics-mathematics relationship?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-do-philosophical-perspectives-shape-our-understanding-of-the-physicsmathematics-relationship
+        How did the Euclidean method contribute to the development of physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-did-the-euclidean-method-contribute-to-the-development-of-physics
 related_article5:
-    id: 122699
+    id: 122690
     title: >-
-        What role does the law of gravitation play in the relationship between physics and mathematics?
+        What is Faraday's Law and how does it relate to mathematics?
     subject: Physics
-    url: /learn/physics/questions/what-role-does-the-law-of-gravitation-play-in-the-relationship-between-physics-and-mathematics
+    url: /learn/physics/questions/what-is-faradays-law-and-how-does-it-relate-to-mathematics
 ---
 
 &nbsp;

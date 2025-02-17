@@ -24,29 +24,35 @@ file_name: what-are-the-diagnostic-criteria-for-cirrhosis.md
 url: /learn/medicine/questions/what-are-the-diagnostic-criteria-for-cirrhosis
 score: -1.0
 related_article1:
-    id: 98980
+    id: 98975
     title: >-
-        How does acute kidney injury occur in patients with cirrhosis?
+        What are the long-term management strategies for variceal bleeding?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-acute-kidney-injury-occur-in-patients-with-cirrhosis
+    url: /learn/medicine/questions/what-are-the-longterm-management-strategies-for-variceal-bleeding
 related_article2:
-    id: 98997
+    id: 98972
     title: >-
-        How is the risk of acute kidney injury managed in cirrhosis patients?
+        How does cirrhosis lead to the development of ascites?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-the-risk-of-acute-kidney-injury-managed-in-cirrhosis-patients
+    url: /learn/medicine/questions/how-does-cirrhosis-lead-to-the-development-of-ascites
 related_article3:
-    id: 98983
+    id: 98999
     title: >-
-        What are the potential complications of advanced liver disease?
+        How does the presence of ascites influence the prognosis of cirrhosis?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-potential-complications-of-advanced-liver-disease
+    url: /learn/medicine/questions/how-does-the-presence-of-ascites-influence-the-prognosis-of-cirrhosis
 related_article4:
-    id: 98990
+    id: 98973
     title: >-
-        What are the latest advancements in the treatment of cirrhosis complications?
+        What are the common symptoms and signs of portal hypertension?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-latest-advancements-in-the-treatment-of-cirrhosis-complications
+    url: /learn/medicine/questions/what-are-the-common-symptoms-and-signs-of-portal-hypertension
+related_article5:
+    id: 98996
+    title: >-
+        What are the indications for liver transplantation in cirrhosis patients?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-indications-for-liver-transplantation-in-cirrhosis-patients
 ---
 
 &nbsp;

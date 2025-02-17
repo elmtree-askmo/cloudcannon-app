@@ -24,35 +24,29 @@ file_name: what-are-the-recommended-income-replacement-and-savings-targets-for-r
 url: /learn/accounting-and-finance/questions/what-are-the-recommended-income-replacement-and-savings-targets-for-retirement-planning
 score: -1.0
 related_article1:
-    id: 120591
-    title: >-
-        How should one decide between short-term and long-term saving options?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/how-should-one-decide-between-shortterm-and-longterm-saving-options
-related_article2:
     id: 120584
     title: >-
         How do housing costs vary by location and what impact does this have on financial decisions?
     subject: Economics
     url: /learn/economics/questions/how-do-housing-costs-vary-by-location-and-what-impact-does-this-have-on-financial-decisions
-related_article3:
-    id: 120597
+related_article2:
+    id: 120598
     title: >-
-        What are the key features to compare when evaluating loan options?
+        How should one allocate savings and establish emergency funds effectively?
     subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-are-the-key-features-to-compare-when-evaluating-loan-options
+    url: /learn/accounting-and-finance/questions/how-should-one-allocate-savings-and-establish-emergency-funds-effectively
+related_article3:
+    id: 120591
+    title: >-
+        How should one decide between short-term and long-term saving options?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/how-should-one-decide-between-shortterm-and-longterm-saving-options
 related_article4:
-    id: 120589
+    id: 120596
     title: >-
-        What is consumption smoothing and how does it relate to financial planning?
-    subject: Economics
-    url: /learn/economics/questions/what-is-consumption-smoothing-and-how-does-it-relate-to-financial-planning
-related_article5:
-    id: 120593
-    title: >-
-        How do real and nominal interest rates differ, and why is this distinction important in financial planning?
-    subject: Economics
-    url: /learn/economics/questions/how-do-real-and-nominal-interest-rates-differ-and-why-is-this-distinction-important-in-financial-planning
+        What is the difference between secured and unsecured credit in debt management?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-is-the-difference-between-secured-and-unsecured-credit-in-debt-management
 ---
 
 &nbsp;

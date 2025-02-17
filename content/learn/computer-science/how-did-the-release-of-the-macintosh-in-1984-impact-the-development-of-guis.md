@@ -24,17 +24,17 @@ file_name: how-did-the-release-of-the-macintosh-in-1984-impact-the-development-o
 url: /learn/computer-science/questions/how-did-the-release-of-the-macintosh-in-1984-impact-the-development-of-guis
 score: -1.0
 related_article1:
-    id: 119410
+    id: 119386
     title: >-
-        What role does event-driven programming play in the development of GUIs?
+        How did the Xerox Star, released in 1981, influence modern computing?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-role-does-eventdriven-programming-play-in-the-development-of-guis
+    url: /learn/computer-science/questions/how-did-the-xerox-star-released-in-1981-influence-modern-computing
 related_article2:
-    id: 119387
+    id: 119395
     title: >-
-        What are some of the key innovations from Xerox that have influenced modern computing?
+        What customization options are available with the pack layout manager in Tkinter?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-of-the-key-innovations-from-xerox-that-have-influenced-modern-computing
+    url: /learn/computer-science/questions/what-customization-options-are-available-with-the-pack-layout-manager-in-tkinter
 related_article3:
     id: 119402
     title: >-
@@ -47,12 +47,6 @@ related_article4:
         What are the key takeaways when creating a login interface with Tkinter?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-key-takeaways-when-creating-a-login-interface-with-tkinter
-related_article5:
-    id: 119397
-    title: >-
-        What is the place geometry manager in Tkinter and what are its key features?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-place-geometry-manager-in-tkinter-and-what-are-its-key-features
 ---
 
 &nbsp;

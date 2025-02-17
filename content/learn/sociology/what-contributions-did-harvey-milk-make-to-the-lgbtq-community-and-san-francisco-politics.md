@@ -24,35 +24,35 @@ file_name: what-contributions-did-harvey-milk-make-to-the-lgbtq-community-and-sa
 url: /learn/sociology/questions/what-contributions-did-harvey-milk-make-to-the-lgbtq-community-and-san-francisco-politics
 score: -1.0
 related_article1:
+    id: 123828
+    title: >-
+        How did the public react to the assassinations of George Moscone and Harvey Milk?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-public-react-to-the-assassinations-of-george-moscone-and-harvey-milk
+related_article2:
     id: 123820
     title: >-
         Who was George Moscone and what was his role in San Francisco politics?
     subject: History of the World
     url: /learn/history-of-the-world/questions/who-was-george-moscone-and-what-was-his-role-in-san-francisco-politics
-related_article2:
-    id: 123822
-    title: >-
-        What events led to the assassinations of George Moscone and Harvey Milk?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-events-led-to-the-assassinations-of-george-moscone-and-harvey-milk
 related_article3:
-    id: 123830
+    id: 123844
     title: >-
-        How did the police respond to the White Night Riot?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-did-the-police-respond-to-the-white-night-riot
+        How did the socio-political climate of the 1970s influence the public's reaction to the trial and verdict?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-sociopolitical-climate-of-the-1970s-influence-the-publics-reaction-to-the-trial-and-verdict
 related_article4:
-    id: 123845
+    id: 123847
     title: >-
-        What role did George Moscone and Harvey Milk play in the political tensions of the time?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-did-george-moscone-and-harvey-milk-play-in-the-political-tensions-of-the-time
+        What were the broader societal implications of the "Twinkie Defense" in legal proceedings?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-were-the-broader-societal-implications-of-the-twinkie-defense-in-legal-proceedings
 related_article5:
-    id: 123823
+    id: 123846
     title: >-
-        Can you describe the day of the assassinations and the sequence of events?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/can-you-describe-the-day-of-the-assassinations-and-the-sequence-of-events
+        How did the White Night Riot affect the relationship between the LGBTQ+ community and law enforcement?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-white-night-riot-affect-the-relationship-between-the-lgbtq-community-and-law-enforcement
 ---
 
 &nbsp;

@@ -24,17 +24,17 @@ file_name: what-are-the-traditional-techniques-of-managerial-control.md
 url: /learn/business-and-management/questions/what-are-the-traditional-techniques-of-managerial-control
 score: -1.0
 related_article1:
-    id: 115825
-    title: >-
-        What are common deviations found in performance, and how are they identified?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-common-deviations-found-in-performance-and-how-are-they-identified
-related_article2:
     id: 115823
     title: >-
         What methods are used for measuring performance in management?
     subject: Business and Management
     url: /learn/business-and-management/questions/what-methods-are-used-for-measuring-performance-in-management
+related_article2:
+    id: 115843
+    title: >-
+        What factors influence employee reactions to control systems?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-factors-influence-employee-reactions-to-control-systems
 related_article3:
     id: 115817
     title: >-

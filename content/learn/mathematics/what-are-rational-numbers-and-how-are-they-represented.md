@@ -30,17 +30,23 @@ related_article1:
     subject: Mathematics
     url: /learn/mathematics/questions/how-are-imaginary-numbers-used-in-practical-scenarios
 related_article2:
-    id: 119752
+    id: 119728
     title: >-
-        How do mathematical concepts apply to professional fields?
+        What are natural numbers and how are they used in mathematics?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-mathematical-concepts-apply-to-professional-fields
+    url: /learn/mathematics/questions/what-are-natural-numbers-and-how-are-they-used-in-mathematics
 related_article3:
     id: 119739
     title: >-
         What is the order of operations and why is it important?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-order-of-operations-and-why-is-it-important
+related_article4:
+    id: 119752
+    title: >-
+        How do mathematical concepts apply to professional fields?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-mathematical-concepts-apply-to-professional-fields
 ---
 
 &nbsp;

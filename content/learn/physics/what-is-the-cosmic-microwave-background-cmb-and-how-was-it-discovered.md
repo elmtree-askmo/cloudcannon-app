@@ -29,12 +29,6 @@ related_article1:
         How does the CMB provide insights into the universe's history?
     subject: Physics
     url: /learn/physics/questions/how-does-the-cmb-provide-insights-into-the-universes-history
-related_article2:
-    id: 117881
-    title: >-
-        What evidence supports the Big Bang Theory?
-    subject: Physics
-    url: /learn/physics/questions/what-evidence-supports-the-big-bang-theory
 ---
 
 &nbsp;

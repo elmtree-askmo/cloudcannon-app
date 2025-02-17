@@ -24,35 +24,29 @@ file_name: what-are-the-responsibilities-of-the-president-and-vicepresident-in-t
 url: /learn/history-of-the-world/questions/what-are-the-responsibilities-of-the-president-and-vicepresident-in-the-us
 score: -1.0
 related_article1:
-    id: 120554
+    id: 120555
     title: >-
-        How does education contribute to the development of culture?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-education-contribute-to-the-development-of-culture
+        In what ways do aesthetics reflect cultural values?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/in-what-ways-do-aesthetics-reflect-cultural-values
 related_article2:
+    id: 120568
+    title: >-
+        How does religion play a role in shaping cultural norms and values?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-religion-play-a-role-in-shaping-cultural-norms-and-values
+related_article3:
+    id: 120553
+    title: >-
+        What role does language play in shaping cultural identity?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-does-language-play-in-shaping-cultural-identity
+related_article4:
     id: 120566
     title: >-
         How does the Supreme Court influence the judicial system in the U.S.?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/how-does-the-supreme-court-influence-the-judicial-system-in-the-us
-related_article3:
-    id: 120572
-    title: >-
-        What are some examples of how culture influences political decisions?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-some-examples-of-how-culture-influences-political-decisions
-related_article4:
-    id: 120559
-    title: >-
-        How is society defined in terms of cultural bonds and identity?
-    subject: Sociology
-    url: /learn/sociology/questions/how-is-society-defined-in-terms-of-cultural-bonds-and-identity
-related_article5:
-    id: 120561
-    title: >-
-        How do the executive, legislative, and judicial branches function in politics?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-do-the-executive-legislative-and-judicial-branches-function-in-politics
 ---
 
 &nbsp;

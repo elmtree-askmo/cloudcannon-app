@@ -24,35 +24,29 @@ file_name: what-is-the-significance-of-the-conservation-of-angular-momentum-in-c
 url: /learn/physics/questions/what-is-the-significance-of-the-conservation-of-angular-momentum-in-celestial-mechanics
 score: -1.0
 related_article1:
-    id: 123813
+    id: 123791
     title: >-
-        How does the Euclidean method differ from other mathematical approaches in physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-euclidean-method-differ-from-other-mathematical-approaches-in-physics
-related_article2:
-    id: 123811
-    title: >-
-        How do the Babylonian and Greek traditions differ in their approach to mathematical problems?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-the-babylonian-and-greek-traditions-differ-in-their-approach-to-mathematical-problems
-related_article3:
-    id: 123817
-    title: >-
-        How does the minimum principle relate to optimization problems in physics?
+        What is Newton's Law of Gravitation and how is it mathematically formulated?
     subject: Physics
-    url: /learn/physics/questions/how-does-the-minimum-principle-relate-to-optimization-problems-in-physics
+    url: /learn/physics/questions/what-is-newtons-law-of-gravitation-and-how-is-it-mathematically-formulated
+related_article2:
+    id: 123810
+    title: >-
+        What are the historical developments that led to modern mathematical notation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-historical-developments-that-led-to-modern-mathematical-notation
+related_article3:
+    id: 123795
+    title: >-
+        What are the key differences between Babylonian and Greek traditions in mathematics and physics?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-key-differences-between-babylonian-and-greek-traditions-in-mathematics-and-physics
 related_article4:
-    id: 123789
+    id: 123816
     title: >-
-        How does mathematics help us understand natural phenomena?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
-related_article5:
-    id: 123794
-    title: >-
-        How has modern mathematical notation evolved to aid in the understanding of physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-to-aid-in-the-understanding-of-physics
+        What are the challenges in using the local field method in physics?
+    subject: Physics
+    url: /learn/physics/questions/what-are-the-challenges-in-using-the-local-field-method-in-physics
 ---
 
 &nbsp;

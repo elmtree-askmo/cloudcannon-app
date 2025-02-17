@@ -24,35 +24,23 @@ file_name: how-can-handson-experience-with-network-services-be-beneficial-for-it
 url: /learn/computer-science/questions/how-can-handson-experience-with-network-services-be-beneficial-for-it-professionals
 score: -1.0
 related_article1:
-    id: 122246
-    title: >-
-        How does a print server facilitate network printing?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-a-print-server-facilitate-network-printing
-related_article2:
     id: 122259
     title: >-
         What is the LAMP stack and how is it used in web services?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-lamp-stack-and-how-is-it-used-in-web-services
+related_article2:
+    id: 122265
+    title: >-
+        What functions do Mail User Agent (MUA), Mail Transfer Agent (MTA), and Mail Delivery Agent (MDA) serve in email systems?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-functions-do-mail-user-agent-mua-mail-transfer-agent-mta-and-mail-delivery-agent-mda-serve-in-email-systems
 related_article3:
-    id: 122266
+    id: 122244
     title: >-
-        What are the most commonly used email protocols and their purposes?
+        What are the key considerations when implementing file services in a network?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-most-commonly-used-email-protocols-and-their-purposes
-related_article4:
-    id: 122250
-    title: >-
-        What are the main components of a Database Management System (DBMS)?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-components-of-a-database-management-system-dbms
-related_article5:
-    id: 122258
-    title: >-
-        Why is web technology important for modern businesses?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/why-is-web-technology-important-for-modern-businesses
+    url: /learn/computer-science/questions/what-are-the-key-considerations-when-implementing-file-services-in-a-network
 ---
 
 &nbsp;

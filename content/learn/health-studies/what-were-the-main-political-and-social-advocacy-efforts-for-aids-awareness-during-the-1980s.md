@@ -24,17 +24,17 @@ file_name: what-were-the-main-political-and-social-advocacy-efforts-for-aids-awa
 url: /learn/health-studies/questions/what-were-the-main-political-and-social-advocacy-efforts-for-aids-awareness-during-the-1980s
 score: -1.0
 related_article1:
-    id: 98486
-    title: >-
-        How did Berlin's political landscape in the 1980s compare to other major cities in terms of openness?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-berlins-political-landscape-in-the-1980s-compare-to-other-major-cities-in-terms-of-openness
-related_article2:
     id: 98465
     title: >-
         What were the main economic policies of the 1980s, and how did they impact the general public?
     subject: Economics
     url: /learn/economics/questions/what-were-the-main-economic-policies-of-the-1980s-and-how-did-they-impact-the-general-public
+related_article2:
+    id: 98486
+    title: >-
+        How did Berlin's political landscape in the 1980s compare to other major cities in terms of openness?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-berlins-political-landscape-in-the-1980s-compare-to-other-major-cities-in-terms-of-openness
 ---
 
 &nbsp;

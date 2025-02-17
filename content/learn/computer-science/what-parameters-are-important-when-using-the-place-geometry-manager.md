@@ -24,35 +24,29 @@ file_name: what-parameters-are-important-when-using-the-place-geometry-manager.m
 url: /learn/computer-science/questions/what-parameters-are-important-when-using-the-place-geometry-manager
 score: -1.0
 related_article1:
-    id: 119655
-    title: >-
-        How do you install Tkinter on different operating systems?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-you-install-tkinter-on-different-operating-systems
-related_article2:
-    id: 119672
-    title: >-
-        What are the key notes to remember when using the Pack layout manager?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-notes-to-remember-when-using-the-pack-layout-manager
-related_article3:
-    id: 119666
-    title: >-
-        How do you set minimum size constraints for a window in Tkinter?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-you-set-minimum-size-constraints-for-a-window-in-tkinter
-related_article4:
-    id: 119659
-    title: >-
-        What is the process for creating a button widget in Tkinter?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-process-for-creating-a-button-widget-in-tkinter
-related_article5:
     id: 119669
     title: >-
         What is the default behavior of the Pack layout manager?
     subject: Digital Media
     url: /learn/digital-media/questions/what-is-the-default-behavior-of-the-pack-layout-manager
+related_article2:
+    id: 119652
+    title: >-
+        What are the key APIs used for building GUIs?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-key-apis-used-for-building-guis
+related_article3:
+    id: 119679
+    title: >-
+        Can you provide an example of creating a GUI with the place() method?
+    subject: Computer Science
+    url: /learn/computer-science/questions/can-you-provide-an-example-of-creating-a-gui-with-the-place-method
+related_article4:
+    id: 119663
+    title: >-
+        What is the difference between place(), grid(), and pack() in Tkinter?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-difference-between-place-grid-and-pack-in-tkinter
 ---
 
 &nbsp;

@@ -24,17 +24,17 @@ file_name: what-factors-lead-to-a-tetrahedral-shape-in-molecules.md
 url: /learn/chemistry/questions/what-factors-lead-to-a-tetrahedral-shape-in-molecules
 score: -1.0
 related_article1:
-    id: 123545
-    title: >-
-        What are the bond angles in a tetrahedral molecular shape?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-bond-angles-in-a-tetrahedral-molecular-shape
-related_article2:
     id: 123531
     title: >-
         Why is electron pair repulsion important in understanding molecular structures?
     subject: Chemistry
     url: /learn/chemistry/questions/why-is-electron-pair-repulsion-important-in-understanding-molecular-structures
+related_article2:
+    id: 123539
+    title: >-
+        What are the basic principles of VSEPR theory?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-basic-principles-of-vsepr-theory
 related_article3:
     id: 123555
     title: >-

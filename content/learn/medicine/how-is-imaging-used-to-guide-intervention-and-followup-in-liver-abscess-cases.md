@@ -24,35 +24,35 @@ file_name: how-is-imaging-used-to-guide-intervention-and-followup-in-liver-absce
 url: /learn/medicine/questions/how-is-imaging-used-to-guide-intervention-and-followup-in-liver-abscess-cases
 score: -1.0
 related_article1:
-    id: 118082
+    id: 118105
     title: >-
-        What are the most commonly used imaging modalities for diagnosing HCC?
+        What are the potential complications of imaging-guided interventions for liver abscesses?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-most-commonly-used-imaging-modalities-for-diagnosing-hcc
+    url: /learn/medicine/questions/what-are-the-potential-complications-of-imagingguided-interventions-for-liver-abscesses
 related_article2:
-    id: 118091
-    title: >-
-        How is the effectiveness of surgical resection and transplantation monitored in HCC patients?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-is-the-effectiveness-of-surgical-resection-and-transplantation-monitored-in-hcc-patients
-related_article3:
     id: 118104
     title: >-
         How do imaging characteristics of HCC change with different stages of the disease?
     subject: Medicine
     url: /learn/medicine/questions/how-do-imaging-characteristics-of-hcc-change-with-different-stages-of-the-disease
+related_article3:
+    id: 118091
+    title: >-
+        How is the effectiveness of surgical resection and transplantation monitored in HCC patients?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-the-effectiveness-of-surgical-resection-and-transplantation-monitored-in-hcc-patients
 related_article4:
-    id: 118092
+    id: 118108
     title: >-
-        What is Transarterial Chemoembolization (TACE) and how is it used in HCC treatment?
+        How do imaging findings influence treatment decisions in HCC?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-transarterial-chemoembolization-tace-and-how-is-it-used-in-hcc-treatment
+    url: /learn/medicine/questions/how-do-imaging-findings-influence-treatment-decisions-in-hcc
 related_article5:
-    id: 118094
+    id: 118093
     title: >-
-        How is hemangioma differentiated from HCC in imaging studies?
+        What methods are used to monitor treatment response in HCC patients?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-hemangioma-differentiated-from-hcc-in-imaging-studies
+    url: /learn/medicine/questions/what-methods-are-used-to-monitor-treatment-response-in-hcc-patients
 ---
 
 &nbsp;

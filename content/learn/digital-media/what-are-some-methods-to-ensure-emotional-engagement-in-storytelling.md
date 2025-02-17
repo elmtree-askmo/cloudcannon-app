@@ -24,29 +24,35 @@ file_name: what-are-some-methods-to-ensure-emotional-engagement-in-storytelling.
 url: /learn/digital-media/questions/what-are-some-methods-to-ensure-emotional-engagement-in-storytelling
 score: -1.0
 related_article1:
-    id: 120691
+    id: 120706
     title: >-
-        How does sequencing information impact the effectiveness of a story?
+        What role does a narrative arc play in effective communication?
     subject: Digital Media
-    url: /learn/digital-media/questions/how-does-sequencing-information-impact-the-effectiveness-of-a-story
+    url: /learn/digital-media/questions/what-role-does-a-narrative-arc-play-in-effective-communication
 related_article2:
-    id: 120690
+    id: 120709
     title: >-
-        What is the significance of a story arc in storytelling?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-significance-of-a-story-arc-in-storytelling
+        How can storytelling techniques be applied to improve presentation structure?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-storytelling-techniques-be-applied-to-improve-presentation-structure
 related_article3:
-    id: 120696
+    id: 120712
     title: >-
-        What are the main components of the top-down approach in storytelling?
+        What are some examples of successful stories that use the bottom-up approach?
     subject: Digital Media
-    url: /learn/digital-media/questions/what-are-the-main-components-of-the-topdown-approach-in-storytelling
+    url: /learn/digital-media/questions/what-are-some-examples-of-successful-stories-that-use-the-bottomup-approach
 related_article4:
-    id: 120699
+    id: 120719
     title: >-
-        How does the Hero’s Journey structure a story?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-the-heros-journey-structure-a-story
+        What are the benefits of using storytelling in presentations?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-benefits-of-using-storytelling-in-presentations
+related_article5:
+    id: 120694
+    title: >-
+        What are 'beats' in storytelling, and why are they important?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-are-beats-in-storytelling-and-why-are-they-important
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: how-do-ct-and-mri-imaging-techniques-aid-in-the-management-and-treatm
 url: /learn/medicine/questions/how-do-ct-and-mri-imaging-techniques-aid-in-the-management-and-treatment-planning-of-hepatic-pathologies
 score: -1.0
 related_article1:
-    id: 118026
+    id: 118032
     title: >-
-        What are the primary indications for imaging the liver?
+        How are liver abscesses typically identified through imaging?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-primary-indications-for-imaging-the-liver
+    url: /learn/medicine/questions/how-are-liver-abscesses-typically-identified-through-imaging
 related_article2:
-    id: 118030
+    id: 118048
     title: >-
-        How is cirrhosis typically identified through imaging techniques?
+        What are the common artifacts or errors encountered in CT and MRI imaging of the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-cirrhosis-typically-identified-through-imaging-techniques
+    url: /learn/medicine/questions/what-are-the-common-artifacts-or-errors-encountered-in-ct-and-mri-imaging-of-the-hepatobiliary-system
 related_article3:
-    id: 118042
+    id: 118049
     title: >-
-        What role does contrast material play in CT and MRI imaging of the hepatobiliary system?
+        How do imaging findings influence the prognosis of hepatic pathologies?
     subject: Medicine
-    url: /learn/medicine/questions/what-role-does-contrast-material-play-in-ct-and-mri-imaging-of-the-hepatobiliary-system
+    url: /learn/medicine/questions/how-do-imaging-findings-influence-the-prognosis-of-hepatic-pathologies
 related_article4:
+    id: 118046
+    title: >-
+        What are the common challenges faced in imaging the hepatobiliary system?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-common-challenges-faced-in-imaging-the-hepatobiliary-system
+related_article5:
     id: 118039
     title: >-
         How does the cost of CT imaging compare to MRI imaging for the hepatobiliary system?
     subject: Health Studies
     url: /learn/health-studies/questions/how-does-the-cost-of-ct-imaging-compare-to-mri-imaging-for-the-hepatobiliary-system
-related_article5:
-    id: 118025
-    title: >-
-        In what scenarios is MRI imaging commonly used for the hepatobiliary system?
-    subject: Medicine
-    url: /learn/medicine/questions/in-what-scenarios-is-mri-imaging-commonly-used-for-the-hepatobiliary-system
 ---
 
 &nbsp;

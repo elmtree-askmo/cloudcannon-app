@@ -24,35 +24,35 @@ file_name: how-is-power-defined-in-physics-and-what-factors-influence-efficiency
 url: /learn/physics/questions/how-is-power-defined-in-physics-and-what-factors-influence-efficiency
 score: -1.0
 related_article1:
-    id: 122458
+    id: 122472
     title: >-
-        What are the key equations of motion for uniform motion?
+        What are the key differences between electric current and resistance?
     subject: Physics
-    url: /learn/physics/questions/what-are-the-key-equations-of-motion-for-uniform-motion
+    url: /learn/physics/questions/what-are-the-key-differences-between-electric-current-and-resistance
 related_article2:
-    id: 122475
+    id: 122477
     title: >-
-        How is electromotive force different from internal resistance in electrical circuits?
+        What is Archimedes' Principle, and how does it explain buoyancy?
     subject: Physics
-    url: /learn/physics/questions/how-is-electromotive-force-different-from-internal-resistance-in-electrical-circuits
+    url: /learn/physics/questions/what-is-archimedes-principle-and-how-does-it-explain-buoyancy
 related_article3:
-    id: 122455
+    id: 122470
     title: >-
-        How do velocity and speed differ in the context of motion?
+        What is electric charge, and how does Coulomb's Law describe the interaction between charges?
     subject: Physics
-    url: /learn/physics/questions/how-do-velocity-and-speed-differ-in-the-context-of-motion
+    url: /learn/physics/questions/what-is-electric-charge-and-how-does-coulombs-law-describe-the-interaction-between-charges
 related_article4:
-    id: 122457
+    id: 122464
     title: >-
-        How is average acceleration different from instantaneous acceleration?
+        What is the role of torque in rotational equilibrium?
     subject: Physics
-    url: /learn/physics/questions/how-is-average-acceleration-different-from-instantaneous-acceleration
+    url: /learn/physics/questions/what-is-the-role-of-torque-in-rotational-equilibrium
 related_article5:
-    id: 122459
+    id: 122476
     title: >-
-        How do the equations of motion change for uniformly accelerated motion?
+        How is density defined, and what is its significance in physics?
     subject: Physics
-    url: /learn/physics/questions/how-do-the-equations-of-motion-change-for-uniformly-accelerated-motion
+    url: /learn/physics/questions/how-is-density-defined-and-what-is-its-significance-in-physics
 ---
 
 &nbsp;

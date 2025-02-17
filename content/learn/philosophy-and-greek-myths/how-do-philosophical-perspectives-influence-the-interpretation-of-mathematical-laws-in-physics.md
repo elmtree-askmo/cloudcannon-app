@@ -24,11 +24,11 @@ file_name: how-do-philosophical-perspectives-influence-the-interpretation-of-mat
 url: /learn/philosophy-and-greek-myths/questions/how-do-philosophical-perspectives-influence-the-interpretation-of-mathematical-laws-in-physics
 score: -1.0
 related_article1:
-    id: 118203
+    id: 118220
     title: >-
-        How is mathematical language used in physics?
-    subject: Physics
-    url: /learn/physics/questions/how-is-mathematical-language-used-in-physics
+        How does the Euclidean method differ from other mathematical approaches in physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-euclidean-method-differ-from-other-mathematical-approaches-in-physics
 related_article2:
     id: 118211
     title: >-
@@ -36,23 +36,23 @@ related_article2:
     subject: Physics
     url: /learn/physics/questions/what-is-the-conservation-of-angular-momentum-and-its-mathematical-representation
 related_article3:
-    id: 118212
+    id: 118221
     title: >-
-        Can you explain Newton's Laws and their mathematical formulations?
+        What are some examples of fundamental principles in physics that rely on mathematics?
     subject: Physics
-    url: /learn/physics/questions/can-you-explain-newtons-laws-and-their-mathematical-formulations
+    url: /learn/physics/questions/what-are-some-examples-of-fundamental-principles-in-physics-that-rely-on-mathematics
 related_article4:
-    id: 118218
-    title: >-
-        How did ancient civilizations contribute to the development of mathematical concepts used in physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-concepts-used-in-physics
-related_article5:
     id: 118210
     title: >-
         How does the law of gravitation demonstrate the relationship between physics and mathematics?
     subject: Physics
     url: /learn/physics/questions/how-does-the-law-of-gravitation-demonstrate-the-relationship-between-physics-and-mathematics
+related_article5:
+    id: 118214
+    title: >-
+        How does the minimum principle apply to physics and mathematics?
+    subject: Physics
+    url: /learn/physics/questions/how-does-the-minimum-principle-apply-to-physics-and-mathematics
 ---
 
 &nbsp;

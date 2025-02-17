@@ -24,17 +24,17 @@ file_name: how-can-investors-contact-companies-for-assistance.md
 url: /learn/business-and-management/questions/how-can-investors-contact-companies-for-assistance
 score: -1.0
 related_article1:
-    id: 98609
-    title: >-
-        How is dividend distribution typically handled in companies?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/how-is-dividend-distribution-typically-handled-in-companies
-related_article2:
     id: 98613
     title: >-
         What are the benefits of high-interest returns for investors?
     subject: Economics
     url: /learn/economics/questions/what-are-the-benefits-of-highinterest-returns-for-investors
+related_article2:
+    id: 98619
+    title: >-
+        What is the process of share issuance in a company formation?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-is-the-process-of-share-issuance-in-a-company-formation
 related_article3:
     id: 98620
     title: >-
@@ -48,11 +48,11 @@ related_article4:
     subject: Accounting and Finance
     url: /learn/accounting-and-finance/questions/how-does-cash-credit-differ-from-other-types-of-loans
 related_article5:
-    id: 98612
+    id: 98621
     title: >-
-        How do fixed interest rates differ from variable interest rates?
+        What role do underwriters play in the formation of a company?
     subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/how-do-fixed-interest-rates-differ-from-variable-interest-rates
+    url: /learn/accounting-and-finance/questions/what-role-do-underwriters-play-in-the-formation-of-a-company
 ---
 
 &nbsp;

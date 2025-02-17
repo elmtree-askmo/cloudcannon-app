@@ -24,35 +24,23 @@ file_name: what-are-the-main-factors-influencing-group-dynamics.md
 url: /learn/sociology/questions/what-are-the-main-factors-influencing-group-dynamics
 score: -1.0
 related_article1:
-    id: 96831
+    id: 96826
     title: >-
-        How does distinctiveness contribute to the accuracy of causal attributions?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-distinctiveness-contribute-to-the-accuracy-of-causal-attributions
+        What are the implications of group attribution error in organizational settings?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-implications-of-group-attribution-error-in-organizational-settings
 related_article2:
-    id: 96832
-    title: >-
-        What are the challenges in distinguishing between external and internal attributions?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-challenges-in-distinguishing-between-external-and-internal-attributions
-related_article3:
     id: 96830
     title: >-
         What is the impact of consistency on social perception?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-impact-of-consistency-on-social-perception
-related_article4:
-    id: 96813
+related_article3:
+    id: 96821
     title: >-
-        How does consensus play a role in Kelly's Covariation Model?
+        How can understanding group dynamics improve team performance?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-consensus-play-a-role-in-kellys-covariation-model
-related_article5:
-    id: 96818
-    title: >-
-        What is the relationship between individual beliefs and group beliefs?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-relationship-between-individual-beliefs-and-group-beliefs
+    url: /learn/psychology/questions/how-can-understanding-group-dynamics-improve-team-performance
 ---
 
 &nbsp;

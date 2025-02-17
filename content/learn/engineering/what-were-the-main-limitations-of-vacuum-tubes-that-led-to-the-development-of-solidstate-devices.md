@@ -24,35 +24,35 @@ file_name: what-were-the-main-limitations-of-vacuum-tubes-that-led-to-the-develo
 url: /learn/engineering/questions/what-were-the-main-limitations-of-vacuum-tubes-that-led-to-the-development-of-solidstate-devices
 score: -1.0
 related_article1:
-    id: 116371
+    id: 116370
     title: >-
-        How does a diode function and what are its primary applications?
-    subject: Engineering
-    url: /learn/engineering/questions/how-does-a-diode-function-and-what-are-its-primary-applications
+        What is a p-n junction and why is it fundamental to semiconductor devices?
+    subject: Physics
+    url: /learn/physics/questions/what-is-a-pn-junction-and-why-is-it-fundamental-to-semiconductor-devices
 related_article2:
-    id: 116372
+    id: 116366
     title: >-
-        What are the advantages of using diodes in electronic circuits?
-    subject: Engineering
-    url: /learn/engineering/questions/what-are-the-advantages-of-using-diodes-in-electronic-circuits
+        How do energy bands in solids relate to the conductivity of materials?
+    subject: Physics
+    url: /learn/physics/questions/how-do-energy-bands-in-solids-relate-to-the-conductivity-of-materials
 related_article3:
-    id: 116359
+    id: 116381
     title: >-
-        How did the transition from vacuum tubes to solid-state devices impact the electronics industry?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-did-the-transition-from-vacuum-tubes-to-solidstate-devices-impact-the-electronics-industry
+        How do semiconductors enable the functionality of integrated circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-semiconductors-enable-the-functionality-of-integrated-circuits
 related_article4:
-    id: 116368
+    id: 116364
     title: >-
-        How do intrinsic semiconductors differ from extrinsic semiconductors?
-    subject: Physics
-    url: /learn/physics/questions/how-do-intrinsic-semiconductors-differ-from-extrinsic-semiconductors
+        How are semiconductors classified based on their conductivity?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-semiconductors-classified-based-on-their-conductivity
 related_article5:
-    id: 116379
+    id: 116383
     title: >-
-        How do temperature and impurities affect the conductivity of semiconductors?
-    subject: Physics
-    url: /learn/physics/questions/how-do-temperature-and-impurities-affect-the-conductivity-of-semiconductors
+        How do semiconductors contribute to the efficiency of electronic devices?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-semiconductors-contribute-to-the-efficiency-of-electronic-devices
 ---
 
 &nbsp;

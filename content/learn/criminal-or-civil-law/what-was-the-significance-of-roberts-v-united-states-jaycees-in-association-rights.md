@@ -24,29 +24,23 @@ file_name: what-was-the-significance-of-roberts-v-united-states-jaycees-in-assoc
 url: /learn/criminal-or-civil-law/questions/what-was-the-significance-of-roberts-v-united-states-jaycees-in-association-rights
 score: -1.0
 related_article1:
-    id: 121984
-    title: >-
-        How are traditional public forums defined and what are some examples?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-are-traditional-public-forums-defined-and-what-are-some-examples
-related_article2:
     id: 121983
     title: >-
         What are the general principles governing content-neutral restrictions?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-are-the-general-principles-governing-contentneutral-restrictions
+related_article2:
+    id: 121996
+    title: >-
+        How did Citizens United v. Federal Election Commission change the landscape of campaign finance?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-did-citizens-united-v-federal-election-commission-change-the-landscape-of-campaign-finance
 related_article3:
     id: 122006
     title: >-
         How do data protection laws relate to the right to be forgotten?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/how-do-data-protection-laws-relate-to-the-right-to-be-forgotten
-related_article4:
-    id: 121996
-    title: >-
-        How did Citizens United v. Federal Election Commission change the landscape of campaign finance?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-did-citizens-united-v-federal-election-commission-change-the-landscape-of-campaign-finance
 ---
 
 &nbsp;

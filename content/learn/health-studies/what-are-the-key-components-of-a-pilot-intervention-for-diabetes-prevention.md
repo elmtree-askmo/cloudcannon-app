@@ -24,29 +24,23 @@ file_name: what-are-the-key-components-of-a-pilot-intervention-for-diabetes-prev
 url: /learn/health-studies/questions/what-are-the-key-components-of-a-pilot-intervention-for-diabetes-prevention
 score: -1.0
 related_article1:
-    id: 116040
-    title: >-
-        What role does social support play in health interventions for diabetes prevention?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-role-does-social-support-play-in-health-interventions-for-diabetes-prevention
-related_article2:
-    id: 116045
-    title: >-
-        What challenges are associated with implementing culturally tailored health interventions?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-challenges-are-associated-with-implementing-culturally-tailored-health-interventions
-related_article3:
-    id: 116054
-    title: >-
-        What are the ethical considerations in conducting health studies with ethnic groups?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-ethical-considerations-in-conducting-health-studies-with-ethnic-groups
-related_article4:
     id: 116033
     title: >-
         What barriers to a healthy lifestyle are commonly identified in the South Asian community?
     subject: Health Studies
     url: /learn/health-studies/questions/what-barriers-to-a-healthy-lifestyle-are-commonly-identified-in-the-south-asian-community
+related_article2:
+    id: 116055
+    title: >-
+        How can researchers ensure cultural sensitivity in health intervention studies?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-can-researchers-ensure-cultural-sensitivity-in-health-intervention-studies
+related_article3:
+    id: 116030
+    title: >-
+        What methods are used in formative qualitative research for health studies?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-methods-are-used-in-formative-qualitative-research-for-health-studies
 ---
 
 &nbsp;

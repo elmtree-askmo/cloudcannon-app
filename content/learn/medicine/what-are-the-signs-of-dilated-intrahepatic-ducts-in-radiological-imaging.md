@@ -24,35 +24,29 @@ file_name: what-are-the-signs-of-dilated-intrahepatic-ducts-in-radiological-imag
 url: /learn/medicine/questions/what-are-the-signs-of-dilated-intrahepatic-ducts-in-radiological-imaging
 score: -1.0
 related_article1:
-    id: 118174
+    id: 118195
     title: >-
-        How are gallstones detected using abdominal X-rays?
+        How do imaging modalities contribute to the management and treatment planning of habitability diseases?
     subject: Medicine
-    url: /learn/medicine/questions/how-are-gallstones-detected-using-abdominal-xrays
+    url: /learn/medicine/questions/how-do-imaging-modalities-contribute-to-the-management-and-treatment-planning-of-habitability-diseases
 related_article2:
-    id: 118193
+    id: 118172
     title: >-
-        How do imaging findings correlate with clinical symptoms in habitability diseases?
+        What are the primary roles and limitations of abdominal X-rays in habitability diseases?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-imaging-findings-correlate-with-clinical-symptoms-in-habitability-diseases
+    url: /learn/medicine/questions/what-are-the-primary-roles-and-limitations-of-abdominal-xrays-in-habitability-diseases
 related_article3:
-    id: 118184
+    id: 118191
     title: >-
-        What are the radiological features of pancreatic head mass and chronic pancreatitis?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-radiological-features-of-pancreatic-head-mass-and-chronic-pancreatitis
+        How do imaging modalities differ in their application to habitability systems compared to other medical fields?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-imaging-modalities-differ-in-their-application-to-habitability-systems-compared-to-other-medical-fields
 related_article4:
-    id: 118176
+    id: 118181
     title: >-
-        How are pancreatic calcifications visualized on an abdominal X-ray?
+        What are the radiological features of common habitability disorders affecting the gallbladder and biliary tree?
     subject: Medicine
-    url: /learn/medicine/questions/how-are-pancreatic-calcifications-visualized-on-an-abdominal-xray
-related_article5:
-    id: 118175
-    title: >-
-        What is pneumobilia and how is it identified on an abdominal X-ray?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-pneumobilia-and-how-is-it-identified-on-an-abdominal-xray
+    url: /learn/medicine/questions/what-are-the-radiological-features-of-common-habitability-disorders-affecting-the-gallbladder-and-biliary-tree
 ---
 
 &nbsp;

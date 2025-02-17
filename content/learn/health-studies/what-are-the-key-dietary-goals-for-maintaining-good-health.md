@@ -24,17 +24,17 @@ file_name: what-are-the-key-dietary-goals-for-maintaining-good-health.md
 url: /learn/health-studies/questions/what-are-the-key-dietary-goals-for-maintaining-good-health
 score: -1.0
 related_article1:
-    id: 119054
+    id: 119050
     title: >-
-        How does the heart function within the circulatory system?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-the-heart-function-within-the-circulatory-system
-related_article2:
-    id: 119046
-    title: >-
-        What are the primary functions of carbohydrates in the body?
+        How does physical fitness contribute to overall well-being?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-functions-of-carbohydrates-in-the-body
+    url: /learn/health-studies/questions/how-does-physical-fitness-contribute-to-overall-wellbeing
+related_article2:
+    id: 119038
+    title: >-
+        How can players improve their free throw shooting accuracy?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-players-improve-their-free-throw-shooting-accuracy
 related_article3:
     id: 119041
     title: >-
@@ -42,17 +42,11 @@ related_article3:
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-player-rotation-work-in-volleyball
 related_article4:
-    id: 119051
+    id: 119056
     title: >-
-        What are the major components of the muscular system?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-major-components-of-the-muscular-system
-related_article5:
-    id: 119038
-    title: >-
-        How can players improve their free throw shooting accuracy?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-players-improve-their-free-throw-shooting-accuracy
+        What constitutes good player conduct in sports?
+    subject: Psychology
+    url: /learn/psychology/questions/what-constitutes-good-player-conduct-in-sports
 ---
 
 &nbsp;

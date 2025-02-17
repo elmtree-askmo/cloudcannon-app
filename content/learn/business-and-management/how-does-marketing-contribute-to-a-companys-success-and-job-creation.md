@@ -24,17 +24,17 @@ file_name: how-does-marketing-contribute-to-a-companys-success-and-job-creation.
 url: /learn/business-and-management/questions/how-does-marketing-contribute-to-a-companys-success-and-job-creation
 score: -1.0
 related_article1:
-    id: 119528
+    id: 119521
     title: >-
-        How is market share calculated and why is it important?
+        What are the different demand states in demand management?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-is-market-share-calculated-and-why-is-it-important
+    url: /learn/business-and-management/questions/what-are-the-different-demand-states-in-demand-management
 related_article2:
-    id: 119511
+    id: 119516
     title: >-
-        How do goods differ from services in marketing?
+        What is the significance of marketing information and ideas?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-do-goods-differ-from-services-in-marketing
+    url: /learn/business-and-management/questions/what-is-the-significance-of-marketing-information-and-ideas
 related_article3:
     id: 119525
     title: >-
@@ -42,17 +42,11 @@ related_article3:
     subject: Business and Management
     url: /learn/business-and-management/questions/what-constitutes-a-simple-marketing-system
 related_article4:
-    id: 119531
+    id: 119520
     title: >-
-        How do ethical considerations impact marketing strategies?
+        How do supply and demand interact in marketing?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-do-ethical-considerations-impact-marketing-strategies
-related_article5:
-    id: 119522
-    title: >-
-        What are the basic concepts of a market in marketing?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-basic-concepts-of-a-market-in-marketing
+    url: /learn/business-and-management/questions/how-do-supply-and-demand-interact-in-marketing
 ---
 
 &nbsp;

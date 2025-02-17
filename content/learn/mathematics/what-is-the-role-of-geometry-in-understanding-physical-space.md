@@ -24,29 +24,35 @@ file_name: what-is-the-role-of-geometry-in-understanding-physical-space.md
 url: /learn/mathematics/questions/what-is-the-role-of-geometry-in-understanding-physical-space
 score: -1.0
 related_article1:
-    id: 119480
+    id: 119481
     title: >-
-        How did the Babylonian method influence the development of physics?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-babylonian-method-influence-the-development-of-physics
+        What is the Euclidean method and its role in physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-euclidean-method-and-its-role-in-physics
 related_article2:
-    id: 119492
+    id: 119501
     title: >-
-        How do physicists use mathematical equations to describe the universe?
-    subject: Physics
-    url: /learn/physics/questions/how-do-physicists-use-mathematical-equations-to-describe-the-universe
+        What are some modern advancements in mathematical physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-modern-advancements-in-mathematical-physics
 related_article3:
+    id: 119487
+    title: >-
+        What are the philosophical implications of the relationship between physics and mathematics?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
+related_article4:
+    id: 119479
+    title: >-
+        What are fundamental principles and consequential statements in physics?
+    subject: Physics
+    url: /learn/physics/questions/what-are-fundamental-principles-and-consequential-statements-in-physics
+related_article5:
     id: 119473
     title: >-
         What is Faraday's Law and how does it relate to mathematics?
     subject: Physics
     url: /learn/physics/questions/what-is-faradays-law-and-how-does-it-relate-to-mathematics
-related_article4:
-    id: 119486
-    title: >-
-        How does the minimum principle apply to physics and mathematics?
-    subject: Physics
-    url: /learn/physics/questions/how-does-the-minimum-principle-apply-to-physics-and-mathematics
 ---
 
 &nbsp;

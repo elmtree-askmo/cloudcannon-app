@@ -24,17 +24,17 @@ file_name: what-factors-affect-ionization-energies-of-elements.md
 url: /learn/chemistry/questions/what-factors-affect-ionization-energies-of-elements
 score: -1.0
 related_article1:
-    id: 117909
+    id: 117922
     title: >-
-        How are Lewis structures used to represent molecules?
+        How is concentration calculated in solutions?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-are-lewis-structures-used-to-represent-molecules
+    url: /learn/chemistry/questions/how-is-concentration-calculated-in-solutions
 related_article2:
-    id: 117900
+    id: 117917
     title: >-
-        What is the basic principle of thermochemistry?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-basic-principle-of-thermochemistry
+        What is the relationship between volume and temperature in gases?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-relationship-between-volume-and-temperature-in-gases
 related_article3:
     id: 117916
     title: >-
@@ -42,11 +42,11 @@ related_article3:
     subject: Physics
     url: /learn/physics/questions/how-is-gas-pressure-calculated-in-different-conditions
 related_article4:
-    id: 117921
+    id: 117923
     title: >-
-        What are lattice systems and unit cells in solids?
-    subject: Physics
-    url: /learn/physics/questions/what-are-lattice-systems-and-unit-cells-in-solids
+        What factors affect solubility predictions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-factors-affect-solubility-predictions
 ---
 
 &nbsp;

@@ -24,23 +24,23 @@ file_name: how-are-experiences-marketed-differently-from-goods-and-services.md
 url: /learn/business-and-management/questions/how-are-experiences-marketed-differently-from-goods-and-services
 score: -1.0
 related_article1:
-    id: 119508
+    id: 119511
     title: >-
-        How does marketing add value by catering to customers' needs?
+        How do goods differ from services in marketing?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-does-marketing-add-value-by-catering-to-customers-needs
+    url: /learn/business-and-management/questions/how-do-goods-differ-from-services-in-marketing
 related_article2:
-    id: 119512
+    id: 119524
     title: >-
-        What role do events play in marketing strategies?
+        What are specific markets and how are they identified?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-role-do-events-play-in-marketing-strategies
+    url: /learn/business-and-management/questions/what-are-specific-markets-and-how-are-they-identified
 related_article3:
-    id: 119506
+    id: 119507
     title: >-
-        Do marketers create artificial needs, and if so, how?
+        Why might wants be considered elusive in marketing?
     subject: Business and Management
-    url: /learn/business-and-management/questions/do-marketers-create-artificial-needs-and-if-so-how
+    url: /learn/business-and-management/questions/why-might-wants-be-considered-elusive-in-marketing
 related_article4:
     id: 119529
     title: >-
@@ -48,11 +48,11 @@ related_article4:
     subject: Business and Management
     url: /learn/business-and-management/questions/what-is-the-ansoff-matrix-and-how-is-it-used-in-market-penetration-analysis
 related_article5:
-    id: 119511
+    id: 119512
     title: >-
-        How do goods differ from services in marketing?
+        What role do events play in marketing strategies?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-do-goods-differ-from-services-in-marketing
+    url: /learn/business-and-management/questions/what-role-do-events-play-in-marketing-strategies
 ---
 
 &nbsp;

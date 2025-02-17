@@ -24,35 +24,35 @@ file_name: what-are-the-main-interpersonal-topics-studied-in-social-psychology.m
 url: /learn/psychology/questions/what-are-the-main-interpersonal-topics-studied-in-social-psychology
 score: -1.0
 related_article1:
-    id: 111849
+    id: 111861
     title: >-
-        What is situationism in the context of social psychology?
+        What is cognitive dissonance and how does it affect decision-making?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-situationism-in-the-context-of-social-psychology
+    url: /learn/psychology/questions/what-is-cognitive-dissonance-and-how-does-it-affect-decisionmaking
 related_article2:
-    id: 111864
-    title: >-
-        What is the elaboration likelihood model in the context of persuasion?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-elaboration-likelihood-model-in-the-context-of-persuasion
-related_article3:
-    id: 111866
-    title: >-
-        What were Solomon Asch's contributions to the study of conformity?
-    subject: Psychology
-    url: /learn/psychology/questions/what-were-solomon-aschs-contributions-to-the-study-of-conformity
-related_article4:
     id: 111856
     title: >-
         What is the just world hypothesis and how does it influence behavior?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-just-world-hypothesis-and-how-does-it-influence-behavior
-related_article5:
-    id: 111869
+related_article3:
+    id: 111849
     title: >-
-        What is groupthink and how does it affect decision-making in groups?
+        What is situationism in the context of social psychology?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-groupthink-and-how-does-it-affect-decisionmaking-in-groups
+    url: /learn/psychology/questions/what-is-situationism-in-the-context-of-social-psychology
+related_article4:
+    id: 111847
+    title: >-
+        How do situational influences affect human behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-situational-influences-affect-human-behavior
+related_article5:
+    id: 111864
+    title: >-
+        What is the elaboration likelihood model in the context of persuasion?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-elaboration-likelihood-model-in-the-context-of-persuasion
 ---
 
 &nbsp;

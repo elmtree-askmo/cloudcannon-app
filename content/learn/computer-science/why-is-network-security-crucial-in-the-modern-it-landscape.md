@@ -24,29 +24,29 @@ file_name: why-is-network-security-crucial-in-the-modern-it-landscape.md
 url: /learn/computer-science/questions/why-is-network-security-crucial-in-the-modern-it-landscape
 score: -1.0
 related_article1:
-    id: 123107
+    id: 123121
     title: >-
-        How does ransomware affect businesses and individuals?
+        Why is password management critical for network security?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-ransomware-affect-businesses-and-individuals
+    url: /learn/computer-science/questions/why-is-password-management-critical-for-network-security
 related_article2:
-    id: 123108
+    id: 123118
     title: >-
-        What are some examples of internal threats in network security?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-examples-of-internal-threats-in-network-security
+        What are the most effective strategies for preventing phishing attacks?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-are-the-most-effective-strategies-for-preventing-phishing-attacks
 related_article3:
-    id: 123119
+    id: 123126
     title: >-
-        How can controlled access improve network security?
+        What are the advantages and disadvantages of two-factor authentication?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-controlled-access-improve-network-security
+    url: /learn/computer-science/questions/what-are-the-advantages-and-disadvantages-of-twofactor-authentication
 related_article4:
-    id: 123109
+    id: 123104
     title: >-
-        How does social engineering exploit human psychology in network security breaches?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-social-engineering-exploit-human-psychology-in-network-security-breaches
+        What are the most common types of network security threats today?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-most-common-types-of-network-security-threats-today
 related_article5:
     id: 123115
     title: >-

@@ -24,23 +24,23 @@ file_name: how-does-radiolucide-imaging-work-for-pancreatic-assessment.md
 url: /learn/medicine/questions/how-does-radiolucide-imaging-work-for-pancreatic-assessment
 score: -1.0
 related_article1:
-    id: 118075
+    id: 118051
     title: >-
-        What imaging techniques are used for intervention and sampling in biliary and pancreatic conditions?
+        How does MRCP enhance the imaging of the biliary tree compared to standard MRI?
     subject: Medicine
-    url: /learn/medicine/questions/what-imaging-techniques-are-used-for-intervention-and-sampling-in-biliary-and-pancreatic-conditions
+    url: /learn/medicine/questions/how-does-mrcp-enhance-the-imaging-of-the-biliary-tree-compared-to-standard-mri
 related_article2:
-    id: 118079
+    id: 118078
     title: >-
-        What are the cost considerations for different imaging techniques in biliary and pancreatic assessment?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-cost-considerations-for-different-imaging-techniques-in-biliary-and-pancreatic-assessment
-related_article3:
-    id: 118063
-    title: >-
-        How is gallbladder cancer typically identified through imaging?
+        How do patient factors influence the choice of imaging modality for biliary and pancreatic conditions?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-gallbladder-cancer-typically-identified-through-imaging
+    url: /learn/medicine/questions/how-do-patient-factors-influence-the-choice-of-imaging-modality-for-biliary-and-pancreatic-conditions
+related_article3:
+    id: 118066
+    title: >-
+        What are the imaging features of cystic neoplasms in the pancreas?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-imaging-features-of-cystic-neoplasms-in-the-pancreas
 related_article4:
     id: 118055
     title: >-
@@ -48,11 +48,11 @@ related_article4:
     subject: Medicine
     url: /learn/medicine/questions/how-does-ct-imaging-of-the-pancreas-differ-from-mri
 related_article5:
-    id: 118057
+    id: 118053
     title: >-
-        What is the role of EUS in pancreatic imaging?
+        Can you explain the role of ERCP in diagnosing biliary conditions?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-the-role-of-eus-in-pancreatic-imaging
+    url: /learn/medicine/questions/can-you-explain-the-role-of-ercp-in-diagnosing-biliary-conditions
 ---
 
 &nbsp;

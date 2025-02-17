@@ -24,23 +24,23 @@ file_name: how-does-multiplying-decimals-differ-from-multiplying-whole-numbers.m
 url: /learn/mathematics/questions/how-does-multiplying-decimals-differ-from-multiplying-whole-numbers
 score: -1.0
 related_article1:
-    id: 111534
+    id: 111530
     title: >-
-        How can technology be used to assist in learning decimal multiplication?
+        What are some tips for teaching students to multiply decimals?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-technology-be-used-to-assist-in-learning-decimal-multiplication
+    url: /learn/education-studies/questions/what-are-some-tips-for-teaching-students-to-multiply-decimals
 related_article2:
-    id: 111527
-    title: >-
-        What are some effective practice activities for learning to multiply decimals?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-effective-practice-activities-for-learning-to-multiply-decimals
-related_article3:
     id: 111525
     title: >-
         Could you give an example of multiplying two decimal numbers?
     subject: Mathematics
     url: /learn/mathematics/questions/could-you-give-an-example-of-multiplying-two-decimal-numbers
+related_article3:
+    id: 111527
+    title: >-
+        What are some effective practice activities for learning to multiply decimals?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-effective-practice-activities-for-learning-to-multiply-decimals
 ---
 
 &nbsp;

@@ -24,23 +24,23 @@ file_name: can-you-explain-the-man-wolf-goat-and-cabbage-problem-as-an-example-o
 url: /learn/computer-science/questions/can-you-explain-the-man-wolf-goat-and-cabbage-problem-as-an-example-of-a-finite-state-machine
 score: -1.0
 related_article1:
+    id: 98922
+    title: >-
+        Can you explain the concept of the power of sigma in Automata Theory?
+    subject: Computer Science
+    url: /learn/computer-science/questions/can-you-explain-the-concept-of-the-power-of-sigma-in-automata-theory
+related_article2:
+    id: 98914
+    title: >-
+        What is a Finite State Machine and how does it function?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-a-finite-state-machine-and-how-does-it-function
+related_article3:
     id: 98925
     title: >-
         How is Automata Theory applied in the development of compilers?
     subject: Computer Science
     url: /learn/computer-science/questions/how-is-automata-theory-applied-in-the-development-of-compilers
-related_article2:
-    id: 98928
-    title: >-
-        What is a transition table and what purpose does it serve in Automata Theory?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-a-transition-table-and-what-purpose-does-it-serve-in-automata-theory
-related_article3:
-    id: 98932
-    title: >-
-        How can Automata be used to solve problems by designing DFA for specific languages?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-automata-be-used-to-solve-problems-by-designing-dfa-for-specific-languages
 ---
 
 &nbsp;

@@ -24,29 +24,35 @@ file_name: how-do-wildfires-pose-risks-to-source-water.md
 url: /learn/health-studies/questions/how-do-wildfires-pose-risks-to-source-water
 score: -1.0
 related_article1:
+    id: 94636
+    title: >-
+        What are the primary flooding risks to source water and communities?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-primary-flooding-risks-to-source-water-and-communities
+related_article2:
     id: 94644
     title: >-
         Why is collaboration among stakeholders important for source water protection?
     subject: Health Studies
     url: /learn/health-studies/questions/why-is-collaboration-among-stakeholders-important-for-source-water-protection
-related_article2:
-    id: 94643
-    title: >-
-        What are the main challenges in maintaining water quality and how can they be addressed?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-challenges-in-maintaining-water-quality-and-how-can-they-be-addressed
 related_article3:
-    id: 94645
-    title: >-
-        Who are the key stakeholders in source water protection and what are their roles?
-    subject: Health Studies
-    url: /learn/health-studies/questions/who-are-the-key-stakeholders-in-source-water-protection-and-what-are-their-roles
-related_article4:
     id: 94637
     title: >-
         How does flooding impact community infrastructure and source water?
     subject: Sociology
     url: /learn/sociology/questions/how-does-flooding-impact-community-infrastructure-and-source-water
+related_article4:
+    id: 94643
+    title: >-
+        What are the main challenges in maintaining water quality and how can they be addressed?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-main-challenges-in-maintaining-water-quality-and-how-can-they-be-addressed
+related_article5:
+    id: 94640
+    title: >-
+        What roles do stakeholders play in protecting source water?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-roles-do-stakeholders-play-in-protecting-source-water
 ---
 
 &nbsp;

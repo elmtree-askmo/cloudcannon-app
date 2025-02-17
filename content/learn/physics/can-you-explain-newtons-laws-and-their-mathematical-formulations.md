@@ -24,35 +24,35 @@ file_name: can-you-explain-newtons-laws-and-their-mathematical-formulations.md
 url: /learn/physics/questions/can-you-explain-newtons-laws-and-their-mathematical-formulations
 score: -1.0
 related_article1:
-    id: 124213
+    id: 124209
     title: >-
-        What is the significance of force and equal areas in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-significance-of-force-and-equal-areas-in-physics
-related_article2:
-    id: 124234
-    title: >-
-        What are some modern advancements in mathematical notation that have impacted physics?
+        How does mathematics help us understand natural phenomena?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-modern-advancements-in-mathematical-notation-that-have-impacted-physics
-related_article3:
-    id: 124238
-    title: >-
-        What are some philosophical questions raised by the interplay of physics and mathematics?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-some-philosophical-questions-raised-by-the-interplay-of-physics-and-mathematics
-related_article4:
+    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
+related_article2:
     id: 124226
     title: >-
         What role does calculus play in understanding physical laws?
     subject: Physics
     url: /learn/physics/questions/what-role-does-calculus-play-in-understanding-physical-laws
-related_article5:
-    id: 124216
+related_article3:
+    id: 124217
     title: >-
-        What are fundamental principles and consequential statements in physics?
+        How did the Babylonian method influence the development of physics?
     subject: Physics
-    url: /learn/physics/questions/what-are-fundamental-principles-and-consequential-statements-in-physics
+    url: /learn/physics/questions/how-did-the-babylonian-method-influence-the-development-of-physics
+related_article4:
+    id: 124225
+    title: >-
+        How do mathematical models help in predicting physical phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
+related_article5:
+    id: 124220
+    title: >-
+        What is the conservation of angular momentum and its mathematical representation?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-conservation-of-angular-momentum-and-its-mathematical-representation
 ---
 
 &nbsp;

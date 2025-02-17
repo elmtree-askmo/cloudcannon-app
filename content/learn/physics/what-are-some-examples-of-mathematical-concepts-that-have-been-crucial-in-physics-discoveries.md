@@ -24,35 +24,35 @@ file_name: what-are-some-examples-of-mathematical-concepts-that-have-been-crucia
 url: /learn/physics/questions/what-are-some-examples-of-mathematical-concepts-that-have-been-crucial-in-physics-discoveries
 score: -1.0
 related_article1:
-    id: 98965
+    id: 98947
     title: >-
-        How do modern physicists use mathematical tools to solve complex problems?
-    subject: Physics
-    url: /learn/physics/questions/how-do-modern-physicists-use-mathematical-tools-to-solve-complex-problems
+        What contributions did Babylonian and Greek traditions make to mathematics and physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-contributions-did-babylonian-and-greek-traditions-make-to-mathematics-and-physics
 related_article2:
-    id: 98944
+    id: 98966
     title: >-
-        How is mathematical language used in physics?
-    subject: Physics
-    url: /learn/physics/questions/how-is-mathematical-language-used-in-physics
+        What are some challenges in translating physical concepts into mathematical language?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-challenges-in-translating-physical-concepts-into-mathematical-language
 related_article3:
-    id: 98953
+    id: 98948
     title: >-
-        Can you explain Newton's Laws and their mathematical formulations?
+        What are fundamental principles and consequential statements in physics?
     subject: Physics
-    url: /learn/physics/questions/can-you-explain-newtons-laws-and-their-mathematical-formulations
+    url: /learn/physics/questions/what-are-fundamental-principles-and-consequential-statements-in-physics
 related_article4:
+    id: 98967
+    title: >-
+        How does the concept of force relate to mathematical equations in physics?
+    subject: Physics
+    url: /learn/physics/questions/how-does-the-concept-of-force-relate-to-mathematical-equations-in-physics
+related_article5:
     id: 98958
     title: >-
         What role does calculus play in understanding physical laws?
     subject: Physics
     url: /learn/physics/questions/what-role-does-calculus-play-in-understanding-physical-laws
-related_article5:
-    id: 98959
-    title: >-
-        How did ancient civilizations contribute to the development of mathematical concepts used in physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-concepts-used-in-physics
 ---
 
 &nbsp;

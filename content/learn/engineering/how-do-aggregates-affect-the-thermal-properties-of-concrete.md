@@ -24,35 +24,35 @@ file_name: how-do-aggregates-affect-the-thermal-properties-of-concrete.md
 url: /learn/engineering/questions/how-do-aggregates-affect-the-thermal-properties-of-concrete
 score: -1.0
 related_article1:
-    id: 120418
+    id: 120415
     title: >-
-        What are the standard testing methods for assessing the granulometry of aggregates?
+        What are the common methods for field sampling of aggregates?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-standard-testing-methods-for-assessing-the-granulometry-of-aggregates
+    url: /learn/engineering/questions/what-are-the-common-methods-for-field-sampling-of-aggregates
 related_article2:
-    id: 120416
+    id: 120409
     title: >-
-        How is laboratory testing of aggregates conducted and what parameters are typically assessed?
+        How are aggregates classified based on particle size?
     subject: Engineering
-    url: /learn/engineering/questions/how-is-laboratory-testing-of-aggregates-conducted-and-what-parameters-are-typically-assessed
+    url: /learn/engineering/questions/how-are-aggregates-classified-based-on-particle-size
 related_article3:
-    id: 120410
+    id: 120424
     title: >-
-        What is the significance of specific gravity in the classification of aggregates?
+        What are the potential environmental impacts of using different types of aggregates?
     subject: Engineering
-    url: /learn/engineering/questions/what-is-the-significance-of-specific-gravity-in-the-classification-of-aggregates
+    url: /learn/engineering/questions/what-are-the-potential-environmental-impacts-of-using-different-types-of-aggregates
 related_article4:
-    id: 120423
+    id: 120417
     title: >-
-        How does the granulometry of aggregates influence the workability of concrete?
+        Why is particle size distribution important in the context of aggregates?
     subject: Engineering
-    url: /learn/engineering/questions/how-does-the-granulometry-of-aggregates-influence-the-workability-of-concrete
+    url: /learn/engineering/questions/why-is-particle-size-distribution-important-in-the-context-of-aggregates
 related_article5:
-    id: 120429
+    id: 120426
     title: >-
-        How can the selection of aggregates impact the overall cost of a construction project?
+        What are the latest advancements in testing methods for aggregates?
     subject: Engineering
-    url: /learn/engineering/questions/how-can-the-selection-of-aggregates-impact-the-overall-cost-of-a-construction-project
+    url: /learn/engineering/questions/what-are-the-latest-advancements-in-testing-methods-for-aggregates
 ---
 
 &nbsp;

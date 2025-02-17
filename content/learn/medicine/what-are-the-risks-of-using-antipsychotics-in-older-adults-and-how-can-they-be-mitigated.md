@@ -24,35 +24,35 @@ file_name: what-are-the-risks-of-using-antipsychotics-in-older-adults-and-how-ca
 url: /learn/medicine/questions/what-are-the-risks-of-using-antipsychotics-in-older-adults-and-how-can-they-be-mitigated
 score: -1.0
 related_article1:
-    id: 104594
+    id: 104595
     title: >-
-        What is Acute Dystonia and how is it managed in patients taking antipsychotics?
+        How does Akathisia manifest in patients and what are the treatment options?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-acute-dystonia-and-how-is-it-managed-in-patients-taking-antipsychotics
+    url: /learn/medicine/questions/how-does-akathisia-manifest-in-patients-and-what-are-the-treatment-options
 related_article2:
-    id: 104598
-    title: >-
-        What special considerations should be taken into account when prescribing antipsychotics to older adults?
-    subject: Medicine
-    url: /learn/medicine/questions/what-special-considerations-should-be-taken-into-account-when-prescribing-antipsychotics-to-older-adults
-related_article3:
     id: 104605
     title: >-
         How do Tricyclic Antidepressants (TCA) function in treating depression?
     subject: Medicine
     url: /learn/medicine/questions/how-do-tricyclic-antidepressants-tca-function-in-treating-depression
+related_article3:
+    id: 104610
+    title: >-
+        What role does lithium play as a mood stabilizer and what are its side effects?
+    subject: Medicine
+    url: /learn/medicine/questions/what-role-does-lithium-play-as-a-mood-stabilizer-and-what-are-its-side-effects
 related_article4:
-    id: 104611
+    id: 104590
     title: >-
-        What are common drug interactions associated with antidepressants and mood stabilizers?
+        What are the most common side effects associated with antipsychotics?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-common-drug-interactions-associated-with-antidepressants-and-mood-stabilizers
+    url: /learn/medicine/questions/what-are-the-most-common-side-effects-associated-with-antipsychotics
 related_article5:
-    id: 104608
+    id: 104617
     title: >-
-        What are atypical antidepressants and in what situations are they typically prescribed?
+        What are the latest advancements in the development of antipsychotics and anxiolytics?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-atypical-antidepressants-and-in-what-situations-are-they-typically-prescribed
+    url: /learn/medicine/questions/what-are-the-latest-advancements-in-the-development-of-antipsychotics-and-anxiolytics
 ---
 
 &nbsp;

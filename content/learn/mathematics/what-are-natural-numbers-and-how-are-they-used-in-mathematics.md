@@ -24,24 +24,12 @@ file_name: what-are-natural-numbers-and-how-are-they-used-in-mathematics.md
 url: /learn/mathematics/questions/what-are-natural-numbers-and-how-are-they-used-in-mathematics
 score: -1.0
 related_article1:
-    id: 119739
+    id: 119758
     title: >-
-        What is the order of operations and why is it important?
+        How are imaginary numbers used in practical scenarios?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-order-of-operations-and-why-is-it-important
+    url: /learn/mathematics/questions/how-are-imaginary-numbers-used-in-practical-scenarios
 related_article2:
-    id: 119752
-    title: >-
-        How do mathematical concepts apply to professional fields?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-mathematical-concepts-apply-to-professional-fields
-related_article3:
-    id: 119722
-    title: >-
-        What are rational numbers and how are they represented?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-rational-numbers-and-how-are-they-represented
-related_article4:
     id: 119715
     title: >-
         How are real numbers defined and what are their properties?

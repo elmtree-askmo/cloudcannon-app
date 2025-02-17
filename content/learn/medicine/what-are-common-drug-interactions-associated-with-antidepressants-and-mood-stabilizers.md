@@ -24,35 +24,29 @@ file_name: what-are-common-drug-interactions-associated-with-antidepressants-and
 url: /learn/medicine/questions/what-are-common-drug-interactions-associated-with-antidepressants-and-mood-stabilizers
 score: -1.0
 related_article1:
-    id: 104591
+    id: 104605
     title: >-
-        How do phenothiazines differ from nonphenothiazines in terms of chemical structure and effects?
+        How do Tricyclic Antidepressants (TCA) function in treating depression?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-phenothiazines-differ-from-nonphenothiazines-in-terms-of-chemical-structure-and-effects
+    url: /learn/medicine/questions/how-do-tricyclic-antidepressants-tca-function-in-treating-depression
 related_article2:
-    id: 104614
+    id: 104603
     title: >-
-        How do antipsychotics interact with other medications commonly prescribed to older adults?
+        What are some examples of miscellaneous anxiolytics and their uses?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-antipsychotics-interact-with-other-medications-commonly-prescribed-to-older-adults
+    url: /learn/medicine/questions/what-are-some-examples-of-miscellaneous-anxiolytics-and-their-uses
 related_article3:
-    id: 104595
+    id: 104598
     title: >-
-        How does Akathisia manifest in patients and what are the treatment options?
+        What special considerations should be taken into account when prescribing antipsychotics to older adults?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-akathisia-manifest-in-patients-and-what-are-the-treatment-options
+    url: /learn/medicine/questions/what-special-considerations-should-be-taken-into-account-when-prescribing-antipsychotics-to-older-adults
 related_article4:
-    id: 104601
+    id: 104590
     title: >-
-        What are the potential effects of benzodiazepine overdose and how is it treated?
+        What are the most common side effects associated with antipsychotics?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-potential-effects-of-benzodiazepine-overdose-and-how-is-it-treated
-related_article5:
-    id: 104588
-    title: >-
-        What are the main differences between typical and atypical antipsychotics?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-main-differences-between-typical-and-atypical-antipsychotics
+    url: /learn/medicine/questions/what-are-the-most-common-side-effects-associated-with-antipsychotics
 ---
 
 &nbsp;

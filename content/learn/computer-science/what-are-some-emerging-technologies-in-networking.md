@@ -24,23 +24,23 @@ file_name: what-are-some-emerging-technologies-in-networking.md
 url: /learn/computer-science/questions/what-are-some-emerging-technologies-in-networking
 score: -1.0
 related_article1:
-    id: 116145
+    id: 116138
     title: >-
-        How does Linux contribute to the development of new networking technologies?
+        What are the advantages of using Linux for server configuration?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-linux-contribute-to-the-development-of-new-networking-technologies
+    url: /learn/computer-science/questions/what-are-the-advantages-of-using-linux-for-server-configuration
 related_article2:
-    id: 116122
+    id: 116126
     title: >-
-        What are the most commonly used command line networking tools in Linux?
+        How do HTTP and HTTPS protocols ensure secure communication?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-most-commonly-used-command-line-networking-tools-in-linux
+    url: /learn/computer-science/questions/how-do-http-and-https-protocols-ensure-secure-communication
 related_article3:
-    id: 116144
+    id: 116118
     title: >-
-        What are the latest trends in firewall technology for Linux?
+        What are the fundamental concepts of basic networking?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-latest-trends-in-firewall-technology-for-linux
+    url: /learn/computer-science/questions/what-are-the-fundamental-concepts-of-basic-networking
 related_article4:
     id: 116143
     title: >-

@@ -24,35 +24,29 @@ file_name: how-is-doppler-ultrasound-used-in-liver-assessment-specifically-for-t
 url: /learn/medicine/questions/how-is-doppler-ultrasound-used-in-liver-assessment-specifically-for-the-portal-vein
 score: -1.0
 related_article1:
-    id: 118178
+    id: 118186
     title: >-
-        How is ultrasound used in the assessment of liver conditions like cirrhosis and steatosis?
-    subject: Medicine
-    url: /learn/medicine/questions/how-is-ultrasound-used-in-the-assessment-of-liver-conditions-like-cirrhosis-and-steatosis
+        What information can be obtained from hepatic vein Doppler ultrasound?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-information-can-be-obtained-from-hepatic-vein-doppler-ultrasound
 related_article2:
+    id: 118177
+    title: >-
+        What are the advantages and disadvantages of using ultrasound in habitability disorders?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-advantages-and-disadvantages-of-using-ultrasound-in-habitability-disorders
+related_article3:
     id: 118189
     title: >-
         How do rib cage and gas interference affect ultrasound imaging?
     subject: Medicine
     url: /learn/medicine/questions/how-do-rib-cage-and-gas-interference-affect-ultrasound-imaging
-related_article3:
-    id: 118199
-    title: >-
-        How do imaging modalities impact the prognosis of patients with habitability disorders?
-    subject: Medicine
-    url: /learn/medicine/questions/how-do-imaging-modalities-impact-the-prognosis-of-patients-with-habitability-disorders
 related_article4:
-    id: 118171
+    id: 118172
     title: >-
-        How does an abdominal X-ray work in diagnosing habitability diseases?
+        What are the primary roles and limitations of abdominal X-rays in habitability diseases?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-an-abdominal-xray-work-in-diagnosing-habitability-diseases
-related_article5:
-    id: 118170
-    title: >-
-        What are the most common imaging techniques used in habitability systems?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-most-common-imaging-techniques-used-in-habitability-systems
+    url: /learn/medicine/questions/what-are-the-primary-roles-and-limitations-of-abdominal-xrays-in-habitability-diseases
 ---
 
 &nbsp;

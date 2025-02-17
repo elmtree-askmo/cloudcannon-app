@@ -24,23 +24,35 @@ file_name: what-were-john-dominis-holts-perspectives-on-hawaiian-culture-and-ide
 url: /learn/sociology/questions/what-were-john-dominis-holts-perspectives-on-hawaiian-culture-and-identity
 score: -1.0
 related_article1:
-    id: 104637
+    id: 104626
     title: >-
-        How do social and health issues impact Native Hawaiian communities today?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-social-and-health-issues-impact-native-hawaiian-communities-today
+        How does language influence identity among Native Hawaiians?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-language-influence-identity-among-native-hawaiians
 related_article2:
-    id: 104638
+    id: 104621
     title: >-
-        What are the ongoing struggles faced by Native Hawaiians in preserving their culture?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-ongoing-struggles-faced-by-native-hawaiians-in-preserving-their-culture
+        What is the history and significance of the Hawaiian sovereignty movement?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-is-the-history-and-significance-of-the-hawaiian-sovereignty-movement
 related_article3:
-    id: 104643
+    id: 104636
     title: >-
-        What are the key elements of Hawaiian cultural activism?
+        What are the current debates surrounding Hawaiian sovereignty and independence?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-key-elements-of-hawaiian-cultural-activism
+    url: /learn/sociology/questions/what-are-the-current-debates-surrounding-hawaiian-sovereignty-and-independence
+related_article4:
+    id: 104618
+    title: >-
+        What were the major impacts of colonialism on Hawaiian society and culture?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-major-impacts-of-colonialism-on-hawaiian-society-and-culture
+related_article5:
+    id: 104627
+    title: >-
+        What are some examples of community empowerment initiatives in Hawaii?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-some-examples-of-community-empowerment-initiatives-in-hawaii
 ---
 
 &nbsp;

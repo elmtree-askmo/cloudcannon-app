@@ -24,35 +24,35 @@ file_name: what-are-the-major-bones-in-the-legs-and-their-functions.md
 url: /learn/health-studies/questions/what-are-the-major-bones-in-the-legs-and-their-functions
 score: -1.0
 related_article1:
-    id: 100375
+    id: 100377
     title: >-
-        How do the legs support locomotion and weight-bearing?
+        How does the axial skeleton differ from the appendicular skeleton in terms of function?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-the-legs-support-locomotion-and-weightbearing
+    url: /learn/health-studies/questions/how-does-the-axial-skeleton-differ-from-the-appendicular-skeleton-in-terms-of-function
 related_article2:
-    id: 100364
+    id: 100357
     title: >-
-        How does the spine contribute to the overall function of the skeleton?
+        In what ways does the skeleton facilitate movement?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-spine-contribute-to-the-overall-function-of-the-skeleton
+    url: /learn/health-studies/questions/in-what-ways-does-the-skeleton-facilitate-movement
 related_article3:
-    id: 100358
+    id: 100379
     title: >-
-        What roles do bones play in blood production?
-    subject: Medicine
-    url: /learn/medicine/questions/what-roles-do-bones-play-in-blood-production
-related_article4:
-    id: 100378
-    title: >-
-        What are the specific bones included in the thorax?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-specific-bones-included-in-the-thorax
-related_article5:
-    id: 100373
-    title: >-
-        How do the arms facilitate movement and dexterity?
+        How do the bones of the spine interact to allow flexibility and support?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-the-arms-facilitate-movement-and-dexterity
+    url: /learn/health-studies/questions/how-do-the-bones-of-the-spine-interact-to-allow-flexibility-and-support
+related_article4:
+    id: 100370
+    title: >-
+        What is the significance of the skull in protecting the brain?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-significance-of-the-skull-in-protecting-the-brain
+related_article5:
+    id: 100374
+    title: >-
+        What is the importance of the pelvis in terms of weight distribution?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-importance-of-the-pelvis-in-terms-of-weight-distribution
 ---
 
 &nbsp;

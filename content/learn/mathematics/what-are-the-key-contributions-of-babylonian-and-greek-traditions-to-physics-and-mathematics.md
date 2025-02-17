@@ -24,23 +24,23 @@ file_name: what-are-the-key-contributions-of-babylonian-and-greek-traditions-to-
 url: /learn/mathematics/questions/what-are-the-key-contributions-of-babylonian-and-greek-traditions-to-physics-and-mathematics
 score: -1.0
 related_article1:
-    id: 120279
+    id: 120270
     title: >-
-        What are some examples of fundamental principles in physics leading to new discoveries?
+        Can you explain the minimum principle and its relevance in physics?
     subject: Physics
-    url: /learn/physics/questions/what-are-some-examples-of-fundamental-principles-in-physics-leading-to-new-discoveries
+    url: /learn/physics/questions/can-you-explain-the-minimum-principle-and-its-relevance-in-physics
 related_article2:
-    id: 120282
+    id: 120260
     title: >-
-        How does the concept of equal areas relate to Kepler's laws of planetary motion?
+        What is the relationship between force and equal areas in physics?
     subject: Physics
-    url: /learn/physics/questions/how-does-the-concept-of-equal-areas-relate-to-keplers-laws-of-planetary-motion
+    url: /learn/physics/questions/what-is-the-relationship-between-force-and-equal-areas-in-physics
 related_article3:
-    id: 120264
+    id: 120267
     title: >-
-        What was the Babylonian method in physics and how did it influence modern science?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-babylonian-method-in-physics-and-how-did-it-influence-modern-science
+        What is the conservation of angular momentum and its mathematical representation?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-conservation-of-angular-momentum-and-its-mathematical-representation
 related_article4:
     id: 120283
     title: >-
@@ -48,11 +48,11 @@ related_article4:
     subject: Physics
     url: /learn/physics/questions/what-is-the-significance-of-the-minimum-principle-in-the-context-of-energy-conservation
 related_article5:
-    id: 120256
+    id: 120265
     title: >-
-        How does mathematics help us understand natural phenomena?
+        Can you describe the Euclidean method and its impact on physics?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
+    url: /learn/mathematics/questions/can-you-describe-the-euclidean-method-and-its-impact-on-physics
 ---
 
 &nbsp;

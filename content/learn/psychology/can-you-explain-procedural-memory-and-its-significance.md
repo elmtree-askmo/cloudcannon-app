@@ -24,11 +24,11 @@ file_name: can-you-explain-procedural-memory-and-its-significance.md
 url: /learn/psychology/questions/can-you-explain-procedural-memory-and-its-significance
 score: -1.0
 related_article1:
-    id: 112496
+    id: 112485
     title: >-
-        What is the process of consolidation in memory?
+        What are the components of the working memory model?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-process-of-consolidation-in-memory
+    url: /learn/psychology/questions/what-are-the-components-of-the-working-memory-model
 related_article2:
     id: 112484
     title: >-
@@ -36,17 +36,23 @@ related_article2:
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-encoding-specificity-principle
 related_article3:
+    id: 112500
+    title: >-
+        What are the differences between maintenance and elaborative rehearsal?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-maintenance-and-elaborative-rehearsal
+related_article4:
+    id: 112496
+    title: >-
+        What is the process of consolidation in memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-process-of-consolidation-in-memory
+related_article5:
     id: 112499
     title: >-
         How does retrograde amnesia affect memory?
     subject: Psychology
     url: /learn/psychology/questions/how-does-retrograde-amnesia-affect-memory
-related_article4:
-    id: 112490
-    title: >-
-        What are declarative memories and how are they categorized?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-declarative-memories-and-how-are-they-categorized
 ---
 
 &nbsp;

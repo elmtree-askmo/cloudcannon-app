@@ -24,29 +24,35 @@ file_name: what-are-some-effective-strategies-for-connecting-with-an-audience-th
 url: /learn/digital-media/questions/what-are-some-effective-strategies-for-connecting-with-an-audience-through-storytelling
 score: -1.0
 related_article1:
-    id: 120695
-    title: >-
-        How should one organize beats to create a coherent story?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-should-one-organize-beats-to-create-a-coherent-story
-related_article2:
     id: 120710
     title: >-
         What are some common pitfalls to avoid when shaping information into a story?
     subject: Digital Media
     url: /learn/digital-media/questions/what-are-some-common-pitfalls-to-avoid-when-shaping-information-into-a-story
-related_article3:
-    id: 120706
+related_article2:
+    id: 120705
     title: >-
-        What role does a narrative arc play in effective communication?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-role-does-a-narrative-arc-play-in-effective-communication
-related_article4:
-    id: 120700
-    title: >-
-        What is the 'Rags to Riches' narrative, and how is it applied?
+        How do bottom-up and top-down approaches differ in crafting a story?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-rags-to-riches-narrative-and-how-is-it-applied
+    url: /learn/art-history-and-literature/questions/how-do-bottomup-and-topdown-approaches-differ-in-crafting-a-story
+related_article3:
+    id: 120707
+    title: >-
+        How can one craft a compelling story arc that resonates with the audience?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-can-one-craft-a-compelling-story-arc-that-resonates-with-the-audience
+related_article4:
+    id: 120699
+    title: >-
+        How does the Hero’s Journey structure a story?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-does-the-heros-journey-structure-a-story
+related_article5:
+    id: 120695
+    title: >-
+        How should one organize beats to create a coherent story?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-should-one-organize-beats-to-create-a-coherent-story
 ---
 
 &nbsp;

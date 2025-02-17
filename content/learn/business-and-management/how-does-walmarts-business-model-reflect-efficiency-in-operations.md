@@ -24,23 +24,23 @@ file_name: how-does-walmarts-business-model-reflect-efficiency-in-operations.md
 url: /learn/business-and-management/questions/how-does-walmarts-business-model-reflect-efficiency-in-operations
 score: -1.0
 related_article1:
-    id: 121509
-    title: >-
-        What role does equity play in economic systems?
-    subject: Economics
-    url: /learn/economics/questions/what-role-does-equity-play-in-economic-systems
-related_article2:
-    id: 121523
-    title: >-
-        How can energy efficiency contribute to economic growth?
-    subject: Economics
-    url: /learn/economics/questions/how-can-energy-efficiency-contribute-to-economic-growth
-related_article3:
     id: 121529
     title: >-
         How does the concept of opportunity cost influence consumer choices?
     subject: Economics
     url: /learn/economics/questions/how-does-the-concept-of-opportunity-cost-influence-consumer-choices
+related_article2:
+    id: 121509
+    title: >-
+        What role does equity play in economic systems?
+    subject: Economics
+    url: /learn/economics/questions/what-role-does-equity-play-in-economic-systems
+related_article3:
+    id: 121523
+    title: >-
+        How can energy efficiency contribute to economic growth?
+    subject: Economics
+    url: /learn/economics/questions/how-can-energy-efficiency-contribute-to-economic-growth
 ---
 
 &nbsp;

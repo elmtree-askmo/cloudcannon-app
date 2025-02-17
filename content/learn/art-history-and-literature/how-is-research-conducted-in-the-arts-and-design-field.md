@@ -24,29 +24,35 @@ file_name: how-is-research-conducted-in-the-arts-and-design-field.md
 url: /learn/art-history-and-literature/questions/how-is-research-conducted-in-the-arts-and-design-field
 score: -1.0
 related_article1:
-    id: 102740
-    title: >-
-        How can concept mapping be used as a practical activity in research education?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-concept-mapping-be-used-as-a-practical-activity-in-research-education
-related_article2:
-    id: 102735
-    title: >-
-        What are some notable research contributions in Science, Technology, Engineering, and Mathematics?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-some-notable-research-contributions-in-science-technology-engineering-and-mathematics
-related_article3:
-    id: 102716
-    title: >-
-        What are the key characteristics that define empirical research?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-characteristics-that-define-empirical-research
-related_article4:
     id: 102720
     title: >-
         What makes research analytical, and how is this characteristic applied?
     subject: Sociology
     url: /learn/sociology/questions/what-makes-research-analytical-and-how-is-this-characteristic-applied
+related_article2:
+    id: 102734
+    title: >-
+        Can you provide examples of research in the field of Information and Communication Technology?
+    subject: Education Studies
+    url: /learn/education-studies/questions/can-you-provide-examples-of-research-in-the-field-of-information-and-communication-technology
+related_article3:
+    id: 102743
+    title: >-
+        What strategies are effective for problem identification and solution proposal in research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-strategies-are-effective-for-problem-identification-and-solution-proposal-in-research
+related_article4:
+    id: 102714
+    title: >-
+        What is the definition of research in the context of academic inquiry?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-definition-of-research-in-the-context-of-academic-inquiry
+related_article5:
+    id: 102738
+    title: >-
+        How is research applied in the field of sports?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-research-applied-in-the-field-of-sports
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: how-is-endoscopy-utilized-in-the-diagnosis-of-thyroid-conditions.md
 url: /learn/medicine/questions/how-is-endoscopy-utilized-in-the-diagnosis-of-thyroid-conditions
 score: -1.0
 related_article1:
-    id: 123944
+    id: 123945
     title: >-
-        What are the common inflammatory thyroid conditions?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-common-inflammatory-thyroid-conditions
+        What are the typical presentations of thyroid nodules in patients?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-typical-presentations-of-thyroid-nodules-in-patients
 related_article2:
+    id: 123948
+    title: >-
+        What is the role of fine needle aspiration cytology in thyroid nodule investigation?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-role-of-fine-needle-aspiration-cytology-in-thyroid-nodule-investigation
+related_article3:
+    id: 123967
+    title: >-
+        How is risk stratification performed in thyroid cancer management?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-risk-stratification-performed-in-thyroid-cancer-management
+related_article4:
+    id: 123953
+    title: >-
+        What are the surgical options for treating benign thyroid nodules?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-surgical-options-for-treating-benign-thyroid-nodules
+related_article5:
     id: 123940
     title: >-
         What are the risk factors associated with the development of thyroid nodules?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-risk-factors-associated-with-the-development-of-thyroid-nodules
-related_article3:
-    id: 123968
-    title: >-
-        What are the management options for papillary microcarcinoma?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-management-options-for-papillary-microcarcinoma
-related_article4:
-    id: 123962
-    title: >-
-        What is the extent of thyroidectomy required for different types of thyroid cancer?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-the-extent-of-thyroidectomy-required-for-different-types-of-thyroid-cancer
-related_article5:
-    id: 123959
-    title: >-
-        How is well-differentiated thyroid cancer managed?
-    subject: Medicine
-    url: /learn/medicine/questions/how-is-welldifferentiated-thyroid-cancer-managed
 ---
 
 &nbsp;

@@ -24,29 +24,17 @@ file_name: what-is-the-difference-between-energy-density-and-nutrient-density.md
 url: /learn/health-studies/questions/what-is-the-difference-between-energy-density-and-nutrient-density
 score: -1.0
 related_article1:
-    id: 104433
+    id: 104411
     title: >-
-        How do cholesterol, LDL, and HDL affect health?
+        How are nutrients categorized by body requirement?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-cholesterol-ldl-and-hdl-affect-health
+    url: /learn/health-studies/questions/how-are-nutrients-categorized-by-body-requirement
 related_article2:
-    id: 104438
+    id: 104439
     title: >-
-        What are some effective tips for reducing fat intake in the diet?
+        How is the Recommended Dietary Allowance (RDA) determined for different nutrients?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-some-effective-tips-for-reducing-fat-intake-in-the-diet
-related_article3:
-    id: 104425
-    title: >-
-        What are the primary functions of carbohydrates in the body?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-functions-of-carbohydrates-in-the-body
-related_article4:
-    id: 104424
-    title: >-
-        What are the risks associated with overconsumption of dietary fiber?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-risks-associated-with-overconsumption-of-dietary-fiber
+    url: /learn/health-studies/questions/how-is-the-recommended-dietary-allowance-rda-determined-for-different-nutrients
 ---
 
 &nbsp;

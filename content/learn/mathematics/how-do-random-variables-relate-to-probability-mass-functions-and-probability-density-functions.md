@@ -24,29 +24,35 @@ file_name: how-do-random-variables-relate-to-probability-mass-functions-and-prob
 url: /learn/mathematics/questions/how-do-random-variables-relate-to-probability-mass-functions-and-probability-density-functions
 score: -1.0
 related_article1:
-    id: 102701
+    id: 102695
     title: >-
-        What is the significance of understanding random variables in data analysis?
+        Can you provide a step-by-step example of finding possible values for a discrete random variable?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-significance-of-understanding-random-variables-in-data-analysis
+    url: /learn/mathematics/questions/can-you-provide-a-stepbystep-example-of-finding-possible-values-for-a-discrete-random-variable
 related_article2:
-    id: 102709
+    id: 102696
     title: >-
-        What are the limitations of using random variables in statistical analysis?
+        What are some real-world applications of random variables?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-limitations-of-using-random-variables-in-statistical-analysis
+    url: /learn/mathematics/questions/what-are-some-realworld-applications-of-random-variables
 related_article3:
-    id: 102699
+    id: 102690
     title: >-
-        What role do random variables play in probability distributions?
+        What are some common examples of continuous random variables?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-role-do-random-variables-play-in-probability-distributions
+    url: /learn/mathematics/questions/what-are-some-common-examples-of-continuous-random-variables
 related_article4:
-    id: 102711
+    id: 102703
     title: >-
-        What are the mathematical properties of random variables?
+        What are the challenges in working with random variables?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-mathematical-properties-of-random-variables
+    url: /learn/mathematics/questions/what-are-the-challenges-in-working-with-random-variables
+related_article5:
+    id: 102689
+    title: >-
+        Can you provide examples of discrete random variables?
+    subject: Mathematics
+    url: /learn/mathematics/questions/can-you-provide-examples-of-discrete-random-variables
 ---
 
 &nbsp;

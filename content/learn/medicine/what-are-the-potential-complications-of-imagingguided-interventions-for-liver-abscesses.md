@@ -24,35 +24,29 @@ file_name: what-are-the-potential-complications-of-imagingguided-interventions-f
 url: /learn/medicine/questions/what-are-the-potential-complications-of-imagingguided-interventions-for-liver-abscesses
 score: -1.0
 related_article1:
-    id: 118092
+    id: 118091
     title: >-
-        What is Transarterial Chemoembolization (TACE) and how is it used in HCC treatment?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-transarterial-chemoembolization-tace-and-how-is-it-used-in-hcc-treatment
+        How is the effectiveness of surgical resection and transplantation monitored in HCC patients?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-the-effectiveness-of-surgical-resection-and-transplantation-monitored-in-hcc-patients
 related_article2:
-    id: 118102
+    id: 118096
     title: >-
-        How do imaging guidelines vary across different countries or regions?
+        How can metastasis to the liver be differentiated from primary HCC on imaging?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-imaging-guidelines-vary-across-different-countries-or-regions
+    url: /learn/medicine/questions/how-can-metastasis-to-the-liver-be-differentiated-from-primary-hcc-on-imaging
 related_article3:
-    id: 118103
+    id: 118093
     title: >-
-        What are the challenges in interpreting imaging results for HCC?
+        What methods are used to monitor treatment response in HCC patients?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-challenges-in-interpreting-imaging-results-for-hcc
+    url: /learn/medicine/questions/what-methods-are-used-to-monitor-treatment-response-in-hcc-patients
 related_article4:
-    id: 118084
+    id: 118085
     title: >-
-        What are the advantages and limitations of CT and MRI in imaging HCC?
+        How is PET-CT used in the diagnosis and management of HCC?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-advantages-and-limitations-of-ct-and-mri-in-imaging-hcc
-related_article5:
-    id: 118108
-    title: >-
-        How do imaging findings influence treatment decisions in HCC?
-    subject: Medicine
-    url: /learn/medicine/questions/how-do-imaging-findings-influence-treatment-decisions-in-hcc
+    url: /learn/medicine/questions/how-is-petct-used-in-the-diagnosis-and-management-of-hcc
 ---
 
 &nbsp;

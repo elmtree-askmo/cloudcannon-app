@@ -24,11 +24,11 @@ file_name: what-contributions-did-babylonian-and-greek-traditions-make-to-the-re
 url: /learn/history-of-the-world/questions/what-contributions-did-babylonian-and-greek-traditions-make-to-the-relationship-between-physics-and-mathematics
 score: -1.0
 related_article1:
-    id: 124247
+    id: 124242
     title: >-
-        How did the Babylonian method influence the development of physics?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-babylonian-method-influence-the-development-of-physics
+        How is mathematical language used to describe physical laws?
+    subject: Physics
+    url: /learn/physics/questions/how-is-mathematical-language-used-to-describe-physical-laws
 related_article2:
     id: 124243
     title: >-
@@ -36,17 +36,17 @@ related_article2:
     subject: Physics
     url: /learn/physics/questions/what-is-the-significance-of-force-and-equal-areas-in-physics
 related_article3:
-    id: 124246
+    id: 124249
     title: >-
-        What are fundamental principles and consequential statements in physics?
+        How does the law of gravitation demonstrate the relationship between physics and mathematics?
     subject: Physics
-    url: /learn/physics/questions/what-are-fundamental-principles-and-consequential-statements-in-physics
+    url: /learn/physics/questions/how-does-the-law-of-gravitation-demonstrate-the-relationship-between-physics-and-mathematics
 related_article4:
-    id: 124242
+    id: 124241
     title: >-
-        How is mathematical language used to describe physical laws?
+        Can you explain Newton's Law of Gravitation in mathematical terms?
     subject: Physics
-    url: /learn/physics/questions/how-is-mathematical-language-used-to-describe-physical-laws
+    url: /learn/physics/questions/can-you-explain-newtons-law-of-gravitation-in-mathematical-terms
 ---
 
 &nbsp;

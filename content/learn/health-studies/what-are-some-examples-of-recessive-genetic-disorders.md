@@ -24,17 +24,23 @@ file_name: what-are-some-examples-of-recessive-genetic-disorders.md
 url: /learn/health-studies/questions/what-are-some-examples-of-recessive-genetic-disorders
 score: -1.0
 related_article1:
+    id: 122392
+    title: >-
+        How did Mendel utilize self-pollination and cross-pollination in his experiments?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-did-mendel-utilize-selfpollination-and-crosspollination-in-his-experiments
+related_article2:
     id: 122391
     title: >-
         What were the key characteristics of the pea plants used in Mendel's experiments?
     subject: Biotechnology
     url: /learn/biotechnology/questions/what-were-the-key-characteristics-of-the-pea-plants-used-in-mendels-experiments
-related_article2:
-    id: 122418
+related_article3:
+    id: 122413
     title: >-
-        What are the different types of genetic testing and their purposes?
+        What are multifactorial disorders and how are they influenced by genetics?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-different-types-of-genetic-testing-and-their-purposes
+    url: /learn/health-studies/questions/what-are-multifactorial-disorders-and-how-are-they-influenced-by-genetics
 ---
 
 &nbsp;

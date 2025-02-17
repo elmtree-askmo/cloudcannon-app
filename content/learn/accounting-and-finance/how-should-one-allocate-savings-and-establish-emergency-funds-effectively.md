@@ -24,35 +24,35 @@ file_name: how-should-one-allocate-savings-and-establish-emergency-funds-effecti
 url: /learn/accounting-and-finance/questions/how-should-one-allocate-savings-and-establish-emergency-funds-effectively
 score: -1.0
 related_article1:
-    id: 120591
+    id: 120589
     title: >-
-        How should one decide between short-term and long-term saving options?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/how-should-one-decide-between-shortterm-and-longterm-saving-options
+        What is consumption smoothing and how does it relate to financial planning?
+    subject: Economics
+    url: /learn/economics/questions/what-is-consumption-smoothing-and-how-does-it-relate-to-financial-planning
 related_article2:
-    id: 120587
-    title: >-
-        What are the recommended income replacement and savings targets for retirement planning?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-are-the-recommended-income-replacement-and-savings-targets-for-retirement-planning
-related_article3:
-    id: 120597
-    title: >-
-        What are the key features to compare when evaluating loan options?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-are-the-key-features-to-compare-when-evaluating-loan-options
-related_article4:
-    id: 120590
-    title: >-
-        What are the different financial instruments available for saving, and how do they differ?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-are-the-different-financial-instruments-available-for-saving-and-how-do-they-differ
-related_article5:
     id: 120596
     title: >-
         What is the difference between secured and unsecured credit in debt management?
     subject: Business and Management
     url: /learn/business-and-management/questions/what-is-the-difference-between-secured-and-unsecured-credit-in-debt-management
+related_article3:
+    id: 120582
+    title: >-
+        Can you provide examples of exercises and applications of sensitivity analysis in financial planning?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/can-you-provide-examples-of-exercises-and-applications-of-sensitivity-analysis-in-financial-planning
+related_article4:
+    id: 120583
+    title: >-
+        What factors should be considered when determining a down payment for a house?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/what-factors-should-be-considered-when-determining-a-down-payment-for-a-house
+related_article5:
+    id: 120590
+    title: >-
+        What are the different financial instruments available for saving, and how do they differ?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/what-are-the-different-financial-instruments-available-for-saving-and-how-do-they-differ
 ---
 
 &nbsp;

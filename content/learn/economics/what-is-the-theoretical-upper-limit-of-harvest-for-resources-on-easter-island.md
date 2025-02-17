@@ -30,12 +30,6 @@ related_article1:
     subject: Economics
     url: /learn/economics/questions/what-are-the-economic-values-of-ecosystem-services-on-easter-island
 related_article2:
-    id: 116628
-    title: >-
-        What strategies are in place for resource conservation on Easter Island?
-    subject: Sociology
-    url: /learn/sociology/questions/what-strategies-are-in-place-for-resource-conservation-on-easter-island
-related_article3:
     id: 116624
     title: >-
         What factors contributed to the ecological collapse on Easter Island?

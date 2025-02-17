@@ -24,23 +24,23 @@ file_name: how-is-ultrasound-used-in-the-diagnosis-of-thyroid-nodules.md
 url: /learn/medicine/questions/how-is-ultrasound-used-in-the-diagnosis-of-thyroid-nodules
 score: -1.0
 related_article1:
-    id: 123952
+    id: 123940
     title: >-
-        What are the indications for treating benign thyroid nodules?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-indications-for-treating-benign-thyroid-nodules
+        What are the risk factors associated with the development of thyroid nodules?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-risk-factors-associated-with-the-development-of-thyroid-nodules
 related_article2:
-    id: 123963
+    id: 123967
     title: >-
-        How is lymph node management approached in thyroid cancer surgery?
+        How is risk stratification performed in thyroid cancer management?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-lymph-node-management-approached-in-thyroid-cancer-surgery
+    url: /learn/medicine/questions/how-is-risk-stratification-performed-in-thyroid-cancer-management
 related_article3:
-    id: 123966
+    id: 123956
     title: >-
-        What is TSH suppression therapy and how is it used in thyroid cancer management?
+        How effective is ethanol injection in treating benign thyroid nodules?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-tsh-suppression-therapy-and-how-is-it-used-in-thyroid-cancer-management
+    url: /learn/medicine/questions/how-effective-is-ethanol-injection-in-treating-benign-thyroid-nodules
 related_article4:
     id: 123943
     title: >-
@@ -48,11 +48,11 @@ related_article4:
     subject: Medicine
     url: /learn/medicine/questions/how-does-hyperthyroidism-relate-to-toxic-goiter
 related_article5:
-    id: 123958
+    id: 123962
     title: >-
-        What are the different types of thyroid cancer?
+        What is the extent of thyroidectomy required for different types of thyroid cancer?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-different-types-of-thyroid-cancer
+    url: /learn/medicine/questions/what-is-the-extent-of-thyroidectomy-required-for-different-types-of-thyroid-cancer
 ---
 
 &nbsp;

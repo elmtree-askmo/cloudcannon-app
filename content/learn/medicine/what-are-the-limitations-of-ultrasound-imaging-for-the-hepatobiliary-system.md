@@ -24,35 +24,35 @@ file_name: what-are-the-limitations-of-ultrasound-imaging-for-the-hepatobiliary-
 url: /learn/medicine/questions/what-are-the-limitations-of-ultrasound-imaging-for-the-hepatobiliary-system
 score: -1.0
 related_article1:
-    id: 118027
+    id: 118044
     title: >-
-        What are the primary indications for imaging the biliary system?
+        What are the latest advancements in CT and MRI imaging technology for the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-primary-indications-for-imaging-the-biliary-system
+    url: /learn/medicine/questions/what-are-the-latest-advancements-in-ct-and-mri-imaging-technology-for-the-hepatobiliary-system
 related_article2:
-    id: 118042
+    id: 118024
     title: >-
-        What role does contrast material play in CT and MRI imaging of the hepatobiliary system?
+        What are the disadvantages of using MRI imaging for the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/what-role-does-contrast-material-play-in-ct-and-mri-imaging-of-the-hepatobiliary-system
+    url: /learn/medicine/questions/what-are-the-disadvantages-of-using-mri-imaging-for-the-hepatobiliary-system
 related_article3:
-    id: 118049
+    id: 118039
     title: >-
-        How do imaging findings influence the prognosis of hepatic pathologies?
-    subject: Medicine
-    url: /learn/medicine/questions/how-do-imaging-findings-influence-the-prognosis-of-hepatic-pathologies
+        How does the cost of CT imaging compare to MRI imaging for the hepatobiliary system?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-cost-of-ct-imaging-compare-to-mri-imaging-for-the-hepatobiliary-system
 related_article4:
-    id: 118038
+    id: 118028
     title: >-
-        What are the radiation risks associated with CT imaging of the hepatobiliary system?
+        What are the primary indications for imaging the pancreas?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-radiation-risks-associated-with-ct-imaging-of-the-hepatobiliary-system
+    url: /learn/medicine/questions/what-are-the-primary-indications-for-imaging-the-pancreas
 related_article5:
-    id: 118034
+    id: 118047
     title: >-
-        What are the typical findings in ultrasound imaging of the hepatobiliary system?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-typical-findings-in-ultrasound-imaging-of-the-hepatobiliary-system
+        How do CT and MRI imaging techniques differ in terms of patient preparation and procedure time?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-ct-and-mri-imaging-techniques-differ-in-terms-of-patient-preparation-and-procedure-time
 ---
 
 &nbsp;

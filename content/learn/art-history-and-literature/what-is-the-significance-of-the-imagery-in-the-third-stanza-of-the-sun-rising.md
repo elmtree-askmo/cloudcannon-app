@@ -24,35 +24,35 @@ file_name: what-is-the-significance-of-the-imagery-in-the-third-stanza-of-the-su
 url: /learn/art-history-and-literature/questions/what-is-the-significance-of-the-imagery-in-the-third-stanza-of-the-sun-rising
 score: -1.0
 related_article1:
-    id: 110275
+    id: 110277
     title: >-
-        What role does authority play in the second stanza of 'The Sun Rising'?
+        What is the significance of the cosmic imagery in the second stanza of 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-does-authority-play-in-the-second-stanza-of-the-sun-rising
+    url: /learn/art-history-and-literature/questions/what-is-the-significance-of-the-cosmic-imagery-in-the-second-stanza-of-the-sun-rising
 related_article2:
-    id: 110285
-    title: >-
-        What are the overall themes of 'The Sun Rising'?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-overall-themes-of-the-sun-rising
-related_article3:
     id: 110286
     title: >-
         How does Donne convey the transcendence of love throughout the poem?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-does-donne-convey-the-transcendence-of-love-throughout-the-poem
+related_article3:
+    id: 110273
+    title: >-
+        What is the main argument presented in the second stanza of 'The Sun Rising'?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-is-the-main-argument-presented-in-the-second-stanza-of-the-sun-rising
 related_article4:
-    id: 110281
+    id: 110295
     title: >-
-        What literary devices are used in the third stanza of 'The Sun Rising'?
+        What is the impact of Donne's use of language on the reader's understanding of the poem?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-literary-devices-are-used-in-the-third-stanza-of-the-sun-rising
+    url: /learn/art-history-and-literature/questions/what-is-the-impact-of-donnes-use-of-language-on-the-readers-understanding-of-the-poem
 related_article5:
-    id: 110293
+    id: 110267
     title: >-
-        What is the significance of personification in 'The Sun Rising'?
+        What is the main theme of the first stanza in John Donne's 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-significance-of-personification-in-the-sun-rising
+    url: /learn/art-history-and-literature/questions/what-is-the-main-theme-of-the-first-stanza-in-john-donnes-the-sun-rising
 ---
 
 &nbsp;

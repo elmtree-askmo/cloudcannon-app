@@ -24,35 +24,29 @@ file_name: what-qualifications-are-typically-required-for-a-help-desk-analyst-ro
 url: /learn/computer-science/questions/what-qualifications-are-typically-required-for-a-help-desk-analyst-role
 score: -1.0
 related_article1:
-    id: 122356
+    id: 122355
     title: >-
-        How can an IT Security Analyst advance in their career?
+        What qualifications are generally required for an IT Security Analyst role?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-an-it-security-analyst-advance-in-their-career
+    url: /learn/computer-science/questions/what-qualifications-are-generally-required-for-an-it-security-analyst-role
 related_article2:
-    id: 122332
+    id: 122329
     title: >-
-        How can a Help Desk Analyst advance in their career?
+        What are the primary responsibilities of a Help Desk Analyst?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-a-help-desk-analyst-advance-in-their-career
+    url: /learn/computer-science/questions/what-are-the-primary-responsibilities-of-a-help-desk-analyst
 related_article3:
-    id: 122330
+    id: 122334
     title: >-
-        What skills are essential for a Help Desk Analyst to be successful?
+        What skills are necessary for someone working in Deskside Services?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-skills-are-essential-for-a-help-desk-analyst-to-be-successful
+    url: /learn/computer-science/questions/what-skills-are-necessary-for-someone-working-in-deskside-services
 related_article4:
-    id: 122352
+    id: 122354
     title: >-
-        What is the career progression for a Storage Analyst to become an Architect?
+        What skills are crucial for an IT Security Analyst to be effective?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-career-progression-for-a-storage-analyst-to-become-an-architect
-related_article5:
-    id: 122347
-    title: >-
-        What qualifications are typically required for an Infrastructure Analyst role?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-qualifications-are-typically-required-for-an-infrastructure-analyst-role
+    url: /learn/computer-science/questions/what-skills-are-crucial-for-an-it-security-analyst-to-be-effective
 ---
 
 &nbsp;

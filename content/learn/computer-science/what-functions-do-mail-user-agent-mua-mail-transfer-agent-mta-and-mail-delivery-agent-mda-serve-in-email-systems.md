@@ -24,35 +24,35 @@ file_name: what-functions-do-mail-user-agent-mua-mail-transfer-agent-mta-and-mai
 url: /learn/computer-science/questions/what-functions-do-mail-user-agent-mua-mail-transfer-agent-mta-and-mail-delivery-agent-mda-serve-in-email-systems
 score: -1.0
 related_article1:
-    id: 122251
+    id: 122267
     title: >-
-        How do network-accessible DBMS differ from traditional DBMS?
+        What are some practical lab activities that can enhance understanding of network services?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-networkaccessible-dbms-differ-from-traditional-dbms
+    url: /learn/computer-science/questions/what-are-some-practical-lab-activities-that-can-enhance-understanding-of-network-services
 related_article2:
-    id: 122245
+    id: 122266
     title: >-
-        What are the common challenges associated with network printing?
+        What are the most commonly used email protocols and their purposes?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-common-challenges-associated-with-network-printing
+    url: /learn/computer-science/questions/what-are-the-most-commonly-used-email-protocols-and-their-purposes
 related_article3:
-    id: 122252
+    id: 122242
     title: >-
-        What are the benefits of clustering and virtualization in database management?
+        What are the primary functions of a file server in a network?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-benefits-of-clustering-and-virtualization-in-database-management
+    url: /learn/computer-science/questions/what-are-the-primary-functions-of-a-file-server-in-a-network
 related_article4:
-    id: 122268
+    id: 122258
     title: >-
-        How can hands-on experience with network services be beneficial for IT professionals?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-handson-experience-with-network-services-be-beneficial-for-it-professionals
+        Why is web technology important for modern businesses?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/why-is-web-technology-important-for-modern-businesses
 related_article5:
-    id: 122264
+    id: 122250
     title: >-
-        What are the essential components of an email system?
+        What are the main components of a Database Management System (DBMS)?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-essential-components-of-an-email-system
+    url: /learn/computer-science/questions/what-are-the-main-components-of-a-database-management-system-dbms
 ---
 
 &nbsp;

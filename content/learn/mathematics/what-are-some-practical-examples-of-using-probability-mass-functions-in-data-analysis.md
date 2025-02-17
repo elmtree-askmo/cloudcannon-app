@@ -24,29 +24,23 @@ file_name: what-are-some-practical-examples-of-using-probability-mass-functions-
 url: /learn/mathematics/questions/what-are-some-practical-examples-of-using-probability-mass-functions-in-data-analysis
 score: -1.0
 related_article1:
-    id: 119608
+    id: 119618
     title: >-
-        What are the key differences between discrete and continuous random variables?
+        What are the steps involved in calculating the standard deviation of a dataset?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-key-differences-between-discrete-and-continuous-random-variables
+    url: /learn/mathematics/questions/what-are-the-steps-involved-in-calculating-the-standard-deviation-of-a-dataset
 related_article2:
-    id: 119616
+    id: 119598
     title: >-
-        What are the limitations of using expected value as a measure of central tendency?
+        How is the expected value of a random variable calculated?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-limitations-of-using-expected-value-as-a-measure-of-central-tendency
+    url: /learn/mathematics/questions/how-is-the-expected-value-of-a-random-variable-calculated
 related_article3:
     id: 119597
     title: >-
         What is the definition of a cumulative distribution function?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-definition-of-a-cumulative-distribution-function
-related_article4:
-    id: 119592
-    title: >-
-        What is a random variable and how is it defined in statistics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-a-random-variable-and-how-is-it-defined-in-statistics
 ---
 
 &nbsp;

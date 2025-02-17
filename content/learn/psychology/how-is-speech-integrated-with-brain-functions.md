@@ -24,35 +24,29 @@ file_name: how-is-speech-integrated-with-brain-functions.md
 url: /learn/psychology/questions/how-is-speech-integrated-with-brain-functions
 score: -1.0
 related_article1:
-    id: 122509
+    id: 122515
     title: >-
-        What are the primary mechanisms of sound localization in the auditory brain?
+        How does auditory scene analysis help in distinguishing different sound sources?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-mechanisms-of-sound-localization-in-the-auditory-brain
+    url: /learn/psychology/questions/how-does-auditory-scene-analysis-help-in-distinguishing-different-sound-sources
 related_article2:
-    id: 122530
-    title: >-
-        How do pitch, chroma, and the octave relate to music perception?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-pitch-chroma-and-the-octave-relate-to-music-perception
-related_article3:
-    id: 122520
-    title: >-
-        What are the key features of biosonar in bats and dolphins?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-the-key-features-of-biosonar-in-bats-and-dolphins
-related_article4:
     id: 122525
     title: >-
         How does vision influence speech perception, particularly in the McGurk effect?
     subject: Psychology
     url: /learn/psychology/questions/how-does-vision-influence-speech-perception-particularly-in-the-mcgurk-effect
-related_article5:
-    id: 122524
+related_article3:
+    id: 122512
     title: >-
-        What is categorical perception in the context of speech perception?
+        Can you explain the concept of the cone of confusion in sound localization?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-categorical-perception-in-the-context-of-speech-perception
+    url: /learn/psychology/questions/can-you-explain-the-concept-of-the-cone-of-confusion-in-sound-localization
+related_article4:
+    id: 122538
+    title: >-
+        What is the neuropsychology of music and its impact on perception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-neuropsychology-of-music-and-its-impact-on-perception
 ---
 
 &nbsp;

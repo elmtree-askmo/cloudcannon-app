@@ -24,35 +24,35 @@ file_name: how-does-the-concept-of-equal-areas-relate-to-keplers-laws-of-planeta
 url: /learn/physics/questions/how-does-the-concept-of-equal-areas-relate-to-keplers-laws-of-planetary-motion
 score: -1.0
 related_article1:
-    id: 120280
+    id: 120271
     title: >-
-        How does the Euclidean method differ from the Babylonian method in physics?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-does-the-euclidean-method-differ-from-the-babylonian-method-in-physics
+        What are the philosophical implications of the relationship between physics and mathematics?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
 related_article2:
-    id: 120268
+    id: 120259
     title: >-
-        How do Newton's laws demonstrate the interplay between physics and mathematics?
+        How is mathematical language used to describe physical laws?
     subject: Physics
-    url: /learn/physics/questions/how-do-newtons-laws-demonstrate-the-interplay-between-physics-and-mathematics
+    url: /learn/physics/questions/how-is-mathematical-language-used-to-describe-physical-laws
 related_article3:
-    id: 120275
-    title: >-
-        What are some examples of mathematical language simplifying complex physical concepts?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-examples-of-mathematical-language-simplifying-complex-physical-concepts
-related_article4:
-    id: 120283
-    title: >-
-        What is the significance of the minimum principle in the context of energy conservation?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-significance-of-the-minimum-principle-in-the-context-of-energy-conservation
-related_article5:
     id: 120261
     title: >-
         How has modern mathematical notation evolved to aid in physics?
     subject: Mathematics
     url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-to-aid-in-physics
+related_article4:
+    id: 120263
+    title: >-
+        How do fundamental principles lead to consequential statements in physics?
+    subject: Physics
+    url: /learn/physics/questions/how-do-fundamental-principles-lead-to-consequential-statements-in-physics
+related_article5:
+    id: 120275
+    title: >-
+        What are some examples of mathematical language simplifying complex physical concepts?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-examples-of-mathematical-language-simplifying-complex-physical-concepts
 ---
 
 &nbsp;

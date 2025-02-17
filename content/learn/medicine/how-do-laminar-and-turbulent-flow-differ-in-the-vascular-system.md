@@ -24,29 +24,23 @@ file_name: how-do-laminar-and-turbulent-flow-differ-in-the-vascular-system.md
 url: /learn/medicine/questions/how-do-laminar-and-turbulent-flow-differ-in-the-vascular-system
 score: -1.0
 related_article1:
-    id: 123888
-    title: >-
-        What are the main factors contributing to resistance to blood flow?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-main-factors-contributing-to-resistance-to-blood-flow
-related_article2:
-    id: 123884
-    title: >-
-        What is the significance of viscosity in blood flow?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-the-significance-of-viscosity-in-blood-flow
-related_article3:
     id: 123887
     title: >-
         How does Poiseuille’s Law relate to vascular flow?
     subject: Medicine
     url: /learn/medicine/questions/how-does-poiseuilles-law-relate-to-vascular-flow
-related_article4:
-    id: 123882
+related_article2:
+    id: 123894
     title: >-
-        What is hydrostatic pressure and how does it affect blood flow?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-hydrostatic-pressure-and-how-does-it-affect-blood-flow
+        What mechanisms control peripheral circulation?
+    subject: Medicine
+    url: /learn/medicine/questions/what-mechanisms-control-peripheral-circulation
+related_article3:
+    id: 123896
+    title: >-
+        What are stenoses and how do they lead to energy losses in blood flow?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-stenoses-and-how-do-they-lead-to-energy-losses-in-blood-flow
 ---
 
 &nbsp;

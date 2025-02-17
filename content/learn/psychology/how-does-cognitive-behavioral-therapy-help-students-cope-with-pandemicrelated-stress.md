@@ -24,35 +24,35 @@ file_name: how-does-cognitive-behavioral-therapy-help-students-cope-with-pandemi
 url: /learn/psychology/questions/how-does-cognitive-behavioral-therapy-help-students-cope-with-pandemicrelated-stress
 score: -1.0
 related_article1:
+    id: 116940
+    title: >-
+        How can schools overcome barriers to providing psychological support?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-schools-overcome-barriers-to-providing-psychological-support
+related_article2:
+    id: 116921
+    title: >-
+        How has the pandemic impacted students' mental health, specifically in terms of anxiety and depression?
+    subject: Psychology
+    url: /learn/psychology/questions/how-has-the-pandemic-impacted-students-mental-health-specifically-in-terms-of-anxiety-and-depression
+related_article3:
+    id: 116924
+    title: >-
+        What role do schools play in ensuring student well-being during the pandemic?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-role-do-schools-play-in-ensuring-student-wellbeing-during-the-pandemic
+related_article4:
     id: 116925
     title: >-
         How can psychological support be integrated into the educational system?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-psychological-support-be-integrated-into-the-educational-system
-related_article2:
-    id: 116922
-    title: >-
-        What are the signs of anxiety and depression in students during the pandemic?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-signs-of-anxiety-and-depression-in-students-during-the-pandemic
-related_article3:
-    id: 116933
-    title: >-
-        What strategies can be implemented to support students' mental health post-pandemic?
-    subject: Psychology
-    url: /learn/psychology/questions/what-strategies-can-be-implemented-to-support-students-mental-health-postpandemic
-related_article4:
-    id: 116934
-    title: >-
-        How can schools prepare for future mental health challenges in education?
-    subject: Psychology
-    url: /learn/psychology/questions/how-can-schools-prepare-for-future-mental-health-challenges-in-education
 related_article5:
-    id: 116935
+    id: 116932
     title: >-
-        What are the long-term effects of the pandemic on students' mental health?
+        How can schools assess the mental health needs of their students after the pandemic?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-longterm-effects-of-the-pandemic-on-students-mental-health
+    url: /learn/psychology/questions/how-can-schools-assess-the-mental-health-needs-of-their-students-after-the-pandemic
 ---
 
 &nbsp;

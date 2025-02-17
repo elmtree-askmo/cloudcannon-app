@@ -24,35 +24,29 @@ file_name: what-are-the-clinical-features-of-cvi.md
 url: /learn/medicine/questions/what-are-the-clinical-features-of-cvi
 score: -1.0
 related_article1:
-    id: 102197
+    id: 102199
     title: >-
-        What complications can arise from untreated DVT?
+        Can you provide an overview of the anatomy of the venous system?
     subject: Medicine
-    url: /learn/medicine/questions/what-complications-can-arise-from-untreated-dvt
+    url: /learn/medicine/questions/can-you-provide-an-overview-of-the-anatomy-of-the-venous-system
 related_article2:
-    id: 102203
-    title: >-
-        How do venous diseases impact overall health?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-venous-diseases-impact-overall-health
-related_article3:
-    id: 102186
-    title: >-
-        Can you explain the role of venous valves in venous diseases?
-    subject: Medicine
-    url: /learn/medicine/questions/can-you-explain-the-role-of-venous-valves-in-venous-diseases
-related_article4:
-    id: 102190
-    title: >-
-        Can you describe the pathophysiology of CVI?
-    subject: Health Studies
-    url: /learn/health-studies/questions/can-you-describe-the-pathophysiology-of-cvi
-related_article5:
     id: 102189
     title: >-
         What are the primary etiological factors of CVI?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-primary-etiological-factors-of-cvi
+related_article3:
+    id: 102204
+    title: >-
+        What are the latest research findings in the treatment of venous diseases?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-latest-research-findings-in-the-treatment-of-venous-diseases
+related_article4:
+    id: 102194
+    title: >-
+        What are the risk factors for developing deep vein thrombosis (DVT)?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-risk-factors-for-developing-deep-vein-thrombosis-dvt
 ---
 
 &nbsp;

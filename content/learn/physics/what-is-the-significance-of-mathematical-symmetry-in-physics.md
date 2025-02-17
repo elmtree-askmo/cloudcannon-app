@@ -24,29 +24,29 @@ file_name: what-is-the-significance-of-mathematical-symmetry-in-physics.md
 url: /learn/physics/questions/what-is-the-significance-of-mathematical-symmetry-in-physics
 score: -1.0
 related_article1:
-    id: 99806
+    id: 99792
     title: >-
-        What are some examples of mathematical concepts that have been crucial in physics discoveries?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-examples-of-mathematical-concepts-that-have-been-crucial-in-physics-discoveries
+        What contributions did Babylonian and Greek traditions make to the relationship between physics and mathematics?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-contributions-did-babylonian-and-greek-traditions-make-to-the-relationship-between-physics-and-mathematics
 related_article2:
-    id: 99788
+    id: 99797
     title: >-
-        What is Newton's Law of Gravitation and how is it mathematically formulated?
+        What are Newton's Laws and their importance in physics?
     subject: Physics
-    url: /learn/physics/questions/what-is-newtons-law-of-gravitation-and-how-is-it-mathematically-formulated
+    url: /learn/physics/questions/what-are-newtons-laws-and-their-importance-in-physics
 related_article3:
-    id: 99786
+    id: 99807
     title: >-
-        How does mathematics help us understand natural phenomena?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
-related_article4:
-    id: 99799
-    title: >-
-        What is the minimum principle and how is it applied in physics?
+        How does the concept of force relate to mathematical equations in physics?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-minimum-principle-and-how-is-it-applied-in-physics
+    url: /learn/physics/questions/how-does-the-concept-of-force-relate-to-mathematical-equations-in-physics
+related_article4:
+    id: 99805
+    title: >-
+        How do physicists use mathematical equations to describe the universe?
+    subject: Physics
+    url: /learn/physics/questions/how-do-physicists-use-mathematical-equations-to-describe-the-universe
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: how-can-brainstorming-help-in-filtering-story-options.md
 url: /learn/art-history-and-literature/questions/how-can-brainstorming-help-in-filtering-story-options
 score: -1.0
 related_article1:
-    id: 120716
-    title: >-
-        How can one effectively transition between different parts of a story?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-can-one-effectively-transition-between-different-parts-of-a-story
-related_article2:
-    id: 120697
-    title: >-
-        Can you explain the Four C’s: Context, Conflict, Climax, Closure?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/can-you-explain-the-four-cs-context-conflict-climax-closure
-related_article3:
-    id: 120705
-    title: >-
-        How do bottom-up and top-down approaches differ in crafting a story?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-bottomup-and-topdown-approaches-differ-in-crafting-a-story
-related_article4:
     id: 120692
     title: >-
         What are the key steps in the bottom-up approach to shaping a story?
     subject: Digital Media
     url: /learn/digital-media/questions/what-are-the-key-steps-in-the-bottomup-approach-to-shaping-a-story
-related_article5:
-    id: 120696
+related_article2:
+    id: 120717
     title: >-
-        What are the main components of the top-down approach in storytelling?
+        What are some ways to test the effectiveness of a story before presenting it?
     subject: Digital Media
-    url: /learn/digital-media/questions/what-are-the-main-components-of-the-topdown-approach-in-storytelling
+    url: /learn/digital-media/questions/what-are-some-ways-to-test-the-effectiveness-of-a-story-before-presenting-it
+related_article3:
+    id: 120695
+    title: >-
+        How should one organize beats to create a coherent story?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-should-one-organize-beats-to-create-a-coherent-story
+related_article4:
+    id: 120710
+    title: >-
+        What are some common pitfalls to avoid when shaping information into a story?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-are-some-common-pitfalls-to-avoid-when-shaping-information-into-a-story
+related_article5:
+    id: 120706
+    title: >-
+        What role does a narrative arc play in effective communication?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-role-does-a-narrative-arc-play-in-effective-communication
 ---
 
 &nbsp;

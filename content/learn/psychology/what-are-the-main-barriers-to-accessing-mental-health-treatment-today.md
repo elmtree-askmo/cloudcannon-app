@@ -24,29 +24,35 @@ file_name: what-are-the-main-barriers-to-accessing-mental-health-treatment-today
 url: /learn/psychology/questions/what-are-the-main-barriers-to-accessing-mental-health-treatment-today
 score: -1.0
 related_article1:
-    id: 118450
+    id: 118440
     title: >-
-        How is behavior therapy applied in mental health treatment?
+        What are the current statistics on the prevalence of mental illness globally and in specific regions?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-behavior-therapy-applied-in-mental-health-treatment
+    url: /learn/psychology/questions/what-are-the-current-statistics-on-the-prevalence-of-mental-illness-globally-and-in-specific-regions
 related_article2:
-    id: 118448
+    id: 118461
     title: >-
-        How does psychodynamic psychotherapy differ from other types of therapy?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-psychodynamic-psychotherapy-differ-from-other-types-of-therapy
+        What are the most effective treatments for comorbid disorders involving substance use?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-most-effective-treatments-for-comorbid-disorders-involving-substance-use
 related_article3:
-    id: 118444
-    title: >-
-        What were the major developments in mental health treatment during the 19th century?
-    subject: Psychology
-    url: /learn/psychology/questions/what-were-the-major-developments-in-mental-health-treatment-during-the-19th-century
-related_article4:
     id: 118447
     title: >-
         What are the most common mental health treatments used today?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-most-common-mental-health-treatments-used-today
+related_article4:
+    id: 118448
+    title: >-
+        How does psychodynamic psychotherapy differ from other types of therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-psychodynamic-psychotherapy-differ-from-other-types-of-therapy
+related_article5:
+    id: 118453
+    title: >-
+        What are the key components of cognitive therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-components-of-cognitive-therapy
 ---
 
 &nbsp;

@@ -24,35 +24,29 @@ file_name: what-are-the-benefits-and-drawbacks-of-using-selective-serotonin-reup
 url: /learn/health-studies/questions/what-are-the-benefits-and-drawbacks-of-using-selective-serotonin-reuptake-inhibitors-ssri
 score: -1.0
 related_article1:
-    id: 104614
+    id: 104608
     title: >-
-        How do antipsychotics interact with other medications commonly prescribed to older adults?
+        What are atypical antidepressants and in what situations are they typically prescribed?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-antipsychotics-interact-with-other-medications-commonly-prescribed-to-older-adults
+    url: /learn/medicine/questions/what-are-atypical-antidepressants-and-in-what-situations-are-they-typically-prescribed
 related_article2:
-    id: 104601
+    id: 104617
     title: >-
-        What are the potential effects of benzodiazepine overdose and how is it treated?
+        What are the latest advancements in the development of antipsychotics and anxiolytics?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-potential-effects-of-benzodiazepine-overdose-and-how-is-it-treated
+    url: /learn/medicine/questions/what-are-the-latest-advancements-in-the-development-of-antipsychotics-and-anxiolytics
 related_article3:
-    id: 104609
+    id: 104604
     title: >-
-        How do Monoamine Oxidase Inhibitors (MAOIs) work and what are their dietary restrictions?
+        What are the different classes of antidepressants and how do they differ in their mechanisms?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-monoamine-oxidase-inhibitors-maois-work-and-what-are-their-dietary-restrictions
+    url: /learn/medicine/questions/what-are-the-different-classes-of-antidepressants-and-how-do-they-differ-in-their-mechanisms
 related_article4:
-    id: 104611
+    id: 104602
     title: >-
-        What are common drug interactions associated with antidepressants and mood stabilizers?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-common-drug-interactions-associated-with-antidepressants-and-mood-stabilizers
-related_article5:
-    id: 104613
-    title: >-
-        What are the risks of using antipsychotics in older adults and how can they be mitigated?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-risks-of-using-antipsychotics-in-older-adults-and-how-can-they-be-mitigated
+        What distinguishes primary anxiety from secondary anxiety?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-primary-anxiety-from-secondary-anxiety
 ---
 
 &nbsp;

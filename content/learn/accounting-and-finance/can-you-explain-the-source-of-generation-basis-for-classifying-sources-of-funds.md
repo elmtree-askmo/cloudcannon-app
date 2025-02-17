@@ -24,11 +24,11 @@ file_name: can-you-explain-the-source-of-generation-basis-for-classifying-source
 url: /learn/accounting-and-finance/questions/can-you-explain-the-source-of-generation-basis-for-classifying-sources-of-funds
 score: -1.0
 related_article1:
-    id: 98642
+    id: 98630
     title: >-
-        What are the different types of shares issued by companies?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-are-the-different-types-of-shares-issued-by-companies
+        Why is business finance significant for companies?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/why-is-business-finance-significant-for-companies
 related_article2:
     id: 98644
     title: >-
@@ -36,17 +36,23 @@ related_article2:
     subject: Accounting and Finance
     url: /learn/accounting-and-finance/questions/how-do-preference-shares-differ-from-equity-shares
 related_article3:
-    id: 98630
+    id: 98642
     title: >-
-        Why is business finance significant for companies?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/why-is-business-finance-significant-for-companies
+        What are the different types of shares issued by companies?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/what-are-the-different-types-of-shares-issued-by-companies
 related_article4:
-    id: 98646
+    id: 98628
     title: >-
-        What role do commercial banks play in providing business finance?
+        How would you define business finance?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/how-would-you-define-business-finance
+related_article5:
+    id: 98631
+    title: >-
+        What are fixed capital requirements in business finance?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-role-do-commercial-banks-play-in-providing-business-finance
+    url: /learn/business-and-management/questions/what-are-fixed-capital-requirements-in-business-finance
 ---
 
 &nbsp;

@@ -24,17 +24,17 @@ file_name: what-is-the-structure-of-the-milky-way-galaxy.md
 url: /learn/physics/questions/what-is-the-structure-of-the-milky-way-galaxy
 score: -1.0
 related_article1:
-    id: 117835
-    title: >-
-        What evidence supports the existence of dark matter in the Milky Way?
-    subject: Physics
-    url: /learn/physics/questions/what-evidence-supports-the-existence-of-dark-matter-in-the-milky-way
-related_article2:
     id: 117818
     title: >-
         Are there any specific topics that will be emphasized in the final exam?
     subject: Physics
     url: /learn/physics/questions/are-there-any-specific-topics-that-will-be-emphasized-in-the-final-exam
+related_article2:
+    id: 117835
+    title: >-
+        What evidence supports the existence of dark matter in the Milky Way?
+    subject: Physics
+    url: /learn/physics/questions/what-evidence-supports-the-existence-of-dark-matter-in-the-milky-way
 ---
 
 &nbsp;

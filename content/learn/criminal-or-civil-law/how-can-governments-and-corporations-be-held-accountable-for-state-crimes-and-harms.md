@@ -24,23 +24,23 @@ file_name: how-can-governments-and-corporations-be-held-accountable-for-state-cr
 url: /learn/criminal-or-civil-law/questions/how-can-governments-and-corporations-be-held-accountable-for-state-crimes-and-harms
 score: -1.0
 related_article1:
-    id: 119214
-    title: >-
-        How does systemic racism manifest in the criminal justice system?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-does-systemic-racism-manifest-in-the-criminal-justice-system
-related_article2:
     id: 119217
     title: >-
         What was the Indian Residential School System, and what impact did it have?
     subject: Sociology
     url: /learn/sociology/questions/what-was-the-indian-residential-school-system-and-what-impact-did-it-have
-related_article3:
-    id: 119232
+related_article2:
+    id: 119211
     title: >-
-        What are the current challenges in preventing illegal state surveillance?
+        What are the defining characteristics of state crimes?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-current-challenges-in-preventing-illegal-state-surveillance
+    url: /learn/criminal-or-civil-law/questions/what-are-the-defining-characteristics-of-state-crimes
+related_article3:
+    id: 119214
+    title: >-
+        How does systemic racism manifest in the criminal justice system?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-does-systemic-racism-manifest-in-the-criminal-justice-system
 ---
 
 &nbsp;

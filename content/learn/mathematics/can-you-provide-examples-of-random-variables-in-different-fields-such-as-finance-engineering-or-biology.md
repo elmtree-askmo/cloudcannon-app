@@ -24,29 +24,35 @@ file_name: can-you-provide-examples-of-random-variables-in-different-fields-such
 url: /learn/mathematics/questions/can-you-provide-examples-of-random-variables-in-different-fields-such-as-finance-engineering-or-biology
 score: -1.0
 related_article1:
-    id: 102709
+    id: 102687
     title: >-
-        What are the limitations of using random variables in statistical analysis?
+        What are the main types of random variables?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-limitations-of-using-random-variables-in-statistical-analysis
+    url: /learn/mathematics/questions/what-are-the-main-types-of-random-variables
 related_article2:
-    id: 102703
+    id: 102691
     title: >-
-        What are the challenges in working with random variables?
+        How are random variables classified in practice?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-challenges-in-working-with-random-variables
+    url: /learn/mathematics/questions/how-are-random-variables-classified-in-practice
 related_article3:
-    id: 102701
+    id: 102700
     title: >-
-        What is the significance of understanding random variables in data analysis?
+        How do random variables relate to probability mass functions and probability density functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-significance-of-understanding-random-variables-in-data-analysis
+    url: /learn/mathematics/questions/how-do-random-variables-relate-to-probability-mass-functions-and-probability-density-functions
 related_article4:
-    id: 102708
+    id: 102706
     title: >-
-        How do random variables interact with other statistical concepts like expectation and variance?
+        How do random variables relate to stochastic processes?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-random-variables-interact-with-other-statistical-concepts-like-expectation-and-variance
+    url: /learn/mathematics/questions/how-do-random-variables-relate-to-stochastic-processes
+related_article5:
+    id: 102692
+    title: >-
+        What criteria are used to classify random variables?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-criteria-are-used-to-classify-random-variables
 ---
 
 &nbsp;

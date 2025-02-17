@@ -24,29 +24,29 @@ file_name: how-do-physicists-use-mathematical-language-to-communicate-complex-id
 url: /learn/physics/questions/how-do-physicists-use-mathematical-language-to-communicate-complex-ideas
 score: -1.0
 related_article1:
-    id: 123805
+    id: 123817
     title: >-
-        How do mathematical models help in predicting physical phenomena?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
-related_article2:
-    id: 123815
-    title: >-
-        How do Newton's Laws apply to everyday physical phenomena?
+        How does the minimum principle relate to optimization problems in physics?
     subject: Physics
-    url: /learn/physics/questions/how-do-newtons-laws-apply-to-everyday-physical-phenomena
+    url: /learn/physics/questions/how-does-the-minimum-principle-relate-to-optimization-problems-in-physics
+related_article2:
+    id: 123802
+    title: >-
+        What is the local field method and how is it applied in physics?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-local-field-method-and-how-is-it-applied-in-physics
 related_article3:
-    id: 123807
+    id: 123812
     title: >-
-        How did ancient civilizations contribute to the development of mathematical physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-physics
+        What are some examples of fundamental principles in physics that lead to consequential statements?
+    subject: Physics
+    url: /learn/physics/questions/what-are-some-examples-of-fundamental-principles-in-physics-that-lead-to-consequential-statements
 related_article4:
-    id: 123798
+    id: 123791
     title: >-
-        Can you describe the Euclidean method and its impact on physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/can-you-describe-the-euclidean-method-and-its-impact-on-physics
+        What is Newton's Law of Gravitation and how is it mathematically formulated?
+    subject: Physics
+    url: /learn/physics/questions/what-is-newtons-law-of-gravitation-and-how-is-it-mathematically-formulated
 ---
 
 &nbsp;

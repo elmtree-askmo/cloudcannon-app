@@ -24,23 +24,29 @@ file_name: how-can-the-concept-of-banana-equivalent-dose-bed-be-explained-to-pat
 url: /learn/health-studies/questions/how-can-the-concept-of-banana-equivalent-dose-bed-be-explained-to-patients
 score: -1.0
 related_article1:
+    id: 116079
+    title: >-
+        What is the function of Geiger-Muller tubes in radiation measurement?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-function-of-geigermuller-tubes-in-radiation-measurement
+related_article2:
+    id: 116063
+    title: >-
+        How has the understanding of radiation safety practices changed over the years?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-has-the-understanding-of-radiation-safety-practices-changed-over-the-years
+related_article3:
     id: 116065
     title: >-
         How is the conservation of energy applied in dose measurement and control?
     subject: Health Studies
     url: /learn/health-studies/questions/how-is-the-conservation-of-energy-applied-in-dose-measurement-and-control
-related_article2:
-    id: 116058
+related_article4:
+    id: 116081
     title: >-
-        What were the key events leading to the discovery of X-rays and radioactive materials?
-    subject: Physics
-    url: /learn/physics/questions/what-were-the-key-events-leading-to-the-discovery-of-xrays-and-radioactive-materials
-related_article3:
-    id: 116082
-    title: >-
-        How do time, distance, and shielding contribute to radiation protection?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-time-distance-and-shielding-contribute-to-radiation-protection
+        What are the key strategies for radiation protection in medical imaging?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-key-strategies-for-radiation-protection-in-medical-imaging
 ---
 
 &nbsp;

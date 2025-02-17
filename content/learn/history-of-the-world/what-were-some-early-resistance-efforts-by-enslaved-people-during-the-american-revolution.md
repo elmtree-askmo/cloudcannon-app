@@ -30,12 +30,6 @@ related_article1:
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-punishments-and-control-mechanisms-were-used-to-maintain-slavery
 related_article2:
-    id: 108892
-    title: >-
-        How did David Walker's Appeal impact the abolitionist movement?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-david-walkers-appeal-impact-the-abolitionist-movement
-related_article3:
     id: 108857
     title: >-
         What were the different forms of resistance employed by enslaved people?

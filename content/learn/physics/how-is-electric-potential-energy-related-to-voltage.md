@@ -24,29 +24,29 @@ file_name: how-is-electric-potential-energy-related-to-voltage.md
 url: /learn/physics/questions/how-is-electric-potential-energy-related-to-voltage
 score: -1.0
 related_article1:
-    id: 122458
+    id: 122465
     title: >-
-        What are the key equations of motion for uniform motion?
+        How is work defined in physics, and how does it relate to energy?
     subject: Physics
-    url: /learn/physics/questions/what-are-the-key-equations-of-motion-for-uniform-motion
+    url: /learn/physics/questions/how-is-work-defined-in-physics-and-how-does-it-relate-to-energy
 related_article2:
+    id: 122455
+    title: >-
+        How do velocity and speed differ in the context of motion?
+    subject: Physics
+    url: /learn/physics/questions/how-do-velocity-and-speed-differ-in-the-context-of-motion
+related_article3:
+    id: 122453
+    title: >-
+        How is average velocity calculated, and how does it differ from instantaneous velocity?
+    subject: Physics
+    url: /learn/physics/questions/how-is-average-velocity-calculated-and-how-does-it-differ-from-instantaneous-velocity
+related_article4:
     id: 122449
     title: >-
         What are the key steps involved in setting up a physics problem?
     subject: Physics
     url: /learn/physics/questions/what-are-the-key-steps-involved-in-setting-up-a-physics-problem
-related_article3:
-    id: 122464
-    title: >-
-        What is the role of torque in rotational equilibrium?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-role-of-torque-in-rotational-equilibrium
-related_article4:
-    id: 122469
-    title: >-
-        How is power defined in physics, and what factors influence efficiency?
-    subject: Physics
-    url: /learn/physics/questions/how-is-power-defined-in-physics-and-what-factors-influence-efficiency
 ---
 
 &nbsp;

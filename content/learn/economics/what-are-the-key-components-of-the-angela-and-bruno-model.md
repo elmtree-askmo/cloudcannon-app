@@ -30,17 +30,17 @@ related_article1:
     subject: Economics
     url: /learn/economics/questions/what-are-some-effective-strategies-for-addressing-economic-inequality
 related_article2:
-    id: 119997
-    title: >-
-        What are some case studies that illustrate different institutional arrangements?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-some-case-studies-that-illustrate-different-institutional-arrangements
-related_article3:
     id: 120002
     title: >-
         How do institutions and power dynamics interact to affect social outcomes?
     subject: Sociology
     url: /learn/sociology/questions/how-do-institutions-and-power-dynamics-interact-to-affect-social-outcomes
+related_article3:
+    id: 119997
+    title: >-
+        What are some case studies that illustrate different institutional arrangements?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-some-case-studies-that-illustrate-different-institutional-arrangements
 ---
 
 &nbsp;

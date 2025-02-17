@@ -24,35 +24,35 @@ file_name: how-do-the-equations-of-motion-change-for-uniformly-accelerated-motio
 url: /learn/physics/questions/how-do-the-equations-of-motion-change-for-uniformly-accelerated-motion
 score: -1.0
 related_article1:
-    id: 122452
+    id: 122453
     title: >-
-        Can you explain the difference between displacement and distance in motion and kinematics?
+        How is average velocity calculated, and how does it differ from instantaneous velocity?
     subject: Physics
-    url: /learn/physics/questions/can-you-explain-the-difference-between-displacement-and-distance-in-motion-and-kinematics
+    url: /learn/physics/questions/how-is-average-velocity-calculated-and-how-does-it-differ-from-instantaneous-velocity
 related_article2:
-    id: 122461
+    id: 122476
     title: >-
-        How does Newton's Second Law relate to force and acceleration?
+        How is density defined, and what is its significance in physics?
     subject: Physics
-    url: /learn/physics/questions/how-does-newtons-second-law-relate-to-force-and-acceleration
+    url: /learn/physics/questions/how-is-density-defined-and-what-is-its-significance-in-physics
 related_article3:
+    id: 122478
+    title: >-
+        How do heat and temperature differ, and what is the role of specific heat capacity in thermal processes?
+    subject: Physics
+    url: /learn/physics/questions/how-do-heat-and-temperature-differ-and-what-is-the-role-of-specific-heat-capacity-in-thermal-processes
+related_article4:
     id: 122455
     title: >-
         How do velocity and speed differ in the context of motion?
     subject: Physics
     url: /learn/physics/questions/how-do-velocity-and-speed-differ-in-the-context-of-motion
-related_article4:
-    id: 122466
-    title: >-
-        What are the different forms of potential energy, and how are they calculated?
-    subject: Physics
-    url: /learn/physics/questions/what-are-the-different-forms-of-potential-energy-and-how-are-they-calculated
 related_article5:
-    id: 122469
+    id: 122477
     title: >-
-        How is power defined in physics, and what factors influence efficiency?
+        What is Archimedes' Principle, and how does it explain buoyancy?
     subject: Physics
-    url: /learn/physics/questions/how-is-power-defined-in-physics-and-what-factors-influence-efficiency
+    url: /learn/physics/questions/what-is-archimedes-principle-and-how-does-it-explain-buoyancy
 ---
 
 &nbsp;

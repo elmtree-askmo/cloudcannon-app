@@ -23,12 +23,7 @@ subject: Mathematics
 file_name: what-are-complementary-events-in-probability.md
 url: /learn/mathematics/questions/what-are-complementary-events-in-probability
 score: -1.0
-related_article1:
-    id: 122770
-    title: >-
-        What role does probability play in customer product choice?
-    subject: Economics
-    url: /learn/economics/questions/what-role-does-probability-play-in-customer-product-choice
+
 ---
 
 &nbsp;

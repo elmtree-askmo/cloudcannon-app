@@ -24,17 +24,17 @@ file_name: what-are-the-characteristics-of-hydrogen-bonding.md
 url: /learn/chemistry/questions/what-are-the-characteristics-of-hydrogen-bonding
 score: -1.0
 related_article1:
+    id: 123599
+    title: >-
+        Why is hydrogen bonding important in biological structures?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/why-is-hydrogen-bonding-important-in-biological-structures
+related_article2:
     id: 123617
     title: >-
         How do intermolecular forces influence melting points?
     subject: Chemistry
     url: /learn/chemistry/questions/how-do-intermolecular-forces-influence-melting-points
-related_article2:
-    id: 123603
-    title: >-
-        How do water molecules demonstrate intermolecular forces?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-do-water-molecules-demonstrate-intermolecular-forces
 ---
 
 &nbsp;

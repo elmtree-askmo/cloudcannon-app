@@ -24,29 +24,35 @@ file_name: how-are-pancreatic-calcifications-visualized-on-an-abdominal-xray.md
 url: /learn/medicine/questions/how-are-pancreatic-calcifications-visualized-on-an-abdominal-xray
 score: -1.0
 related_article1:
-    id: 118180
+    id: 118188
     title: >-
-        How effective is ultrasound in detecting focal liver lesions?
-    subject: Medicine
-    url: /learn/medicine/questions/how-effective-is-ultrasound-in-detecting-focal-liver-lesions
-related_article2:
-    id: 118197
-    title: >-
-        How does patient preparation differ for abdominal X-ray versus ultrasound in habitability assessments?
+        What are the challenges faced in ultrasound imaging, particularly regarding operator dependency?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-patient-preparation-differ-for-abdominal-xray-versus-ultrasound-in-habitability-assessments
+    url: /learn/health-studies/questions/what-are-the-challenges-faced-in-ultrasound-imaging-particularly-regarding-operator-dependency
+related_article2:
+    id: 118178
+    title: >-
+        How is ultrasound used in the assessment of liver conditions like cirrhosis and steatosis?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-ultrasound-used-in-the-assessment-of-liver-conditions-like-cirrhosis-and-steatosis
 related_article3:
-    id: 118182
+    id: 118196
     title: >-
-        How are gallstones detected through radiological imaging?
-    subject: Medicine
-    url: /learn/medicine/questions/how-are-gallstones-detected-through-radiological-imaging
+        What are the cost implications of using different imaging modalities for habitability disorders?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-cost-implications-of-using-different-imaging-modalities-for-habitability-disorders
 related_article4:
-    id: 118184
+    id: 118195
     title: >-
-        What are the radiological features of pancreatic head mass and chronic pancreatitis?
+        How do imaging modalities contribute to the management and treatment planning of habitability diseases?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-radiological-features-of-pancreatic-head-mass-and-chronic-pancreatitis
+    url: /learn/medicine/questions/how-do-imaging-modalities-contribute-to-the-management-and-treatment-planning-of-habitability-diseases
+related_article5:
+    id: 118187
+    title: >-
+        How does hepatic artery Doppler ultrasound contribute to liver assessment?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-hepatic-artery-doppler-ultrasound-contribute-to-liver-assessment
 ---
 
 &nbsp;

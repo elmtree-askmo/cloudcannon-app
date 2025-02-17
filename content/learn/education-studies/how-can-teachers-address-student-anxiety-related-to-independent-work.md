@@ -24,17 +24,17 @@ file_name: how-can-teachers-address-student-anxiety-related-to-independent-work.
 url: /learn/education-studies/questions/how-can-teachers-address-student-anxiety-related-to-independent-work
 score: -1.0
 related_article1:
-    id: 97894
-    title: >-
-        What are some examples of successful independent work activities?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-examples-of-successful-independent-work-activities
-related_article2:
     id: 97895
     title: >-
         How can teachers create a supportive environment for independent work?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-teachers-create-a-supportive-environment-for-independent-work
+related_article2:
+    id: 97894
+    title: >-
+        What are some examples of successful independent work activities?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-some-examples-of-successful-independent-work-activities
 ---
 
 &nbsp;

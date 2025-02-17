@@ -24,11 +24,11 @@ file_name: why-is-csr-important-for-marketing.md
 url: /learn/business-and-management/questions/why-is-csr-important-for-marketing
 score: -1.0
 related_article1:
-    id: 102579
+    id: 102572
     title: >-
-        What challenges arise when balancing Kantian and utilitarian principles in marketing?
+        What are common ethical dilemmas faced in marketing?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-challenges-arise-when-balancing-kantian-and-utilitarian-principles-in-marketing
+    url: /learn/business-and-management/questions/what-are-common-ethical-dilemmas-faced-in-marketing
 related_article2:
     id: 102565
     title: >-
@@ -36,11 +36,11 @@ related_article2:
     subject: Business and Management
     url: /learn/business-and-management/questions/how-do-ethical-boundaries-impact-marketing-strategies
 related_article3:
-    id: 102572
+    id: 102579
     title: >-
-        What are common ethical dilemmas faced in marketing?
+        What challenges arise when balancing Kantian and utilitarian principles in marketing?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-common-ethical-dilemmas-faced-in-marketing
+    url: /learn/business-and-management/questions/what-challenges-arise-when-balancing-kantian-and-utilitarian-principles-in-marketing
 ---
 
 &nbsp;

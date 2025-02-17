@@ -24,29 +24,35 @@ file_name: what-are-the-common-inflammatory-thyroid-conditions.md
 url: /learn/health-studies/questions/what-are-the-common-inflammatory-thyroid-conditions
 score: -1.0
 related_article1:
-    id: 123940
-    title: >-
-        What are the risk factors associated with the development of thyroid nodules?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-risk-factors-associated-with-the-development-of-thyroid-nodules
-related_article2:
-    id: 123949
-    title: >-
-        How does molecular testing contribute to the diagnosis of thyroid conditions?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-molecular-testing-contribute-to-the-diagnosis-of-thyroid-conditions
-related_article3:
     id: 123953
     title: >-
         What are the surgical options for treating benign thyroid nodules?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-surgical-options-for-treating-benign-thyroid-nodules
-related_article4:
-    id: 123955
+related_article2:
+    id: 123946
     title: >-
-        What non-surgical treatments are available for benign thyroid nodules?
+        What blood tests are commonly used in the investigation of thyroid conditions?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-blood-tests-are-commonly-used-in-the-investigation-of-thyroid-conditions
+related_article3:
+    id: 123950
+    title: >-
+        What imaging techniques are used in the investigation of thyroid conditions?
     subject: Medicine
-    url: /learn/medicine/questions/what-nonsurgical-treatments-are-available-for-benign-thyroid-nodules
+    url: /learn/medicine/questions/what-imaging-techniques-are-used-in-the-investigation-of-thyroid-conditions
+related_article4:
+    id: 123942
+    title: >-
+        What are the different types of goiter and how are they classified?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-different-types-of-goiter-and-how-are-they-classified
+related_article5:
+    id: 123939
+    title: >-
+        What are the most common types of benign thyroid nodules?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-most-common-types-of-benign-thyroid-nodules
 ---
 
 &nbsp;

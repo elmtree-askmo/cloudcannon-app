@@ -24,29 +24,29 @@ file_name: what-is-the-career-progression-for-a-storage-analyst-to-become-an-arc
 url: /learn/computer-science/questions/what-is-the-career-progression-for-a-storage-analyst-to-become-an-architect
 score: -1.0
 related_article1:
-    id: 122345
+    id: 122336
     title: >-
-        What are the main responsibilities of an Infrastructure Analyst?
+        What is the typical career progression for someone in Deskside Services?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-responsibilities-of-an-infrastructure-analyst
+    url: /learn/computer-science/questions/what-is-the-typical-career-progression-for-someone-in-deskside-services
 related_article2:
-    id: 122330
+    id: 122339
     title: >-
-        What skills are essential for a Help Desk Analyst to be successful?
+        What qualifications are generally required for a Network Administrator role?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-skills-are-essential-for-a-help-desk-analyst-to-be-successful
+    url: /learn/computer-science/questions/what-qualifications-are-generally-required-for-a-network-administrator-role
 related_article3:
-    id: 122344
+    id: 122342
     title: >-
-        What is the career path for a Data Centre Administrator?
+        What skills are important for a Data Centre Administrator to have?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-career-path-for-a-data-centre-administrator
+    url: /learn/computer-science/questions/what-skills-are-important-for-a-data-centre-administrator-to-have
 related_article4:
-    id: 122347
+    id: 122357
     title: >-
-        What qualifications are typically required for an Infrastructure Analyst role?
+        What are the main duties of someone in Application Services?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-qualifications-are-typically-required-for-an-infrastructure-analyst-role
+    url: /learn/computer-science/questions/what-are-the-main-duties-of-someone-in-application-services
 ---
 
 &nbsp;

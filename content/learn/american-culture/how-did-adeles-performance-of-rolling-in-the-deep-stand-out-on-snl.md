@@ -24,35 +24,35 @@ file_name: how-did-adeles-performance-of-rolling-in-the-deep-stand-out-on-snl.md
 url: /learn/american-culture/questions/how-did-adeles-performance-of-rolling-in-the-deep-stand-out-on-snl
 score: -1.0
 related_article1:
-    id: 1026
+    id: 1029
     title: >-
-        How did Tina Fey's role as the first female head writer impact SNL's comedy history?
+        How does the parody song 'King Tut' reflect SNL's approach to comedic music videos?
     subject: American Culture
-    url: /learn/american-culture/questions/how-did-tina-feys-role-as-the-first-female-head-writer-impact-snls-comedy-history
+    url: /learn/american-culture/questions/how-does-the-parody-song-king-tut-reflect-snls-approach-to-comedic-music-videos
 related_article2:
+    id: 1028
+    title: >-
+        What is the significance of the 'Lazy Sunday' digital short in the evolution of SNL's sketch format?
+    subject: American Culture
+    url: /learn/american-culture/questions/what-is-the-significance-of-the-lazy-sunday-digital-short-in-the-evolution-of-snls-sketch-format
+related_article3:
+    id: 1013
+    title: >-
+        What made The Weeknd's performance of 'Can't Feel My Face' memorable on SNL?
+    subject: American Culture
+    url: /learn/american-culture/questions/what-made-the-weeknds-performance-of-cant-feel-my-face-memorable-on-snl
+related_article4:
     id: 1024
     title: >-
         How does 'Celebrity Jeopardy!' utilize parody to create humor?
     subject: American Culture
     url: /learn/american-culture/questions/how-does-celebrity-jeopardy-utilize-parody-to-create-humor
-related_article3:
-    id: 1003
-    title: >-
-        How does 'The Lawrence Welk Show' parody use exaggeration to create humor?
-    subject: American Culture
-    url: /learn/american-culture/questions/how-does-the-lawrence-welk-show-parody-use-exaggeration-to-create-humor
-related_article4:
-    id: 1017
-    title: >-
-        What cultural impact did Steve Martin's 'King Tut' have on SNL?
-    subject: American Culture
-    url: /learn/american-culture/questions/what-cultural-impact-did-steve-martins-king-tut-have-on-snl
 related_article5:
-    id: 1025
+    id: 1027
     title: >-
-        How does the portrayal of Matt Foley contribute to his iconic status on SNL?
+        How does SNL utilize celebrity impersonations to enhance its comedic impact?
     subject: American Culture
-    url: /learn/american-culture/questions/how-does-the-portrayal-of-matt-foley-contribute-to-his-iconic-status-on-snl
+    url: /learn/american-culture/questions/how-does-snl-utilize-celebrity-impersonations-to-enhance-its-comedic-impact
 ---
 
 &nbsp;

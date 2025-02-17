@@ -24,29 +24,29 @@ file_name: how-can-airtable-integrate-with-other-systems-and-tools.md
 url: /learn/digital-media/questions/how-can-airtable-integrate-with-other-systems-and-tools
 score: -1.0
 related_article1:
-    id: 117961
+    id: 117969
     title: >-
-        Can you explain the basic concept of Airtable as a database?
-    subject: Computer Science
-    url: /learn/computer-science/questions/can-you-explain-the-basic-concept-of-airtable-as-a-database
-related_article2:
-    id: 117986
-    title: >-
-        How does Airtable's user interface enhance user experience?
+        What are the capabilities of Airtable's API access?
     subject: Digital Media
-    url: /learn/digital-media/questions/how-does-airtables-user-interface-enhance-user-experience
+    url: /learn/digital-media/questions/what-are-the-capabilities-of-airtables-api-access
+related_article2:
+    id: 117968
+    title: >-
+        How does Airtable's automation engine work?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-does-airtables-automation-engine-work
 related_article3:
-    id: 117972
+    id: 117975
     title: >-
-        How suitable is Airtable for startups and small businesses?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-suitable-is-airtable-for-startups-and-small-businesses
+        In what ways does Airtable differ from project management tools like Asana?
+    subject: Digital Media
+    url: /learn/digital-media/questions/in-what-ways-does-airtable-differ-from-project-management-tools-like-asana
 related_article4:
-    id: 117981
+    id: 117965
     title: >-
-        What are the pricing plans for Airtable and how do they compare to competitors?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-pricing-plans-for-airtable-and-how-do-they-compare-to-competitors
+        What types of data views are available in Airtable?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-types-of-data-views-are-available-in-airtable
 ---
 
 &nbsp;

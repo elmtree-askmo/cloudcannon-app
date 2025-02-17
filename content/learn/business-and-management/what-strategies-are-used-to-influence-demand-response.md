@@ -24,35 +24,35 @@ file_name: what-strategies-are-used-to-influence-demand-response.md
 url: /learn/business-and-management/questions/what-strategies-are-used-to-influence-demand-response
 score: -1.0
 related_article1:
-    id: 119510
-    title: >-
-        What are the different entities that can be marketed?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-different-entities-that-can-be-marketed
-related_article2:
-    id: 119527
-    title: >-
-        What are the key metrics used in marketing planning?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-key-metrics-used-in-marketing-planning
-related_article3:
-    id: 119515
-    title: >-
-        How is marketing applied to properties and organizations?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-is-marketing-applied-to-properties-and-organizations
-related_article4:
-    id: 119511
-    title: >-
-        How do goods differ from services in marketing?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-do-goods-differ-from-services-in-marketing
-related_article5:
     id: 119509
     title: >-
         How does marketing contribute to a company's success and job creation?
     subject: Business and Management
     url: /learn/business-and-management/questions/how-does-marketing-contribute-to-a-companys-success-and-job-creation
+related_article2:
+    id: 119529
+    title: >-
+        What is the Ansoff Matrix and how is it used in market penetration analysis?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-is-the-ansoff-matrix-and-how-is-it-used-in-market-penetration-analysis
+related_article3:
+    id: 119523
+    title: >-
+        How do government markets differ from other market types?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-do-government-markets-differ-from-other-market-types
+related_article4:
+    id: 119516
+    title: >-
+        What is the significance of marketing information and ideas?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-is-the-significance-of-marketing-information-and-ideas
+related_article5:
+    id: 119531
+    title: >-
+        How do ethical considerations impact marketing strategies?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-do-ethical-considerations-impact-marketing-strategies
 ---
 
 &nbsp;

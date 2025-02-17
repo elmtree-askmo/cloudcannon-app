@@ -24,35 +24,23 @@ file_name: how-do-physicists-validate-mathematical-models-in-experiments.md
 url: /learn/physics/questions/how-do-physicists-validate-mathematical-models-in-experiments
 score: -1.0
 related_article1:
-    id: 119457
+    id: 119469
     title: >-
-        What are the philosophical implications of the relationship between physics and mathematics?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
+        What is the impact of computational mathematics on modern physics?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-impact-of-computational-mathematics-on-modern-physics
 related_article2:
-    id: 119462
+    id: 119461
     title: >-
-        How do physicists use mathematical tools to solve complex problems?
-    subject: Physics
-    url: /learn/physics/questions/how-do-physicists-use-mathematical-tools-to-solve-complex-problems
-related_article3:
-    id: 119468
-    title: >-
-        How do mathematical theories evolve with new scientific discoveries?
+        What is the significance of mathematical proofs in physics?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-mathematical-theories-evolve-with-new-scientific-discoveries
-related_article4:
-    id: 119449
+    url: /learn/mathematics/questions/what-is-the-significance-of-mathematical-proofs-in-physics
+related_article3:
+    id: 119465
     title: >-
-        What are fundamental principles and consequential statements in physics?
+        What is the role of geometry in understanding physical laws?
     subject: Physics
-    url: /learn/physics/questions/what-are-fundamental-principles-and-consequential-statements-in-physics
-related_article5:
-    id: 119456
-    title: >-
-        How does the minimum principle apply to physical systems?
-    subject: Physics
-    url: /learn/physics/questions/how-does-the-minimum-principle-apply-to-physical-systems
+    url: /learn/physics/questions/what-is-the-role-of-geometry-in-understanding-physical-laws
 ---
 
 &nbsp;

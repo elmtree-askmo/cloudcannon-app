@@ -24,35 +24,11 @@ file_name: how-do-surgical-and-endovascular-treatment-approaches-compare-in-term
 url: /learn/medicine/questions/how-do-surgical-and-endovascular-treatment-approaches-compare-in-terms-of-outcomes-for-acute-ischemia
 score: -1.0
 related_article1:
-    id: 102177
+    id: 102182
     title: >-
-        What are the latest technological advances in vascular surgery?
+        How do chronic and acute ischemia management strategies differ?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-latest-technological-advances-in-vascular-surgery
-related_article2:
-    id: 102180
-    title: >-
-        How does operator experience and preference affect treatment decisions in acute ischemia?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-operator-experience-and-preference-affect-treatment-decisions-in-acute-ischemia
-related_article3:
-    id: 102172
-    title: >-
-        What is the role of fasciotomy in managing compartment syndrome post-surgery?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-the-role-of-fasciotomy-in-managing-compartment-syndrome-postsurgery
-related_article4:
-    id: 102176
-    title: >-
-        What treatment options are available for managing chronic ischemia?
-    subject: Medicine
-    url: /learn/medicine/questions/what-treatment-options-are-available-for-managing-chronic-ischemia
-related_article5:
-    id: 102161
-    title: >-
-        What are the key diagnostic tools used for identifying acute ischemia?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-key-diagnostic-tools-used-for-identifying-acute-ischemia
+    url: /learn/medicine/questions/how-do-chronic-and-acute-ischemia-management-strategies-differ
 ---
 
 &nbsp;

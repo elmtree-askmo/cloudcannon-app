@@ -24,35 +24,35 @@ file_name: what-were-the-key-features-of-the-macintosh-gui-released-in-1984.md
 url: /learn/computer-science/questions/what-were-the-key-features-of-the-macintosh-gui-released-in-1984
 score: -1.0
 related_article1:
-    id: 119400
+    id: 119396
     title: >-
-        Can you provide an example of a simple survey UI using the grid layout manager in Tkinter?
+        Can you provide a simple example using the pack() method in Tkinter?
     subject: Computer Science
-    url: /learn/computer-science/questions/can-you-provide-an-example-of-a-simple-survey-ui-using-the-grid-layout-manager-in-tkinter
+    url: /learn/computer-science/questions/can-you-provide-a-simple-example-using-the-pack-method-in-tkinter
 related_article2:
-    id: 119411
+    id: 119393
     title: >-
-        How has the evolution of user interfaces impacted modern technology?
+        How do layout managers in Tkinter help in designing GUIs?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-has-the-evolution-of-user-interfaces-impacted-modern-technology
+    url: /learn/computer-science/questions/how-do-layout-managers-in-tkinter-help-in-designing-guis
 related_article3:
-    id: 119406
+    id: 119385
     title: >-
-        How can GUIs be integrated with databases like SQLITE?
+        What innovations did Xerox PARC introduce with the Xerox Alto in 1973?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-guis-be-integrated-with-databases-like-sqlite
+    url: /learn/computer-science/questions/what-innovations-did-xerox-parc-introduce-with-the-xerox-alto-in-1973
 related_article4:
-    id: 119407
+    id: 119404
     title: >-
-        What is an overview of SQL and its components?
+        What are the key takeaways when creating a login interface with Tkinter?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-an-overview-of-sql-and-its-components
+    url: /learn/computer-science/questions/what-are-the-key-takeaways-when-creating-a-login-interface-with-tkinter
 related_article5:
-    id: 119405
+    id: 119395
     title: >-
-        How can a login interface in Tkinter be further improved?
+        What customization options are available with the pack layout manager in Tkinter?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-a-login-interface-in-tkinter-be-further-improved
+    url: /learn/computer-science/questions/what-customization-options-are-available-with-the-pack-layout-manager-in-tkinter
 ---
 
 &nbsp;

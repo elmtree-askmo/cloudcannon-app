@@ -24,35 +24,29 @@ file_name: how-does-biometric-authentication-work-and-what-are-its-benefits.md
 url: /learn/computer-science/questions/how-does-biometric-authentication-work-and-what-are-its-benefits
 score: -1.0
 related_article1:
-    id: 122277
+    id: 122288
     title: >-
-        How can network media security be ensured?
+        What are the benefits of email and spam filtering in network security?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-network-media-security-be-ensured
+    url: /learn/computer-science/questions/what-are-the-benefits-of-email-and-spam-filtering-in-network-security
 related_article2:
-    id: 122296
+    id: 122289
     title: >-
-        What are the advantages of two-factor authentication (2FA)?
+        How do antivirus and antimalware software protect networks?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-advantages-of-twofactor-authentication-2fa
+    url: /learn/computer-science/questions/how-do-antivirus-and-antimalware-software-protect-networks
 related_article3:
-    id: 122276
-    title: >-
-        Why are login credentials critical in network security?
-    subject: Computer Science
-    url: /learn/computer-science/questions/why-are-login-credentials-critical-in-network-security
-related_article4:
     id: 122293
     title: >-
         What are the key elements of password security?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-key-elements-of-password-security
-related_article5:
-    id: 122286
+related_article4:
+    id: 122280
     title: >-
-        Why is it important to restrict USB port and software installation?
+        What strategies are effective against phishing and ransomware attacks?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-it-important-to-restrict-usb-port-and-software-installation
+    url: /learn/computer-science/questions/what-strategies-are-effective-against-phishing-and-ransomware-attacks
 ---
 
 &nbsp;

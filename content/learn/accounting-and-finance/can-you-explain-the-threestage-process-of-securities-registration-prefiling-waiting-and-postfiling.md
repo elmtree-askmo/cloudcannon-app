@@ -24,35 +24,23 @@ file_name: can-you-explain-the-threestage-process-of-securities-registration-pre
 url: /learn/accounting-and-finance/questions/can-you-explain-the-threestage-process-of-securities-registration-prefiling-waiting-and-postfiling
 score: -1.0
 related_article1:
-    id: 122991
+    id: 123005
     title: >-
-        What is an agency shop agreement and how does it differ from a closed shop agreement?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-an-agency-shop-agreement-and-how-does-it-differ-from-a-closed-shop-agreement
+        What exceptions exist under the Robinson-Patman Amendment?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-exceptions-exist-under-the-robinsonpatman-amendment
 related_article2:
-    id: 122988
+    id: 123003
     title: >-
-        What role did the National Labor Relations Board (NLRB) play after its creation in 1935?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-did-the-national-labor-relations-board-nlrb-play-after-its-creation-in-1935
+        How do price fixing and division of markets violate the Clayton Antitrust Act?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-do-price-fixing-and-division-of-markets-violate-the-clayton-antitrust-act
 related_article3:
-    id: 123015
+    id: 122990
     title: >-
-        What is the short swing profit rule and how does it apply to insiders?
+        How did the Wagner Act and Taft-Hartley Act of 1937 impact labor relations?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-the-short-swing-profit-rule-and-how-does-it-apply-to-insiders
-related_article4:
-    id: 122995
-    title: >-
-        How does the concept of a runaway shop affect labor relations?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-does-the-concept-of-a-runaway-shop-affect-labor-relations
-related_article5:
-    id: 123009
-    title: >-
-        What is the non-materiality defense in securities regulation?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-the-nonmateriality-defense-in-securities-regulation
+    url: /learn/criminal-or-civil-law/questions/how-did-the-wagner-act-and-tafthartley-act-of-1937-impact-labor-relations
 ---
 
 &nbsp;

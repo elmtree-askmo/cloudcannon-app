@@ -24,35 +24,29 @@ file_name: what-is-an-overview-of-sql-and-its-components.md
 url: /learn/computer-science/questions/what-is-an-overview-of-sql-and-its-components
 score: -1.0
 related_article1:
-    id: 119400
+    id: 119388
     title: >-
-        Can you provide an example of a simple survey UI using the grid layout manager in Tkinter?
+        What challenges did early GUI developers face and what is the legacy of these challenges?
     subject: Computer Science
-    url: /learn/computer-science/questions/can-you-provide-an-example-of-a-simple-survey-ui-using-the-grid-layout-manager-in-tkinter
+    url: /learn/computer-science/questions/what-challenges-did-early-gui-developers-face-and-what-is-the-legacy-of-these-challenges
 related_article2:
-    id: 119382
+    id: 119405
     title: >-
-        What were the key features of the Macintosh GUI released in 1984?
+        How can a login interface in Tkinter be further improved?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-were-the-key-features-of-the-macintosh-gui-released-in-1984
+    url: /learn/computer-science/questions/how-can-a-login-interface-in-tkinter-be-further-improved
 related_article3:
-    id: 119406
+    id: 119401
     title: >-
-        How can GUIs be integrated with databases like SQLITE?
+        How can the grid layout manager be used to create a profile entry UI in Tkinter?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-guis-be-integrated-with-databases-like-sqlite
+    url: /learn/computer-science/questions/how-can-the-grid-layout-manager-be-used-to-create-a-profile-entry-ui-in-tkinter
 related_article4:
-    id: 119411
+    id: 119393
     title: >-
-        How has the evolution of user interfaces impacted modern technology?
+        How do layout managers in Tkinter help in designing GUIs?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-has-the-evolution-of-user-interfaces-impacted-modern-technology
-related_article5:
-    id: 119409
-    title: >-
-        How have user interfaces evolved over time?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-have-user-interfaces-evolved-over-time
+    url: /learn/computer-science/questions/how-do-layout-managers-in-tkinter-help-in-designing-guis
 ---
 
 &nbsp;

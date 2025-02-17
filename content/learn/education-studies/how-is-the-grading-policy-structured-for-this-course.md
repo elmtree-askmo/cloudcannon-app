@@ -24,17 +24,17 @@ file_name: how-is-the-grading-policy-structured-for-this-course.md
 url: /learn/education-studies/questions/how-is-the-grading-policy-structured-for-this-course
 score: -1.0
 related_article1:
-    id: 119819
-    title: >-
-        How can students effectively manage their time during exams?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-students-effectively-manage-their-time-during-exams
-related_article2:
     id: 119825
     title: >-
         How can students seek help if they have concerns about their grades?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-students-seek-help-if-they-have-concerns-about-their-grades
+related_article2:
+    id: 119819
+    title: >-
+        How can students effectively manage their time during exams?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-students-effectively-manage-their-time-during-exams
 ---
 
 &nbsp;

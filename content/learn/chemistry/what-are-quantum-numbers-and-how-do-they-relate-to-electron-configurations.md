@@ -24,35 +24,35 @@ file_name: what-are-quantum-numbers-and-how-do-they-relate-to-electron-configura
 url: /learn/chemistry/questions/what-are-quantum-numbers-and-how-do-they-relate-to-electron-configurations
 score: -1.0
 related_article1:
-    id: 117922
+    id: 117906
     title: >-
-        How is concentration calculated in solutions?
+        How is electron configuration determined for an element?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-is-concentration-calculated-in-solutions
+    url: /learn/chemistry/questions/how-is-electron-configuration-determined-for-an-element
 related_article2:
-    id: 117923
+    id: 117928
     title: >-
-        What factors affect solubility predictions?
+        What trends are observed in ionization energies across the periodic table?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-factors-affect-solubility-predictions
+    url: /learn/chemistry/questions/what-trends-are-observed-in-ionization-energies-across-the-periodic-table
 related_article3:
-    id: 117921
+    id: 117908
     title: >-
-        What are lattice systems and unit cells in solids?
+        What is the difference between diamagnetism and paramagnetism?
     subject: Physics
-    url: /learn/physics/questions/what-are-lattice-systems-and-unit-cells-in-solids
+    url: /learn/physics/questions/what-is-the-difference-between-diamagnetism-and-paramagnetism
 related_article4:
-    id: 117901
+    id: 117920
     title: >-
-        How is heat calculated for a temperature change in a substance?
-    subject: Physics
-    url: /learn/physics/questions/how-is-heat-calculated-for-a-temperature-change-in-a-substance
-related_article5:
-    id: 117912
-    title: >-
-        What are formal charges and how are they calculated?
+        How are phase diagrams used to represent states of matter?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-formal-charges-and-how-are-they-calculated
+    url: /learn/chemistry/questions/how-are-phase-diagrams-used-to-represent-states-of-matter
+related_article5:
+    id: 117902
+    title: >-
+        What is the heat of combustion and how is it measured?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-heat-of-combustion-and-how-is-it-measured
 ---
 
 &nbsp;

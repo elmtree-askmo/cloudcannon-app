@@ -24,35 +24,35 @@ file_name: what-is-the-career-path-for-a-data-centre-administrator.md
 url: /learn/computer-science/questions/what-is-the-career-path-for-a-data-centre-administrator
 score: -1.0
 related_article1:
-    id: 122353
+    id: 122352
     title: >-
-        What are the primary responsibilities of an IT Security Analyst?
+        What is the career progression for a Storage Analyst to become an Architect?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-primary-responsibilities-of-an-it-security-analyst
+    url: /learn/computer-science/questions/what-is-the-career-progression-for-a-storage-analyst-to-become-an-architect
 related_article2:
-    id: 122337
+    id: 122338
     title: >-
-        What are the key responsibilities of a Network Administrator?
+        What skills are crucial for a Network Administrator to possess?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-responsibilities-of-a-network-administrator
+    url: /learn/computer-science/questions/what-skills-are-crucial-for-a-network-administrator-to-possess
 related_article3:
-    id: 122354
+    id: 122346
     title: >-
-        What skills are crucial for an IT Security Analyst to be effective?
+        What skills are essential for an Infrastructure Analyst and Architect?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-skills-are-crucial-for-an-it-security-analyst-to-be-effective
+    url: /learn/computer-science/questions/what-skills-are-essential-for-an-infrastructure-analyst-and-architect
 related_article4:
-    id: 122351
+    id: 122334
     title: >-
-        What qualifications are needed for a career as a Storage Analyst?
+        What skills are necessary for someone working in Deskside Services?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-qualifications-are-needed-for-a-career-as-a-storage-analyst
+    url: /learn/computer-science/questions/what-skills-are-necessary-for-someone-working-in-deskside-services
 related_article5:
-    id: 122329
+    id: 122355
     title: >-
-        What are the primary responsibilities of a Help Desk Analyst?
+        What qualifications are generally required for an IT Security Analyst role?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-primary-responsibilities-of-a-help-desk-analyst
+    url: /learn/computer-science/questions/what-qualifications-are-generally-required-for-an-it-security-analyst-role
 ---
 
 &nbsp;

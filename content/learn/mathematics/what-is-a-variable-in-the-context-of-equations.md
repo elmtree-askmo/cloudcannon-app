@@ -30,23 +30,11 @@ related_article1:
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-techniques-for-simplifying-expressions-in-equations
 related_article2:
-    id: 111644
-    title: >-
-        How is division performed and what are its fundamental rules?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-is-division-performed-and-what-are-its-fundamental-rules
-related_article3:
     id: 111658
     title: >-
         How do basic arithmetic operations relate to solving equations?
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-basic-arithmetic-operations-relate-to-solving-equations
-related_article4:
-    id: 111656
-    title: >-
-        What is the step-by-step process for solving equations?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-stepbystep-process-for-solving-equations
 ---
 
 &nbsp;

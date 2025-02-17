@@ -24,35 +24,35 @@ file_name: what-are-the-common-symptoms-of-metastatic-liver-cancer.md
 url: /learn/medicine/questions/what-are-the-common-symptoms-of-metastatic-liver-cancer
 score: -1.0
 related_article1:
+    id: 97072
+    title: >-
+        What are the potential complications of untreated liver cancer?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-potential-complications-of-untreated-liver-cancer
+related_article2:
+    id: 97055
+    title: >-
+        How is hepatomegaly clinically approached?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-hepatomegaly-clinically-approached
+related_article3:
     id: 97069
     title: >-
         What are the common laboratory tests used in the investigation of liver cancer?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-common-laboratory-tests-used-in-the-investigation-of-liver-cancer
-related_article2:
-    id: 97062
-    title: >-
-        How does Cholangiocarcinoma differ from other types of liver cancer?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-cholangiocarcinoma-differ-from-other-types-of-liver-cancer
-related_article3:
-    id: 97059
-    title: >-
-        What investigations are typically conducted for liver cancer diagnosis?
-    subject: Medicine
-    url: /learn/medicine/questions/what-investigations-are-typically-conducted-for-liver-cancer-diagnosis
 related_article4:
-    id: 97050
+    id: 97054
     title: >-
-        What are the key characteristics of Cholangiocarcinoma?
+        What is the clinical approach to identifying liver masses?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-key-characteristics-of-cholangiocarcinoma
+    url: /learn/medicine/questions/what-is-the-clinical-approach-to-identifying-liver-masses
 related_article5:
-    id: 97061
+    id: 97067
     title: >-
-        What are the latest advancements in the treatment of HCC?
+        How is liver cancer typically managed in clinical settings?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-latest-advancements-in-the-treatment-of-hcc
+    url: /learn/medicine/questions/how-is-liver-cancer-typically-managed-in-clinical-settings
 ---
 
 &nbsp;

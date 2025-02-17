@@ -23,30 +23,7 @@ subject: Mathematics
 file_name: can-you-provide-examples-of-discrete-random-variables.md
 url: /learn/mathematics/questions/can-you-provide-examples-of-discrete-random-variables
 score: -1.0
-related_article1:
-    id: 102706
-    title: >-
-        How do random variables relate to stochastic processes?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-random-variables-relate-to-stochastic-processes
-related_article2:
-    id: 102702
-    title: >-
-        How do random variables contribute to decision-making processes?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-random-variables-contribute-to-decisionmaking-processes
-related_article3:
-    id: 102703
-    title: >-
-        What are the challenges in working with random variables?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-challenges-in-working-with-random-variables
-related_article4:
-    id: 102685
-    title: >-
-        How do random variables differ from deterministic variables?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-random-variables-differ-from-deterministic-variables
+
 ---
 
 &nbsp;

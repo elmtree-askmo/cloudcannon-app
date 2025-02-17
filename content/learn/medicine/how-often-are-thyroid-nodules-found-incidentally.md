@@ -24,29 +24,35 @@ file_name: how-often-are-thyroid-nodules-found-incidentally.md
 url: /learn/medicine/questions/how-often-are-thyroid-nodules-found-incidentally
 score: -1.0
 related_article1:
+    id: 123994
+    title: >-
+        What factors are considered in risk group stratification for thyroid cancer prognosis?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-factors-are-considered-in-risk-group-stratification-for-thyroid-cancer-prognosis
+related_article2:
+    id: 123970
+    title: >-
+        How does the prevalence of thyroid nodules vary across different demographics?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-prevalence-of-thyroid-nodules-vary-across-different-demographics
+related_article3:
+    id: 123974
+    title: >-
+        How is nodular goiter different from benign follicular adenoma?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-nodular-goiter-different-from-benign-follicular-adenoma
+related_article4:
+    id: 123973
+    title: >-
+        What is thyroiditis and how does it relate to thyroid nodules?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-thyroiditis-and-how-does-it-relate-to-thyroid-nodules
+related_article5:
     id: 123993
     title: >-
         How is the prognosis of thyroid cancer determined?
     subject: Medicine
     url: /learn/medicine/questions/how-is-the-prognosis-of-thyroid-cancer-determined
-related_article2:
-    id: 123988
-    title: >-
-        What is the process for staging and risk stratification in thyroid cancer diagnosis?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-the-process-for-staging-and-risk-stratification-in-thyroid-cancer-diagnosis
-related_article3:
-    id: 123975
-    title: >-
-        What are the characteristics of differential thyroid carcinoma?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-characteristics-of-differential-thyroid-carcinoma
-related_article4:
-    id: 123979
-    title: >-
-        How is ultrasound used in the assessment of thyroid nodules?
-    subject: Medicine
-    url: /learn/medicine/questions/how-is-ultrasound-used-in-the-assessment-of-thyroid-nodules
 ---
 
 &nbsp;

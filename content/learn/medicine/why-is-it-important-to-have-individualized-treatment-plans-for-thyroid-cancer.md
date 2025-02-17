@@ -24,17 +24,17 @@ file_name: why-is-it-important-to-have-individualized-treatment-plans-for-thyroi
 url: /learn/medicine/questions/why-is-it-important-to-have-individualized-treatment-plans-for-thyroid-cancer
 score: -1.0
 related_article1:
-    id: 123974
+    id: 123987
     title: >-
-        How is nodular goiter different from benign follicular adenoma?
+        How is well-differentiated thyroid cancer different from medullary and anaplastic thyroid cancer?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-nodular-goiter-different-from-benign-follicular-adenoma
+    url: /learn/medicine/questions/how-is-welldifferentiated-thyroid-cancer-different-from-medullary-and-anaplastic-thyroid-cancer
 related_article2:
-    id: 123995
+    id: 123975
     title: >-
-        What are the survival rates for different types of thyroid cancer?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-survival-rates-for-different-types-of-thyroid-cancer
+        What are the characteristics of differential thyroid carcinoma?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-characteristics-of-differential-thyroid-carcinoma
 related_article3:
     id: 123984
     title: >-
@@ -42,11 +42,17 @@ related_article3:
     subject: Medicine
     url: /learn/medicine/questions/what-surgical-options-are-available-for-managing-benign-thyroid-nodules
 related_article4:
-    id: 123985
+    id: 123995
     title: >-
-        What non-surgical options exist for the management of benign thyroid nodules?
+        What are the survival rates for different types of thyroid cancer?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-survival-rates-for-different-types-of-thyroid-cancer
+related_article5:
+    id: 123992
+    title: >-
+        What adjuvant therapies are available for thyroid cancer management?
     subject: Medicine
-    url: /learn/medicine/questions/what-nonsurgical-options-exist-for-the-management-of-benign-thyroid-nodules
+    url: /learn/medicine/questions/what-adjuvant-therapies-are-available-for-thyroid-cancer-management
 ---
 
 &nbsp;

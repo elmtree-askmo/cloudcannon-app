@@ -24,29 +24,29 @@ file_name: how-did-wage-differences-affect-labor-movements-during-the-industrial
 url: /learn/history-of-the-world/questions/how-did-wage-differences-affect-labor-movements-during-the-industrial-revolution
 score: -1.0
 related_article1:
-    id: 123025
+    id: 123041
     title: >-
-        What were the global impacts of industrialization on agriculture?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-were-the-global-impacts-of-industrialization-on-agriculture
+        What were the key differences in economic strategies between China and India during the Industrial Revolution?
+    subject: Economics
+    url: /learn/economics/questions/what-were-the-key-differences-in-economic-strategies-between-china-and-india-during-the-industrial-revolution
 related_article2:
+    id: 123017
+    title: >-
+        How did the British textile industry evolve during the Industrial Revolution?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-british-textile-industry-evolve-during-the-industrial-revolution
+related_article3:
+    id: 123019
+    title: >-
+        What were the major chemical advancements during the Industrial Revolution?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-were-the-major-chemical-advancements-during-the-industrial-revolution
+related_article4:
     id: 123016
     title: >-
         What were the key technological innovations during the Industrial Revolution?
     subject: Engineering
     url: /learn/engineering/questions/what-were-the-key-technological-innovations-during-the-industrial-revolution
-related_article3:
-    id: 123030
-    title: >-
-        How did the Industrial Revolution set the stage for future discussions on capitalism?
-    subject: Economics
-    url: /learn/economics/questions/how-did-the-industrial-revolution-set-the-stage-for-future-discussions-on-capitalism
-related_article4:
-    id: 123022
-    title: >-
-        What are the Eurocentric explanations for the Industrial Revolution?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-eurocentric-explanations-for-the-industrial-revolution
 related_article5:
     id: 123043
     title: >-

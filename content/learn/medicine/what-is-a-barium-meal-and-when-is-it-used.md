@@ -24,35 +24,35 @@ file_name: what-is-a-barium-meal-and-when-is-it-used.md
 url: /learn/medicine/questions/what-is-a-barium-meal-and-when-is-it-used
 score: -1.0
 related_article1:
-    id: 118164
-    title: >-
-        What challenges are associated with contrast studies in GI radiology?
-    subject: Medicine
-    url: /learn/medicine/questions/what-challenges-are-associated-with-contrast-studies-in-gi-radiology
-related_article2:
-    id: 118153
-    title: >-
-        How can you differentiate between large and small bowel on an X-ray?
-    subject: Medicine
-    url: /learn/medicine/questions/how-can-you-differentiate-between-large-and-small-bowel-on-an-xray
-related_article3:
-    id: 118142
-    title: >-
-        What are the differences between barium and water-soluble contrast in GI studies?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-differences-between-barium-and-watersoluble-contrast-in-gi-studies
-related_article4:
     id: 118150
     title: >-
         What are the advantages of using MRI in GI radiology?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-advantages-of-using-mri-in-gi-radiology
-related_article5:
-    id: 118143
+related_article2:
+    id: 118141
     title: >-
-        Can you explain the procedure and purpose of a barium swallow?
+        How do plain films contribute to GI radiology?
     subject: Medicine
-    url: /learn/medicine/questions/can-you-explain-the-procedure-and-purpose-of-a-barium-swallow
+    url: /learn/medicine/questions/how-do-plain-films-contribute-to-gi-radiology
+related_article3:
+    id: 118163
+    title: >-
+        What are the limitations of plain abdominal X-rays in GI imaging?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-limitations-of-plain-abdominal-xrays-in-gi-imaging
+related_article4:
+    id: 118168
+    title: >-
+        What specific roles does MRI play in diagnosing GI disorders?
+    subject: Medicine
+    url: /learn/medicine/questions/what-specific-roles-does-mri-play-in-diagnosing-gi-disorders
+related_article5:
+    id: 118147
+    title: >-
+        How does computed tomography (CT) enhance GI imaging?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-computed-tomography-ct-enhance-gi-imaging
 ---
 
 &nbsp;

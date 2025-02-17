@@ -24,29 +24,29 @@ file_name: how-does-operator-fusion-enhance-llm-training-systems.md
 url: /learn/computer-science/questions/how-does-operator-fusion-enhance-llm-training-systems
 score: -1.0
 related_article1:
-    id: 97114
-    title: >-
-        What are the key architectural considerations when building LLMs?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-architectural-considerations-when-building-llms
-related_article2:
-    id: 97140
-    title: >-
-        What is the importance of low precision in LLM systems?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-importance-of-low-precision-in-llm-systems
-related_article3:
     id: 97119
     title: >-
         What is the role of autoregressive language models in LLMs?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-role-of-autoregressive-language-models-in-llms
-related_article4:
-    id: 97132
+related_article2:
+    id: 97115
     title: >-
-        What are the standard NLP benchmarks used for LLM evaluation?
+        How do training algorithms and loss functions impact the performance of LLMs?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-standard-nlp-benchmarks-used-for-llm-evaluation
+    url: /learn/computer-science/questions/how-do-training-algorithms-and-loss-functions-impact-the-performance-of-llms
+related_article3:
+    id: 97140
+    title: >-
+        What is the importance of low precision in LLM systems?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-importance-of-low-precision-in-llm-systems
+related_article4:
+    id: 97116
+    title: >-
+        What types of data are most effective for training LLMs?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-types-of-data-are-most-effective-for-training-llms
 ---
 
 &nbsp;

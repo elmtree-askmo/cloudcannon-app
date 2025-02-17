@@ -24,35 +24,11 @@ file_name: how-do-chronic-and-acute-ischemia-management-strategies-differ.md
 url: /learn/medicine/questions/how-do-chronic-and-acute-ischemia-management-strategies-differ
 score: -1.0
 related_article1:
-    id: 102170
+    id: 102184
     title: >-
-        What are the key aspects of postoperative management for acute ischemia?
+        How do surgical and endovascular treatment approaches compare in terms of outcomes for acute ischemia?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-key-aspects-of-postoperative-management-for-acute-ischemia
-related_article2:
-    id: 102163
-    title: >-
-        What imaging techniques are most effective in diagnosing acute ischemia?
-    subject: Medicine
-    url: /learn/medicine/questions/what-imaging-techniques-are-most-effective-in-diagnosing-acute-ischemia
-related_article3:
-    id: 102155
-    title: >-
-        What are the primary causes of acute ischemia in the lower extremities?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-primary-causes-of-acute-ischemia-in-the-lower-extremities
-related_article4:
-    id: 102157
-    title: >-
-        What role does acute thrombosis play in the development of acute ischemia?
-    subject: Medicine
-    url: /learn/medicine/questions/what-role-does-acute-thrombosis-play-in-the-development-of-acute-ischemia
-related_article5:
-    id: 102164
-    title: >-
-        What are the main treatment approaches for acute ischemia?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-main-treatment-approaches-for-acute-ischemia
+    url: /learn/medicine/questions/how-do-surgical-and-endovascular-treatment-approaches-compare-in-terms-of-outcomes-for-acute-ischemia
 ---
 
 &nbsp;

@@ -24,23 +24,23 @@ file_name: what-are-the-differences-between-situational-and-dispositional-attrib
 url: /learn/psychology/questions/what-are-the-differences-between-situational-and-dispositional-attributions
 score: -1.0
 related_article1:
-    id: 96766
-    title: >-
-        How does the Self-Serving Bias affect social interactions?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-the-selfserving-bias-affect-social-interactions
-related_article2:
     id: 96778
     title: >-
         How can understanding Attribution Theory improve interpersonal relationships?
     subject: Psychology
     url: /learn/psychology/questions/how-can-understanding-attribution-theory-improve-interpersonal-relationships
-related_article3:
+related_article2:
     id: 96749
     title: >-
         What is the historical background of Attribution Theory?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-historical-background-of-attribution-theory
+related_article3:
+    id: 96759
+    title: >-
+        How do undesirable outcomes influence the Self-Serving Bias?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-undesirable-outcomes-influence-the-selfserving-bias
 ---
 
 &nbsp;

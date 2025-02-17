@@ -24,35 +24,29 @@ file_name: why-is-understanding-venous-diseases-important-for-medical-students.m
 url: /learn/medicine/questions/why-is-understanding-venous-diseases-important-for-medical-students
 score: -1.0
 related_article1:
+    id: 102199
+    title: >-
+        Can you provide an overview of the anatomy of the venous system?
+    subject: Medicine
+    url: /learn/medicine/questions/can-you-provide-an-overview-of-the-anatomy-of-the-venous-system
+related_article2:
     id: 102203
     title: >-
         How do venous diseases impact overall health?
     subject: Health Studies
     url: /learn/health-studies/questions/how-do-venous-diseases-impact-overall-health
-related_article2:
-    id: 102198
-    title: >-
-        What are the treatment strategies for DVT?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-treatment-strategies-for-dvt
 related_article3:
-    id: 102185
+    id: 102197
     title: >-
-        What are the most common venous diseases?
+        What complications can arise from untreated DVT?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-most-common-venous-diseases
+    url: /learn/medicine/questions/what-complications-can-arise-from-untreated-dvt
 related_article4:
-    id: 102214
+    id: 102211
     title: >-
-        What are the challenges in diagnosing and treating venous diseases?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-challenges-in-diagnosing-and-treating-venous-diseases
-related_article5:
-    id: 102193
-    title: >-
-        What are the current treatment options for CVI?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-current-treatment-options-for-cvi
+        How do healthcare systems manage the burden of venous diseases?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-healthcare-systems-manage-the-burden-of-venous-diseases
 ---
 
 &nbsp;

@@ -24,23 +24,23 @@ file_name: how-can-schools-create-a-culture-of-mental-health-awareness-and-suppo
 url: /learn/psychology/questions/how-can-schools-create-a-culture-of-mental-health-awareness-and-support
 score: -1.0
 related_article1:
-    id: 116917
+    id: 116933
     title: >-
-        How has COVID-19 changed traditional teaching methods?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-has-covid19-changed-traditional-teaching-methods
-related_article2:
-    id: 116926
-    title: >-
-        What are the key components of supportive relationships in an educational setting?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-supportive-relationships-in-an-educational-setting
-related_article3:
-    id: 116931
-    title: >-
-        What are the mental health needs of students post-pandemic?
+        What strategies can be implemented to support students' mental health post-pandemic?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-mental-health-needs-of-students-postpandemic
+    url: /learn/psychology/questions/what-strategies-can-be-implemented-to-support-students-mental-health-postpandemic
+related_article2:
+    id: 116935
+    title: >-
+        What are the long-term effects of the pandemic on students' mental health?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-longterm-effects-of-the-pandemic-on-students-mental-health
+related_article3:
+    id: 116938
+    title: >-
+        How can technology be used to support mental health in education?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-technology-be-used-to-support-mental-health-in-education
 related_article4:
     id: 116929
     title: >-

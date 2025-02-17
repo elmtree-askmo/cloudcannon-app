@@ -24,29 +24,29 @@ file_name: how-are-theoretical-frameworks-applied-in-literary-analysis.md
 url: /learn/art-history-and-literature/questions/how-are-theoretical-frameworks-applied-in-literary-analysis
 score: -1.0
 related_article1:
-    id: 111435
+    id: 111444
     title: >-
-        What are the main characteristics of post-colonial narratives?
+        Why is close reading considered important in literary analysis?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-main-characteristics-of-postcolonial-narratives
+    url: /learn/art-history-and-literature/questions/why-is-close-reading-considered-important-in-literary-analysis
 related_article2:
-    id: 111431
-    title: >-
-        How do key concepts in literary theory influence textual analysis?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-key-concepts-in-literary-theory-influence-textual-analysis
-related_article3:
     id: 111447
     title: >-
         Why is clear argumentation important in literary writing?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/why-is-clear-argumentation-important-in-literary-writing
-related_article4:
-    id: 111430
+related_article3:
+    id: 111458
     title: >-
-        What is the primary purpose of literary theory?
+        What role does reader-response theory play in textual analysis?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-primary-purpose-of-literary-theory
+    url: /learn/art-history-and-literature/questions/what-role-does-readerresponse-theory-play-in-textual-analysis
+related_article4:
+    id: 111431
+    title: >-
+        How do key concepts in literary theory influence textual analysis?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-do-key-concepts-in-literary-theory-influence-textual-analysis
 ---
 
 &nbsp;

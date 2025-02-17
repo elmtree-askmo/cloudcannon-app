@@ -24,29 +24,35 @@ file_name: how-is-dvt-diagnosed.md
 url: /learn/medicine/questions/how-is-dvt-diagnosed
 score: -1.0
 related_article1:
-    id: 102197
+    id: 102203
     title: >-
-        What complications can arise from untreated DVT?
-    subject: Medicine
-    url: /learn/medicine/questions/what-complications-can-arise-from-untreated-dvt
+        How do venous diseases impact overall health?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-venous-diseases-impact-overall-health
 related_article2:
+    id: 102185
+    title: >-
+        What are the most common venous diseases?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-most-common-venous-diseases
+related_article3:
+    id: 102191
+    title: >-
+        What are the clinical features of CVI?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-clinical-features-of-cvi
+related_article4:
+    id: 102199
+    title: >-
+        Can you provide an overview of the anatomy of the venous system?
+    subject: Medicine
+    url: /learn/medicine/questions/can-you-provide-an-overview-of-the-anatomy-of-the-venous-system
+related_article5:
     id: 102213
     title: >-
         How do venous diseases affect quality of life?
     subject: Health Studies
     url: /learn/health-studies/questions/how-do-venous-diseases-affect-quality-of-life
-related_article3:
-    id: 102208
-    title: >-
-        What are the long-term outcomes for patients with venous diseases?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-longterm-outcomes-for-patients-with-venous-diseases
-related_article4:
-    id: 102202
-    title: >-
-        Why is understanding venous diseases important for medical students?
-    subject: Medicine
-    url: /learn/medicine/questions/why-is-understanding-venous-diseases-important-for-medical-students
 ---
 
 &nbsp;

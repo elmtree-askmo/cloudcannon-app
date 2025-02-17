@@ -24,23 +24,29 @@ file_name: what-are-diagnostic-reference-levels-drls-and-why-are-they-important.
 url: /learn/medicine/questions/what-are-diagnostic-reference-levels-drls-and-why-are-they-important
 score: -1.0
 related_article1:
-    id: 116065
+    id: 116063
     title: >-
-        How is the conservation of energy applied in dose measurement and control?
+        How has the understanding of radiation safety practices changed over the years?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-the-conservation-of-energy-applied-in-dose-measurement-and-control
+    url: /learn/health-studies/questions/how-has-the-understanding-of-radiation-safety-practices-changed-over-the-years
 related_article2:
-    id: 116073
+    id: 116086
     title: >-
-        How are current tissue weighting factors applied in medical imaging?
-    subject: Medicine
-    url: /learn/medicine/questions/how-are-current-tissue-weighting-factors-applied-in-medical-imaging
+        How can the concept of Banana Equivalent Dose (BED) be explained to patients?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-can-the-concept-of-banana-equivalent-dose-bed-be-explained-to-patients
 related_article3:
-    id: 116058
+    id: 116070
     title: >-
-        What were the key events leading to the discovery of X-rays and radioactive materials?
-    subject: Physics
-    url: /learn/physics/questions/what-were-the-key-events-leading-to-the-discovery-of-xrays-and-radioactive-materials
+        What is the difference between equivalent dose and effective dose?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-difference-between-equivalent-dose-and-effective-dose
+related_article4:
+    id: 116069
+    title: >-
+        How is absorbed dose measured and what does it signify?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-absorbed-dose-measured-and-what-does-it-signify
 ---
 
 &nbsp;

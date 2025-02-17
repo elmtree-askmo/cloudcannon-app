@@ -30,18 +30,24 @@ related_article1:
     subject: Psychology
     url: /learn/psychology/questions/can-you-provide-a-detailed-explanation-of-harlows-monkey-experiment-and-its-significance-in-psychology
 related_article2:
-    id: 123706
+    id: 123687
     title: >-
-        How do researchers address issues of consent and confidentiality in psychological studies?
+        How can the findings from psychological experiments be applied in real-world settings?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-researchers-address-issues-of-consent-and-confidentiality-in-psychological-studies
+    url: /learn/psychology/questions/how-can-the-findings-from-psychological-experiments-be-applied-in-realworld-settings
 related_article3:
-    id: 123682
+    id: 123700
     title: >-
-        What was the purpose of Williams' TV Experiment and what were its major conclusions?
+        How can researchers mitigate potential biases in psychological experiments?
     subject: Psychology
-    url: /learn/psychology/questions/what-was-the-purpose-of-williams-tv-experiment-and-what-were-its-major-conclusions
+    url: /learn/psychology/questions/how-can-researchers-mitigate-potential-biases-in-psychological-experiments
 related_article4:
+    id: 123680
+    title: >-
+        What were the main findings of Piliavin's Subway Experiment and how did it contribute to our understanding of human behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-the-main-findings-of-piliavins-subway-experiment-and-how-did-it-contribute-to-our-understanding-of-human-behavior
+related_article5:
     id: 123681
     title: >-
         How does Baron-Cohen's Sally-Anne Test assess theory of mind in children?

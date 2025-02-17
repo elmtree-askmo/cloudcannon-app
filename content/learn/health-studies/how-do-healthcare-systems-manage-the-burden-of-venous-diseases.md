@@ -24,29 +24,35 @@ file_name: how-do-healthcare-systems-manage-the-burden-of-venous-diseases.md
 url: /learn/health-studies/questions/how-do-healthcare-systems-manage-the-burden-of-venous-diseases
 score: -1.0
 related_article1:
-    id: 102191
+    id: 102185
     title: >-
-        What are the clinical features of CVI?
+        What are the most common venous diseases?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-clinical-features-of-cvi
+    url: /learn/medicine/questions/what-are-the-most-common-venous-diseases
 related_article2:
-    id: 102207
+    id: 102188
     title: >-
-        How do chronic venous insufficiency and deep vein thrombosis differ in terms of pathophysiology?
-    subject: Medicine
-    url: /learn/medicine/questions/how-do-chronic-venous-insufficiency-and-deep-vein-thrombosis-differ-in-terms-of-pathophysiology
+        How does venous obstruction contribute to chronic venous insufficiency (CVI)?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-venous-obstruction-contribute-to-chronic-venous-insufficiency-cvi
 related_article3:
-    id: 102189
+    id: 102194
     title: >-
-        What are the primary etiological factors of CVI?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-primary-etiological-factors-of-cvi
+        What are the risk factors for developing deep vein thrombosis (DVT)?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-risk-factors-for-developing-deep-vein-thrombosis-dvt
 related_article4:
-    id: 102208
+    id: 102209
     title: >-
-        What are the long-term outcomes for patients with venous diseases?
+        How does age affect the prevalence and severity of venous diseases?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-longterm-outcomes-for-patients-with-venous-diseases
+    url: /learn/medicine/questions/how-does-age-affect-the-prevalence-and-severity-of-venous-diseases
+related_article5:
+    id: 102212
+    title: >-
+        What are the economic impacts of venous diseases on healthcare systems?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-economic-impacts-of-venous-diseases-on-healthcare-systems
 ---
 
 &nbsp;

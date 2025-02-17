@@ -24,35 +24,35 @@ file_name: what-are-the-most-common-treatment-options-for-hepatocellular-carcino
 url: /learn/medicine/questions/what-are-the-most-common-treatment-options-for-hepatocellular-carcinoma-hcc
 score: -1.0
 related_article1:
-    id: 97048
+    id: 97072
     title: >-
-        How is Hepatocellular Carcinoma (HCC) typically diagnosed?
+        What are the potential complications of untreated liver cancer?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-hepatocellular-carcinoma-hcc-typically-diagnosed
+    url: /learn/medicine/questions/what-are-the-potential-complications-of-untreated-liver-cancer
 related_article2:
-    id: 97055
+    id: 97051
     title: >-
-        How is hepatomegaly clinically approached?
+        How is Cholangiocarcinoma diagnosed and treated?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-hepatomegaly-clinically-approached
+    url: /learn/medicine/questions/how-is-cholangiocarcinoma-diagnosed-and-treated
 related_article3:
-    id: 97052
+    id: 97058
     title: >-
-        What are the common diagnostic methods for Metastatic Liver Cancer?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-diagnostic-methods-for-metastatic-liver-cancer
-related_article4:
-    id: 97075
-    title: >-
-        What lifestyle changes are recommended for liver cancer patients?
+        What are the common risk factors for liver cancer in Hong Kong?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-lifestyle-changes-are-recommended-for-liver-cancer-patients
-related_article5:
-    id: 97047
+    url: /learn/health-studies/questions/what-are-the-common-risk-factors-for-liver-cancer-in-hong-kong
+related_article4:
+    id: 97059
     title: >-
-        What are the primary causes of Hepatocellular Carcinoma (HCC)?
+        What investigations are typically conducted for liver cancer diagnosis?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-primary-causes-of-hepatocellular-carcinoma-hcc
+    url: /learn/medicine/questions/what-investigations-are-typically-conducted-for-liver-cancer-diagnosis
+related_article5:
+    id: 97050
+    title: >-
+        What are the key characteristics of Cholangiocarcinoma?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-key-characteristics-of-cholangiocarcinoma
 ---
 
 &nbsp;

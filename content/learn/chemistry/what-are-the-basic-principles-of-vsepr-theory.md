@@ -30,23 +30,17 @@ related_article1:
     subject: Chemistry
     url: /learn/chemistry/questions/what-factors-lead-to-a-tetrahedral-shape-in-molecules
 related_article2:
-    id: 123545
-    title: >-
-        What are the bond angles in a tetrahedral molecular shape?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-bond-angles-in-a-tetrahedral-molecular-shape
-related_article3:
     id: 123531
     title: >-
         Why is electron pair repulsion important in understanding molecular structures?
     subject: Chemistry
     url: /learn/chemistry/questions/why-is-electron-pair-repulsion-important-in-understanding-molecular-structures
-related_article4:
-    id: 123555
+related_article3:
+    id: 123545
     title: >-
-        What are the practical implications of understanding molecular shapes in chemistry?
+        What are the bond angles in a tetrahedral molecular shape?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-practical-implications-of-understanding-molecular-shapes-in-chemistry
+    url: /learn/chemistry/questions/what-are-the-bond-angles-in-a-tetrahedral-molecular-shape
 ---
 
 &nbsp;

@@ -24,29 +24,29 @@ file_name: what-is-the-economic-influence-of-the-tech-industry-in-norway.md
 url: /learn/economics/questions/what-is-the-economic-influence-of-the-tech-industry-in-norway
 score: -1.0
 related_article1:
-    id: 118532
+    id: 118547
     title: >-
-        What is the mission and vision of Free Code Camp?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-mission-and-vision-of-free-code-camp
+        How do open source models contribute to AI engineering?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-open-source-models-contribute-to-ai-engineering
 related_article2:
+    id: 118557
+    title: >-
+        What are the current trends in coding education?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-current-trends-in-coding-education
+related_article3:
     id: 118538
     title: >-
         What are the main benefits and challenges of using Scrimba for learning coding?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-main-benefits-and-challenges-of-using-scrimba-for-learning-coding
-related_article3:
-    id: 118555
-    title: >-
-        What are some success stories from Free Code Camp alumni?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-success-stories-from-free-code-camp-alumni
 related_article4:
-    id: 118548
+    id: 118530
     title: >-
-        What advice would you give to someone trying to break into the tech industry?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-advice-would-you-give-to-someone-trying-to-break-into-the-tech-industry
+        Can you provide a brief background on Quincy Larson and Per Borgin?
+    subject: Education Studies
+    url: /learn/education-studies/questions/can-you-provide-a-brief-background-on-quincy-larson-and-per-borgin
 ---
 
 &nbsp;

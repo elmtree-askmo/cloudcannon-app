@@ -24,17 +24,17 @@ file_name: what-are-the-common-methods-of-counterfeiting-in-the-digital-age.md
 url: /learn/digital-media/questions/what-are-the-common-methods-of-counterfeiting-in-the-digital-age
 score: -1.0
 related_article1:
-    id: 119171
-    title: >-
-        What are the psychological impacts of cyberbullying on victims?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-psychological-impacts-of-cyberbullying-on-victims
-related_article2:
     id: 119169
     title: >-
         What are the legal and ethical implications of state-sponsored cybercrime?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-are-the-legal-and-ethical-implications-of-statesponsored-cybercrime
+related_article2:
+    id: 119171
+    title: >-
+        What are the psychological impacts of cyberbullying on victims?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-psychological-impacts-of-cyberbullying-on-victims
 related_article3:
     id: 119155
     title: >-

@@ -24,17 +24,17 @@ file_name: how-do-technological-advancements-impact-the-effectiveness-of-mass-su
 url: /learn/digital-media/questions/how-do-technological-advancements-impact-the-effectiveness-of-mass-surveillance
 score: -1.0
 related_article1:
-    id: 119180
-    title: >-
-        What are the main risks faced by whistleblowers in the context of mass surveillance?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-main-risks-faced-by-whistleblowers-in-the-context-of-mass-surveillance
-related_article2:
     id: 119207
     title: >-
         How has public opinion on mass surveillance changed over time?
     subject: Sociology
     url: /learn/sociology/questions/how-has-public-opinion-on-mass-surveillance-changed-over-time
+related_article2:
+    id: 119180
+    title: >-
+        What are the main risks faced by whistleblowers in the context of mass surveillance?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-are-the-main-risks-faced-by-whistleblowers-in-the-context-of-mass-surveillance
 ---
 
 &nbsp;

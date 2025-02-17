@@ -24,35 +24,29 @@ file_name: what-are-the-key-architectural-considerations-when-building-llms.md
 url: /learn/computer-science/questions/what-are-the-key-architectural-considerations-when-building-llms
 score: -1.0
 related_article1:
-    id: 97115
+    id: 97122
     title: >-
-        How do training algorithms and loss functions impact the performance of LLMs?
+        How does Byte Pair Encoding (BPE) work in tokenization?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-training-algorithms-and-loss-functions-impact-the-performance-of-llms
+    url: /learn/computer-science/questions/how-does-byte-pair-encoding-bpe-work-in-tokenization
 related_article2:
-    id: 97120
+    id: 97116
     title: >-
-        How is the task of predicting the next word implemented in autoregressive models?
+        What types of data are most effective for training LLMs?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-the-task-of-predicting-the-next-word-implemented-in-autoregressive-models
+    url: /learn/computer-science/questions/what-types-of-data-are-most-effective-for-training-llms
 related_article3:
-    id: 97137
-    title: >-
-        What are some examples of scaling laws in machine learning?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-examples-of-scaling-laws-in-machine-learning
-related_article4:
     id: 97133
     title: >-
         How is human evaluation conducted for LLMs?
     subject: Computer Science
     url: /learn/computer-science/questions/how-is-human-evaluation-conducted-for-llms
-related_article5:
-    id: 97119
+related_article4:
+    id: 97137
     title: >-
-        What is the role of autoregressive language models in LLMs?
+        What are some examples of scaling laws in machine learning?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-autoregressive-language-models-in-llms
+    url: /learn/computer-science/questions/what-are-some-examples-of-scaling-laws-in-machine-learning
 ---
 
 &nbsp;

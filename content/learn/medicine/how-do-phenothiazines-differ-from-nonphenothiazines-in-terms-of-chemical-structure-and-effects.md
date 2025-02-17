@@ -24,35 +24,35 @@ file_name: how-do-phenothiazines-differ-from-nonphenothiazines-in-terms-of-chemi
 url: /learn/medicine/questions/how-do-phenothiazines-differ-from-nonphenothiazines-in-terms-of-chemical-structure-and-effects
 score: -1.0
 related_article1:
-    id: 104615
+    id: 104593
     title: >-
-        What are the long-term effects of using antipsychotics and anxiolytics?
+        Can you describe the symptoms of Pseudoparkinsonism caused by antipsychotics?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-longterm-effects-of-using-antipsychotics-and-anxiolytics
+    url: /learn/health-studies/questions/can-you-describe-the-symptoms-of-pseudoparkinsonism-caused-by-antipsychotics
 related_article2:
-    id: 104614
+    id: 104589
     title: >-
-        How do antipsychotics interact with other medications commonly prescribed to older adults?
+        Can you explain the mechanism of action for both typical and atypical antipsychotics?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-antipsychotics-interact-with-other-medications-commonly-prescribed-to-older-adults
+    url: /learn/medicine/questions/can-you-explain-the-mechanism-of-action-for-both-typical-and-atypical-antipsychotics
 related_article3:
-    id: 104612
+    id: 104600
     title: >-
-        How can nonadherence to antidepressant treatment be addressed in patients?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-can-nonadherence-to-antidepressant-treatment-be-addressed-in-patients
+        How do benzodiazepines work to alleviate anxiety symptoms?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-benzodiazepines-work-to-alleviate-anxiety-symptoms
 related_article4:
-    id: 104613
+    id: 104598
     title: >-
-        What are the risks of using antipsychotics in older adults and how can they be mitigated?
+        What special considerations should be taken into account when prescribing antipsychotics to older adults?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-risks-of-using-antipsychotics-in-older-adults-and-how-can-they-be-mitigated
+    url: /learn/medicine/questions/what-special-considerations-should-be-taken-into-account-when-prescribing-antipsychotics-to-older-adults
 related_article5:
-    id: 104616
+    id: 104611
     title: >-
-        How do healthcare providers determine the appropriate class of antidepressant for a patient?
+        What are common drug interactions associated with antidepressants and mood stabilizers?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-healthcare-providers-determine-the-appropriate-class-of-antidepressant-for-a-patient
+    url: /learn/medicine/questions/what-are-common-drug-interactions-associated-with-antidepressants-and-mood-stabilizers
 ---
 
 &nbsp;

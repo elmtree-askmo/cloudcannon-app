@@ -24,29 +24,35 @@ file_name: what-are-the-three-kinds-of-change-in-human-development.md
 url: /learn/psychology/questions/what-are-the-three-kinds-of-change-in-human-development
 score: -1.0
 related_article1:
+    id: 121392
+    title: >-
+        What are normative history-graded changes and how do they impact development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-normative-historygraded-changes-and-how-do-they-impact-development
+related_article2:
+    id: 121400
+    title: >-
+        What are the common experimental designs used in lifespan development research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-experimental-designs-used-in-lifespan-development-research
+related_article3:
+    id: 121388
+    title: >-
+        How does the nature vs. nurture debate influence our understanding of human development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-nature-vs-nurture-debate-influence-our-understanding-of-human-development
+related_article4:
     id: 121413
     title: >-
         What are the ethical considerations in studying sensitive periods and atypical development?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-ethical-considerations-in-studying-sensitive-periods-and-atypical-development
-related_article2:
-    id: 121401
+related_article5:
+    id: 121412
     title: >-
-        How do cross-sectional designs differ from longitudinal studies in developmental research?
+        How do sensitive periods influence learning and development?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-crosssectional-designs-differ-from-longitudinal-studies-in-developmental-research
-related_article3:
-    id: 121399
-    title: >-
-        Can you explain Bronfenbrenner’s Ecological Systems Theory?
-    subject: Psychology
-    url: /learn/psychology/questions/can-you-explain-bronfenbrenners-ecological-systems-theory
-related_article4:
-    id: 121406
-    title: >-
-        How do researchers ensure ethical considerations in developmental psychology studies?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-researchers-ensure-ethical-considerations-in-developmental-psychology-studies
+    url: /learn/psychology/questions/how-do-sensitive-periods-influence-learning-and-development
 ---
 
 &nbsp;

@@ -24,23 +24,35 @@ file_name: what-are-some-notable-works-in-indian-literature-and-arts.md
 url: /learn/art-history-and-literature/questions/what-are-some-notable-works-in-indian-literature-and-arts
 score: -1.0
 related_article1:
-    id: 97208
+    id: 97211
     title: >-
-        What are the main components of human body composition?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-components-of-human-body-composition
+        How does internet and networking technology work?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-internet-and-networking-technology-work
 related_article2:
-    id: 97214
+    id: 97195
     title: >-
-        How did British India influence modern India?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-british-india-influence-modern-india
+        How does the Sun's structure affect its energy output?
+    subject: Physics
+    url: /learn/physics/questions/how-does-the-suns-structure-affect-its-energy-output
 related_article3:
     id: 97217
     title: >-
         How has Indian music evolved over time?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-has-indian-music-evolved-over-time
+related_article4:
+    id: 97208
+    title: >-
+        What are the main components of human body composition?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-main-components-of-human-body-composition
+related_article5:
+    id: 97210
+    title: >-
+        What are the basic concepts of computer terminology?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-basic-concepts-of-computer-terminology
 ---
 
 &nbsp;

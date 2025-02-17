@@ -24,35 +24,29 @@ file_name: how-do-philosophical-perspectives-influence-the-interpretation-of-mat
 url: /learn/philosophy-and-greek-myths/questions/how-do-philosophical-perspectives-influence-the-interpretation-of-mathematical-principles-in-physics
 score: -1.0
 related_article1:
-    id: 119884
+    id: 119860
     title: >-
-        How do the concepts of force and equal areas relate to Kepler's laws?
+        Can you explain Newton's Law of Gravitation in mathematical terms?
     subject: Physics
-    url: /learn/physics/questions/how-do-the-concepts-of-force-and-equal-areas-relate-to-keplers-laws
+    url: /learn/physics/questions/can-you-explain-newtons-law-of-gravitation-in-mathematical-terms
 related_article2:
-    id: 119872
+    id: 119861
     title: >-
-        How does the minimum principle apply to physics and mathematics?
+        How is mathematical language used in physics?
     subject: Physics
-    url: /learn/physics/questions/how-does-the-minimum-principle-apply-to-physics-and-mathematics
+    url: /learn/physics/questions/how-is-mathematical-language-used-in-physics
 related_article3:
-    id: 119882
+    id: 119864
     title: >-
-        How do modern physicists use mathematical notation to communicate complex ideas?
-    subject: Physics
-    url: /learn/physics/questions/how-do-modern-physicists-use-mathematical-notation-to-communicate-complex-ideas
+        What contributions did Babylonian and Greek traditions make to mathematics and physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-contributions-did-babylonian-and-greek-traditions-make-to-mathematics-and-physics
 related_article4:
-    id: 119862
+    id: 119867
     title: >-
-        What is the significance of force and equal areas in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-significance-of-force-and-equal-areas-in-physics
-related_article5:
-    id: 119870
-    title: >-
-        Can you explain Newton's Laws and their mathematical formulations?
-    subject: Physics
-    url: /learn/physics/questions/can-you-explain-newtons-laws-and-their-mathematical-formulations
+        What is the Euclidean method and its role in physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-euclidean-method-and-its-role-in-physics
 ---
 
 &nbsp;

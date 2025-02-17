@@ -24,29 +24,23 @@ file_name: how-does-religion-play-a-role-in-shaping-cultural-norms-and-values.md
 url: /learn/sociology/questions/how-does-religion-play-a-role-in-shaping-cultural-norms-and-values
 score: -1.0
 related_article1:
-    id: 120565
-    title: >-
-        What are the responsibilities of the President and Vice-President in the U.S.?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-responsibilities-of-the-president-and-vicepresident-in-the-us
-related_article2:
-    id: 120564
-    title: >-
-        What are the roles of the House of Representatives and the Senate?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-roles-of-the-house-of-representatives-and-the-senate
-related_article3:
     id: 120573
     title: >-
         How do cultural bonds and identity contribute to societal cohesion?
     subject: Sociology
     url: /learn/sociology/questions/how-do-cultural-bonds-and-identity-contribute-to-societal-cohesion
-related_article4:
+related_article2:
     id: 120554
     title: >-
         How does education contribute to the development of culture?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-education-contribute-to-the-development-of-culture
+related_article3:
+    id: 120559
+    title: >-
+        How is society defined in terms of cultural bonds and identity?
+    subject: Sociology
+    url: /learn/sociology/questions/how-is-society-defined-in-terms-of-cultural-bonds-and-identity
 ---
 
 &nbsp;

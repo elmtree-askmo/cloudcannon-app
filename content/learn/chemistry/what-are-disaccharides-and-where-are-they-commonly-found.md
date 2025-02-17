@@ -24,35 +24,29 @@ file_name: what-are-disaccharides-and-where-are-they-commonly-found.md
 url: /learn/chemistry/questions/what-are-disaccharides-and-where-are-they-commonly-found
 score: -1.0
 related_article1:
-    id: 104364
-    title: >-
-        What are the primary functions of proteins in the body?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-functions-of-proteins-in-the-body
-related_article2:
-    id: 104366
-    title: >-
-        What are the effects of protein deficiency on health?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-effects-of-protein-deficiency-on-health
-related_article3:
-    id: 104360
-    title: >-
-        What are the consequences of carbohydrate deficiency?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-consequences-of-carbohydrate-deficiency
-related_article4:
-    id: 104355
-    title: >-
-        How do oligosaccharides differ from other carbohydrates?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-do-oligosaccharides-differ-from-other-carbohydrates
-related_article5:
     id: 104377
     title: >-
         How is dietary fiber classified and what are its benefits?
     subject: Health Studies
     url: /learn/health-studies/questions/how-is-dietary-fiber-classified-and-what-are-its-benefits
+related_article2:
+    id: 104360
+    title: >-
+        What are the consequences of carbohydrate deficiency?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-consequences-of-carbohydrate-deficiency
+related_article3:
+    id: 104352
+    title: >-
+        What are the different types of carbohydrates and their characteristics?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-different-types-of-carbohydrates-and-their-characteristics
+related_article4:
+    id: 104364
+    title: >-
+        What are the primary functions of proteins in the body?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-primary-functions-of-proteins-in-the-body
 ---
 
 &nbsp;

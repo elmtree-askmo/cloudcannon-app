@@ -24,23 +24,17 @@ file_name: how-do-situational-influences-affect-human-behavior.md
 url: /learn/psychology/questions/how-do-situational-influences-affect-human-behavior
 score: -1.0
 related_article1:
-    id: 111851
+    id: 111856
     title: >-
-        Can you explain the fundamental attribution error?
+        What is the just world hypothesis and how does it influence behavior?
     subject: Psychology
-    url: /learn/psychology/questions/can-you-explain-the-fundamental-attribution-error
+    url: /learn/psychology/questions/what-is-the-just-world-hypothesis-and-how-does-it-influence-behavior
 related_article2:
-    id: 111857
+    id: 111864
     title: >-
-        How do social roles impact individual behavior in a group setting?
-    subject: Sociology
-    url: /learn/sociology/questions/how-do-social-roles-impact-individual-behavior-in-a-group-setting
-related_article3:
-    id: 111852
-    title: >-
-        What was the Quizmaster Study and what did it reveal about attribution?
+        What is the elaboration likelihood model in the context of persuasion?
     subject: Psychology
-    url: /learn/psychology/questions/what-was-the-quizmaster-study-and-what-did-it-reveal-about-attribution
+    url: /learn/psychology/questions/what-is-the-elaboration-likelihood-model-in-the-context-of-persuasion
 ---
 
 &nbsp;

@@ -24,29 +24,35 @@ file_name: how-does-stefons-character-reflect-eccentric-personality-traits.md
 url: /learn/american-culture/questions/how-does-stefons-character-reflect-eccentric-personality-traits
 score: -1.0
 related_article1:
+    id: 1020
+    title: >-
+        How did Stuart Smalley become a notable guest host character on SNL?
+    subject: American Culture
+    url: /learn/american-culture/questions/how-did-stuart-smalley-become-a-notable-guest-host-character-on-snl
+related_article2:
+    id: 1001
+    title: >-
+        What is the main comedic element in the 'More Cowbell' sketch?
+    subject: American Culture
+    url: /learn/american-culture/questions/what-is-the-main-comedic-element-in-the-more-cowbell-sketch
+related_article3:
+    id: 1027
+    title: >-
+        How does SNL utilize celebrity impersonations to enhance its comedic impact?
+    subject: American Culture
+    url: /learn/american-culture/questions/how-does-snl-utilize-celebrity-impersonations-to-enhance-its-comedic-impact
+related_article4:
     id: 1030
     title: >-
         In what ways does the 'Unfrozen Caveman Lawyer' sketch incorporate historical themes?
     subject: American Culture
     url: /learn/american-culture/questions/in-what-ways-does-the-unfrozen-caveman-lawyer-sketch-incorporate-historical-themes
-related_article2:
-    id: 1008
+related_article5:
+    id: 1017
     title: >-
-        What makes The Church Lady a memorable SNL character?
+        What cultural impact did Steve Martin's 'King Tut' have on SNL?
     subject: American Culture
-    url: /learn/american-culture/questions/what-makes-the-church-lady-a-memorable-snl-character
-related_article3:
-    id: 1023
-    title: >-
-        What elements make the 'Delicious Dish' parody a successful talk show spoof?
-    subject: American Culture
-    url: /learn/american-culture/questions/what-elements-make-the-delicious-dish-parody-a-successful-talk-show-spoof
-related_article4:
-    id: 1009
-    title: >-
-        What was significant about The Police's performance of 'Roxanne' on SNL?
-    subject: American Culture
-    url: /learn/american-culture/questions/what-was-significant-about-the-polices-performance-of-roxanne-on-snl
+    url: /learn/american-culture/questions/what-cultural-impact-did-steve-martins-king-tut-have-on-snl
 ---
 
 &nbsp;

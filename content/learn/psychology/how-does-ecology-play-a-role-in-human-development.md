@@ -24,17 +24,17 @@ file_name: how-does-ecology-play-a-role-in-human-development.md
 url: /learn/psychology/questions/how-does-ecology-play-a-role-in-human-development
 score: -1.0
 related_article1:
-    id: 116716
-    title: >-
-        What are environmental indicators and why are they important?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-environmental-indicators-and-why-are-they-important
-related_article2:
     id: 116714
     title: >-
         How is environmental monitoring conducted?
     subject: Health Studies
     url: /learn/health-studies/questions/how-is-environmental-monitoring-conducted
+related_article2:
+    id: 116716
+    title: >-
+        What are environmental indicators and why are they important?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-environmental-indicators-and-why-are-they-important
 ---
 
 &nbsp;

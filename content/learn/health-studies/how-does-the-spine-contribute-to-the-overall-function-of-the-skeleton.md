@@ -24,35 +24,35 @@ file_name: how-does-the-spine-contribute-to-the-overall-function-of-the-skeleton
 url: /learn/health-studies/questions/how-does-the-spine-contribute-to-the-overall-function-of-the-skeleton
 score: -1.0
 related_article1:
-    id: 100360
+    id: 100366
     title: >-
-        What are the main components of the axial skeleton?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-main-components-of-the-axial-skeleton
+        How does the pelvis support the body?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-pelvis-support-the-body
 related_article2:
-    id: 100373
+    id: 100378
     title: >-
-        How do the arms facilitate movement and dexterity?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-the-arms-facilitate-movement-and-dexterity
-related_article3:
-    id: 100369
-    title: >-
-        How do bones contribute to the protection of vital organs?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-bones-contribute-to-the-protection-of-vital-organs
-related_article4:
-    id: 100382
-    title: >-
-        How does the pelvis connect the spine to the lower limbs?
+        What are the specific bones included in the thorax?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-the-pelvis-connect-the-spine-to-the-lower-limbs
-related_article5:
-    id: 100383
+    url: /learn/medicine/questions/what-are-the-specific-bones-included-in-the-thorax
+related_article3:
+    id: 100355
     title: >-
-        What are the major bones in the legs and their functions?
+        What are the primary functions of the skeletal system?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-major-bones-in-the-legs-and-their-functions
+    url: /learn/health-studies/questions/what-are-the-primary-functions-of-the-skeletal-system
+related_article4:
+    id: 100374
+    title: >-
+        What is the importance of the pelvis in terms of weight distribution?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-importance-of-the-pelvis-in-terms-of-weight-distribution
+related_article5:
+    id: 100367
+    title: >-
+        What are the main functions of the legs in the skeletal system?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-main-functions-of-the-legs-in-the-skeletal-system
 ---
 
 &nbsp;

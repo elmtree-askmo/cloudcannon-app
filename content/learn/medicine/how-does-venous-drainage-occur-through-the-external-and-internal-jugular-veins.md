@@ -30,29 +30,23 @@ related_article1:
     subject: Medicine
     url: /learn/medicine/questions/how-do-the-axillary-and-brachial-arteries-contribute-to-blood-supply-in-the-upper-extremities
 related_article2:
-    id: 123862
+    id: 123859
     title: >-
-        What are the key features of intracranial vessels in terms of their function and structure?
+        What is the role of the internal carotid arteries in supplying blood to the brain?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-key-features-of-intracranial-vessels-in-terms-of-their-function-and-structure
+    url: /learn/medicine/questions/what-is-the-role-of-the-internal-carotid-arteries-in-supplying-blood-to-the-brain
 related_article3:
-    id: 123865
-    title: >-
-        Can you describe the structure and function of the aortic arch and its branches?
-    subject: Medicine
-    url: /learn/medicine/questions/can-you-describe-the-structure-and-function-of-the-aortic-arch-and-its-branches
-related_article4:
-    id: 123858
-    title: >-
-        Can you explain the significance of the common carotid arteries in cerebrovascular anatomy?
-    subject: Medicine
-    url: /learn/medicine/questions/can-you-explain-the-significance-of-the-common-carotid-arteries-in-cerebrovascular-anatomy
-related_article5:
     id: 123876
     title: >-
         What are the main arteries of the lower extremities, and what areas do they supply?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-main-arteries-of-the-lower-extremities-and-what-areas-do-they-supply
+related_article4:
+    id: 123865
+    title: >-
+        Can you describe the structure and function of the aortic arch and its branches?
+    subject: Medicine
+    url: /learn/medicine/questions/can-you-describe-the-structure-and-function-of-the-aortic-arch-and-its-branches
 ---
 
 &nbsp;

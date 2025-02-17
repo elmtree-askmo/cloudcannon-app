@@ -24,29 +24,35 @@ file_name: how-does-http-differ-from-ftp-in-terms-of-file-services.md
 url: /learn/computer-science/questions/how-does-http-differ-from-ftp-in-terms-of-file-services
 score: -1.0
 related_article1:
-    id: 123089
+    id: 123080
     title: >-
-        What is the relationship between storage solutions and DBMS performance?
+        What are some common challenges associated with network printing?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-relationship-between-storage-solutions-and-dbms-performance
+    url: /learn/computer-science/questions/what-are-some-common-challenges-associated-with-network-printing
 related_article2:
-    id: 123093
+    id: 123085
     title: >-
-        What is virtual hosting and how does it relate to web server software?
+        What are the main components of a database system?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-virtual-hosting-and-how-does-it-relate-to-web-server-software
+    url: /learn/computer-science/questions/what-are-the-main-components-of-a-database-system
 related_article3:
+    id: 123097
+    title: >-
+        What are the key features of Active Directory Domain Services (AD DS)?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-key-features-of-active-directory-domain-services-ad-ds
+related_article4:
+    id: 123078
+    title: >-
+        What are the security implications of using SCP for file transfers?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-security-implications-of-using-scp-for-file-transfers
+related_article5:
     id: 123092
     title: >-
         What factors should be considered in infrastructure planning for web services?
     subject: Computer Science
     url: /learn/computer-science/questions/what-factors-should-be-considered-in-infrastructure-planning-for-web-services
-related_article4:
-    id: 123096
-    title: >-
-        How do Active Directory and LDAP differ in terms of directory services?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-active-directory-and-ldap-differ-in-terms-of-directory-services
 ---
 
 &nbsp;

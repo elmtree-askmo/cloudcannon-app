@@ -24,35 +24,29 @@ file_name: what-role-does-traditional-art-play-in-the-cultural-identity-of-the-p
 url: /learn/art-history-and-literature/questions/what-role-does-traditional-art-play-in-the-cultural-identity-of-the-philippines
 score: -1.0
 related_article1:
-    id: 110259
+    id: 110245
     title: >-
-        What is the impact of contemporary art on cultural understanding?
+        In what ways do contemporary, modern, and traditional art forms influence each other?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-impact-of-contemporary-art-on-cultural-understanding
+    url: /learn/art-history-and-literature/questions/in-what-ways-do-contemporary-modern-and-traditional-art-forms-influence-each-other
 related_article2:
-    id: 110250
+    id: 110262
     title: >-
-        How is theater represented in contemporary art?
+        How does contemporary art reflect technological advancements?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-is-theater-represented-in-contemporary-art
+    url: /learn/art-history-and-literature/questions/how-does-contemporary-art-reflect-technological-advancements
 related_article3:
-    id: 110248
+    id: 110243
     title: >-
-        How does music fit into the category of contemporary art?
+        What are the defining characteristics of modern art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-music-fit-into-the-category-of-contemporary-art
+    url: /learn/art-history-and-literature/questions/what-are-the-defining-characteristics-of-modern-art
 related_article4:
     id: 110247
     title: >-
         What are the seven major contemporary art forms and their significance?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-are-the-seven-major-contemporary-art-forms-and-their-significance
-related_article5:
-    id: 110253
-    title: >-
-        What are the contemporary trends in architecture and allied arts?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-contemporary-trends-in-architecture-and-allied-arts
 ---
 
 &nbsp;

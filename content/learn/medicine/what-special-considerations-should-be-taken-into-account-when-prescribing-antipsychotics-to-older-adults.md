@@ -24,35 +24,35 @@ file_name: what-special-considerations-should-be-taken-into-account-when-prescri
 url: /learn/medicine/questions/what-special-considerations-should-be-taken-into-account-when-prescribing-antipsychotics-to-older-adults
 score: -1.0
 related_article1:
+    id: 104590
+    title: >-
+        What are the most common side effects associated with antipsychotics?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-most-common-side-effects-associated-with-antipsychotics
+related_article2:
+    id: 104592
+    title: >-
+        What is Extrapyramidal Syndrome and how is it related to antipsychotic use?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-extrapyramidal-syndrome-and-how-is-it-related-to-antipsychotic-use
+related_article3:
+    id: 104596
+    title: >-
+        What is Tardive Dyskinesia and how can it be prevented or treated?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-tardive-dyskinesia-and-how-can-it-be-prevented-or-treated
+related_article4:
+    id: 104607
+    title: >-
+        How do Serotonin-Norepinephrine Reuptake Inhibitors (SNRI) differ from SSRIs?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-serotoninnorepinephrine-reuptake-inhibitors-snri-differ-from-ssris
+related_article5:
     id: 104615
     title: >-
         What are the long-term effects of using antipsychotics and anxiolytics?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-longterm-effects-of-using-antipsychotics-and-anxiolytics
-related_article2:
-    id: 104613
-    title: >-
-        What are the risks of using antipsychotics in older adults and how can they be mitigated?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-risks-of-using-antipsychotics-in-older-adults-and-how-can-they-be-mitigated
-related_article3:
-    id: 104588
-    title: >-
-        What are the main differences between typical and atypical antipsychotics?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-main-differences-between-typical-and-atypical-antipsychotics
-related_article4:
-    id: 104599
-    title: >-
-        What is the primary purpose of anxiolytics in psychiatric treatment?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-the-primary-purpose-of-anxiolytics-in-psychiatric-treatment
-related_article5:
-    id: 104602
-    title: >-
-        What distinguishes primary anxiety from secondary anxiety?
-    subject: Psychology
-    url: /learn/psychology/questions/what-distinguishes-primary-anxiety-from-secondary-anxiety
 ---
 
 &nbsp;

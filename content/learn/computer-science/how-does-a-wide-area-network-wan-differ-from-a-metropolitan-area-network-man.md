@@ -24,35 +24,29 @@ file_name: how-does-a-wide-area-network-wan-differ-from-a-metropolitan-area-netw
 url: /learn/computer-science/questions/how-does-a-wide-area-network-wan-differ-from-a-metropolitan-area-network-man
 score: -1.0
 related_article1:
-    id: 116152
-    title: >-
-        What are the key characteristics of a Local Area Network (LAN)?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-characteristics-of-a-local-area-network-lan
-related_article2:
-    id: 116170
-    title: >-
-        How does FTP work and what are its common uses?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-ftp-work-and-what-are-its-common-uses
-related_article3:
     id: 116173
     title: >-
         What are the primary functions of firewalls in network security?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-primary-functions-of-firewalls-in-network-security
-related_article4:
-    id: 116149
+related_article2:
+    id: 116148
     title: >-
-        Why is networking important in today's digital world?
-    subject: Digital Media
-    url: /learn/digital-media/questions/why-is-networking-important-in-todays-digital-world
-related_article5:
-    id: 116164
-    title: >-
-        How do access points facilitate wireless networking?
+        What is the definition of networking in the context of computer science?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-access-points-facilitate-wireless-networking
+    url: /learn/computer-science/questions/what-is-the-definition-of-networking-in-the-context-of-computer-science
+related_article3:
+    id: 116157
+    title: >-
+        What are the limitations of a bus topology in networking?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-limitations-of-a-bus-topology-in-networking
+related_article4:
+    id: 116156
+    title: >-
+        How does a star topology function and what are its benefits?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-a-star-topology-function-and-what-are-its-benefits
 ---
 
 &nbsp;

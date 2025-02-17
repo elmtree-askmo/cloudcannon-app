@@ -24,17 +24,17 @@ file_name: what-are-the-conditions-for-the-invertibility-of-a-matrix.md
 url: /learn/mathematics/questions/what-are-the-conditions-for-the-invertibility-of-a-matrix
 score: -1.0
 related_article1:
-    id: 114736
-    title: >-
-        How is the least-squares approximation applied in data fitting or regression analysis?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-is-the-leastsquares-approximation-applied-in-data-fitting-or-regression-analysis
-related_article2:
     id: 114718
     title: >-
         How does an orthonormal basis simplify the process of orthogonal projections?
     subject: Mathematics
     url: /learn/mathematics/questions/how-does-an-orthonormal-basis-simplify-the-process-of-orthogonal-projections
+related_article2:
+    id: 114736
+    title: >-
+        How is the least-squares approximation applied in data fitting or regression analysis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-the-leastsquares-approximation-applied-in-data-fitting-or-regression-analysis
 ---
 
 &nbsp;

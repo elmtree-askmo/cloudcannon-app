@@ -24,35 +24,29 @@ file_name: can-you-explain-the-concept-of-backdoors-in-network-security.md
 url: /learn/computer-science/questions/can-you-explain-the-concept-of-backdoors-in-network-security
 score: -1.0
 related_article1:
-    id: 123105
+    id: 123108
     title: >-
-        How do viruses typically infiltrate a network?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-do-viruses-typically-infiltrate-a-network
+        What are some examples of internal threats in network security?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-some-examples-of-internal-threats-in-network-security
 related_article2:
-    id: 123109
+    id: 123122
     title: >-
-        How does social engineering exploit human psychology in network security breaches?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-social-engineering-exploit-human-psychology-in-network-security-breaches
+        What are the risks associated with password reuse?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-are-the-risks-associated-with-password-reuse
 related_article3:
-    id: 123128
+    id: 123131
     title: >-
-        What distinguishes a distributed denial of service (DDoS) attack from a DoS attack?
+        How can organizations defend against internal threats?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-distinguishes-a-distributed-denial-of-service-ddos-attack-from-a-dos-attack
+    url: /learn/computer-science/questions/how-can-organizations-defend-against-internal-threats
 related_article4:
-    id: 123124
+    id: 123130
     title: >-
-        What are the benefits of using password management tools?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-benefits-of-using-password-management-tools
-related_article5:
-    id: 123114
-    title: >-
-        What is code injection and how can it be prevented?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-code-injection-and-how-can-it-be-prevented
+        What are the most common social engineering tactics used by attackers?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-most-common-social-engineering-tactics-used-by-attackers
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: how-did-changes-in-agriculture-during-the-industrial-revolution-affec
 url: /learn/history-of-the-world/questions/how-did-changes-in-agriculture-during-the-industrial-revolution-affect-rural-communities
 score: -1.0
 related_article1:
+    id: 123036
+    title: >-
+        How did China's economic policies affect its industrial potential?
+    subject: Economics
+    url: /learn/economics/questions/how-did-chinas-economic-policies-affect-its-industrial-potential
+related_article2:
+    id: 123018
+    title: >-
+        What role did the steam engine play in the Industrial Revolution?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-role-did-the-steam-engine-play-in-the-industrial-revolution
+related_article3:
     id: 123019
     title: >-
         What were the major chemical advancements during the Industrial Revolution?
     subject: Chemistry
     url: /learn/chemistry/questions/what-were-the-major-chemical-advancements-during-the-industrial-revolution
-related_article2:
-    id: 123023
-    title: >-
-        What was China's industrial potential during the Industrial Revolution?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-chinas-industrial-potential-during-the-industrial-revolution
-related_article3:
-    id: 123025
-    title: >-
-        What were the global impacts of industrialization on agriculture?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-were-the-global-impacts-of-industrialization-on-agriculture
 related_article4:
-    id: 123035
+    id: 123043
     title: >-
-        What were the criticisms of Eurocentric explanations of the Industrial Revolution?
+        What were the long-term cultural impacts of the Industrial Revolution on European societies?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-criticisms-of-eurocentric-explanations-of-the-industrial-revolution
+    url: /learn/history-of-the-world/questions/what-were-the-longterm-cultural-impacts-of-the-industrial-revolution-on-european-societies
 related_article5:
-    id: 123037
+    id: 123045
     title: >-
-        What were the technological and economic barriers to industrialization in India?
+        What lessons can be learned from the Industrial Revolution for future economic development?
     subject: Economics
-    url: /learn/economics/questions/what-were-the-technological-and-economic-barriers-to-industrialization-in-india
+    url: /learn/economics/questions/what-lessons-can-be-learned-from-the-industrial-revolution-for-future-economic-development
 ---
 
 &nbsp;

@@ -24,11 +24,11 @@ file_name: what-are-the-potential-impacts-of-wildfires-on-source-water-quality.m
 url: /learn/health-studies/questions/what-are-the-potential-impacts-of-wildfires-on-source-water-quality
 score: -1.0
 related_article1:
-    id: 94638
+    id: 94636
     title: >-
-        What strategies are in place to mitigate flooding risks?
-    subject: Engineering
-    url: /learn/engineering/questions/what-strategies-are-in-place-to-mitigate-flooding-risks
+        What are the primary flooding risks to source water and communities?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-primary-flooding-risks-to-source-water-and-communities
 related_article2:
     id: 94637
     title: >-
@@ -36,23 +36,23 @@ related_article2:
     subject: Sociology
     url: /learn/sociology/questions/how-does-flooding-impact-community-infrastructure-and-source-water
 related_article3:
-    id: 94640
+    id: 94644
     title: >-
-        What roles do stakeholders play in protecting source water?
+        Why is collaboration among stakeholders important for source water protection?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-roles-do-stakeholders-play-in-protecting-source-water
+    url: /learn/health-studies/questions/why-is-collaboration-among-stakeholders-important-for-source-water-protection
 related_article4:
-    id: 94634
+    id: 94639
     title: >-
-        What is the significance of the Standard Mine Superfund Site in source water protection?
+        Who are the key stakeholders involved in source water protection?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-the-standard-mine-superfund-site-in-source-water-protection
+    url: /learn/health-studies/questions/who-are-the-key-stakeholders-involved-in-source-water-protection
 related_article5:
-    id: 94649
+    id: 94646
     title: >-
-        What potential projects and initiatives are being considered for future source water protection?
+        What are the essential components of an effective emergency response plan for source water protection?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-potential-projects-and-initiatives-are-being-considered-for-future-source-water-protection
+    url: /learn/health-studies/questions/what-are-the-essential-components-of-an-effective-emergency-response-plan-for-source-water-protection
 ---
 
 &nbsp;

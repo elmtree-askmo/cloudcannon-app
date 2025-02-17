@@ -24,35 +24,35 @@ file_name: what-is-pneumobilia-and-how-is-it-identified-on-an-abdominal-xray.md
 url: /learn/medicine/questions/what-is-pneumobilia-and-how-is-it-identified-on-an-abdominal-xray
 score: -1.0
 related_article1:
-    id: 118170
+    id: 118174
     title: >-
-        What are the most common imaging techniques used in habitability systems?
+        How are gallstones detected using abdominal X-rays?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-most-common-imaging-techniques-used-in-habitability-systems
+    url: /learn/medicine/questions/how-are-gallstones-detected-using-abdominal-xrays
 related_article2:
-    id: 118178
+    id: 118187
     title: >-
-        How is ultrasound used in the assessment of liver conditions like cirrhosis and steatosis?
+        How does hepatic artery Doppler ultrasound contribute to liver assessment?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-ultrasound-used-in-the-assessment-of-liver-conditions-like-cirrhosis-and-steatosis
+    url: /learn/medicine/questions/how-does-hepatic-artery-doppler-ultrasound-contribute-to-liver-assessment
 related_article3:
-    id: 118172
-    title: >-
-        What are the primary roles and limitations of abdominal X-rays in habitability diseases?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-primary-roles-and-limitations-of-abdominal-xrays-in-habitability-diseases
-related_article4:
-    id: 118182
-    title: >-
-        How are gallstones detected through radiological imaging?
-    subject: Medicine
-    url: /learn/medicine/questions/how-are-gallstones-detected-through-radiological-imaging
-related_article5:
     id: 118191
     title: >-
         How do imaging modalities differ in their application to habitability systems compared to other medical fields?
     subject: Health Studies
     url: /learn/health-studies/questions/how-do-imaging-modalities-differ-in-their-application-to-habitability-systems-compared-to-other-medical-fields
+related_article4:
+    id: 118197
+    title: >-
+        How does patient preparation differ for abdominal X-ray versus ultrasound in habitability assessments?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-patient-preparation-differ-for-abdominal-xray-versus-ultrasound-in-habitability-assessments
+related_article5:
+    id: 118199
+    title: >-
+        How do imaging modalities impact the prognosis of patients with habitability disorders?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-imaging-modalities-impact-the-prognosis-of-patients-with-habitability-disorders
 ---
 
 &nbsp;

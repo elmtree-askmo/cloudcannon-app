@@ -24,29 +24,35 @@ file_name: what-were-the-political-tensions-in-san-francisco-during-the-1970s.md
 url: /learn/history-of-the-world/questions/what-were-the-political-tensions-in-san-francisco-during-the-1970s
 score: -1.0
 related_article1:
+    id: 123845
+    title: >-
+        What role did George Moscone and Harvey Milk play in the political tensions of the time?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-role-did-george-moscone-and-harvey-milk-play-in-the-political-tensions-of-the-time
+related_article2:
     id: 123829
     title: >-
         What were the key events of the White Night Riot?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-the-key-events-of-the-white-night-riot
-related_article2:
+related_article3:
+    id: 123843
+    title: >-
+        What were the motivations behind Dan White's actions?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-motivations-behind-dan-whites-actions
+related_article4:
     id: 123834
     title: >-
         How did the assassinations impact San Francisco as a city?
     subject: Sociology
     url: /learn/sociology/questions/how-did-the-assassinations-impact-san-francisco-as-a-city
-related_article3:
-    id: 123833
+related_article5:
+    id: 123836
     title: >-
-        What was the verdict and sentencing in Dan White's trial?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-was-the-verdict-and-sentencing-in-dan-whites-trial
-related_article4:
-    id: 123835
-    title: >-
-        In what ways did the assassinations contribute to the rise of the gay rights movement?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/in-what-ways-did-the-assassinations-contribute-to-the-rise-of-the-gay-rights-movement
+        What were the long-term effects of the assassinations on politics and society?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-longterm-effects-of-the-assassinations-on-politics-and-society
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: what-are-the-potential-effects-of-benzodiazepine-overdose-and-how-is-
 url: /learn/medicine/questions/what-are-the-potential-effects-of-benzodiazepine-overdose-and-how-is-it-treated
 score: -1.0
 related_article1:
-    id: 104604
+    id: 104607
     title: >-
-        What are the different classes of antidepressants and how do they differ in their mechanisms?
+        How do Serotonin-Norepinephrine Reuptake Inhibitors (SNRI) differ from SSRIs?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-different-classes-of-antidepressants-and-how-do-they-differ-in-their-mechanisms
+    url: /learn/medicine/questions/how-do-serotoninnorepinephrine-reuptake-inhibitors-snri-differ-from-ssris
 related_article2:
-    id: 104588
+    id: 104595
     title: >-
-        What are the main differences between typical and atypical antipsychotics?
+        How does Akathisia manifest in patients and what are the treatment options?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-main-differences-between-typical-and-atypical-antipsychotics
+    url: /learn/medicine/questions/how-does-akathisia-manifest-in-patients-and-what-are-the-treatment-options
 related_article3:
-    id: 104613
+    id: 104602
     title: >-
-        What are the risks of using antipsychotics in older adults and how can they be mitigated?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-risks-of-using-antipsychotics-in-older-adults-and-how-can-they-be-mitigated
+        What distinguishes primary anxiety from secondary anxiety?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-primary-anxiety-from-secondary-anxiety
 related_article4:
-    id: 104612
+    id: 104599
     title: >-
-        How can nonadherence to antidepressant treatment be addressed in patients?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-can-nonadherence-to-antidepressant-treatment-be-addressed-in-patients
-related_article5:
-    id: 104610
-    title: >-
-        What role does lithium play as a mood stabilizer and what are its side effects?
+        What is the primary purpose of anxiolytics in psychiatric treatment?
     subject: Medicine
-    url: /learn/medicine/questions/what-role-does-lithium-play-as-a-mood-stabilizer-and-what-are-its-side-effects
+    url: /learn/medicine/questions/what-is-the-primary-purpose-of-anxiolytics-in-psychiatric-treatment
+related_article5:
+    id: 104611
+    title: >-
+        What are common drug interactions associated with antidepressants and mood stabilizers?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-common-drug-interactions-associated-with-antidepressants-and-mood-stabilizers
 ---
 
 &nbsp;

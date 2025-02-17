@@ -24,35 +24,35 @@ file_name: can-airtable-handle-large-volumes-of-data-efficiently.md
 url: /learn/digital-media/questions/can-airtable-handle-large-volumes-of-data-efficiently
 score: -1.0
 related_article1:
-    id: 117990
+    id: 118000
     title: >-
-        What is Airtable and how does it function as a database?
+        What systems can Airtable integrate with and how does this integration work?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-airtable-and-how-does-it-function-as-a-database
+    url: /learn/computer-science/questions/what-systems-can-airtable-integrate-with-and-how-does-this-integration-work
 related_article2:
-    id: 118013
-    title: >-
-        What are some common challenges users face when using Airtable?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-common-challenges-users-face-when-using-airtable
-related_article3:
-    id: 118019
-    title: >-
-        What are the future developments or updates expected for Airtable?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-are-the-future-developments-or-updates-expected-for-airtable
-related_article4:
-    id: 118018
-    title: >-
-        How does Airtable's automation engine improve workflow efficiency?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-does-airtables-automation-engine-improve-workflow-efficiency
-related_article5:
     id: 117991
     title: >-
         Can you explain the basic concept of Airtable as a database?
     subject: Computer Science
     url: /learn/computer-science/questions/can-you-explain-the-basic-concept-of-airtable-as-a-database
+related_article3:
+    id: 117994
+    title: >-
+        How can users customize tables and fields in Airtable?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-can-users-customize-tables-and-fields-in-airtable
+related_article4:
+    id: 118014
+    title: >-
+        How does Airtable's customer support compare to other similar tools?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-does-airtables-customer-support-compare-to-other-similar-tools
+related_article5:
+    id: 117997
+    title: >-
+        Is there a mobile application for Airtable and what functionalities does it offer?
+    subject: Digital Media
+    url: /learn/digital-media/questions/is-there-a-mobile-application-for-airtable-and-what-functionalities-does-it-offer
 ---
 
 &nbsp;

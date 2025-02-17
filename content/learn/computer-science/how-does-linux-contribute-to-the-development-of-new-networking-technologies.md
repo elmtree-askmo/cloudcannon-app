@@ -30,23 +30,29 @@ related_article1:
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-advantages-of-using-linux-for-server-configuration
 related_article2:
-    id: 116123
+    id: 116130
     title: >-
-        Are there any graphical networking tools available in Linux?
+        What are the steps involved in setting up a database server on Linux?
     subject: Computer Science
-    url: /learn/computer-science/questions/are-there-any-graphical-networking-tools-available-in-linux
+    url: /learn/computer-science/questions/what-are-the-steps-involved-in-setting-up-a-database-server-on-linux
 related_article3:
+    id: 116125
+    title: >-
+        What are the main differences between TCP and UDP protocols?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-main-differences-between-tcp-and-udp-protocols
+related_article4:
+    id: 116120
+    title: >-
+        What are the key features of the Linux operating system?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-key-features-of-the-linux-operating-system
+related_article5:
     id: 116124
     title: >-
         How does the TCP/IP protocol work?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-the-tcpip-protocol-work
-related_article4:
-    id: 116144
-    title: >-
-        What are the latest trends in firewall technology for Linux?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-latest-trends-in-firewall-technology-for-linux
 ---
 
 &nbsp;

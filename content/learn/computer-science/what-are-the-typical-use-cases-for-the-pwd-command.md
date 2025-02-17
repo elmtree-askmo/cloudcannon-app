@@ -24,11 +24,11 @@ file_name: what-are-the-typical-use-cases-for-the-pwd-command.md
 url: /learn/computer-science/questions/what-are-the-typical-use-cases-for-the-pwd-command
 score: -1.0
 related_article1:
-    id: 116271
+    id: 116283
     title: >-
-        How does the 'cd' command function in navigating directories?
+        What role does the home directory play in user-specific settings and configurations?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-cd-command-function-in-navigating-directories
+    url: /learn/computer-science/questions/what-role-does-the-home-directory-play-in-userspecific-settings-and-configurations
 related_article2:
     id: 116276
     title: >-
@@ -36,23 +36,17 @@ related_article2:
     subject: Computer Science
     url: /learn/computer-science/questions/how-can-understanding-directory-hierarchies-improve-computing-efficiency
 related_article3:
-    id: 116274
+    id: 116271
     title: >-
-        What are the benefits of interactive learning in computing?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-benefits-of-interactive-learning-in-computing
-related_article4:
-    id: 116291
-    title: >-
-        What strategies can be employed to improve file system organization?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-strategies-can-be-employed-to-improve-file-system-organization
-related_article5:
-    id: 116273
-    title: >-
-        How can the 'ls' command be used to list directory contents effectively?
+        How does the 'cd' command function in navigating directories?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-the-ls-command-be-used-to-list-directory-contents-effectively
+    url: /learn/computer-science/questions/how-does-the-cd-command-function-in-navigating-directories
+related_article4:
+    id: 116268
+    title: >-
+        What is the definition of a home directory in computing?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-definition-of-a-home-directory-in-computing
 ---
 
 &nbsp;

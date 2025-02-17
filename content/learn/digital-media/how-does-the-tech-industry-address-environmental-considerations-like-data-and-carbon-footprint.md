@@ -24,17 +24,17 @@ file_name: how-does-the-tech-industry-address-environmental-considerations-like-
 url: /learn/digital-media/questions/how-does-the-tech-industry-address-environmental-considerations-like-data-and-carbon-footprint
 score: -1.0
 related_article1:
-    id: 118482
+    id: 118480
     title: >-
-        How does the tech scene in Norway compare to Silicon Valley?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-does-the-tech-scene-in-norway-compare-to-silicon-valley
+        What are the main challenges faced in coding education today?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-main-challenges-faced-in-coding-education-today
 related_article2:
-    id: 118490
+    id: 118478
     title: >-
-        What are the future trends in AI engineering?
-    subject: Engineering
-    url: /learn/engineering/questions/what-are-the-future-trends-in-ai-engineering
+        How do Scrimba's interactive video tutorials enhance learning?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-scrimbas-interactive-video-tutorials-enhance-learning
 related_article3:
     id: 118492
     title: >-
@@ -42,11 +42,11 @@ related_article3:
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-some-successful-case-studies-of-projectbased-learning-in-coding
 related_article4:
-    id: 118498
+    id: 118470
     title: >-
-        What are the potential environmental impacts of increased data usage in tech?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-potential-environmental-impacts-of-increased-data-usage-in-tech
+        What is Quincy Larson's educational background?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-quincy-larsons-educational-background
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: what-are-the-advantages-of-using-network-printing-over-traditional-pr
 url: /learn/computer-science/questions/what-are-the-advantages-of-using-network-printing-over-traditional-printing-methods
 score: -1.0
 related_article1:
-    id: 122244
+    id: 122265
     title: >-
-        What are the key considerations when implementing file services in a network?
+        What functions do Mail User Agent (MUA), Mail Transfer Agent (MTA), and Mail Delivery Agent (MDA) serve in email systems?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-considerations-when-implementing-file-services-in-a-network
+    url: /learn/computer-science/questions/what-functions-do-mail-user-agent-mua-mail-transfer-agent-mta-and-mail-delivery-agent-mda-serve-in-email-systems
 related_article2:
-    id: 122261
+    id: 122262
     title: >-
-        How do Active Directory and LDAP function in directory services?
+        What is the role of AD DS in network management?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-active-directory-and-ldap-function-in-directory-services
+    url: /learn/computer-science/questions/what-is-the-role-of-ad-ds-in-network-management
 related_article3:
-    id: 122264
+    id: 122242
     title: >-
-        What are the essential components of an email system?
+        What are the primary functions of a file server in a network?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-essential-components-of-an-email-system
+    url: /learn/computer-science/questions/what-are-the-primary-functions-of-a-file-server-in-a-network
 related_article4:
-    id: 122259
+    id: 122260
     title: >-
-        What is the LAMP stack and how is it used in web services?
+        What are the potential dangers of using software stacks like LAMP?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-lamp-stack-and-how-is-it-used-in-web-services
+    url: /learn/computer-science/questions/what-are-the-potential-dangers-of-using-software-stacks-like-lamp
 related_article5:
-    id: 122248
+    id: 122243
     title: >-
-        What role do internal network print servers play in an organization?
+        How do HTTP, FTP, SCP, SMB/CIFS, and NFS differ in terms of file service protocols?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-role-do-internal-network-print-servers-play-in-an-organization
+    url: /learn/computer-science/questions/how-do-http-ftp-scp-smbcifs-and-nfs-differ-in-terms-of-file-service-protocols
 ---
 
 &nbsp;

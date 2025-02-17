@@ -24,35 +24,29 @@ file_name: how-do-you-determine-linear-independence-basis-and-dimension-in-vecto
 url: /learn/mathematics/questions/how-do-you-determine-linear-independence-basis-and-dimension-in-vector-spaces
 score: -1.0
 related_article1:
-    id: 104668
+    id: 104656
     title: >-
-        What role do Markov chains play in linear algebra applications?
+        Can you explain the process of diagonalization of a matrix?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-role-do-markov-chains-play-in-linear-algebra-applications
+    url: /learn/mathematics/questions/can-you-explain-the-process-of-diagonalization-of-a-matrix
 related_article2:
-    id: 104648
+    id: 104674
     title: >-
-        How does Gaussian elimination work in solving linear equations?
+        How is diagonalization related to the Jordan canonical form?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-gaussian-elimination-work-in-solving-linear-equations
+    url: /learn/mathematics/questions/how-is-diagonalization-related-to-the-jordan-canonical-form
 related_article3:
-    id: 104649
+    id: 104660
     title: >-
-        What are the elementary row operations used in matrix manipulation?
+        What are linear transformations and their key properties?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-elementary-row-operations-used-in-matrix-manipulation
+    url: /learn/mathematics/questions/what-are-linear-transformations-and-their-key-properties
 related_article4:
     id: 104647
     title: >-
         What are the different methods to solve systems of linear equations?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-different-methods-to-solve-systems-of-linear-equations
-related_article5:
-    id: 104675
-    title: >-
-        What are the conditions necessary for a matrix to be diagonalizable?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-conditions-necessary-for-a-matrix-to-be-diagonalizable
 ---
 
 &nbsp;

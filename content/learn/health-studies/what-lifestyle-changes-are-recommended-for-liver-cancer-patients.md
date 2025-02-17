@@ -24,35 +24,35 @@ file_name: what-lifestyle-changes-are-recommended-for-liver-cancer-patients.md
 url: /learn/health-studies/questions/what-lifestyle-changes-are-recommended-for-liver-cancer-patients
 score: -1.0
 related_article1:
-    id: 97064
+    id: 97053
     title: >-
-        What are the common symptoms of Metastatic Liver Cancer?
+        What treatment options are available for Metastatic Liver Cancer?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-symptoms-of-metastatic-liver-cancer
+    url: /learn/medicine/questions/what-treatment-options-are-available-for-metastatic-liver-cancer
 related_article2:
-    id: 97057
+    id: 97059
     title: >-
-        What is the prevalence of liver cancer in Hong Kong?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-prevalence-of-liver-cancer-in-hong-kong
+        What investigations are typically conducted for liver cancer diagnosis?
+    subject: Medicine
+    url: /learn/medicine/questions/what-investigations-are-typically-conducted-for-liver-cancer-diagnosis
 related_article3:
-    id: 97049
+    id: 97062
     title: >-
-        What are the most common treatment options for Hepatocellular Carcinoma (HCC)?
+        How does Cholangiocarcinoma differ from other types of liver cancer?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-most-common-treatment-options-for-hepatocellular-carcinoma-hcc
+    url: /learn/medicine/questions/how-does-cholangiocarcinoma-differ-from-other-types-of-liver-cancer
 related_article4:
-    id: 97052
+    id: 97076
     title: >-
-        What are the common diagnostic methods for Metastatic Liver Cancer?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-diagnostic-methods-for-metastatic-liver-cancer
+        How does early detection impact the prognosis of liver cancer?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-early-detection-impact-the-prognosis-of-liver-cancer
 related_article5:
-    id: 97055
+    id: 97070
     title: >-
-        How is hepatomegaly clinically approached?
+        How does liver cancer management differ in Hong Kong compared to other regions?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-hepatomegaly-clinically-approached
+    url: /learn/medicine/questions/how-does-liver-cancer-management-differ-in-hong-kong-compared-to-other-regions
 ---
 
 &nbsp;

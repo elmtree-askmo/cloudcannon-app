@@ -24,35 +24,35 @@ file_name: how-is-a-small-bowel-followthrough-conducted-and-what-does-it-diagnos
 url: /learn/medicine/questions/how-is-a-small-bowel-followthrough-conducted-and-what-does-it-diagnose
 score: -1.0
 related_article1:
-    id: 118165
+    id: 118160
     title: >-
-        How do you decide between using barium and water-soluble contrast?
+        What does an abnormal large bowel loop indicate?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-you-decide-between-using-barium-and-watersoluble-contrast
+    url: /learn/medicine/questions/what-does-an-abnormal-large-bowel-loop-indicate
 related_article2:
-    id: 118156
+    id: 118147
     title: >-
-        How is the small bowel anatomy assessed through imaging?
+        How does computed tomography (CT) enhance GI imaging?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-the-small-bowel-anatomy-assessed-through-imaging
+    url: /learn/medicine/questions/how-does-computed-tomography-ct-enhance-gi-imaging
 related_article3:
-    id: 118144
+    id: 118157
     title: >-
-        What is a barium meal and when is it used?
+        What are the radiological features of the large bowel anatomy?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-a-barium-meal-and-when-is-it-used
+    url: /learn/medicine/questions/what-are-the-radiological-features-of-the-large-bowel-anatomy
 related_article4:
-    id: 118163
+    id: 118162
     title: >-
-        What are the limitations of plain abdominal X-rays in GI imaging?
+        What is the significance of nasogastric tube positioning in radiology?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-limitations-of-plain-abdominal-xrays-in-gi-imaging
+    url: /learn/medicine/questions/what-is-the-significance-of-nasogastric-tube-positioning-in-radiology
 related_article5:
-    id: 118169
+    id: 118150
     title: >-
-        What are the radiological features of common GI disorders like appendicitis and intussusception?
+        What are the advantages of using MRI in GI radiology?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-radiological-features-of-common-gi-disorders-like-appendicitis-and-intussusception
+    url: /learn/medicine/questions/what-are-the-advantages-of-using-mri-in-gi-radiology
 ---
 
 &nbsp;

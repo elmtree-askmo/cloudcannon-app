@@ -24,29 +24,29 @@ file_name: how-do-maxwells-equations-relate-to-the-theory-of-relativity.md
 url: /learn/physics/questions/how-do-maxwells-equations-relate-to-the-theory-of-relativity
 score: -1.0
 related_article1:
-    id: 116235
-    title: >-
-        What are the limitations of Maxwell's equations in modern physics?
-    subject: Physics
-    url: /learn/physics/questions/what-are-the-limitations-of-maxwells-equations-in-modern-physics
-related_article2:
-    id: 116224
-    title: >-
-        What are the medical and industrial applications of X-rays?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-medical-and-industrial-applications-of-xrays
-related_article3:
-    id: 116211
-    title: >-
-        What is the concept of displacement current and why was it introduced by Maxwell?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-concept-of-displacement-current-and-why-was-it-introduced-by-maxwell
-related_article4:
     id: 116214
     title: >-
         What are the primary sources of electromagnetic waves?
     subject: Physics
     url: /learn/physics/questions/what-are-the-primary-sources-of-electromagnetic-waves
+related_article2:
+    id: 116222
+    title: >-
+        How does visible light fit into the electromagnetic spectrum?
+    subject: Physics
+    url: /learn/physics/questions/how-does-visible-light-fit-into-the-electromagnetic-spectrum
+related_article3:
+    id: 116218
+    title: >-
+        What are the different types of waves in the electromagnetic spectrum?
+    subject: Physics
+    url: /learn/physics/questions/what-are-the-different-types-of-waves-in-the-electromagnetic-spectrum
+related_article4:
+    id: 116229
+    title: >-
+        What role do Maxwell's equations play in medical imaging and treatment technologies?
+    subject: Physics
+    url: /learn/physics/questions/what-role-do-maxwells-equations-play-in-medical-imaging-and-treatment-technologies
 ---
 
 &nbsp;

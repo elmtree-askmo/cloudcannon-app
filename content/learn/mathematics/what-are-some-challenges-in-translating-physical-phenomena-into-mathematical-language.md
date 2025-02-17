@@ -24,29 +24,29 @@ file_name: what-are-some-challenges-in-translating-physical-phenomena-into-mathe
 url: /learn/mathematics/questions/what-are-some-challenges-in-translating-physical-phenomena-into-mathematical-language
 score: -1.0
 related_article1:
-    id: 119293
+    id: 119271
     title: >-
-        What is the importance of the minimum principle in physics?
+        How is mathematical language used in physics?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-importance-of-the-minimum-principle-in-physics
+    url: /learn/physics/questions/how-is-mathematical-language-used-in-physics
 related_article2:
-    id: 119282
+    id: 119292
     title: >-
-        Can you explain the minimum principle in the context of physics?
+        How does the local field method contribute to our understanding of physical systems?
     subject: Physics
-    url: /learn/physics/questions/can-you-explain-the-minimum-principle-in-the-context-of-physics
+    url: /learn/physics/questions/how-does-the-local-field-method-contribute-to-our-understanding-of-physical-systems
 related_article3:
-    id: 119281
+    id: 119270
     title: >-
-        What is the local field method in physics?
+        Can you explain Newton's Law of Gravitation in mathematical terms?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-local-field-method-in-physics
+    url: /learn/physics/questions/can-you-explain-newtons-law-of-gravitation-in-mathematical-terms
 related_article4:
-    id: 119296
+    id: 119276
     title: >-
-        How do physicists use mathematical notation to communicate complex ideas?
+        How did the Babylonian method influence the development of physics?
     subject: Physics
-    url: /learn/physics/questions/how-do-physicists-use-mathematical-notation-to-communicate-complex-ideas
+    url: /learn/physics/questions/how-did-the-babylonian-method-influence-the-development-of-physics
 ---
 
 &nbsp;

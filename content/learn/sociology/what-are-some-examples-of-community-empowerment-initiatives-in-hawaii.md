@@ -24,29 +24,35 @@ file_name: what-are-some-examples-of-community-empowerment-initiatives-in-hawaii
 url: /learn/sociology/questions/what-are-some-examples-of-community-empowerment-initiatives-in-hawaii
 score: -1.0
 related_article1:
-    id: 104645
-    title: >-
-        What are the critiques of colonial narratives from a Hawaiian perspective?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-critiques-of-colonial-narratives-from-a-hawaiian-perspective
-related_article2:
     id: 104644
     title: >-
         How do personal narratives and community experiences shape the understanding of historical trauma?
     subject: Sociology
     url: /learn/sociology/questions/how-do-personal-narratives-and-community-experiences-shape-the-understanding-of-historical-trauma
+related_article2:
+    id: 104626
+    title: >-
+        How does language influence identity among Native Hawaiians?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-language-influence-identity-among-native-hawaiians
 related_article3:
-    id: 104638
+    id: 104637
     title: >-
-        What are the ongoing struggles faced by Native Hawaiians in preserving their culture?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-ongoing-struggles-faced-by-native-hawaiians-in-preserving-their-culture
+        How do social and health issues impact Native Hawaiian communities today?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-social-and-health-issues-impact-native-hawaiian-communities-today
 related_article4:
-    id: 104622
+    id: 104642
     title: >-
-        How have cultural revitalization efforts been implemented in Hawaii?
+        How is intergenerational knowledge being passed down in Hawaiian communities?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-is-intergenerational-knowledge-being-passed-down-in-hawaiian-communities
+related_article5:
+    id: 104630
+    title: >-
+        Who is Mililani Trask and what is her contribution to Hawaiian identity and sovereignty?
     subject: Sociology
-    url: /learn/sociology/questions/how-have-cultural-revitalization-efforts-been-implemented-in-hawaii
+    url: /learn/sociology/questions/who-is-mililani-trask-and-what-is-her-contribution-to-hawaiian-identity-and-sovereignty
 ---
 
 &nbsp;

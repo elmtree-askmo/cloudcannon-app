@@ -24,29 +24,23 @@ file_name: what-are-the-main-symptoms-of-obsessivecompulsive-disorder-ocd.md
 url: /learn/psychology/questions/what-are-the-main-symptoms-of-obsessivecompulsive-disorder-ocd
 score: -1.0
 related_article1:
-    id: 117624
-    title: >-
-        What are the prevalence and risk factors for major depressive disorder?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-prevalence-and-risk-factors-for-major-depressive-disorder
-related_article2:
-    id: 117634
-    title: >-
-        What are the symptoms and causes of autism spectrum disorder?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-symptoms-and-causes-of-autism-spectrum-disorder
-related_article3:
-    id: 117630
-    title: >-
-        What are the different types of dissociative disorders and their characteristics?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-different-types-of-dissociative-disorders-and-their-characteristics
-related_article4:
     id: 117622
     title: >-
         What are the risk factors associated with PTSD?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-risk-factors-associated-with-ptsd
+related_article2:
+    id: 117630
+    title: >-
+        What are the different types of dissociative disorders and their characteristics?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-dissociative-disorders-and-their-characteristics
+related_article3:
+    id: 117624
+    title: >-
+        What are the prevalence and risk factors for major depressive disorder?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-prevalence-and-risk-factors-for-major-depressive-disorder
 ---
 
 &nbsp;

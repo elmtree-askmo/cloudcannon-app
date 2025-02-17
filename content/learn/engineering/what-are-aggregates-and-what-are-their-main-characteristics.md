@@ -24,29 +24,35 @@ file_name: what-are-aggregates-and-what-are-their-main-characteristics.md
 url: /learn/engineering/questions/what-are-aggregates-and-what-are-their-main-characteristics
 score: -1.0
 related_article1:
-    id: 120427
+    id: 120413
     title: >-
-        How do aggregates affect the thermal properties of concrete?
-    subject: Engineering
-    url: /learn/engineering/questions/how-do-aggregates-affect-the-thermal-properties-of-concrete
+        What chemical properties of aggregates are crucial for their use in construction?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-chemical-properties-of-aggregates-are-crucial-for-their-use-in-construction
 related_article2:
-    id: 120407
+    id: 120420
     title: >-
-        In what ways does the mineralogical composition of aggregates influence their mechanical properties?
+        What measures can be taken to prevent alkali-aggregate reactivity in concrete?
     subject: Engineering
-    url: /learn/engineering/questions/in-what-ways-does-the-mineralogical-composition-of-aggregates-influence-their-mechanical-properties
+    url: /learn/engineering/questions/what-measures-can-be-taken-to-prevent-alkaliaggregate-reactivity-in-concrete
 related_article3:
-    id: 120428
+    id: 120417
     title: >-
-        What role do aggregates play in the sustainability of construction materials?
+        Why is particle size distribution important in the context of aggregates?
     subject: Engineering
-    url: /learn/engineering/questions/what-role-do-aggregates-play-in-the-sustainability-of-construction-materials
+    url: /learn/engineering/questions/why-is-particle-size-distribution-important-in-the-context-of-aggregates
 related_article4:
-    id: 120404
+    id: 120424
     title: >-
-        Can you explain the mineralogical composition of aggregates derived from igneous rocks?
+        What are the potential environmental impacts of using different types of aggregates?
     subject: Engineering
-    url: /learn/engineering/questions/can-you-explain-the-mineralogical-composition-of-aggregates-derived-from-igneous-rocks
+    url: /learn/engineering/questions/what-are-the-potential-environmental-impacts-of-using-different-types-of-aggregates
+related_article5:
+    id: 120409
+    title: >-
+        How are aggregates classified based on particle size?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-aggregates-classified-based-on-particle-size
 ---
 
 &nbsp;

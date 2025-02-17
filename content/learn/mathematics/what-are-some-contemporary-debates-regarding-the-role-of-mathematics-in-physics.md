@@ -24,29 +24,29 @@ file_name: what-are-some-contemporary-debates-regarding-the-role-of-mathematics-
 url: /learn/mathematics/questions/what-are-some-contemporary-debates-regarding-the-role-of-mathematics-in-physics
 score: -1.0
 related_article1:
-    id: 122711
+    id: 122703
     title: >-
-        How did Newton's work influence the mathematical formulation of physical laws?
+        How does the minimum principle apply to physics and mathematics?
     subject: Physics
-    url: /learn/physics/questions/how-did-newtons-work-influence-the-mathematical-formulation-of-physical-laws
+    url: /learn/physics/questions/how-does-the-minimum-principle-apply-to-physics-and-mathematics
 related_article2:
-    id: 122689
+    id: 122712
     title: >-
-        How does mathematics help us understand natural phenomena?
+        What are the challenges in translating physical concepts into mathematical language?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
+    url: /learn/mathematics/questions/what-are-the-challenges-in-translating-physical-concepts-into-mathematical-language
 related_article3:
-    id: 122691
+    id: 122699
     title: >-
-        Can you explain Newton's Law of Gravitation in mathematical terms?
+        What role does the law of gravitation play in the relationship between physics and mathematics?
     subject: Physics
-    url: /learn/physics/questions/can-you-explain-newtons-law-of-gravitation-in-mathematical-terms
+    url: /learn/physics/questions/what-role-does-the-law-of-gravitation-play-in-the-relationship-between-physics-and-mathematics
 related_article4:
-    id: 122692
+    id: 122717
     title: >-
-        How is mathematical language used in physics?
-    subject: Physics
-    url: /learn/physics/questions/how-is-mathematical-language-used-in-physics
+        How do philosophical perspectives shape our understanding of the physics-mathematics relationship?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/how-do-philosophical-perspectives-shape-our-understanding-of-the-physicsmathematics-relationship
 ---
 
 &nbsp;

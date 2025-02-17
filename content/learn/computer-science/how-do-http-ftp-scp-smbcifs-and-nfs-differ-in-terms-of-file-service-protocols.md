@@ -24,17 +24,17 @@ file_name: how-do-http-ftp-scp-smbcifs-and-nfs-differ-in-terms-of-file-service-p
 url: /learn/computer-science/questions/how-do-http-ftp-scp-smbcifs-and-nfs-differ-in-terms-of-file-service-protocols
 score: -1.0
 related_article1:
-    id: 122322
+    id: 122309
     title: >-
-        What are the differences between SMTP, POP3, and IMAP4 protocols?
+        What are the benefits of clustering and virtualization in database management?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-differences-between-smtp-pop3-and-imap4-protocols
+    url: /learn/computer-science/questions/what-are-the-benefits-of-clustering-and-virtualization-in-database-management
 related_article2:
-    id: 122308
+    id: 122320
     title: >-
-        How do network-accessible DBMS differ from traditional DBMS?
+        What are the main components of an email system?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-networkaccessible-dbms-differ-from-traditional-dbms
+    url: /learn/computer-science/questions/what-are-the-main-components-of-an-email-system
 related_article3:
     id: 122303
     title: >-
@@ -42,17 +42,17 @@ related_article3:
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-a-print-server-facilitate-network-printing
 related_article4:
-    id: 122305
+    id: 122326
     title: >-
-        What role do internal network print servers play in an organization?
+        What are the latest trends in database management systems?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-role-do-internal-network-print-servers-play-in-an-organization
+    url: /learn/computer-science/questions/what-are-the-latest-trends-in-database-management-systems
 related_article5:
-    id: 122320
+    id: 122327
     title: >-
-        What are the main components of an email system?
+        How do web services integrate with other network services?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-components-of-an-email-system
+    url: /learn/computer-science/questions/how-do-web-services-integrate-with-other-network-services
 ---
 
 &nbsp;

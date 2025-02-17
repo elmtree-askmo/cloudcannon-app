@@ -24,29 +24,29 @@ file_name: what-are-the-common-imaging-characteristics-of-acute-pancreatitis.md
 url: /learn/medicine/questions/what-are-the-common-imaging-characteristics-of-acute-pancreatitis
 score: -1.0
 related_article1:
-    id: 118111
+    id: 118114
     title: >-
-        What are the specific indications for using imaging in hepatobiliary conditions?
+        What treatment and management strategies are typically employed for hepatocellular carcinoma?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-specific-indications-for-using-imaging-in-hepatobiliary-conditions
+    url: /learn/medicine/questions/what-treatment-and-management-strategies-are-typically-employed-for-hepatocellular-carcinoma
 related_article2:
-    id: 118112
-    title: >-
-        Can you provide details on a case study involving hepatocellular carcinoma, including patient presentation and imaging findings?
-    subject: Medicine
-    url: /learn/medicine/questions/can-you-provide-details-on-a-case-study-involving-hepatocellular-carcinoma-including-patient-presentation-and-imaging-findings
-related_article3:
     id: 118123
     title: >-
         What are the sonographic features indicative of acute cholecystitis?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-sonographic-features-indicative-of-acute-cholecystitis
-related_article4:
-    id: 118120
+related_article3:
+    id: 118127
     title: >-
-        What are the typical treatment and management strategies for acute pancreatitis?
+        How does imaging contribute to the assessment and staging of pancreatitis?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-typical-treatment-and-management-strategies-for-acute-pancreatitis
+    url: /learn/medicine/questions/how-does-imaging-contribute-to-the-assessment-and-staging-of-pancreatitis
+related_article4:
+    id: 118128
+    title: >-
+        What role does imaging play in detecting complications of pancreatitis?
+    subject: Medicine
+    url: /learn/medicine/questions/what-role-does-imaging-play-in-detecting-complications-of-pancreatitis
 ---
 
 &nbsp;

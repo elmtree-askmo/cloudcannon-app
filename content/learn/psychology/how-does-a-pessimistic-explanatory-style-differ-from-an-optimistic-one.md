@@ -24,23 +24,29 @@ file_name: how-does-a-pessimistic-explanatory-style-differ-from-an-optimistic-on
 url: /learn/psychology/questions/how-does-a-pessimistic-explanatory-style-differ-from-an-optimistic-one
 score: -1.0
 related_article1:
-    id: 96797
-    title: >-
-        What research has been conducted on cultural influences on attribution?
-    subject: Psychology
-    url: /learn/psychology/questions/what-research-has-been-conducted-on-cultural-influences-on-attribution
-related_article2:
     id: 96802
     title: >-
         How do explanatory styles develop over time?
     subject: Psychology
     url: /learn/psychology/questions/how-do-explanatory-styles-develop-over-time
+related_article2:
+    id: 96795
+    title: >-
+        What are the psychological mechanisms behind the actor-observer effect?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-psychological-mechanisms-behind-the-actorobserver-effect
 related_article3:
     id: 96807
     title: >-
         What are the practical applications of understanding explanatory styles and attribution errors?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-practical-applications-of-understanding-explanatory-styles-and-attribution-errors
+related_article4:
+    id: 96783
+    title: >-
+        How do explanatory styles influence mental health outcomes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-explanatory-styles-influence-mental-health-outcomes
 ---
 
 &nbsp;

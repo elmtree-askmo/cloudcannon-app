@@ -24,35 +24,23 @@ file_name: what-are-the-advantages-and-disadvantages-of-twofactor-authentication
 url: /learn/computer-science/questions/what-are-the-advantages-and-disadvantages-of-twofactor-authentication
 score: -1.0
 related_article1:
-    id: 123132
+    id: 123122
     title: >-
-        What are the best practices for network security?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-best-practices-for-network-security
+        What are the risks associated with password reuse?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-are-the-risks-associated-with-password-reuse
 related_article2:
-    id: 123113
-    title: >-
-        How do botnets operate and what threats do they pose?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-botnets-operate-and-what-threats-do-they-pose
-related_article3:
     id: 123105
     title: >-
         How do viruses typically infiltrate a network?
     subject: Digital Media
     url: /learn/digital-media/questions/how-do-viruses-typically-infiltrate-a-network
-related_article4:
-    id: 123109
+related_article3:
+    id: 123104
     title: >-
-        How does social engineering exploit human psychology in network security breaches?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-social-engineering-exploit-human-psychology-in-network-security-breaches
-related_article5:
-    id: 123117
-    title: >-
-        What are privilege escalation attacks and how can they be mitigated?
+        What are the most common types of network security threats today?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-privilege-escalation-attacks-and-how-can-they-be-mitigated
+    url: /learn/computer-science/questions/what-are-the-most-common-types-of-network-security-threats-today
 ---
 
 &nbsp;

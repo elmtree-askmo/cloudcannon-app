@@ -24,35 +24,35 @@ file_name: what-anatomical-details-are-highlighted-in-a-barium-swallow-study.md
 url: /learn/medicine/questions/what-anatomical-details-are-highlighted-in-a-barium-swallow-study
 score: -1.0
 related_article1:
-    id: 118157
+    id: 118142
     title: >-
-        What are the radiological features of the large bowel anatomy?
+        What are the differences between barium and water-soluble contrast in GI studies?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-radiological-features-of-the-large-bowel-anatomy
+    url: /learn/medicine/questions/what-are-the-differences-between-barium-and-watersoluble-contrast-in-gi-studies
 related_article2:
-    id: 118147
+    id: 118158
     title: >-
-        How does computed tomography (CT) enhance GI imaging?
+        What are common abnormal findings on an abdominal X-ray?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-computed-tomography-ct-enhance-gi-imaging
+    url: /learn/medicine/questions/what-are-common-abnormal-findings-on-an-abdominal-xray
 related_article3:
+    id: 118143
+    title: >-
+        Can you explain the procedure and purpose of a barium swallow?
+    subject: Medicine
+    url: /learn/medicine/questions/can-you-explain-the-procedure-and-purpose-of-a-barium-swallow
+related_article4:
     id: 118156
     title: >-
         How is the small bowel anatomy assessed through imaging?
     subject: Medicine
     url: /learn/medicine/questions/how-is-the-small-bowel-anatomy-assessed-through-imaging
-related_article4:
-    id: 118163
-    title: >-
-        What are the limitations of plain abdominal X-rays in GI imaging?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-limitations-of-plain-abdominal-xrays-in-gi-imaging
 related_article5:
-    id: 118141
+    id: 118168
     title: >-
-        How do plain films contribute to GI radiology?
+        What specific roles does MRI play in diagnosing GI disorders?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-plain-films-contribute-to-gi-radiology
+    url: /learn/medicine/questions/what-specific-roles-does-mri-play-in-diagnosing-gi-disorders
 ---
 
 &nbsp;

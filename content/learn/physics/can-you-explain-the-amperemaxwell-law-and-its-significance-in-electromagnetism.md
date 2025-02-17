@@ -24,23 +24,23 @@ file_name: can-you-explain-the-amperemaxwell-law-and-its-significance-in-electro
 url: /learn/physics/questions/can-you-explain-the-amperemaxwell-law-and-its-significance-in-electromagnetism
 score: -1.0
 related_article1:
-    id: 116212
+    id: 116232
     title: >-
-        How is the displacement current mathematically formulated in Maxwell's equations?
+        How did Maxwell's equations change the understanding of physics in the 19th century?
     subject: Physics
-    url: /learn/physics/questions/how-is-the-displacement-current-mathematically-formulated-in-maxwells-equations
+    url: /learn/physics/questions/how-did-maxwells-equations-change-the-understanding-of-physics-in-the-19th-century
 related_article2:
-    id: 116209
+    id: 116208
     title: >-
-        How did Maxwell's work build upon the contributions of previous scientists in the field of electromagnetism?
+        What was the historical context in which Maxwell developed his equations?
     subject: Physics
-    url: /learn/physics/questions/how-did-maxwells-work-build-upon-the-contributions-of-previous-scientists-in-the-field-of-electromagnetism
+    url: /learn/physics/questions/what-was-the-historical-context-in-which-maxwell-developed-his-equations
 related_article3:
-    id: 116234
+    id: 116223
     title: >-
-        How have Maxwell's equations been experimentally verified over time?
-    subject: Physics
-    url: /learn/physics/questions/how-have-maxwells-equations-been-experimentally-verified-over-time
+        What are the effects and uses of ultraviolet rays?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-effects-and-uses-of-ultraviolet-rays
 related_article4:
     id: 116231
     title: >-
@@ -48,11 +48,11 @@ related_article4:
     subject: Physics
     url: /learn/physics/questions/what-are-some-examples-of-modern-technologies-that-rely-on-the-principles-of-electromagnetism
 related_article5:
-    id: 116229
+    id: 116222
     title: >-
-        What role do Maxwell's equations play in medical imaging and treatment technologies?
+        How does visible light fit into the electromagnetic spectrum?
     subject: Physics
-    url: /learn/physics/questions/what-role-do-maxwells-equations-play-in-medical-imaging-and-treatment-technologies
+    url: /learn/physics/questions/how-does-visible-light-fit-into-the-electromagnetic-spectrum
 ---
 
 &nbsp;

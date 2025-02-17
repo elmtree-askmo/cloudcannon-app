@@ -24,17 +24,17 @@ file_name: what-are-some-success-stories-from-free-code-camp-alumni.md
 url: /learn/education-studies/questions/what-are-some-success-stories-from-free-code-camp-alumni
 score: -1.0
 related_article1:
-    id: 118542
+    id: 118532
     title: >-
-        What is the economic influence of the tech industry in Norway?
-    subject: Economics
-    url: /learn/economics/questions/what-is-the-economic-influence-of-the-tech-industry-in-norway
-related_article2:
-    id: 118538
-    title: >-
-        What are the main benefits and challenges of using Scrimba for learning coding?
+        What is the mission and vision of Free Code Camp?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-benefits-and-challenges-of-using-scrimba-for-learning-coding
+    url: /learn/education-studies/questions/what-is-the-mission-and-vision-of-free-code-camp
+related_article2:
+    id: 118548
+    title: >-
+        What advice would you give to someone trying to break into the tech industry?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-advice-would-you-give-to-someone-trying-to-break-into-the-tech-industry
 related_article3:
     id: 118543
     title: >-
@@ -42,11 +42,11 @@ related_article3:
     subject: Computer Science
     url: /learn/computer-science/questions/how-is-ai-engineering-defined-and-what-is-its-scope
 related_article4:
-    id: 118532
+    id: 118538
     title: >-
-        What is the mission and vision of Free Code Camp?
+        What are the main benefits and challenges of using Scrimba for learning coding?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-mission-and-vision-of-free-code-camp
+    url: /learn/education-studies/questions/what-are-the-main-benefits-and-challenges-of-using-scrimba-for-learning-coding
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: what-are-the-common-experimental-designs-used-in-lifespan-development
 url: /learn/psychology/questions/what-are-the-common-experimental-designs-used-in-lifespan-development-research
 score: -1.0
 related_article1:
-    id: 121399
+    id: 121411
     title: >-
-        Can you explain Bronfenbrenner’s Ecological Systems Theory?
-    subject: Psychology
-    url: /learn/psychology/questions/can-you-explain-bronfenbrenners-ecological-systems-theory
+        What are the implications of atypical development for intervention strategies?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-implications-of-atypical-development-for-intervention-strategies
 related_article2:
-    id: 121401
-    title: >-
-        How do cross-sectional designs differ from longitudinal studies in developmental research?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-crosssectional-designs-differ-from-longitudinal-studies-in-developmental-research
-related_article3:
     id: 121392
     title: >-
         What are normative history-graded changes and how do they impact development?
     subject: Psychology
     url: /learn/psychology/questions/what-are-normative-historygraded-changes-and-how-do-they-impact-development
+related_article3:
+    id: 121398
+    title: >-
+        What is the lifespan perspective in developmental psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-lifespan-perspective-in-developmental-psychology
 related_article4:
-    id: 121384
+    id: 121391
     title: >-
-        What are the main periods of human development?
+        How do normative age-graded changes affect human development?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-periods-of-human-development
+    url: /learn/psychology/questions/how-do-normative-agegraded-changes-affect-human-development
 related_article5:
-    id: 121405
+    id: 121408
     title: >-
-        What are the challenges of conducting cross-cultural research in developmental psychology?
+        How is assessment typically conducted in a developmental psychology course?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-challenges-of-conducting-crosscultural-research-in-developmental-psychology
+    url: /learn/psychology/questions/how-is-assessment-typically-conducted-in-a-developmental-psychology-course
 ---
 
 &nbsp;

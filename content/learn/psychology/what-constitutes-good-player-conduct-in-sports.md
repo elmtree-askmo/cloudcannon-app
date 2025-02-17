@@ -24,35 +24,35 @@ file_name: what-constitutes-good-player-conduct-in-sports.md
 url: /learn/psychology/questions/what-constitutes-good-player-conduct-in-sports
 score: -1.0
 related_article1:
-    id: 119048
+    id: 119043
     title: >-
-        What are some examples of calcium-rich foods and their benefits?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-some-examples-of-calciumrich-foods-and-their-benefits
+        What constitutes a legal serve in volleyball?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-constitutes-a-legal-serve-in-volleyball
 related_article2:
+    id: 119041
+    title: >-
+        How does player rotation work in volleyball?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-player-rotation-work-in-volleyball
+related_article3:
+    id: 119051
+    title: >-
+        What are the major components of the muscular system?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-major-components-of-the-muscular-system
+related_article4:
+    id: 119052
+    title: >-
+        How does the skeletal system support the human body?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-skeletal-system-support-the-human-body
+related_article5:
     id: 119050
     title: >-
         How does physical fitness contribute to overall well-being?
     subject: Health Studies
     url: /learn/health-studies/questions/how-does-physical-fitness-contribute-to-overall-wellbeing
-related_article3:
-    id: 119054
-    title: >-
-        How does the heart function within the circulatory system?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-the-heart-function-within-the-circulatory-system
-related_article4:
-    id: 119047
-    title: >-
-        How do proteins contribute to overall health and fitness?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-proteins-contribute-to-overall-health-and-fitness
-related_article5:
-    id: 119046
-    title: >-
-        What are the primary functions of carbohydrates in the body?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-functions-of-carbohydrates-in-the-body
 ---
 
 &nbsp;

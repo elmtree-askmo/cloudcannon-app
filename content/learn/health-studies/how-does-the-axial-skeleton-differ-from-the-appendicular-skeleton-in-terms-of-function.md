@@ -24,29 +24,23 @@ file_name: how-does-the-axial-skeleton-differ-from-the-appendicular-skeleton-in-
 url: /learn/health-studies/questions/how-does-the-axial-skeleton-differ-from-the-appendicular-skeleton-in-terms-of-function
 score: -1.0
 related_article1:
-    id: 100374
+    id: 100379
     title: >-
-        What is the importance of the pelvis in terms of weight distribution?
+        How do the bones of the spine interact to allow flexibility and support?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-importance-of-the-pelvis-in-terms-of-weight-distribution
+    url: /learn/health-studies/questions/how-do-the-bones-of-the-spine-interact-to-allow-flexibility-and-support
 related_article2:
-    id: 100368
+    id: 100375
     title: >-
-        Why is the femur considered an important bone in the body?
+        How do the legs support locomotion and weight-bearing?
     subject: Health Studies
-    url: /learn/health-studies/questions/why-is-the-femur-considered-an-important-bone-in-the-body
+    url: /learn/health-studies/questions/how-do-the-legs-support-locomotion-and-weightbearing
 related_article3:
-    id: 100369
+    id: 100366
     title: >-
-        How do bones contribute to the protection of vital organs?
+        How does the pelvis support the body?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-bones-contribute-to-the-protection-of-vital-organs
-related_article4:
-    id: 100382
-    title: >-
-        How does the pelvis connect the spine to the lower limbs?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-the-pelvis-connect-the-spine-to-the-lower-limbs
+    url: /learn/health-studies/questions/how-does-the-pelvis-support-the-body
 ---
 
 &nbsp;

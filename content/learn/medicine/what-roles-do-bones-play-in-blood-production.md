@@ -24,23 +24,35 @@ file_name: what-roles-do-bones-play-in-blood-production.md
 url: /learn/medicine/questions/what-roles-do-bones-play-in-blood-production
 score: -1.0
 related_article1:
-    id: 100375
+    id: 100374
     title: >-
-        How do the legs support locomotion and weight-bearing?
+        What is the importance of the pelvis in terms of weight distribution?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-the-legs-support-locomotion-and-weightbearing
+    url: /learn/health-studies/questions/what-is-the-importance-of-the-pelvis-in-terms-of-weight-distribution
 related_article2:
-    id: 100366
+    id: 100372
     title: >-
-        How does the pelvis support the body?
+        What is the role of the spine in maintaining posture and balance?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-pelvis-support-the-body
+    url: /learn/health-studies/questions/what-is-the-role-of-the-spine-in-maintaining-posture-and-balance
 related_article3:
-    id: 100383
+    id: 100370
     title: >-
-        What are the major bones in the legs and their functions?
+        What is the significance of the skull in protecting the brain?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-significance-of-the-skull-in-protecting-the-brain
+related_article4:
+    id: 100384
+    title: >-
+        How does the skeletal system change with age or disease?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-major-bones-in-the-legs-and-their-functions
+    url: /learn/health-studies/questions/how-does-the-skeletal-system-change-with-age-or-disease
+related_article5:
+    id: 100380
+    title: >-
+        What are the major bones in the arms and their functions?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-major-bones-in-the-arms-and-their-functions
 ---
 
 &nbsp;

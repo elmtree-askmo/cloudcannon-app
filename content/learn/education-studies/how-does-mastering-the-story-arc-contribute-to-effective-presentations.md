@@ -24,23 +24,29 @@ file_name: how-does-mastering-the-story-arc-contribute-to-effective-presentation
 url: /learn/education-studies/questions/how-does-mastering-the-story-arc-contribute-to-effective-presentations
 score: -1.0
 related_article1:
-    id: 120662
-    title: >-
-        Can you define storytelling in the context of presentations?
-    subject: Digital Media
-    url: /learn/digital-media/questions/can-you-define-storytelling-in-the-context-of-presentations
-related_article2:
-    id: 120685
-    title: >-
-        What are some common pitfalls to avoid when using storytelling in presentations?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-common-pitfalls-to-avoid-when-using-storytelling-in-presentations
-related_article3:
     id: 120670
     title: >-
         What is the top-down approach in sequencing information for presentations?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-topdown-approach-in-sequencing-information-for-presentations
+related_article2:
+    id: 120672
+    title: >-
+        Can you explain the concept of 'In Medias Res' and its application in presentations?
+    subject: Digital Media
+    url: /learn/digital-media/questions/can-you-explain-the-concept-of-in-medias-res-and-its-application-in-presentations
+related_article3:
+    id: 120671
+    title: >-
+        How do existing structures like the Four C’s aid in the top-down approach?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-existing-structures-like-the-four-cs-aid-in-the-topdown-approach
+related_article4:
+    id: 120679
+    title: >-
+        What audience considerations should be taken into account when crafting a presentation?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-audience-considerations-should-be-taken-into-account-when-crafting-a-presentation
 ---
 
 &nbsp;

@@ -23,18 +23,7 @@ subject: Psychology
 file_name: what-are-the-current-diagnostic-criteria-for-autism-spectrum-disorders-asd.md
 url: /learn/psychology/questions/what-are-the-current-diagnostic-criteria-for-autism-spectrum-disorders-asd
 score: -1.0
-related_article1:
-    id: 108011
-    title: >-
-        What are the most effective treatment approaches for autism?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-most-effective-treatment-approaches-for-autism
-related_article2:
-    id: 108014
-    title: >-
-        How are savant skills defined in the context of autism?
-    subject: Psychology
-    url: /learn/psychology/questions/how-are-savant-skills-defined-in-the-context-of-autism
+
 ---
 
 &nbsp;

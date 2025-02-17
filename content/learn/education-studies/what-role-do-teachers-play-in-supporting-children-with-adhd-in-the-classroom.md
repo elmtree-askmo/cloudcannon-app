@@ -24,11 +24,11 @@ file_name: what-role-do-teachers-play-in-supporting-children-with-adhd-in-the-cl
 url: /learn/education-studies/questions/what-role-do-teachers-play-in-supporting-children-with-adhd-in-the-classroom
 score: -1.0
 related_article1:
-    id: 124053
+    id: 124044
     title: >-
-        What are the best practices for setting achievable goals for children with ADHD?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-best-practices-for-setting-achievable-goals-for-children-with-adhd
+        How can families create effective plans to support children with ADHD?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-families-create-effective-plans-to-support-children-with-adhd
 related_article2:
     id: 124049
     title: >-
@@ -36,11 +36,11 @@ related_article2:
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-misconceptions-about-adhd-in-society
 related_article3:
-    id: 124052
+    id: 124036
     title: >-
-        How can technology be used to support children with ADHD?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-technology-be-used-to-support-children-with-adhd
+        How do social workers support children with ADHD?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-social-workers-support-children-with-adhd
 ---
 
 &nbsp;

@@ -30,17 +30,17 @@ related_article1:
     subject: Education Studies
     url: /learn/education-studies/questions/how-is-the-grading-policy-structured-for-this-course
 related_article2:
-    id: 119825
-    title: >-
-        How can students seek help if they have concerns about their grades?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-students-seek-help-if-they-have-concerns-about-their-grades
-related_article3:
     id: 119819
     title: >-
         How can students effectively manage their time during exams?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-students-effectively-manage-their-time-during-exams
+related_article3:
+    id: 119825
+    title: >-
+        How can students seek help if they have concerns about their grades?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-students-seek-help-if-they-have-concerns-about-their-grades
 ---
 
 &nbsp;

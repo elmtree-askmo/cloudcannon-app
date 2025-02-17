@@ -24,35 +24,35 @@ file_name: what-imaging-techniques-are-most-effective-in-diagnosing-acute-ischem
 url: /learn/medicine/questions/what-imaging-techniques-are-most-effective-in-diagnosing-acute-ischemia
 score: -1.0
 related_article1:
-    id: 102157
+    id: 102164
     title: >-
-        What role does acute thrombosis play in the development of acute ischemia?
+        What are the main treatment approaches for acute ischemia?
     subject: Medicine
-    url: /learn/medicine/questions/what-role-does-acute-thrombosis-play-in-the-development-of-acute-ischemia
+    url: /learn/medicine/questions/what-are-the-main-treatment-approaches-for-acute-ischemia
 related_article2:
-    id: 102172
+    id: 102176
     title: >-
-        What is the role of fasciotomy in managing compartment syndrome post-surgery?
+        What treatment options are available for managing chronic ischemia?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-the-role-of-fasciotomy-in-managing-compartment-syndrome-postsurgery
+    url: /learn/medicine/questions/what-treatment-options-are-available-for-managing-chronic-ischemia
 related_article3:
-    id: 102170
+    id: 102183
     title: >-
-        What are the key aspects of postoperative management for acute ischemia?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-key-aspects-of-postoperative-management-for-acute-ischemia
+        What are the benefits and limitations of different imaging techniques for acute ischemia?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-benefits-and-limitations-of-different-imaging-techniques-for-acute-ischemia
 related_article4:
-    id: 102161
+    id: 102168
     title: >-
-        What are the key diagnostic tools used for identifying acute ischemia?
+        How does thrombolysis work in the context of acute ischemia treatment?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-key-diagnostic-tools-used-for-identifying-acute-ischemia
+    url: /learn/medicine/questions/how-does-thrombolysis-work-in-the-context-of-acute-ischemia-treatment
 related_article5:
-    id: 102177
+    id: 102155
     title: >-
-        What are the latest technological advances in vascular surgery?
+        What are the primary causes of acute ischemia in the lower extremities?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-latest-technological-advances-in-vascular-surgery
+    url: /learn/medicine/questions/what-are-the-primary-causes-of-acute-ischemia-in-the-lower-extremities
 ---
 
 &nbsp;

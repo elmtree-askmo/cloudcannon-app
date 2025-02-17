@@ -24,35 +24,29 @@ file_name: how-do-symbols-sets-and-strings-form-the-mathematical-foundation-of-a
 url: /learn/mathematics/questions/how-do-symbols-sets-and-strings-form-the-mathematical-foundation-of-automata
 score: -1.0
 related_article1:
-    id: 98936
+    id: 98934
     title: >-
-        What are the historical developments that led to the creation of Automata Theory?
+        What are formal languages and how are they introduced in Automata Theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-historical-developments-that-led-to-the-creation-of-automata-theory
+    url: /learn/computer-science/questions/what-are-formal-languages-and-how-are-they-introduced-in-automata-theory
 related_article2:
-    id: 98938
+    id: 98912
     title: >-
-        What are the limitations of Finite Automata in computational theory?
+        Why is Automata Theory important in computer science?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-limitations-of-finite-automata-in-computational-theory
+    url: /learn/computer-science/questions/why-is-automata-theory-important-in-computer-science
 related_article3:
-    id: 98930
-    title: >-
-        What are the components of a DFA diagram?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-components-of-a-dfa-diagram
-related_article4:
-    id: 98922
-    title: >-
-        Can you explain the concept of the power of sigma in Automata Theory?
-    subject: Computer Science
-    url: /learn/computer-science/questions/can-you-explain-the-concept-of-the-power-of-sigma-in-automata-theory
-related_article5:
     id: 98926
     title: >-
         In what ways does Automata Theory contribute to hardware design?
     subject: Computer Science
     url: /learn/computer-science/questions/in-what-ways-does-automata-theory-contribute-to-hardware-design
+related_article4:
+    id: 98919
+    title: >-
+        What are the key characteristics of an NFA?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-key-characteristics-of-an-nfa
 ---
 
 &nbsp;

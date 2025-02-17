@@ -41,6 +41,12 @@ related_article3:
         What is crowd psychology and how does it influence group behavior?
     subject: Psychology
     url: /learn/psychology/questions/what-is-crowd-psychology-and-how-does-it-influence-group-behavior
+related_article4:
+    id: 119437
+    title: >-
+        What are the legal implications of protester violence?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-implications-of-protester-violence
 ---
 
 &nbsp;

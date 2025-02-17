@@ -24,29 +24,17 @@ file_name: how-were-the-questions-addressed-during-the-qa-session.md
 url: /learn/education-studies/questions/how-were-the-questions-addressed-during-the-qa-session
 score: -1.0
 related_article1:
-    id: 124167
+    id: 124151
     title: >-
-        Were there any follow-up activities or discussions planned after the lecture?
+        What were the key points discussed during the lecture?
     subject: Education Studies
-    url: /learn/education-studies/questions/were-there-any-followup-activities-or-discussions-planned-after-the-lecture
+    url: /learn/education-studies/questions/what-were-the-key-points-discussed-during-the-lecture
 related_article2:
-    id: 124152
-    title: >-
-        How did the participants respond to the lecture?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-did-the-participants-respond-to-the-lecture
-related_article3:
     id: 124153
     title: >-
         Were there any notable feedback or comments from the participants?
     subject: Education Studies
     url: /learn/education-studies/questions/were-there-any-notable-feedback-or-comments-from-the-participants
-related_article4:
-    id: 124171
-    title: >-
-        Were there any partnerships or collaborations involved in organizing the lecture?
-    subject: Education Studies
-    url: /learn/education-studies/questions/were-there-any-partnerships-or-collaborations-involved-in-organizing-the-lecture
 ---
 
 &nbsp;

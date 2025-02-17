@@ -24,35 +24,29 @@ file_name: how-can-one-effectively-transition-between-different-parts-of-a-story
 url: /learn/art-history-and-literature/questions/how-can-one-effectively-transition-between-different-parts-of-a-story
 score: -1.0
 related_article1:
-    id: 120718
+    id: 120713
     title: >-
-        How can storytelling be adapted for different types of audiences?
+        What are some examples of successful stories that use the top-down approach?
     subject: Digital Media
-    url: /learn/digital-media/questions/how-can-storytelling-be-adapted-for-different-types-of-audiences
+    url: /learn/digital-media/questions/what-are-some-examples-of-successful-stories-that-use-the-topdown-approach
 related_article2:
-    id: 120709
-    title: >-
-        How can storytelling techniques be applied to improve presentation structure?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-storytelling-techniques-be-applied-to-improve-presentation-structure
-related_article3:
-    id: 120694
-    title: >-
-        What are 'beats' in storytelling, and why are they important?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-are-beats-in-storytelling-and-why-are-they-important
-related_article4:
     id: 120692
     title: >-
         What are the key steps in the bottom-up approach to shaping a story?
     subject: Digital Media
     url: /learn/digital-media/questions/what-are-the-key-steps-in-the-bottomup-approach-to-shaping-a-story
-related_article5:
-    id: 120712
+related_article3:
+    id: 120691
     title: >-
-        What are some examples of successful stories that use the bottom-up approach?
+        How does sequencing information impact the effectiveness of a story?
     subject: Digital Media
-    url: /learn/digital-media/questions/what-are-some-examples-of-successful-stories-that-use-the-bottomup-approach
+    url: /learn/digital-media/questions/how-does-sequencing-information-impact-the-effectiveness-of-a-story
+related_article4:
+    id: 120710
+    title: >-
+        What are some common pitfalls to avoid when shaping information into a story?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-are-some-common-pitfalls-to-avoid-when-shaping-information-into-a-story
 ---
 
 &nbsp;

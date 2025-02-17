@@ -24,35 +24,35 @@ file_name: how-do-mathematical-theories-evolve-with-new-discoveries-in-physics.m
 url: /learn/mathematics/questions/how-do-mathematical-theories-evolve-with-new-discoveries-in-physics
 score: -1.0
 related_article1:
-    id: 115979
+    id: 115971
     title: >-
-        What is the conservation of angular momentum and its mathematical representation?
+        How is mathematical language used in physics?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-conservation-of-angular-momentum-and-its-mathematical-representation
+    url: /learn/physics/questions/how-is-mathematical-language-used-in-physics
 related_article2:
-    id: 115995
+    id: 115990
     title: >-
-        What is the role of geometry in understanding physical space?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-role-of-geometry-in-understanding-physical-space
+        How do mathematical symmetries relate to physical laws?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-mathematical-symmetries-relate-to-physical-laws
 related_article3:
+    id: 115974
+    title: >-
+        What contributions did Babylonian and Greek traditions make to mathematics and physics?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-contributions-did-babylonian-and-greek-traditions-make-to-mathematics-and-physics
+related_article4:
+    id: 115973
+    title: >-
+        How has modern mathematical notation evolved over time?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-over-time
+related_article5:
     id: 115983
     title: >-
         What are the philosophical implications of the relationship between physics and mathematics?
     subject: Philosophy and Greek Myths
     url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
-related_article4:
-    id: 115987
-    title: >-
-        What is the importance of mathematical proofs in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-importance-of-mathematical-proofs-in-physics
-related_article5:
-    id: 115985
-    title: >-
-        What role does calculus play in understanding physical laws?
-    subject: Physics
-    url: /learn/physics/questions/what-role-does-calculus-play-in-understanding-physical-laws
 ---
 
 &nbsp;

@@ -24,35 +24,29 @@ file_name: how-does-imaging-influence-the-treatment-planning-for-hepatobiliary-d
 url: /learn/medicine/questions/how-does-imaging-influence-the-treatment-planning-for-hepatobiliary-diseases
 score: -1.0
 related_article1:
-    id: 118124
-    title: >-
-        What CT imaging findings are associated with acute cholecystitis?
-    subject: Medicine
-    url: /learn/medicine/questions/what-ct-imaging-findings-are-associated-with-acute-cholecystitis
-related_article2:
-    id: 118139
-    title: >-
-        What are the potential risks or side effects associated with imaging techniques used in hepatobiliary diagnosis?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-potential-risks-or-side-effects-associated-with-imaging-techniques-used-in-hepatobiliary-diagnosis
-related_article3:
-    id: 118116
-    title: >-
-        What are the differential diagnoses for acute cholecystitis based on imaging?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-differential-diagnoses-for-acute-cholecystitis-based-on-imaging
-related_article4:
     id: 118127
     title: >-
         How does imaging contribute to the assessment and staging of pancreatitis?
     subject: Medicine
     url: /learn/medicine/questions/how-does-imaging-contribute-to-the-assessment-and-staging-of-pancreatitis
-related_article5:
-    id: 118112
+related_article2:
+    id: 118133
     title: >-
-        Can you provide details on a case study involving hepatocellular carcinoma, including patient presentation and imaging findings?
+        What are the latest advancements in imaging techniques for hepatobiliary diagnosis?
     subject: Medicine
-    url: /learn/medicine/questions/can-you-provide-details-on-a-case-study-involving-hepatocellular-carcinoma-including-patient-presentation-and-imaging-findings
+    url: /learn/medicine/questions/what-are-the-latest-advancements-in-imaging-techniques-for-hepatobiliary-diagnosis
+related_article3:
+    id: 118131
+    title: >-
+        What are the key imaging modalities used in the diagnosis of hepatocellular carcinoma?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-key-imaging-modalities-used-in-the-diagnosis-of-hepatocellular-carcinoma
+related_article4:
+    id: 118137
+    title: >-
+        What are the cost considerations associated with different imaging modalities in hepatobiliary diagnosis?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-cost-considerations-associated-with-different-imaging-modalities-in-hepatobiliary-diagnosis
 ---
 
 &nbsp;

@@ -13,7 +13,7 @@ seo:
   page_description: >-
     This content explores how personal narratives contribute to the understanding of Hawaiian identity, emphasizing cultural transmission, historical context, community bonding, intergenerational knowledge, and empowerment.
   page_keywords: >-
-    Hawaiian identity, personal narratives, cultural heritage, historical trauma, cultural revitalization, community empowerment, decolonization, Kuleana, Aloha, ʻŌlelo Hawaiʻi, family narratives, colonization, cultural suppression, resilience, language preservation, sovereignty movement, talk story, community connections, intergenerational knowledge, empowerment, activism
+    Hawaiian identity, personal narratives, cultural heritage, historical trauma, cultural revitalization, community empowerment, decolonization, Kuleana, Aloha, lelo Hawaii, family narratives, colonization, cultural suppression, resilience, language preservation, sovereignty movement, talk story, community connections, intergenerational knowledge, empowerment, activism
 author: QuickTakes
 question: >-
     How do personal narratives contribute to the understanding of Hawaiian identity?
@@ -24,17 +24,17 @@ file_name: how-do-personal-narratives-contribute-to-the-understanding-of-hawaiia
 url: /learn/sociology/questions/how-do-personal-narratives-contribute-to-the-understanding-of-hawaiian-identity
 score: -1.0
 related_article1:
-    id: 104630
+    id: 104625
     title: >-
-        Who is Mililani Trask and what is her contribution to Hawaiian identity and sovereignty?
+        Can you provide examples of intergenerational trauma experienced by Native Hawaiians?
     subject: Sociology
-    url: /learn/sociology/questions/who-is-mililani-trask-and-what-is-her-contribution-to-hawaiian-identity-and-sovereignty
+    url: /learn/sociology/questions/can-you-provide-examples-of-intergenerational-trauma-experienced-by-native-hawaiians
 related_article2:
-    id: 104635
+    id: 104639
     title: >-
-        What are the contemporary challenges facing Hawaiian cultural identity?
+        What are the hopes and strategies for ensuring cultural continuity in Hawaii?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-contemporary-challenges-facing-hawaiian-cultural-identity
+    url: /learn/sociology/questions/what-are-the-hopes-and-strategies-for-ensuring-cultural-continuity-in-hawaii
 related_article3:
     id: 104636
     title: >-
@@ -42,17 +42,17 @@ related_article3:
     subject: Sociology
     url: /learn/sociology/questions/what-are-the-current-debates-surrounding-hawaiian-sovereignty-and-independence
 related_article4:
-    id: 104637
+    id: 104644
     title: >-
-        How do social and health issues impact Native Hawaiian communities today?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-social-and-health-issues-impact-native-hawaiian-communities-today
-related_article5:
-    id: 104626
-    title: >-
-        How does language influence identity among Native Hawaiians?
+        How do personal narratives and community experiences shape the understanding of historical trauma?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-language-influence-identity-among-native-hawaiians
+    url: /learn/sociology/questions/how-do-personal-narratives-and-community-experiences-shape-the-understanding-of-historical-trauma
+related_article5:
+    id: 104619
+    title: >-
+        How did the population of Hawaii decline during the colonial period?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-population-of-hawaii-decline-during-the-colonial-period
 ---
 
 &nbsp;

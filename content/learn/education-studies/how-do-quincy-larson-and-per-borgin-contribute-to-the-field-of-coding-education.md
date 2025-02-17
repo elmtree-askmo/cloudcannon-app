@@ -24,29 +24,35 @@ file_name: how-do-quincy-larson-and-per-borgin-contribute-to-the-field-of-coding
 url: /learn/education-studies/questions/how-do-quincy-larson-and-per-borgin-contribute-to-the-field-of-coding-education
 score: -1.0
 related_article1:
-    id: 118543
-    title: >-
-        How is AI engineering defined and what is its scope?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-is-ai-engineering-defined-and-what-is-its-scope
-related_article2:
     id: 118536
     title: >-
         How has Scrimba developed over the years?
     subject: Education Studies
     url: /learn/education-studies/questions/how-has-scrimba-developed-over-the-years
+related_article2:
+    id: 118557
+    title: >-
+        What are the current trends in coding education?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-current-trends-in-coding-education
 related_article3:
-    id: 118555
+    id: 118543
     title: >-
-        What are some success stories from Free Code Camp alumni?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-success-stories-from-free-code-camp-alumni
+        How is AI engineering defined and what is its scope?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-is-ai-engineering-defined-and-what-is-its-scope
 related_article4:
-    id: 118530
+    id: 118532
     title: >-
-        Can you provide a brief background on Quincy Larson and Per Borgin?
+        What is the mission and vision of Free Code Camp?
     subject: Education Studies
-    url: /learn/education-studies/questions/can-you-provide-a-brief-background-on-quincy-larson-and-per-borgin
+    url: /learn/education-studies/questions/what-is-the-mission-and-vision-of-free-code-camp
+related_article5:
+    id: 118540
+    title: >-
+        What are the advantages and disadvantages of coding boot camps compared to self-learning?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-advantages-and-disadvantages-of-coding-boot-camps-compared-to-selflearning
 ---
 
 &nbsp;

@@ -24,29 +24,35 @@ file_name: how-do-mechanical-thrombectomy-devices-like-rotarex-and-angiojet-work
 url: /learn/medicine/questions/how-do-mechanical-thrombectomy-devices-like-rotarex-and-angiojet-work
 score: -1.0
 related_article1:
-    id: 102165
+    id: 102164
     title: >-
-        How is embolectomy performed in the treatment of acute ischemia?
+        What are the main treatment approaches for acute ischemia?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-embolectomy-performed-in-the-treatment-of-acute-ischemia
+    url: /learn/medicine/questions/what-are-the-main-treatment-approaches-for-acute-ischemia
 related_article2:
-    id: 102159
+    id: 102179
     title: >-
-        What are the Six P's of acute ischemia and how do they present clinically?
+        What factors influence the choice of treatment for acute ischemia?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-six-ps-of-acute-ischemia-and-how-do-they-present-clinically
+    url: /learn/medicine/questions/what-factors-influence-the-choice-of-treatment-for-acute-ischemia
 related_article3:
-    id: 102180
+    id: 102181
     title: >-
-        How does operator experience and preference affect treatment decisions in acute ischemia?
+        What are the potential complications associated with acute ischemia treatment?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-operator-experience-and-preference-affect-treatment-decisions-in-acute-ischemia
+    url: /learn/medicine/questions/what-are-the-potential-complications-associated-with-acute-ischemia-treatment
 related_article4:
-    id: 102170
+    id: 102169
     title: >-
-        What are the key aspects of postoperative management for acute ischemia?
+        What is mechanical thrombectomy and how is it used in acute ischemia?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-key-aspects-of-postoperative-management-for-acute-ischemia
+    url: /learn/medicine/questions/what-is-mechanical-thrombectomy-and-how-is-it-used-in-acute-ischemia
+related_article5:
+    id: 102177
+    title: >-
+        What are the latest technological advances in vascular surgery?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-latest-technological-advances-in-vascular-surgery
 ---
 
 &nbsp;

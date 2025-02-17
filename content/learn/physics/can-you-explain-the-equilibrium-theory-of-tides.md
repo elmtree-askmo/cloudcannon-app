@@ -30,12 +30,6 @@ related_article1:
     subject: Physics
     url: /learn/physics/questions/what-is-the-tidal-generating-force
 related_article2:
-    id: 119350
-    title: >-
-        How is tidal energy harnessed and what are its benefits?
-    subject: Engineering
-    url: /learn/engineering/questions/how-is-tidal-energy-harnessed-and-what-are-its-benefits
-related_article3:
     id: 119337
     title: >-
         How are tidal waves formed?

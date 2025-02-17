@@ -24,29 +24,29 @@ file_name: what-is-the-significance-of-the-conservation-of-angular-momentum-in-p
 url: /learn/physics/questions/what-is-the-significance-of-the-conservation-of-angular-momentum-in-physics
 score: -1.0
 related_article1:
-    id: 99794
+    id: 99798
     title: >-
-        How did the Babylonian method influence the development of physics?
+        Can you explain the local field method in physics?
     subject: Physics
-    url: /learn/physics/questions/how-did-the-babylonian-method-influence-the-development-of-physics
+    url: /learn/physics/questions/can-you-explain-the-local-field-method-in-physics
 related_article2:
-    id: 99812
+    id: 99797
     title: >-
-        What is the role of the local field method in modern physics?
+        What are Newton's Laws and their importance in physics?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-role-of-the-local-field-method-in-modern-physics
+    url: /learn/physics/questions/what-are-newtons-laws-and-their-importance-in-physics
 related_article3:
-    id: 99802
+    id: 99803
     title: >-
-        What role does calculus play in understanding physical laws?
-    subject: Physics
-    url: /learn/physics/questions/what-role-does-calculus-play-in-understanding-physical-laws
+        How did ancient civilizations contribute to the development of mathematical physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-physics
 related_article4:
-    id: 99792
+    id: 99793
     title: >-
-        What contributions did Babylonian and Greek traditions make to the relationship between physics and mathematics?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-contributions-did-babylonian-and-greek-traditions-make-to-the-relationship-between-physics-and-mathematics
+        What are fundamental principles and consequential statements in the context of physics and mathematics?
+    subject: Physics
+    url: /learn/physics/questions/what-are-fundamental-principles-and-consequential-statements-in-the-context-of-physics-and-mathematics
 ---
 
 &nbsp;

@@ -24,12 +24,6 @@ file_name: what-is-the-method-for-converting-a-percent-to-a-fraction.md
 url: /learn/mathematics/questions/what-is-the-method-for-converting-a-percent-to-a-fraction
 score: -1.0
 related_article1:
-    id: 119789
-    title: >-
-        How do you tackle subtraction word problems?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-tackle-subtraction-word-problems
-related_article2:
     id: 119772
     title: >-
         What are the basic steps for adding and subtracting fractions?

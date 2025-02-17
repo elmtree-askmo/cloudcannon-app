@@ -24,23 +24,35 @@ file_name: what-are-the-major-components-of-the-muscular-system.md
 url: /learn/health-studies/questions/what-are-the-major-components-of-the-muscular-system
 score: -1.0
 related_article1:
+    id: 119050
+    title: >-
+        How does physical fitness contribute to overall well-being?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-physical-fitness-contribute-to-overall-wellbeing
+related_article2:
     id: 119049
     title: >-
         What are the key dietary goals for maintaining good health?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-key-dietary-goals-for-maintaining-good-health
-related_article2:
-    id: 119046
-    title: >-
-        What are the primary functions of carbohydrates in the body?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-functions-of-carbohydrates-in-the-body
 related_article3:
     id: 119053
     title: >-
         What are the main functions of the brain in the human body?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-main-functions-of-the-brain-in-the-human-body
+related_article4:
+    id: 119046
+    title: >-
+        What are the primary functions of carbohydrates in the body?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-primary-functions-of-carbohydrates-in-the-body
+related_article5:
+    id: 119057
+    title: >-
+        How do balance and posture affect athletic performance?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-balance-and-posture-affect-athletic-performance
 ---
 
 &nbsp;

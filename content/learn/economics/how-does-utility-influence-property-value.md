@@ -24,35 +24,35 @@ file_name: how-does-utility-influence-property-value.md
 url: /learn/economics/questions/how-does-utility-influence-property-value
 score: -1.0
 related_article1:
-    id: 96956
+    id: 96975
     title: >-
-        What are the different types of less than freehold estates?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-different-types-of-less-than-freehold-estates
+        How does the market data approach work in property appraisal?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/how-does-the-market-data-approach-work-in-property-appraisal
 related_article2:
-    id: 96974
-    title: >-
-        What are the different appraisal methods used in real estate?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-different-appraisal-methods-used-in-real-estate
-related_article3:
-    id: 96967
-    title: >-
-        What role does transferability play in property value?
-    subject: Economics
-    url: /learn/economics/questions/what-role-does-transferability-play-in-property-value
-related_article4:
     id: 96977
     title: >-
         How does the capitalization income approach work in property appraisal?
     subject: Accounting and Finance
     url: /learn/accounting-and-finance/questions/how-does-the-capitalization-income-approach-work-in-property-appraisal
-related_article5:
-    id: 96985
+related_article3:
+    id: 96972
     title: >-
-        What is panic selling in real estate?
+        What is functional obsolescence in property?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-is-functional-obsolescence-in-property
+related_article4:
+    id: 96973
+    title: >-
+        What is physical deterioration in property?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-is-physical-deterioration-in-property
+related_article5:
+    id: 96959
+    title: >-
+        How does taxation impact property ownership?
     subject: Economics
-    url: /learn/economics/questions/what-is-panic-selling-in-real-estate
+    url: /learn/economics/questions/how-does-taxation-impact-property-ownership
 ---
 
 &nbsp;

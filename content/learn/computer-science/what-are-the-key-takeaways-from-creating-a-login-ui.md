@@ -24,29 +24,29 @@ file_name: what-are-the-key-takeaways-from-creating-a-login-ui.md
 url: /learn/computer-science/questions/what-are-the-key-takeaways-from-creating-a-login-ui
 score: -1.0
 related_article1:
-    id: 119663
+    id: 119661
     title: >-
-        What is the difference between place(), grid(), and pack() in Tkinter?
+        What is a combo box and how is it used in Tkinter?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-place-grid-and-pack-in-tkinter
+    url: /learn/computer-science/questions/what-is-a-combo-box-and-how-is-it-used-in-tkinter
 related_article2:
-    id: 119679
+    id: 119669
     title: >-
-        Can you provide an example of creating a GUI with the place() method?
-    subject: Computer Science
-    url: /learn/computer-science/questions/can-you-provide-an-example-of-creating-a-gui-with-the-place-method
+        What is the default behavior of the Pack layout manager?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-is-the-default-behavior-of-the-pack-layout-manager
 related_article3:
-    id: 119658
+    id: 119677
     title: >-
-        How do you create a label widget in Tkinter?
+        What are the key features of the Place geometry manager?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-you-create-a-label-widget-in-tkinter
+    url: /learn/computer-science/questions/what-are-the-key-features-of-the-place-geometry-manager
 related_article4:
-    id: 119676
+    id: 119668
     title: >-
-        How can a login UI be further improved in Tkinter?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-a-login-ui-be-further-improved-in-tkinter
+        How do layout managers like Pack, Grid, and Place differ in Tkinter?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-do-layout-managers-like-pack-grid-and-place-differ-in-tkinter
 ---
 
 &nbsp;

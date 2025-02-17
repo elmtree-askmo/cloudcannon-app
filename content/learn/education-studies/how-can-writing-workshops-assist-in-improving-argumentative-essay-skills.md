@@ -30,17 +30,17 @@ related_article1:
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-some-common-mistakes-to-avoid-in-the-conclusion-of-an-argumentative-essay
 related_article2:
-    id: 98068
-    title: >-
-        What are some examples of new argumentative concepts that can enhance an essay?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-examples-of-new-argumentative-concepts-that-can-enhance-an-essay
-related_article3:
     id: 98060
     title: >-
         What are some strategies for crafting effective conclusions in argumentative essays?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-some-strategies-for-crafting-effective-conclusions-in-argumentative-essays
+related_article3:
+    id: 98068
+    title: >-
+        What are some examples of new argumentative concepts that can enhance an essay?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-some-examples-of-new-argumentative-concepts-that-can-enhance-an-essay
 ---
 
 &nbsp;

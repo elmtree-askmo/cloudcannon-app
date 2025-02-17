@@ -24,35 +24,23 @@ file_name: how-can-lab-activities-enhance-understanding-of-network-services-and-
 url: /learn/computer-science/questions/how-can-lab-activities-enhance-understanding-of-network-services-and-protocols
 score: -1.0
 related_article1:
+    id: 122679
+    title: >-
+        What are the best practices for implementing file services in a network?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-best-practices-for-implementing-file-services-in-a-network
+related_article2:
     id: 122661
     title: >-
         What are the advantages and disadvantages of using FTP for file services?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-advantages-and-disadvantages-of-using-ftp-for-file-services
-related_article2:
-    id: 122682
-    title: >-
-        How do print servers manage print jobs in a network?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-print-servers-manage-print-jobs-in-a-network
 related_article3:
-    id: 122686
+    id: 122674
     title: >-
-        How do email protocols ensure the security and reliability of email communication?
+        How does LDAP differ from other directory services?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-email-protocols-ensure-the-security-and-reliability-of-email-communication
-related_article4:
-    id: 122685
-    title: >-
-        What are the benefits of using directory services in a corporate network?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-benefits-of-using-directory-services-in-a-corporate-network
-related_article5:
-    id: 122680
-    title: >-
-        How can network printing be optimized for efficiency?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-network-printing-be-optimized-for-efficiency
+    url: /learn/computer-science/questions/how-does-ldap-differ-from-other-directory-services
 ---
 
 &nbsp;

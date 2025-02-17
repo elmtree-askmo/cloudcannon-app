@@ -24,35 +24,23 @@ file_name: how-does-the-distributive-property-apply-to-multiplication-in-equatio
 url: /learn/mathematics/questions/how-does-the-distributive-property-apply-to-multiplication-in-equations
 score: -1.0
 related_article1:
-    id: 111644
-    title: >-
-        How is division performed and what are its fundamental rules?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-is-division-performed-and-what-are-its-fundamental-rules
-related_article2:
-    id: 111658
-    title: >-
-        How do basic arithmetic operations relate to solving equations?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-basic-arithmetic-operations-relate-to-solving-equations
-related_article3:
     id: 111667
     title: >-
         What resources are available for learning more about arithmetic operations and equations?
     subject: Mathematics
     url: /learn/mathematics/questions/what-resources-are-available-for-learning-more-about-arithmetic-operations-and-equations
-related_article4:
+related_article2:
     id: 111645
     title: >-
         What is a variable in the context of equations?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-a-variable-in-the-context-of-equations
-related_article5:
-    id: 111640
+related_article3:
+    id: 111644
     title: >-
-        What are the basic arithmetic operations and their significance in mathematics?
+        How is division performed and what are its fundamental rules?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-basic-arithmetic-operations-and-their-significance-in-mathematics
+    url: /learn/mathematics/questions/how-is-division-performed-and-what-are-its-fundamental-rules
 ---
 
 &nbsp;

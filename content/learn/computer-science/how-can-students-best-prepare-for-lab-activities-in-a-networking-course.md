@@ -24,35 +24,35 @@ file_name: how-can-students-best-prepare-for-lab-activities-in-a-networking-cour
 url: /learn/computer-science/questions/how-can-students-best-prepare-for-lab-activities-in-a-networking-course
 score: -1.0
 related_article1:
-    id: 122674
+    id: 122676
     title: >-
-        How does LDAP differ from other directory services?
+        What protocols are commonly used in email services?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-ldap-differ-from-other-directory-services
+    url: /learn/computer-science/questions/what-protocols-are-commonly-used-in-email-services
 related_article2:
-    id: 122661
+    id: 122680
     title: >-
-        What are the advantages and disadvantages of using FTP for file services?
+        How can network printing be optimized for efficiency?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-advantages-and-disadvantages-of-using-ftp-for-file-services
+    url: /learn/computer-science/questions/how-can-network-printing-be-optimized-for-efficiency
 related_article3:
+    id: 122670
+    title: >-
+        Can you explain the concept of virtual hosting in web services?
+    subject: Computer Science
+    url: /learn/computer-science/questions/can-you-explain-the-concept-of-virtual-hosting-in-web-services
+related_article4:
+    id: 122668
+    title: >-
+        How do database management systems (DBMS) support network services?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-database-management-systems-dbms-support-network-services
+related_article5:
     id: 122682
     title: >-
         How do print servers manage print jobs in a network?
     subject: Computer Science
     url: /learn/computer-science/questions/how-do-print-servers-manage-print-jobs-in-a-network
-related_article4:
-    id: 122681
-    title: >-
-        What are the security considerations for file services and protocols?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-security-considerations-for-file-services-and-protocols
-related_article5:
-    id: 122671
-    title: >-
-        What are the potential dangers associated with using stacks in web services?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-potential-dangers-associated-with-using-stacks-in-web-services
 ---
 
 &nbsp;

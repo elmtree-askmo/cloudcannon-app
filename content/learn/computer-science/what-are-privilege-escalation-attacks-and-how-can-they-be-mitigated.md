@@ -24,29 +24,35 @@ file_name: what-are-privilege-escalation-attacks-and-how-can-they-be-mitigated.m
 url: /learn/computer-science/questions/what-are-privilege-escalation-attacks-and-how-can-they-be-mitigated
 score: -1.0
 related_article1:
-    id: 123120
+    id: 123114
     title: >-
-        What role does physical security play in protecting network infrastructure?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-role-does-physical-security-play-in-protecting-network-infrastructure
+        What is code injection and how can it be prevented?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-code-injection-and-how-can-it-be-prevented
 related_article2:
-    id: 123106
+    id: 123110
     title: >-
-        What are the latest trends in spam and phishing attacks?
+        Why is network security crucial in the modern IT landscape?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-latest-trends-in-spam-and-phishing-attacks
+    url: /learn/computer-science/questions/why-is-network-security-crucial-in-the-modern-it-landscape
 related_article3:
-    id: 123124
+    id: 123128
     title: >-
-        What are the benefits of using password management tools?
+        What distinguishes a distributed denial of service (DDoS) attack from a DoS attack?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-benefits-of-using-password-management-tools
+    url: /learn/computer-science/questions/what-distinguishes-a-distributed-denial-of-service-ddos-attack-from-a-dos-attack
 related_article4:
-    id: 123112
+    id: 123122
     title: >-
-        Can you explain the concept of backdoors in network security?
+        What are the risks associated with password reuse?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-are-the-risks-associated-with-password-reuse
+related_article5:
+    id: 123125
+    title: >-
+        How do biometric authentication methods enhance security?
     subject: Computer Science
-    url: /learn/computer-science/questions/can-you-explain-the-concept-of-backdoors-in-network-security
+    url: /learn/computer-science/questions/how-do-biometric-authentication-methods-enhance-security
 ---
 
 &nbsp;

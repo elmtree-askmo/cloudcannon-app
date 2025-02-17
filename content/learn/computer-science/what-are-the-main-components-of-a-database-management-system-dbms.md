@@ -24,23 +24,23 @@ file_name: what-are-the-main-components-of-a-database-management-system-dbms.md
 url: /learn/computer-science/questions/what-are-the-main-components-of-a-database-management-system-dbms
 score: -1.0
 related_article1:
+    id: 122248
+    title: >-
+        What role do internal network print servers play in an organization?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-role-do-internal-network-print-servers-play-in-an-organization
+related_article2:
     id: 122255
     title: >-
         How do dynamic content and web applications affect web server requirements?
     subject: Computer Science
     url: /learn/computer-science/questions/how-do-dynamic-content-and-web-applications-affect-web-server-requirements
-related_article2:
-    id: 122247
-    title: >-
-        What are the advantages of using network printing over traditional printing methods?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-advantages-of-using-network-printing-over-traditional-printing-methods
 related_article3:
-    id: 122244
+    id: 122251
     title: >-
-        What are the key considerations when implementing file services in a network?
+        How do network-accessible DBMS differ from traditional DBMS?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-considerations-when-implementing-file-services-in-a-network
+    url: /learn/computer-science/questions/how-do-networkaccessible-dbms-differ-from-traditional-dbms
 related_article4:
     id: 122262
     title: >-
@@ -48,11 +48,11 @@ related_article4:
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-role-of-ad-ds-in-network-management
 related_article5:
-    id: 122261
+    id: 122244
     title: >-
-        How do Active Directory and LDAP function in directory services?
+        What are the key considerations when implementing file services in a network?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-active-directory-and-ldap-function-in-directory-services
+    url: /learn/computer-science/questions/what-are-the-key-considerations-when-implementing-file-services-in-a-network
 ---
 
 &nbsp;

@@ -24,6 +24,12 @@ file_name: what-mechanisms-constitute-the-first-line-of-defense-in-the-immune-sy
 url: /learn/health-studies/questions/what-mechanisms-constitute-the-first-line-of-defense-in-the-immune-system
 score: -1.0
 related_article1:
+    id: 106884
+    title: >-
+        How does Mucosa-Associated Lymphatic Tissue (MALT) function in immune defense?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-mucosaassociated-lymphatic-tissue-malt-function-in-immune-defense
+related_article2:
     id: 106882
     title: >-
         Can you explain the role of the lymphatic system in immunity?

@@ -24,29 +24,29 @@ file_name: in-what-ways-can-anthropology-provide-insights-into-cultural-change.m
 url: /learn/sociology/questions/in-what-ways-can-anthropology-provide-insights-into-cultural-change
 score: -1.0
 related_article1:
-    id: 120534
-    title: >-
-        How does sociology define its scope and what are its main areas of study?
-    subject: Sociology
-    url: /learn/sociology/questions/how-does-sociology-define-its-scope-and-what-are-its-main-areas-of-study
-related_article2:
-    id: 120527
-    title: >-
-        What are some historical examples of political change?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-some-historical-examples-of-political-change
-related_article3:
     id: 120524
     title: >-
         What is the definition of political change and what are its key characteristics?
     subject: Sociology
     url: /learn/sociology/questions/what-is-the-definition-of-political-change-and-what-are-its-key-characteristics
-related_article4:
-    id: 120528
+related_article2:
+    id: 120539
     title: >-
-        How is cultural change defined and what are its main characteristics?
+        How do interdisciplinary approaches enhance the understanding of social change?
     subject: Sociology
-    url: /learn/sociology/questions/how-is-cultural-change-defined-and-what-are-its-main-characteristics
+    url: /learn/sociology/questions/how-do-interdisciplinary-approaches-enhance-the-understanding-of-social-change
+related_article3:
+    id: 120537
+    title: >-
+        What are some key factors that contribute to the evolution of societal norms?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-some-key-factors-that-contribute-to-the-evolution-of-societal-norms
+related_article4:
+    id: 120545
+    title: >-
+        What are the challenges in studying social change?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-challenges-in-studying-social-change
 ---
 
 &nbsp;

@@ -24,29 +24,29 @@ file_name: how-do-ionisation-chambers-work-in-measuring-radiation.md
 url: /learn/physics/questions/how-do-ionisation-chambers-work-in-measuring-radiation
 score: -1.0
 related_article1:
-    id: 116065
+    id: 116074
     title: >-
-        How is the conservation of energy applied in dose measurement and control?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-is-the-conservation-of-energy-applied-in-dose-measurement-and-control
-related_article2:
-    id: 116086
-    title: >-
-        How can the concept of Banana Equivalent Dose (BED) be explained to patients?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-can-the-concept-of-banana-equivalent-dose-bed-be-explained-to-patients
-related_article3:
-    id: 116073
-    title: >-
-        How are current tissue weighting factors applied in medical imaging?
+        What are Diagnostic Reference Levels (DRLs) and why are they important?
     subject: Medicine
-    url: /learn/medicine/questions/how-are-current-tissue-weighting-factors-applied-in-medical-imaging
-related_article4:
-    id: 116080
+    url: /learn/medicine/questions/what-are-diagnostic-reference-levels-drls-and-why-are-they-important
+related_article2:
+    id: 116063
     title: >-
-        How are personnel monitoring devices used in radiation protection?
+        How has the understanding of radiation safety practices changed over the years?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-are-personnel-monitoring-devices-used-in-radiation-protection
+    url: /learn/health-studies/questions/how-has-the-understanding-of-radiation-safety-practices-changed-over-the-years
+related_article3:
+    id: 116069
+    title: >-
+        How is absorbed dose measured and what does it signify?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-absorbed-dose-measured-and-what-does-it-signify
+related_article4:
+    id: 116083
+    title: >-
+        What role do KVP and MAS adjustments play in radiation safety?
+    subject: Medicine
+    url: /learn/medicine/questions/what-role-do-kvp-and-mas-adjustments-play-in-radiation-safety
 ---
 
 &nbsp;

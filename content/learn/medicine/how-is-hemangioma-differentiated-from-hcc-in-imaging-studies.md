@@ -24,29 +24,29 @@ file_name: how-is-hemangioma-differentiated-from-hcc-in-imaging-studies.md
 url: /learn/medicine/questions/how-is-hemangioma-differentiated-from-hcc-in-imaging-studies
 score: -1.0
 related_article1:
-    id: 118084
-    title: >-
-        What are the advantages and limitations of CT and MRI in imaging HCC?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-advantages-and-limitations-of-ct-and-mri-in-imaging-hcc
-related_article2:
-    id: 118089
-    title: >-
-        What specific features are looked for in PET-CT imaging of HCC?
-    subject: Medicine
-    url: /learn/medicine/questions/what-specific-features-are-looked-for-in-petct-imaging-of-hcc
-related_article3:
-    id: 118103
-    title: >-
-        What are the challenges in interpreting imaging results for HCC?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-challenges-in-interpreting-imaging-results-for-hcc
-related_article4:
     id: 118081
     title: >-
         How do international guidelines influence imaging practices for HCC?
     subject: Medicine
     url: /learn/medicine/questions/how-do-international-guidelines-influence-imaging-practices-for-hcc
+related_article2:
+    id: 118107
+    title: >-
+        What are the criteria for selecting an imaging modality for a specific HCC case?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-criteria-for-selecting-an-imaging-modality-for-a-specific-hcc-case
+related_article3:
+    id: 118097
+    title: >-
+        What are the common sources of liver abscesses?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-common-sources-of-liver-abscesses
+related_article4:
+    id: 118084
+    title: >-
+        What are the advantages and limitations of CT and MRI in imaging HCC?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-advantages-and-limitations-of-ct-and-mri-in-imaging-hcc
 ---
 
 &nbsp;

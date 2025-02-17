@@ -24,35 +24,35 @@ file_name: how-can-an-it-security-analyst-advance-in-their-career.md
 url: /learn/computer-science/questions/how-can-an-it-security-analyst-advance-in-their-career
 score: -1.0
 related_article1:
-    id: 122347
+    id: 122334
     title: >-
-        What qualifications are typically required for an Infrastructure Analyst role?
+        What skills are necessary for someone working in Deskside Services?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-qualifications-are-typically-required-for-an-infrastructure-analyst-role
+    url: /learn/computer-science/questions/what-skills-are-necessary-for-someone-working-in-deskside-services
 related_article2:
-    id: 122345
-    title: >-
-        What are the main responsibilities of an Infrastructure Analyst?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-responsibilities-of-an-infrastructure-analyst
-related_article3:
-    id: 122348
-    title: >-
-        How can an Infrastructure Analyst advance to an Architect position?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-an-infrastructure-analyst-advance-to-an-architect-position
-related_article4:
     id: 122333
     title: >-
         What are the main duties of Deskside Services personnel?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-main-duties-of-deskside-services-personnel
-related_article5:
-    id: 122330
+related_article3:
+    id: 122344
     title: >-
-        What skills are essential for a Help Desk Analyst to be successful?
+        What is the career path for a Data Centre Administrator?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-skills-are-essential-for-a-help-desk-analyst-to-be-successful
+    url: /learn/computer-science/questions/what-is-the-career-path-for-a-data-centre-administrator
+related_article4:
+    id: 122351
+    title: >-
+        What qualifications are needed for a career as a Storage Analyst?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-qualifications-are-needed-for-a-career-as-a-storage-analyst
+related_article5:
+    id: 122336
+    title: >-
+        What is the typical career progression for someone in Deskside Services?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-typical-career-progression-for-someone-in-deskside-services
 ---
 
 &nbsp;

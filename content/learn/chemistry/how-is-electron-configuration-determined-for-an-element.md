@@ -24,35 +24,35 @@ file_name: how-is-electron-configuration-determined-for-an-element.md
 url: /learn/chemistry/questions/how-is-electron-configuration-determined-for-an-element
 score: -1.0
 related_article1:
-    id: 117901
-    title: >-
-        How is heat calculated for a temperature change in a substance?
-    subject: Physics
-    url: /learn/physics/questions/how-is-heat-calculated-for-a-temperature-change-in-a-substance
-related_article2:
-    id: 117904
-    title: >-
-        How do you calculate light and frequency in electronic structure?
-    subject: Physics
-    url: /learn/physics/questions/how-do-you-calculate-light-and-frequency-in-electronic-structure
-related_article3:
-    id: 117922
-    title: >-
-        How is concentration calculated in solutions?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-is-concentration-calculated-in-solutions
-related_article4:
     id: 117915
     title: >-
         What factors influence bond angles in molecules?
     subject: Chemistry
     url: /learn/chemistry/questions/what-factors-influence-bond-angles-in-molecules
-related_article5:
-    id: 117913
+related_article2:
+    id: 117917
     title: >-
-        What is hybridization in covalent bonding?
+        What is the relationship between volume and temperature in gases?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-relationship-between-volume-and-temperature-in-gases
+related_article3:
+    id: 117928
+    title: >-
+        What trends are observed in ionization energies across the periodic table?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-hybridization-in-covalent-bonding
+    url: /learn/chemistry/questions/what-trends-are-observed-in-ionization-energies-across-the-periodic-table
+related_article4:
+    id: 117918
+    title: >-
+        How do you calculate the density and partial pressure of a gas?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-you-calculate-the-density-and-partial-pressure-of-a-gas
+related_article5:
+    id: 117907
+    title: >-
+        What factors affect ionization energies of elements?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-factors-affect-ionization-energies-of-elements
 ---
 
 &nbsp;

@@ -24,23 +24,23 @@ file_name: can-you-explain-the-instances-of-divine-intervention-in-the-aeneid.md
 url: /learn/philosophy-and-greek-myths/questions/can-you-explain-the-instances-of-divine-intervention-in-the-aeneid
 score: -1.0
 related_article1:
-    id: 95530
-    title: >-
-        How does Priam's fate contribute to the overall tragedy of the "Aeneid"?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-priams-fate-contribute-to-the-overall-tragedy-of-the-aeneid
-related_article2:
     id: 95539
     title: >-
         What are the artistic interpretations of the Fall of Troy in ancient times?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-are-the-artistic-interpretations-of-the-fall-of-troy-in-ancient-times
-related_article3:
-    id: 95541
+related_article2:
+    id: 95530
     title: >-
-        What role do the gods play in shaping the destiny of Aeneas?
+        How does Priam's fate contribute to the overall tragedy of the "Aeneid"?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-does-priams-fate-contribute-to-the-overall-tragedy-of-the-aeneid
+related_article3:
+    id: 95520
+    title: >-
+        What role does deception play in the war as described in the "Aeneid"?
     subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-role-do-the-gods-play-in-shaping-the-destiny-of-aeneas
+    url: /learn/philosophy-and-greek-myths/questions/what-role-does-deception-play-in-the-war-as-described-in-the-aeneid
 related_article4:
     id: 95532
     title: >-

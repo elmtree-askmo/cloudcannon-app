@@ -24,23 +24,17 @@ file_name: what-are-the-impermissible-effects-that-the-establishment-clause-seek
 url: /learn/criminal-or-civil-law/questions/what-are-the-impermissible-effects-that-the-establishment-clause-seeks-to-prevent
 score: -1.0
 related_article1:
-    id: 122195
-    title: >-
-        How does the Nonendorsement test differ from other Establishment tests?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-does-the-nonendorsement-test-differ-from-other-establishment-tests
-related_article2:
-    id: 122218
-    title: >-
-        How do landmark Supreme Court cases shape the interpretation of the First Amendment?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-do-landmark-supreme-court-cases-shape-the-interpretation-of-the-first-amendment
-related_article3:
     id: 122220
     title: >-
         How do secular and religious interests coexist under the First Amendment?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/how-do-secular-and-religious-interests-coexist-under-the-first-amendment
+related_article2:
+    id: 122200
+    title: >-
+        How does Employment Division v. Smith impact employment and free exercise rights?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-does-employment-division-v-smith-impact-employment-and-free-exercise-rights
 ---
 
 &nbsp;

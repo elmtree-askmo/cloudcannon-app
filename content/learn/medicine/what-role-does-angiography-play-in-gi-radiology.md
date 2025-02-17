@@ -24,29 +24,35 @@ file_name: what-role-does-angiography-play-in-gi-radiology.md
 url: /learn/medicine/questions/what-role-does-angiography-play-in-gi-radiology
 score: -1.0
 related_article1:
-    id: 118159
+    id: 118144
     title: >-
-        How are dilated small bowel loops identified on an X-ray?
+        What is a barium meal and when is it used?
     subject: Medicine
-    url: /learn/medicine/questions/how-are-dilated-small-bowel-loops-identified-on-an-xray
+    url: /learn/medicine/questions/what-is-a-barium-meal-and-when-is-it-used
 related_article2:
-    id: 118164
+    id: 118143
     title: >-
-        What challenges are associated with contrast studies in GI radiology?
+        Can you explain the procedure and purpose of a barium swallow?
     subject: Medicine
-    url: /learn/medicine/questions/what-challenges-are-associated-with-contrast-studies-in-gi-radiology
+    url: /learn/medicine/questions/can-you-explain-the-procedure-and-purpose-of-a-barium-swallow
 related_article3:
-    id: 118156
+    id: 118169
     title: >-
-        How is the small bowel anatomy assessed through imaging?
+        What are the radiological features of common GI disorders like appendicitis and intussusception?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-the-small-bowel-anatomy-assessed-through-imaging
+    url: /learn/medicine/questions/what-are-the-radiological-features-of-common-gi-disorders-like-appendicitis-and-intussusception
 related_article4:
-    id: 118165
+    id: 118140
     title: >-
-        How do you decide between using barium and water-soluble contrast?
+        What are the primary imaging modalities used in gastrointestinal radiology?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-you-decide-between-using-barium-and-watersoluble-contrast
+    url: /learn/medicine/questions/what-are-the-primary-imaging-modalities-used-in-gastrointestinal-radiology
+related_article5:
+    id: 118141
+    title: >-
+        How do plain films contribute to GI radiology?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-plain-films-contribute-to-gi-radiology
 ---
 
 &nbsp;

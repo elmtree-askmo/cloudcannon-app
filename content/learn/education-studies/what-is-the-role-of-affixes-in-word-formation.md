@@ -24,35 +24,35 @@ file_name: what-is-the-role-of-affixes-in-word-formation.md
 url: /learn/education-studies/questions/what-is-the-role-of-affixes-in-word-formation
 score: -1.0
 related_article1:
-    id: 111488
-    title: >-
-        How are eponyms used in branding and marketing?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-are-eponyms-used-in-branding-and-marketing
-related_article2:
-    id: 111471
-    title: >-
-        How do prefixes and suffixes differ in their function?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-prefixes-and-suffixes-differ-in-their-function
-related_article3:
-    id: 111467
-    title: >-
-        How does morphemic analysis help in understanding language structure?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-morphemic-analysis-help-in-understanding-language-structure
-related_article4:
     id: 111483
     title: >-
         How do cultural factors influence the creation of eponyms?
     subject: Sociology
     url: /learn/sociology/questions/how-do-cultural-factors-influence-the-creation-of-eponyms
-related_article5:
-    id: 111474
+related_article2:
+    id: 111488
     title: >-
-        Can you provide examples of motivating and motivated words?
-    subject: Psychology
-    url: /learn/psychology/questions/can-you-provide-examples-of-motivating-and-motivated-words
+        How are eponyms used in branding and marketing?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-are-eponyms-used-in-branding-and-marketing
+related_article3:
+    id: 111460
+    title: >-
+        What is the definition of a morpheme?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-definition-of-a-morpheme
+related_article4:
+    id: 111489
+    title: >-
+        What are some famous eponyms in history?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-some-famous-eponyms-in-history
+related_article5:
+    id: 111466
+    title: >-
+        What are the steps involved in morphemic analysis?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-steps-involved-in-morphemic-analysis
 ---
 
 &nbsp;

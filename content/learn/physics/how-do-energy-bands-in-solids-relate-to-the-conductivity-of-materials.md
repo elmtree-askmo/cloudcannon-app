@@ -24,35 +24,35 @@ file_name: how-do-energy-bands-in-solids-relate-to-the-conductivity-of-materials
 url: /learn/physics/questions/how-do-energy-bands-in-solids-relate-to-the-conductivity-of-materials
 score: -1.0
 related_article1:
-    id: 116369
+    id: 116358
     title: >-
-        What role do dopants play in the properties of extrinsic semiconductors?
-    subject: Physics
-    url: /learn/physics/questions/what-role-do-dopants-play-in-the-properties-of-extrinsic-semiconductors
-related_article2:
-    id: 116384
-    title: >-
-        What are the future trends in semiconductor electronics?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-future-trends-in-semiconductor-electronics
-related_article3:
-    id: 116373
-    title: >-
-        How has semiconductor physics revolutionized modern electronics?
-    subject: Physics
-    url: /learn/physics/questions/how-has-semiconductor-physics-revolutionized-modern-electronics
-related_article4:
-    id: 116365
-    title: >-
-        What are the different types of semiconductors and their characteristics?
+        What were the main limitations of vacuum tubes that led to the development of solid-state devices?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-different-types-of-semiconductors-and-their-characteristics
-related_article5:
-    id: 116367
+    url: /learn/engineering/questions/what-were-the-main-limitations-of-vacuum-tubes-that-led-to-the-development-of-solidstate-devices
+related_article2:
+    id: 116374
     title: >-
-        What is the significance of the energy band gap in semiconductors?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-significance-of-the-energy-band-gap-in-semiconductors
+        What are some examples of modern electronic devices that rely on semiconductor technology?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-some-examples-of-modern-electronic-devices-that-rely-on-semiconductor-technology
+related_article3:
+    id: 116375
+    title: >-
+        How do semiconductor materials contribute to the miniaturization of electronic components?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-semiconductor-materials-contribute-to-the-miniaturization-of-electronic-components
+related_article4:
+    id: 116372
+    title: >-
+        What are the advantages of using diodes in electronic circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-advantages-of-using-diodes-in-electronic-circuits
+related_article5:
+    id: 116361
+    title: >-
+        Who were the pioneering scientists and engineers in the field of semiconductor electronics?
+    subject: Engineering
+    url: /learn/engineering/questions/who-were-the-pioneering-scientists-and-engineers-in-the-field-of-semiconductor-electronics
 ---
 
 &nbsp;

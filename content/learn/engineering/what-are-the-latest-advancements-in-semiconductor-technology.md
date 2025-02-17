@@ -24,23 +24,35 @@ file_name: what-are-the-latest-advancements-in-semiconductor-technology.md
 url: /learn/engineering/questions/what-are-the-latest-advancements-in-semiconductor-technology
 score: -1.0
 related_article1:
-    id: 116369
+    id: 116374
     title: >-
-        What role do dopants play in the properties of extrinsic semiconductors?
-    subject: Physics
-    url: /learn/physics/questions/what-role-do-dopants-play-in-the-properties-of-extrinsic-semiconductors
+        What are some examples of modern electronic devices that rely on semiconductor technology?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-some-examples-of-modern-electronic-devices-that-rely-on-semiconductor-technology
 related_article2:
-    id: 116358
+    id: 116385
     title: >-
-        What were the main limitations of vacuum tubes that led to the development of solid-state devices?
+        How do semiconductor devices compare to their vacuum tube predecessors in terms of performance and reliability?
     subject: Engineering
-    url: /learn/engineering/questions/what-were-the-main-limitations-of-vacuum-tubes-that-led-to-the-development-of-solidstate-devices
+    url: /learn/engineering/questions/how-do-semiconductor-devices-compare-to-their-vacuum-tube-predecessors-in-terms-of-performance-and-reliability
 related_article3:
-    id: 116371
+    id: 116366
     title: >-
-        How does a diode function and what are its primary applications?
+        How do energy bands in solids relate to the conductivity of materials?
+    subject: Physics
+    url: /learn/physics/questions/how-do-energy-bands-in-solids-relate-to-the-conductivity-of-materials
+related_article4:
+    id: 116360
+    title: >-
+        What were the key historical milestones in the development of semiconductor electronics?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-key-historical-milestones-in-the-development-of-semiconductor-electronics
+related_article5:
+    id: 116383
+    title: >-
+        How do semiconductors contribute to the efficiency of electronic devices?
     subject: Engineering
-    url: /learn/engineering/questions/how-does-a-diode-function-and-what-are-its-primary-applications
+    url: /learn/engineering/questions/how-do-semiconductors-contribute-to-the-efficiency-of-electronic-devices
 ---
 
 &nbsp;

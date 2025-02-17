@@ -24,29 +24,29 @@ file_name: how-can-guis-be-integrated-with-databases-like-sqlite.md
 url: /learn/computer-science/questions/how-can-guis-be-integrated-with-databases-like-sqlite
 score: -1.0
 related_article1:
-    id: 119400
+    id: 119395
     title: >-
-        Can you provide an example of a simple survey UI using the grid layout manager in Tkinter?
+        What customization options are available with the pack layout manager in Tkinter?
     subject: Computer Science
-    url: /learn/computer-science/questions/can-you-provide-an-example-of-a-simple-survey-ui-using-the-grid-layout-manager-in-tkinter
+    url: /learn/computer-science/questions/what-customization-options-are-available-with-the-pack-layout-manager-in-tkinter
 related_article2:
-    id: 119399
+    id: 119409
     title: >-
-        What is the grid layout manager in Tkinter and what are its key parameters?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-grid-layout-manager-in-tkinter-and-what-are-its-key-parameters
+        How have user interfaces evolved over time?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-have-user-interfaces-evolved-over-time
 related_article3:
-    id: 119407
-    title: >-
-        What is an overview of SQL and its components?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-an-overview-of-sql-and-its-components
-related_article4:
     id: 119411
     title: >-
         How has the evolution of user interfaces impacted modern technology?
     subject: Computer Science
     url: /learn/computer-science/questions/how-has-the-evolution-of-user-interfaces-impacted-modern-technology
+related_article4:
+    id: 119394
+    title: >-
+        What is the pack layout manager in Tkinter and how does it work?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-pack-layout-manager-in-tkinter-and-how-does-it-work
 related_article5:
     id: 119386
     title: >-

@@ -24,35 +24,29 @@ file_name: what-role-does-outsourcing-play-in-modern-business-strategies.md
 url: /learn/business-and-management/questions/what-role-does-outsourcing-play-in-modern-business-strategies
 score: -1.0
 related_article1:
-    id: 98571
+    id: 98547
     title: >-
-        How is the scope of e-business expected to change in the future?
+        How has digitisation transformed traditional business practices?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-is-the-scope-of-ebusiness-expected-to-change-in-the-future
+    url: /learn/business-and-management/questions/how-has-digitisation-transformed-traditional-business-practices
 related_article2:
-    id: 98554
+    id: 98572
     title: >-
-        How does C2C commerce operate within the e-business framework?
+        What are the limitations of e-business that businesses need to be aware of?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-does-c2c-commerce-operate-within-the-ebusiness-framework
+    url: /learn/business-and-management/questions/what-are-the-limitations-of-ebusiness-that-businesses-need-to-be-aware-of
 related_article3:
+    id: 98566
+    title: >-
+        What resources are essential for successful e-business implementation?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-resources-are-essential-for-successful-ebusiness-implementation
+related_article4:
     id: 98558
     title: >-
         What are the typical steps involved in online transactions?
     subject: Business and Management
     url: /learn/business-and-management/questions/what-are-the-typical-steps-involved-in-online-transactions
-related_article4:
-    id: 98561
-    title: >-
-        What payment mechanisms are most commonly used in e-business?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-payment-mechanisms-are-most-commonly-used-in-ebusiness
-related_article5:
-    id: 98567
-    title: >-
-        How has the evolution of e-business influenced outsourcing practices?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-has-the-evolution-of-ebusiness-influenced-outsourcing-practices
 ---
 
 &nbsp;

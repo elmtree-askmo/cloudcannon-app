@@ -24,35 +24,35 @@ file_name: how-is-water-quality-monitoring-conducted-to-ensure-source-water-safe
 url: /learn/health-studies/questions/how-is-water-quality-monitoring-conducted-to-ensure-source-water-safety
 score: -1.0
 related_article1:
-    id: 94648
+    id: 94643
     title: >-
-        What are the long-term goals for source water protection?
+        What are the main challenges in maintaining water quality and how can they be addressed?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-longterm-goals-for-source-water-protection
+    url: /learn/health-studies/questions/what-are-the-main-challenges-in-maintaining-water-quality-and-how-can-they-be-addressed
 related_article2:
-    id: 94639
-    title: >-
-        Who are the key stakeholders involved in source water protection?
-    subject: Health Studies
-    url: /learn/health-studies/questions/who-are-the-key-stakeholders-involved-in-source-water-protection
-related_article3:
-    id: 94625
-    title: >-
-        What are the potential impacts of wildfires on source water quality?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-potential-impacts-of-wildfires-on-source-water-quality
-related_article4:
-    id: 94622
-    title: >-
-        Why is source water protection important for communities?
-    subject: Health Studies
-    url: /learn/health-studies/questions/why-is-source-water-protection-important-for-communities
-related_article5:
     id: 94647
     title: >-
         How can communities prepare for emergency situations affecting source water?
     subject: Health Studies
     url: /learn/health-studies/questions/how-can-communities-prepare-for-emergency-situations-affecting-source-water
+related_article3:
+    id: 94648
+    title: >-
+        What are the long-term goals for source water protection?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-longterm-goals-for-source-water-protection
+related_article4:
+    id: 94634
+    title: >-
+        What is the significance of the Standard Mine Superfund Site in source water protection?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-significance-of-the-standard-mine-superfund-site-in-source-water-protection
+related_article5:
+    id: 94632
+    title: >-
+        What are some successful reclamation projects for mining sites?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-some-successful-reclamation-projects-for-mining-sites
 ---
 
 &nbsp;

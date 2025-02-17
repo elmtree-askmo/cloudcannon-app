@@ -30,11 +30,11 @@ related_article1:
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-psychological-processes-involved-in-observational-learning
 related_article2:
-    id: 95706
+    id: 95717
     title: >-
-        Can you explain the concept of Applied Behaviour Analysis (ABA)?
+        How do reinforcement and punishment influence behavior modification?
     subject: Psychology
-    url: /learn/psychology/questions/can-you-explain-the-concept-of-applied-behaviour-analysis-aba
+    url: /learn/psychology/questions/how-do-reinforcement-and-punishment-influence-behavior-modification
 related_article3:
     id: 95692
     title: >-
@@ -42,17 +42,11 @@ related_article3:
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-definition-of-classical-conditioning-in-psychology
 related_article4:
-    id: 95717
+    id: 95706
     title: >-
-        How do reinforcement and punishment influence behavior modification?
+        Can you explain the concept of Applied Behaviour Analysis (ABA)?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-reinforcement-and-punishment-influence-behavior-modification
-related_article5:
-    id: 95713
-    title: >-
-        What is the partial reinforcement effect and why is it significant?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-partial-reinforcement-effect-and-why-is-it-significant
+    url: /learn/psychology/questions/can-you-explain-the-concept-of-applied-behaviour-analysis-aba
 ---
 
 &nbsp;

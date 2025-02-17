@@ -24,11 +24,11 @@ file_name: what-is-the-importance-of-mathematical-notation-in-communicating-comp
 url: /learn/mathematics/questions/what-is-the-importance-of-mathematical-notation-in-communicating-complex-physical-concepts
 score: -1.0
 related_article1:
-    id: 124222
+    id: 124214
     title: >-
-        What is the local field method in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-local-field-method-in-physics
+        How has modern mathematical notation evolved over time?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-over-time
 related_article2:
     id: 124216
     title: >-
@@ -36,23 +36,17 @@ related_article2:
     subject: Physics
     url: /learn/physics/questions/what-are-fundamental-principles-and-consequential-statements-in-physics
 related_article3:
-    id: 124233
-    title: >-
-        How do physicists use mathematical language to describe forces and motion?
-    subject: Physics
-    url: /learn/physics/questions/how-do-physicists-use-mathematical-language-to-describe-forces-and-motion
-related_article4:
     id: 124230
     title: >-
         What are some examples of fundamental principles in physics that rely on mathematics?
     subject: Physics
     url: /learn/physics/questions/what-are-some-examples-of-fundamental-principles-in-physics-that-rely-on-mathematics
-related_article5:
-    id: 124212
+related_article4:
+    id: 124235
     title: >-
-        How is mathematical language used in physics?
+        How do the concepts of force and equal areas relate to Kepler's laws?
     subject: Physics
-    url: /learn/physics/questions/how-is-mathematical-language-used-in-physics
+    url: /learn/physics/questions/how-do-the-concepts-of-force-and-equal-areas-relate-to-keplers-laws
 ---
 
 &nbsp;

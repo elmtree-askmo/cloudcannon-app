@@ -24,29 +24,29 @@ file_name: how-can-teachers-and-staff-build-supportive-relationships-with-studen
 url: /learn/education-studies/questions/how-can-teachers-and-staff-build-supportive-relationships-with-students
 score: -1.0
 related_article1:
-    id: 116933
+    id: 116928
     title: >-
-        What strategies can be implemented to support students' mental health post-pandemic?
+        What is person-centered therapy and how can it benefit students during the pandemic?
     subject: Psychology
-    url: /learn/psychology/questions/what-strategies-can-be-implemented-to-support-students-mental-health-postpandemic
+    url: /learn/psychology/questions/what-is-personcentered-therapy-and-how-can-it-benefit-students-during-the-pandemic
 related_article2:
-    id: 116939
+    id: 116922
     title: >-
-        What are the barriers to accessing psychological support for students?
+        What are the signs of anxiety and depression in students during the pandemic?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-barriers-to-accessing-psychological-support-for-students
+    url: /learn/psychology/questions/what-are-the-signs-of-anxiety-and-depression-in-students-during-the-pandemic
 related_article3:
-    id: 116917
+    id: 116920
     title: >-
-        How has COVID-19 changed traditional teaching methods?
+        What challenges have students faced in adapting to new learning processes?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-has-covid19-changed-traditional-teaching-methods
+    url: /learn/education-studies/questions/what-challenges-have-students-faced-in-adapting-to-new-learning-processes
 related_article4:
-    id: 116919
+    id: 116926
     title: >-
-        How have learning processes been affected by the shift to online education?
+        What are the key components of supportive relationships in an educational setting?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-have-learning-processes-been-affected-by-the-shift-to-online-education
+    url: /learn/education-studies/questions/what-are-the-key-components-of-supportive-relationships-in-an-educational-setting
 ---
 
 &nbsp;

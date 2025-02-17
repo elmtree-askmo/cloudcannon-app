@@ -24,35 +24,35 @@ file_name: can-you-explain-lease-financing-and-its-advantages-for-businesses.md
 url: /learn/accounting-and-finance/questions/can-you-explain-lease-financing-and-its-advantages-for-businesses
 score: -1.0
 related_article1:
-    id: 98641
+    id: 98636
     title: >-
-        How is commercial paper used as a source of finance?
+        What are retained earnings and how are they used in business finance?
     subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/how-is-commercial-paper-used-as-a-source-of-finance
+    url: /learn/accounting-and-finance/questions/what-are-retained-earnings-and-how-are-they-used-in-business-finance
 related_article2:
-    id: 98643
+    id: 98628
     title: >-
-        What are the characteristics of equity shares?
+        How would you define business finance?
     subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-are-the-characteristics-of-equity-shares
+    url: /learn/accounting-and-finance/questions/how-would-you-define-business-finance
 related_article3:
-    id: 98655
+    id: 98651
     title: >-
-        What are Foreign Currency Convertible Bonds (FCCBs) and their benefits?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-are-foreign-currency-convertible-bonds-fccbs-and-their-benefits
+        What are international capital markets and how do they function?
+    subject: Economics
+    url: /learn/economics/questions/what-are-international-capital-markets-and-how-do-they-function
 related_article4:
-    id: 98637
+    id: 98648
     title: >-
-        How does trade credit function as a source of finance?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/how-does-trade-credit-function-as-a-source-of-finance
+        What are the different methods of international financing available to businesses?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-the-different-methods-of-international-financing-available-to-businesses
 related_article5:
-    id: 98644
+    id: 98635
     title: >-
-        How do preference shares differ from equity shares?
+        Can you explain the source of generation basis for classifying sources of funds?
     subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/how-do-preference-shares-differ-from-equity-shares
+    url: /learn/accounting-and-finance/questions/can-you-explain-the-source-of-generation-basis-for-classifying-sources-of-funds
 ---
 
 &nbsp;

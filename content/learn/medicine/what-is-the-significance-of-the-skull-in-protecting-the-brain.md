@@ -24,35 +24,35 @@ file_name: what-is-the-significance-of-the-skull-in-protecting-the-brain.md
 url: /learn/medicine/questions/what-is-the-significance-of-the-skull-in-protecting-the-brain
 score: -1.0
 related_article1:
-    id: 100362
+    id: 100379
     title: >-
-        Can you describe the detailed anatomy of the skull?
-    subject: Medicine
-    url: /learn/medicine/questions/can-you-describe-the-detailed-anatomy-of-the-skull
-related_article2:
-    id: 100380
-    title: >-
-        What are the major bones in the arms and their functions?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-major-bones-in-the-arms-and-their-functions
-related_article3:
-    id: 100376
-    title: >-
-        What are the unique characteristics of the femur compared to other bones?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-unique-characteristics-of-the-femur-compared-to-other-bones
-related_article4:
-    id: 100360
-    title: >-
-        What are the main components of the axial skeleton?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-main-components-of-the-axial-skeleton
-related_article5:
-    id: 100369
-    title: >-
-        How do bones contribute to the protection of vital organs?
+        How do the bones of the spine interact to allow flexibility and support?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-bones-contribute-to-the-protection-of-vital-organs
+    url: /learn/health-studies/questions/how-do-the-bones-of-the-spine-interact-to-allow-flexibility-and-support
+related_article2:
+    id: 100368
+    title: >-
+        Why is the femur considered an important bone in the body?
+    subject: Health Studies
+    url: /learn/health-studies/questions/why-is-the-femur-considered-an-important-bone-in-the-body
+related_article3:
+    id: 100372
+    title: >-
+        What is the role of the spine in maintaining posture and balance?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-role-of-the-spine-in-maintaining-posture-and-balance
+related_article4:
+    id: 100361
+    title: >-
+        What are the main components of the appendicular skeleton?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-main-components-of-the-appendicular-skeleton
+related_article5:
+    id: 100357
+    title: >-
+        In what ways does the skeleton facilitate movement?
+    subject: Health Studies
+    url: /learn/health-studies/questions/in-what-ways-does-the-skeleton-facilitate-movement
 ---
 
 &nbsp;

@@ -24,23 +24,35 @@ file_name: what-are-the-pricing-plans-for-airtable-and-what-features-do-they-inc
 url: /learn/business-and-management/questions/what-are-the-pricing-plans-for-airtable-and-what-features-do-they-include
 score: -1.0
 related_article1:
-    id: 118000
+    id: 118019
     title: >-
-        What systems can Airtable integrate with and how does this integration work?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-systems-can-airtable-integrate-with-and-how-does-this-integration-work
-related_article2:
-    id: 118004
-    title: >-
-        How does Airtable compare to CRM tools like Salesforce?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-does-airtable-compare-to-crm-tools-like-salesforce
-related_article3:
-    id: 118007
-    title: >-
-        How can Airtable be used for personal data management?
+        What are the future developments or updates expected for Airtable?
     subject: Digital Media
-    url: /learn/digital-media/questions/how-can-airtable-be-used-for-personal-data-management
+    url: /learn/digital-media/questions/what-are-the-future-developments-or-updates-expected-for-airtable
+related_article2:
+    id: 118005
+    title: >-
+        In what ways does Airtable differ from project management tools like Asana?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/in-what-ways-does-airtable-differ-from-project-management-tools-like-asana
+related_article3:
+    id: 118013
+    title: >-
+        What are some common challenges users face when using Airtable?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-some-common-challenges-users-face-when-using-airtable
+related_article4:
+    id: 117994
+    title: >-
+        How can users customize tables and fields in Airtable?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-can-users-customize-tables-and-fields-in-airtable
+related_article5:
+    id: 118006
+    title: >-
+        What are some personal applications of Airtable, such as trip planning?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-are-some-personal-applications-of-airtable-such-as-trip-planning
 ---
 
 &nbsp;

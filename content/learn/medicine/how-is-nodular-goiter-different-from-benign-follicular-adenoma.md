@@ -24,29 +24,35 @@ file_name: how-is-nodular-goiter-different-from-benign-follicular-adenoma.md
 url: /learn/medicine/questions/how-is-nodular-goiter-different-from-benign-follicular-adenoma
 score: -1.0
 related_article1:
-    id: 123997
-    title: >-
-        How do patient and physician preferences influence treatment plans for thyroid cancer?
-    subject: Medicine
-    url: /learn/medicine/questions/how-do-patient-and-physician-preferences-influence-treatment-plans-for-thyroid-cancer
-related_article2:
-    id: 123990
-    title: >-
-        What are the surgical treatment options for thyroid cancer?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-surgical-treatment-options-for-thyroid-cancer
-related_article3:
-    id: 123976
-    title: >-
-        What are the common symptoms associated with thyroid nodules?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-common-symptoms-associated-with-thyroid-nodules
-related_article4:
     id: 123988
     title: >-
         What is the process for staging and risk stratification in thyroid cancer diagnosis?
     subject: Medicine
     url: /learn/medicine/questions/what-is-the-process-for-staging-and-risk-stratification-in-thyroid-cancer-diagnosis
+related_article2:
+    id: 123977
+    title: >-
+        How often are thyroid nodules found incidentally?
+    subject: Medicine
+    url: /learn/medicine/questions/how-often-are-thyroid-nodules-found-incidentally
+related_article3:
+    id: 123981
+    title: >-
+        How does molecular testing contribute to the investigation of thyroid nodules?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-molecular-testing-contribute-to-the-investigation-of-thyroid-nodules
+related_article4:
+    id: 123983
+    title: >-
+        What are the indications for treating benign thyroid nodules?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-indications-for-treating-benign-thyroid-nodules
+related_article5:
+    id: 123993
+    title: >-
+        How is the prognosis of thyroid cancer determined?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-the-prognosis-of-thyroid-cancer-determined
 ---
 
 &nbsp;

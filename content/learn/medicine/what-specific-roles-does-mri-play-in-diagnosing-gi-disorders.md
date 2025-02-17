@@ -24,23 +24,23 @@ file_name: what-specific-roles-does-mri-play-in-diagnosing-gi-disorders.md
 url: /learn/medicine/questions/what-specific-roles-does-mri-play-in-diagnosing-gi-disorders
 score: -1.0
 related_article1:
-    id: 118145
+    id: 118144
     title: >-
-        How is a small bowel follow-through conducted and what does it diagnose?
+        What is a barium meal and when is it used?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-a-small-bowel-followthrough-conducted-and-what-does-it-diagnose
+    url: /learn/medicine/questions/what-is-a-barium-meal-and-when-is-it-used
 related_article2:
-    id: 118163
+    id: 118165
     title: >-
-        What are the limitations of plain abdominal X-rays in GI imaging?
+        How do you decide between using barium and water-soluble contrast?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-limitations-of-plain-abdominal-xrays-in-gi-imaging
+    url: /learn/medicine/questions/how-do-you-decide-between-using-barium-and-watersoluble-contrast
 related_article3:
-    id: 118150
+    id: 118169
     title: >-
-        What are the advantages of using MRI in GI radiology?
+        What are the radiological features of common GI disorders like appendicitis and intussusception?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-advantages-of-using-mri-in-gi-radiology
+    url: /learn/medicine/questions/what-are-the-radiological-features-of-common-gi-disorders-like-appendicitis-and-intussusception
 related_article4:
     id: 118158
     title: >-
@@ -48,11 +48,11 @@ related_article4:
     subject: Medicine
     url: /learn/medicine/questions/what-are-common-abnormal-findings-on-an-abdominal-xray
 related_article5:
-    id: 118156
+    id: 118157
     title: >-
-        How is the small bowel anatomy assessed through imaging?
+        What are the radiological features of the large bowel anatomy?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-the-small-bowel-anatomy-assessed-through-imaging
+    url: /learn/medicine/questions/what-are-the-radiological-features-of-the-large-bowel-anatomy
 ---
 
 &nbsp;

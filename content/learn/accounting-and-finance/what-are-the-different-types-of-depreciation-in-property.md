@@ -24,29 +24,35 @@ file_name: what-are-the-different-types-of-depreciation-in-property.md
 url: /learn/accounting-and-finance/questions/what-are-the-different-types-of-depreciation-in-property
 score: -1.0
 related_article1:
-    id: 96975
+    id: 96983
     title: >-
-        How does the market data approach work in property appraisal?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/how-does-the-market-data-approach-work-in-property-appraisal
+        What is steering in the context of fair housing laws?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-is-steering-in-the-context-of-fair-housing-laws
 related_article2:
-    id: 96984
+    id: 96960
     title: >-
-        What is blockbusting and how does it relate to fair housing?
+        What is escheat and when does it occur?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-blockbusting-and-how-does-it-relate-to-fair-housing
+    url: /learn/criminal-or-civil-law/questions/what-is-escheat-and-when-does-it-occur
 related_article3:
-    id: 96963
+    id: 96979
     title: >-
-        What is joint tenancy and how does it work?
+        What are specific liens and how do they affect property?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-joint-tenancy-and-how-does-it-work
+    url: /learn/criminal-or-civil-law/questions/what-are-specific-liens-and-how-do-they-affect-property
 related_article4:
-    id: 96981
+    id: 96986
     title: >-
-        What is the history and enactment of fair housing laws?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-history-and-enactment-of-fair-housing-laws
+        What is redlining and how does it violate fair housing laws?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-redlining-and-how-does-it-violate-fair-housing-laws
+related_article5:
+    id: 96966
+    title: >-
+        How does scarcity affect property value?
+    subject: Economics
+    url: /learn/economics/questions/how-does-scarcity-affect-property-value
 ---
 
 &nbsp;

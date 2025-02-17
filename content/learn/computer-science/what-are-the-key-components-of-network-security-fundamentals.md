@@ -24,23 +24,23 @@ file_name: what-are-the-key-components-of-network-security-fundamentals.md
 url: /learn/computer-science/questions/what-are-the-key-components-of-network-security-fundamentals
 score: -1.0
 related_article1:
-    id: 122269
+    id: 122272
     title: >-
-        What are the most common types of viruses that affect network security?
+        Can you explain the concept of internal threats and how social engineering is used in these scenarios?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-most-common-types-of-viruses-that-affect-network-security
+    url: /learn/computer-science/questions/can-you-explain-the-concept-of-internal-threats-and-how-social-engineering-is-used-in-these-scenarios
 related_article2:
-    id: 122295
+    id: 122278
     title: >-
-        How does password complexity enhance security?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-does-password-complexity-enhance-security
-related_article3:
-    id: 122279
-    title: >-
-        How can viruses and malware be effectively mitigated?
+        What are the differences between DoS and DDoS attacks?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-viruses-and-malware-be-effectively-mitigated
+    url: /learn/computer-science/questions/what-are-the-differences-between-dos-and-ddos-attacks
+related_article3:
+    id: 122298
+    title: >-
+        What is the importance of input validation and sanitization in software security?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-importance-of-input-validation-and-sanitization-in-software-security
 related_article4:
     id: 122285
     title: >-

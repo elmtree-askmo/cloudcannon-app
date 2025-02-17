@@ -24,29 +24,29 @@ file_name: what-is-the-neuropsychology-of-music-and-its-impact-on-perception.md
 url: /learn/psychology/questions/what-is-the-neuropsychology-of-music-and-its-impact-on-perception
 score: -1.0
 related_article1:
-    id: 122523
+    id: 122528
     title: >-
-        How does coarticulation affect the variability in the acoustics of phonemes?
+        How is speech integrated with brain functions?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-coarticulation-affect-the-variability-in-the-acoustics-of-phonemes
+    url: /learn/psychology/questions/how-is-speech-integrated-with-brain-functions
 related_article2:
-    id: 122530
-    title: >-
-        How do pitch, chroma, and the octave relate to music perception?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-pitch-chroma-and-the-octave-relate-to-music-perception
-related_article3:
     id: 122519
     title: >-
         How does auditory development progress in humans?
     subject: Psychology
     url: /learn/psychology/questions/how-does-auditory-development-progress-in-humans
-related_article4:
-    id: 122513
+related_article3:
+    id: 122509
     title: >-
-        How is elevation perception achieved in the auditory system?
+        What are the primary mechanisms of sound localization in the auditory brain?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-elevation-perception-achieved-in-the-auditory-system
+    url: /learn/psychology/questions/what-are-the-primary-mechanisms-of-sound-localization-in-the-auditory-brain
+related_article4:
+    id: 122535
+    title: >-
+        What are the Gestalt principles of melody?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-gestalt-principles-of-melody
 ---
 
 &nbsp;

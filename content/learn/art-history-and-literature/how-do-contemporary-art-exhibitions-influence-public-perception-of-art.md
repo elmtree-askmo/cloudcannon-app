@@ -24,24 +24,30 @@ file_name: how-do-contemporary-art-exhibitions-influence-public-perception-of-ar
 url: /learn/art-history-and-literature/questions/how-do-contemporary-art-exhibitions-influence-public-perception-of-art
 score: -1.0
 related_article1:
-    id: 110243
+    id: 110245
     title: >-
-        What are the defining characteristics of modern art?
+        In what ways do contemporary, modern, and traditional art forms influence each other?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-defining-characteristics-of-modern-art
+    url: /learn/art-history-and-literature/questions/in-what-ways-do-contemporary-modern-and-traditional-art-forms-influence-each-other
 related_article2:
-    id: 110258
+    id: 110260
     title: >-
-        How do contemporary artists engage with social and political themes?
+        How do the seven major contemporary art forms interact with each other?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-contemporary-artists-engage-with-social-and-political-themes
+    url: /learn/art-history-and-literature/questions/how-do-the-seven-major-contemporary-art-forms-interact-with-each-other
 related_article3:
-    id: 110253
+    id: 110259
     title: >-
-        What are the contemporary trends in architecture and allied arts?
+        What is the impact of contemporary art on cultural understanding?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-contemporary-trends-in-architecture-and-allied-arts
+    url: /learn/art-history-and-literature/questions/what-is-the-impact-of-contemporary-art-on-cultural-understanding
 related_article4:
+    id: 110263
+    title: >-
+        What is the role of contemporary art in education?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-role-of-contemporary-art-in-education
+related_article5:
     id: 110264
     title: >-
         How do contemporary art forms vary across different regions of the world?

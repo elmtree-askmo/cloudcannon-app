@@ -24,35 +24,29 @@ file_name: how-is-the-conservation-of-energy-applied-in-dose-measurement-and-con
 url: /learn/health-studies/questions/how-is-the-conservation-of-energy-applied-in-dose-measurement-and-control
 score: -1.0
 related_article1:
-    id: 116074
+    id: 116082
     title: >-
-        What are Diagnostic Reference Levels (DRLs) and why are they important?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-diagnostic-reference-levels-drls-and-why-are-they-important
+        How do time, distance, and shielding contribute to radiation protection?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-time-distance-and-shielding-contribute-to-radiation-protection
 related_article2:
-    id: 116086
+    id: 116058
     title: >-
-        How can the concept of Banana Equivalent Dose (BED) be explained to patients?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-can-the-concept-of-banana-equivalent-dose-bed-be-explained-to-patients
+        What were the key events leading to the discovery of X-rays and radioactive materials?
+    subject: Physics
+    url: /learn/physics/questions/what-were-the-key-events-leading-to-the-discovery-of-xrays-and-radioactive-materials
 related_article3:
-    id: 116084
+    id: 116070
     title: >-
-        How does collimation help in reducing scatter radiation?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-collimation-help-in-reducing-scatter-radiation
+        What is the difference between equivalent dose and effective dose?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-difference-between-equivalent-dose-and-effective-dose
 related_article4:
-    id: 116069
+    id: 116083
     title: >-
-        How is absorbed dose measured and what does it signify?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-is-absorbed-dose-measured-and-what-does-it-signify
-related_article5:
-    id: 116063
-    title: >-
-        How has the understanding of radiation safety practices changed over the years?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-has-the-understanding-of-radiation-safety-practices-changed-over-the-years
+        What role do KVP and MAS adjustments play in radiation safety?
+    subject: Medicine
+    url: /learn/medicine/questions/what-role-do-kvp-and-mas-adjustments-play-in-radiation-safety
 ---
 
 &nbsp;

@@ -24,11 +24,11 @@ file_name: what-is-a-transition-table-and-what-purpose-does-it-serve-in-automata
 url: /learn/computer-science/questions/what-is-a-transition-table-and-what-purpose-does-it-serve-in-automata-theory
 score: -1.0
 related_article1:
-    id: 98935
+    id: 98927
     title: >-
-        How do context-free grammars relate to Automata Theory?
+        How does Automata Theory influence programming languages and artificial intelligence?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-contextfree-grammars-relate-to-automata-theory
+    url: /learn/computer-science/questions/how-does-automata-theory-influence-programming-languages-and-artificial-intelligence
 related_article2:
     id: 98929
     title: >-
@@ -36,23 +36,23 @@ related_article2:
     subject: Computer Science
     url: /learn/computer-science/questions/can-you-provide-an-example-of-a-transition-table-for-a-dfa
 related_article3:
+    id: 98935
+    title: >-
+        How do context-free grammars relate to Automata Theory?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-contextfree-grammars-relate-to-automata-theory
+related_article4:
+    id: 98933
+    title: >-
+        What is the role of dead states in DFA design?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-role-of-dead-states-in-dfa-design
+related_article5:
     id: 98939
     title: >-
         How do transition tables aid in the visualization and understanding of DFA?
     subject: Computer Science
     url: /learn/computer-science/questions/how-do-transition-tables-aid-in-the-visualization-and-understanding-of-dfa
-related_article4:
-    id: 98927
-    title: >-
-        How does Automata Theory influence programming languages and artificial intelligence?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-automata-theory-influence-programming-languages-and-artificial-intelligence
-related_article5:
-    id: 98937
-    title: >-
-        How does Automata Theory help in understanding computational processes?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-automata-theory-help-in-understanding-computational-processes
 ---
 
 &nbsp;

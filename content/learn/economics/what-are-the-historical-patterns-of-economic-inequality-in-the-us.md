@@ -24,17 +24,23 @@ file_name: what-are-the-historical-patterns-of-economic-inequality-in-the-us.md
 url: /learn/economics/questions/what-are-the-historical-patterns-of-economic-inequality-in-the-us
 score: -1.0
 related_article1:
-    id: 96179
-    title: >-
-        What are the major economic and social impacts of stagnant wages in the U.S.?
-    subject: Economics
-    url: /learn/economics/questions/what-are-the-major-economic-and-social-impacts-of-stagnant-wages-in-the-us
-related_article2:
     id: 96201
     title: >-
         How do cultural factors influence social class categories and economic trends in the U.S.?
     subject: Sociology
     url: /learn/sociology/questions/how-do-cultural-factors-influence-social-class-categories-and-economic-trends-in-the-us
+related_article2:
+    id: 96187
+    title: >-
+        What are the current trends in social mobility in the U.S.?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-current-trends-in-social-mobility-in-the-us
+related_article3:
+    id: 96179
+    title: >-
+        What are the major economic and social impacts of stagnant wages in the U.S.?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-major-economic-and-social-impacts-of-stagnant-wages-in-the-us
 ---
 
 &nbsp;

@@ -24,29 +24,35 @@ file_name: what-is-an-agency-shop-agreement-and-how-does-it-differ-from-a-closed
 url: /learn/criminal-or-civil-law/questions/what-is-an-agency-shop-agreement-and-how-does-it-differ-from-a-closed-shop-agreement
 score: -1.0
 related_article1:
-    id: 122997
+    id: 122987
     title: >-
-        How did the Equal Pay Act of 1963 address employment discrimination?
+        How did the Yellow Dog Contract affect employee rights?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-did-the-equal-pay-act-of-1963-address-employment-discrimination
+    url: /learn/criminal-or-civil-law/questions/how-did-the-yellow-dog-contract-affect-employee-rights
 related_article2:
-    id: 122996
+    id: 122990
     title: >-
-        What is the legal framework surrounding labor lockouts?
+        How did the Wagner Act and Taft-Hartley Act of 1937 impact labor relations?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-the-legal-framework-surrounding-labor-lockouts
+    url: /learn/criminal-or-civil-law/questions/how-did-the-wagner-act-and-tafthartley-act-of-1937-impact-labor-relations
 related_article3:
-    id: 123011
+    id: 122986
     title: >-
-        What is the statute of limitations for securities violations under the Securities Act of 1933?
+        What were the key provisions of the National Railway Act and Norris-LaGuardia Act of 1932?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-the-statute-of-limitations-for-securities-violations-under-the-securities-act-of-1933
+    url: /learn/criminal-or-civil-law/questions/what-were-the-key-provisions-of-the-national-railway-act-and-norrislaguardia-act-of-1932
 related_article4:
-    id: 123010
+    id: 123005
     title: >-
-        How does the due diligence process work in securities regulation?
+        What exceptions exist under the Robinson-Patman Amendment?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-exceptions-exist-under-the-robinsonpatman-amendment
+related_article5:
+    id: 123000
+    title: >-
+        What is a bona fide occupational qualification (FOQ) and how is it applied?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-does-the-due-diligence-process-work-in-securities-regulation
+    url: /learn/criminal-or-civil-law/questions/what-is-a-bona-fide-occupational-qualification-foq-and-how-is-it-applied
 ---
 
 &nbsp;

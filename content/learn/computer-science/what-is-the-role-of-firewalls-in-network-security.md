@@ -24,35 +24,35 @@ file_name: what-is-the-role-of-firewalls-in-network-security.md
 url: /learn/computer-science/questions/what-is-the-role-of-firewalls-in-network-security
 score: -1.0
 related_article1:
-    id: 122270
+    id: 122298
     title: >-
-        How does spam and phishing pose a threat to network security?
+        What is the importance of input validation and sanitization in software security?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-spam-and-phishing-pose-a-threat-to-network-security
+    url: /learn/computer-science/questions/what-is-the-importance-of-input-validation-and-sanitization-in-software-security
 related_article2:
+    id: 122293
+    title: >-
+        What are the key elements of password security?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-key-elements-of-password-security
+related_article3:
+    id: 122271
+    title: >-
+        What is ransomware and how does it typically infiltrate a network?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-is-ransomware-and-how-does-it-typically-infiltrate-a-network
+related_article4:
     id: 122286
     title: >-
         Why is it important to restrict USB port and software installation?
     subject: Computer Science
     url: /learn/computer-science/questions/why-is-it-important-to-restrict-usb-port-and-software-installation
-related_article3:
-    id: 122296
-    title: >-
-        What are the advantages of two-factor authentication (2FA)?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-advantages-of-twofactor-authentication-2fa
-related_article4:
-    id: 122282
-    title: >-
-        What are some examples of internal threats and how can they be mitigated?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-examples-of-internal-threats-and-how-can-they-be-mitigated
 related_article5:
-    id: 122276
+    id: 122289
     title: >-
-        Why are login credentials critical in network security?
+        How do antivirus and antimalware software protect networks?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-are-login-credentials-critical-in-network-security
+    url: /learn/computer-science/questions/how-do-antivirus-and-antimalware-software-protect-networks
 ---
 
 &nbsp;

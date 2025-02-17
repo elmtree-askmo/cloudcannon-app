@@ -24,35 +24,35 @@ file_name: how-do-companies-balance-online-and-offline-marketing-channels.md
 url: /learn/business-and-management/questions/how-do-companies-balance-online-and-offline-marketing-channels
 score: -1.0
 related_article1:
+    id: 110222
+    title: >-
+        What are the key considerations in making advertising decisions?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-the-key-considerations-in-making-advertising-decisions
+related_article2:
+    id: 110232
+    title: >-
+        What are the emerging trends in marketing channels?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-the-emerging-trends-in-marketing-channels
+related_article3:
     id: 110214
     title: >-
         Can you explain the elements of the marketing mix?
     subject: Business and Management
     url: /learn/business-and-management/questions/can-you-explain-the-elements-of-the-marketing-mix
-related_article2:
-    id: 110225
-    title: >-
-        How does technology influence the marketing process today?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-does-technology-influence-the-marketing-process-today
-related_article3:
-    id: 110219
-    title: >-
-        How do marketing channels function in the distribution process?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-do-marketing-channels-function-in-the-distribution-process
 related_article4:
-    id: 110213
+    id: 110209
     title: >-
-        What is the role of positioning in marketing strategy?
+        What are the key components of the marketing environment?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-is-the-role-of-positioning-in-marketing-strategy
+    url: /learn/business-and-management/questions/what-are-the-key-components-of-the-marketing-environment
 related_article5:
-    id: 110210
+    id: 110218
     title: >-
-        How do cultural factors influence buyer behavior?
+        What are the different pricing methods used by businesses?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-do-cultural-factors-influence-buyer-behavior
+    url: /learn/business-and-management/questions/what-are-the-different-pricing-methods-used-by-businesses
 ---
 
 &nbsp;

@@ -24,29 +24,35 @@ file_name: how-does-patient-preparation-differ-for-abdominal-xray-versus-ultraso
 url: /learn/health-studies/questions/how-does-patient-preparation-differ-for-abdominal-xray-versus-ultrasound-in-habitability-assessments
 score: -1.0
 related_article1:
-    id: 118175
-    title: >-
-        What is pneumobilia and how is it identified on an abdominal X-ray?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-pneumobilia-and-how-is-it-identified-on-an-abdominal-xray
-related_article2:
-    id: 118195
-    title: >-
-        How do imaging modalities contribute to the management and treatment planning of habitability diseases?
-    subject: Medicine
-    url: /learn/medicine/questions/how-do-imaging-modalities-contribute-to-the-management-and-treatment-planning-of-habitability-diseases
-related_article3:
-    id: 118171
-    title: >-
-        How does an abdominal X-ray work in diagnosing habitability diseases?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-an-abdominal-xray-work-in-diagnosing-habitability-diseases
-related_article4:
     id: 118186
     title: >-
         What information can be obtained from hepatic vein Doppler ultrasound?
     subject: Health Studies
     url: /learn/health-studies/questions/what-information-can-be-obtained-from-hepatic-vein-doppler-ultrasound
+related_article2:
+    id: 118196
+    title: >-
+        What are the cost implications of using different imaging modalities for habitability disorders?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-cost-implications-of-using-different-imaging-modalities-for-habitability-disorders
+related_article3:
+    id: 118170
+    title: >-
+        What are the most common imaging techniques used in habitability systems?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-most-common-imaging-techniques-used-in-habitability-systems
+related_article4:
+    id: 118171
+    title: >-
+        How does an abdominal X-ray work in diagnosing habitability diseases?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-an-abdominal-xray-work-in-diagnosing-habitability-diseases
+related_article5:
+    id: 118184
+    title: >-
+        What are the radiological features of pancreatic head mass and chronic pancreatitis?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-radiological-features-of-pancreatic-head-mass-and-chronic-pancreatitis
 ---
 
 &nbsp;

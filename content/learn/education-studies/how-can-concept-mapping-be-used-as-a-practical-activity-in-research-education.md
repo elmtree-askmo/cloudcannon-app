@@ -24,35 +24,35 @@ file_name: how-can-concept-mapping-be-used-as-a-practical-activity-in-research-e
 url: /learn/education-studies/questions/how-can-concept-mapping-be-used-as-a-practical-activity-in-research-education
 score: -1.0
 related_article1:
-    id: 102738
+    id: 102718
     title: >-
-        How is research applied in the field of sports?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-is-research-applied-in-the-field-of-sports
-related_article2:
-    id: 102720
-    title: >-
-        What makes research analytical, and how is this characteristic applied?
-    subject: Sociology
-    url: /learn/sociology/questions/what-makes-research-analytical-and-how-is-this-characteristic-applied
-related_article3:
-    id: 102741
-    title: >-
-        What is the role of sentence formation in research education?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-sentence-formation-in-research-education
-related_article4:
-    id: 102719
-    title: >-
-        How is a hypothesis employed in the research process?
+        What does it mean for research to be controlled, and why is this important?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-a-hypothesis-employed-in-the-research-process
-related_article5:
+    url: /learn/psychology/questions/what-does-it-mean-for-research-to-be-controlled-and-why-is-this-important
+related_article2:
     id: 102735
     title: >-
         What are some notable research contributions in Science, Technology, Engineering, and Mathematics?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-some-notable-research-contributions-in-science-technology-engineering-and-mathematics
+related_article3:
+    id: 102743
+    title: >-
+        What strategies are effective for problem identification and solution proposal in research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-strategies-are-effective-for-problem-identification-and-solution-proposal-in-research
+related_article4:
+    id: 102714
+    title: >-
+        What is the definition of research in the context of academic inquiry?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-definition-of-research-in-the-context-of-academic-inquiry
+related_article5:
+    id: 102722
+    title: >-
+        What constitutes original work in research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-constitutes-original-work-in-research
 ---
 
 &nbsp;

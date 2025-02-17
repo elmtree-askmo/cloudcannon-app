@@ -24,29 +24,29 @@ file_name: what-are-some-historical-examples-of-political-change.md
 url: /learn/history-of-the-world/questions/what-are-some-historical-examples-of-political-change
 score: -1.0
 related_article1:
-    id: 120542
+    id: 120537
     title: >-
-        In what ways can anthropology provide insights into cultural change?
+        What are some key factors that contribute to the evolution of societal norms?
     subject: Sociology
-    url: /learn/sociology/questions/in-what-ways-can-anthropology-provide-insights-into-cultural-change
+    url: /learn/sociology/questions/what-are-some-key-factors-that-contribute-to-the-evolution-of-societal-norms
 related_article2:
-    id: 120547
-    title: >-
-        What are the implications of COVID-19 on political and cultural change?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-implications-of-covid19-on-political-and-cultural-change
-related_article3:
     id: 120539
     title: >-
         How do interdisciplinary approaches enhance the understanding of social change?
     subject: Sociology
     url: /learn/sociology/questions/how-do-interdisciplinary-approaches-enhance-the-understanding-of-social-change
-related_article4:
-    id: 120524
+related_article3:
+    id: 120528
     title: >-
-        What is the definition of political change and what are its key characteristics?
+        How is cultural change defined and what are its main characteristics?
     subject: Sociology
-    url: /learn/sociology/questions/what-is-the-definition-of-political-change-and-what-are-its-key-characteristics
+    url: /learn/sociology/questions/how-is-cultural-change-defined-and-what-are-its-main-characteristics
+related_article4:
+    id: 120547
+    title: >-
+        What are the implications of COVID-19 on political and cultural change?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-implications-of-covid19-on-political-and-cultural-change
 ---
 
 &nbsp;

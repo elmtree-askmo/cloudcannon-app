@@ -24,29 +24,29 @@ file_name: how-does-modelbased-filtering-work-in-the-context-of-data-collection.
 url: /learn/computer-science/questions/how-does-modelbased-filtering-work-in-the-context-of-data-collection
 score: -1.0
 related_article1:
-    id: 97110
-    title: >-
-        What are the future research directions in AI related to data processing efficiency?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-future-research-directions-in-ai-related-to-data-processing-efficiency
-related_article2:
-    id: 97111
-    title: >-
-        How is synthetic data generation being explored as a future research direction in AI?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-is-synthetic-data-generation-being-explored-as-a-future-research-direction-in-ai
-related_article3:
-    id: 97094
-    title: >-
-        What is domain classification and weighting in data collection for language models?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-domain-classification-and-weighting-in-data-collection-for-language-models
-related_article4:
     id: 97080
     title: >-
         How is the evaluation of large language models conducted?
     subject: Computer Science
     url: /learn/computer-science/questions/how-is-the-evaluation-of-large-language-models-conducted
+related_article2:
+    id: 97101
+    title: >-
+        How does supervised fine-tuning (SFT) work in post-training of large language models?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-supervised-finetuning-sft-work-in-posttraining-of-large-language-models
+related_article3:
+    id: 97079
+    title: >-
+        What types of data are typically used in training large language models?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-types-of-data-are-typically-used-in-training-large-language-models
+related_article4:
+    id: 97078
+    title: >-
+        How does the training loss and algorithm impact the performance of large language models?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-the-training-loss-and-algorithm-impact-the-performance-of-large-language-models
 ---
 
 &nbsp;

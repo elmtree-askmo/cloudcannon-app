@@ -24,35 +24,35 @@ file_name: what-is-acute-dystonia-and-how-is-it-managed-in-patients-taking-antip
 url: /learn/medicine/questions/what-is-acute-dystonia-and-how-is-it-managed-in-patients-taking-antipsychotics
 score: -1.0
 related_article1:
-    id: 104596
+    id: 104615
     title: >-
-        What is Tardive Dyskinesia and how can it be prevented or treated?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-tardive-dyskinesia-and-how-can-it-be-prevented-or-treated
+        What are the long-term effects of using antipsychotics and anxiolytics?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-longterm-effects-of-using-antipsychotics-and-anxiolytics
 related_article2:
-    id: 104613
+    id: 104604
     title: >-
-        What are the risks of using antipsychotics in older adults and how can they be mitigated?
+        What are the different classes of antidepressants and how do they differ in their mechanisms?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-risks-of-using-antipsychotics-in-older-adults-and-how-can-they-be-mitigated
+    url: /learn/medicine/questions/what-are-the-different-classes-of-antidepressants-and-how-do-they-differ-in-their-mechanisms
 related_article3:
-    id: 104589
+    id: 104606
     title: >-
-        Can you explain the mechanism of action for both typical and atypical antipsychotics?
-    subject: Medicine
-    url: /learn/medicine/questions/can-you-explain-the-mechanism-of-action-for-both-typical-and-atypical-antipsychotics
+        What are the benefits and drawbacks of using Selective Serotonin Reuptake Inhibitors (SSRI)?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-benefits-and-drawbacks-of-using-selective-serotonin-reuptake-inhibitors-ssri
 related_article4:
-    id: 104588
-    title: >-
-        What are the main differences between typical and atypical antipsychotics?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-main-differences-between-typical-and-atypical-antipsychotics
-related_article5:
     id: 104617
     title: >-
         What are the latest advancements in the development of antipsychotics and anxiolytics?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-latest-advancements-in-the-development-of-antipsychotics-and-anxiolytics
+related_article5:
+    id: 104591
+    title: >-
+        How do phenothiazines differ from nonphenothiazines in terms of chemical structure and effects?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-phenothiazines-differ-from-nonphenothiazines-in-terms-of-chemical-structure-and-effects
 ---
 
 &nbsp;

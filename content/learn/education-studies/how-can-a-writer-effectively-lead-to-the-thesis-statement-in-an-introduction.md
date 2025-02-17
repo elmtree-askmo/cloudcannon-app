@@ -24,17 +24,17 @@ file_name: how-can-a-writer-effectively-lead-to-the-thesis-statement-in-an-intro
 url: /learn/education-studies/questions/how-can-a-writer-effectively-lead-to-the-thesis-statement-in-an-introduction
 score: -1.0
 related_article1:
-    id: 97954
-    title: >-
-        How can feedback be effectively used to improve an essay?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-feedback-be-effectively-used-to-improve-an-essay
-related_article2:
     id: 97948
     title: >-
         What are appropriate appeals in essay writing, and how can they be used effectively?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-appropriate-appeals-in-essay-writing-and-how-can-they-be-used-effectively
+related_article2:
+    id: 97954
+    title: >-
+        How can feedback be effectively used to improve an essay?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-feedback-be-effectively-used-to-improve-an-essay
 ---
 
 &nbsp;

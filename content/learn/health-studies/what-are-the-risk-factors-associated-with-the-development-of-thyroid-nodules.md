@@ -24,35 +24,35 @@ file_name: what-are-the-risk-factors-associated-with-the-development-of-thyroid-
 url: /learn/health-studies/questions/what-are-the-risk-factors-associated-with-the-development-of-thyroid-nodules
 score: -1.0
 related_article1:
-    id: 123953
+    id: 123943
     title: >-
-        What are the surgical options for treating benign thyroid nodules?
+        How does hyperthyroidism relate to toxic goiter?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-surgical-options-for-treating-benign-thyroid-nodules
+    url: /learn/medicine/questions/how-does-hyperthyroidism-relate-to-toxic-goiter
 related_article2:
-    id: 123967
+    id: 123952
     title: >-
-        How is risk stratification performed in thyroid cancer management?
+        What are the indications for treating benign thyroid nodules?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-risk-stratification-performed-in-thyroid-cancer-management
+    url: /learn/medicine/questions/what-are-the-indications-for-treating-benign-thyroid-nodules
 related_article3:
-    id: 123944
+    id: 123947
     title: >-
-        What are the common inflammatory thyroid conditions?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-common-inflammatory-thyroid-conditions
+        How is ultrasound used in the diagnosis of thyroid nodules?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-ultrasound-used-in-the-diagnosis-of-thyroid-nodules
 related_article4:
-    id: 123958
+    id: 123945
     title: >-
-        What are the different types of thyroid cancer?
+        What are the typical presentations of thyroid nodules in patients?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-different-types-of-thyroid-cancer
+    url: /learn/medicine/questions/what-are-the-typical-presentations-of-thyroid-nodules-in-patients
 related_article5:
-    id: 123961
+    id: 123956
     title: >-
-        How is anaplastic thyroid cancer typically treated?
+        How effective is ethanol injection in treating benign thyroid nodules?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-anaplastic-thyroid-cancer-typically-treated
+    url: /learn/medicine/questions/how-effective-is-ethanol-injection-in-treating-benign-thyroid-nodules
 ---
 
 &nbsp;

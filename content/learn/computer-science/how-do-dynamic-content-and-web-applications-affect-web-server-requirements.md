@@ -24,11 +24,11 @@ file_name: how-do-dynamic-content-and-web-applications-affect-web-server-require
 url: /learn/computer-science/questions/how-do-dynamic-content-and-web-applications-affect-web-server-requirements
 score: -1.0
 related_article1:
-    id: 122243
+    id: 122259
     title: >-
-        How do HTTP, FTP, SCP, SMB/CIFS, and NFS differ in terms of file service protocols?
+        What is the LAMP stack and how is it used in web services?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-http-ftp-scp-smbcifs-and-nfs-differ-in-terms-of-file-service-protocols
+    url: /learn/computer-science/questions/what-is-the-lamp-stack-and-how-is-it-used-in-web-services
 related_article2:
     id: 122253
     title: >-
@@ -36,23 +36,17 @@ related_article2:
     subject: Computer Science
     url: /learn/computer-science/questions/how-is-storage-managed-in-relation-to-dbms
 related_article3:
-    id: 122242
+    id: 122267
     title: >-
-        What are the primary functions of a file server in a network?
+        What are some practical lab activities that can enhance understanding of network services?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-primary-functions-of-a-file-server-in-a-network
+    url: /learn/computer-science/questions/what-are-some-practical-lab-activities-that-can-enhance-understanding-of-network-services
 related_article4:
-    id: 122266
+    id: 122256
     title: >-
-        What are the most commonly used email protocols and their purposes?
+        What are the key considerations for infrastructure planning for web services?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-most-commonly-used-email-protocols-and-their-purposes
-related_article5:
-    id: 122262
-    title: >-
-        What is the role of AD DS in network management?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-ad-ds-in-network-management
+    url: /learn/computer-science/questions/what-are-the-key-considerations-for-infrastructure-planning-for-web-services
 ---
 
 &nbsp;

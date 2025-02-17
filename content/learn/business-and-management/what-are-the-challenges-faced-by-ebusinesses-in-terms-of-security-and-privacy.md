@@ -24,29 +24,23 @@ file_name: what-are-the-challenges-faced-by-ebusinesses-in-terms-of-security-and
 url: /learn/business-and-management/questions/what-are-the-challenges-faced-by-ebusinesses-in-terms-of-security-and-privacy
 score: -1.0
 related_article1:
-    id: 98581
+    id: 98602
     title: >-
-        How does Intra B (Intra Business) function within E-Business?
+        What are the environmental impacts of E-Business?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-does-intra-b-intra-business-function-within-ebusiness
+    url: /learn/business-and-management/questions/what-are-the-environmental-impacts-of-ebusiness
 related_article2:
-    id: 98588
-    title: >-
-        What are the main differences in ease of formation between traditional business and E-Business?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-main-differences-in-ease-of-formation-between-traditional-business-and-ebusiness
-related_article3:
     id: 98577
     title: >-
         How does E-Commerce differ from E-Business?
     subject: Business and Management
     url: /learn/business-and-management/questions/how-does-ecommerce-differ-from-ebusiness
-related_article4:
-    id: 98583
+related_article3:
+    id: 98586
     title: >-
-        What are the primary benefits of E-Business in terms of speed?
+        How does E-Business enable global reach for companies?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-primary-benefits-of-ebusiness-in-terms-of-speed
+    url: /learn/business-and-management/questions/how-does-ebusiness-enable-global-reach-for-companies
 ---
 
 &nbsp;

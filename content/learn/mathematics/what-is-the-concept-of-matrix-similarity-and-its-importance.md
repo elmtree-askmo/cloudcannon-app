@@ -24,17 +24,17 @@ file_name: what-is-the-concept-of-matrix-similarity-and-its-importance.md
 url: /learn/mathematics/questions/what-is-the-concept-of-matrix-similarity-and-its-importance
 score: -1.0
 related_article1:
-    id: 104675
+    id: 104672
     title: >-
-        What are the conditions necessary for a matrix to be diagonalizable?
+        How does the Principal Axes Theorem provide a geometric interpretation of matrices?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-conditions-necessary-for-a-matrix-to-be-diagonalizable
+    url: /learn/mathematics/questions/how-does-the-principal-axes-theorem-provide-a-geometric-interpretation-of-matrices
 related_article2:
-    id: 104674
+    id: 104664
     title: >-
-        How is diagonalization related to the Jordan canonical form?
+        What is the process of orthogonal diagonalization?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-diagonalization-related-to-the-jordan-canonical-form
+    url: /learn/mathematics/questions/what-is-the-process-of-orthogonal-diagonalization
 related_article3:
     id: 104676
     title: >-
@@ -42,17 +42,17 @@ related_article3:
     subject: Mathematics
     url: /learn/mathematics/questions/how-is-linear-algebra-applied-in-principal-component-analysis-and-physics
 related_article4:
-    id: 104668
+    id: 104667
     title: >-
-        What role do Markov chains play in linear algebra applications?
+        How is linear algebra applied in chemical reactions and economic models?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-role-do-markov-chains-play-in-linear-algebra-applications
+    url: /learn/mathematics/questions/how-is-linear-algebra-applied-in-chemical-reactions-and-economic-models
 related_article5:
-    id: 104654
+    id: 104661
     title: >-
-        How is the determinant of a matrix calculated and what does it signify?
+        How are the kernel and image of a linear transformation defined?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-the-determinant-of-a-matrix-calculated-and-what-does-it-signify
+    url: /learn/mathematics/questions/how-are-the-kernel-and-image-of-a-linear-transformation-defined
 ---
 
 &nbsp;

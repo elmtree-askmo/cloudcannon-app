@@ -30,23 +30,29 @@ related_article1:
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-challenges-in-working-with-random-variables
 related_article2:
-    id: 102699
-    title: >-
-        What role do random variables play in probability distributions?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-role-do-random-variables-play-in-probability-distributions
-related_article3:
-    id: 102686
-    title: >-
-        Can you explain the formal definition of a random variable?
-    subject: Mathematics
-    url: /learn/mathematics/questions/can-you-explain-the-formal-definition-of-a-random-variable
-related_article4:
     id: 102711
     title: >-
         What are the mathematical properties of random variables?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-mathematical-properties-of-random-variables
+related_article3:
+    id: 102698
+    title: >-
+        Can you provide examples of random variables in different fields such as finance, engineering, or biology?
+    subject: Mathematics
+    url: /learn/mathematics/questions/can-you-provide-examples-of-random-variables-in-different-fields-such-as-finance-engineering-or-biology
+related_article4:
+    id: 102699
+    title: >-
+        What role do random variables play in probability distributions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-role-do-random-variables-play-in-probability-distributions
+related_article5:
+    id: 102700
+    title: >-
+        How do random variables relate to probability mass functions and probability density functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-random-variables-relate-to-probability-mass-functions-and-probability-density-functions
 ---
 
 &nbsp;

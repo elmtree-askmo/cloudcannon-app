@@ -24,29 +24,35 @@ file_name: how-are-semiconductors-classified-based-on-their-conductivity.md
 url: /learn/engineering/questions/how-are-semiconductors-classified-based-on-their-conductivity
 score: -1.0
 related_article1:
-    id: 116382
+    id: 116379
     title: >-
-        What is the role of semiconductor physics in the development of renewable energy technologies?
+        How do temperature and impurities affect the conductivity of semiconductors?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-role-of-semiconductor-physics-in-the-development-of-renewable-energy-technologies
+    url: /learn/physics/questions/how-do-temperature-and-impurities-affect-the-conductivity-of-semiconductors
 related_article2:
-    id: 116381
+    id: 116360
     title: >-
-        How do semiconductors enable the functionality of integrated circuits?
-    subject: Engineering
-    url: /learn/engineering/questions/how-do-semiconductors-enable-the-functionality-of-integrated-circuits
+        What were the key historical milestones in the development of semiconductor electronics?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-key-historical-milestones-in-the-development-of-semiconductor-electronics
 related_article3:
-    id: 116377
+    id: 116375
     title: >-
-        How has the development of semiconductor electronics influenced global technological advancement?
+        How do semiconductor materials contribute to the miniaturization of electronic components?
     subject: Engineering
-    url: /learn/engineering/questions/how-has-the-development-of-semiconductor-electronics-influenced-global-technological-advancement
+    url: /learn/engineering/questions/how-do-semiconductor-materials-contribute-to-the-miniaturization-of-electronic-components
 related_article4:
-    id: 116386
+    id: 116359
     title: >-
-        What are the key factors driving innovation in the semiconductor industry?
-    subject: Engineering
-    url: /learn/engineering/questions/what-are-the-key-factors-driving-innovation-in-the-semiconductor-industry
+        How did the transition from vacuum tubes to solid-state devices impact the electronics industry?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-did-the-transition-from-vacuum-tubes-to-solidstate-devices-impact-the-electronics-industry
+related_article5:
+    id: 116366
+    title: >-
+        How do energy bands in solids relate to the conductivity of materials?
+    subject: Physics
+    url: /learn/physics/questions/how-do-energy-bands-in-solids-relate-to-the-conductivity-of-materials
 ---
 
 &nbsp;

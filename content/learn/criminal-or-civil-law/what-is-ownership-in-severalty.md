@@ -24,35 +24,35 @@ file_name: what-is-ownership-in-severalty.md
 url: /learn/criminal-or-civil-law/questions/what-is-ownership-in-severalty
 score: -1.0
 related_article1:
-    id: 96984
+    id: 96975
     title: >-
-        What is blockbusting and how does it relate to fair housing?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-blockbusting-and-how-does-it-relate-to-fair-housing
+        How does the market data approach work in property appraisal?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/how-does-the-market-data-approach-work-in-property-appraisal
 related_article2:
-    id: 96960
+    id: 96950
     title: >-
-        What is escheat and when does it occur?
+        What are the key differences between real and personal property?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-escheat-and-when-does-it-occur
+    url: /learn/criminal-or-civil-law/questions/what-are-the-key-differences-between-real-and-personal-property
 related_article3:
-    id: 96978
+    id: 96965
     title: >-
-        What is the difference between a deed and a title in real estate?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-the-difference-between-a-deed-and-a-title-in-real-estate
+        What are the essential elements of value in property?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-essential-elements-of-value-in-property
 related_article4:
-    id: 96958
+    id: 96974
     title: >-
-        What is eminent domain and how does it affect property ownership?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-eminent-domain-and-how-does-it-affect-property-ownership
+        What are the different appraisal methods used in real estate?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-the-different-appraisal-methods-used-in-real-estate
 related_article5:
-    id: 96963
+    id: 96976
     title: >-
-        What is joint tenancy and how does it work?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-joint-tenancy-and-how-does-it-work
+        What is the cost replacement approach in property appraisal?
+    subject: Accounting and Finance
+    url: /learn/accounting-and-finance/questions/what-is-the-cost-replacement-approach-in-property-appraisal
 ---
 
 &nbsp;

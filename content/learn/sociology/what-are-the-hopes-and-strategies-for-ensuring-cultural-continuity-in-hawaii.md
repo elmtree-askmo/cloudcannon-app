@@ -13,7 +13,7 @@ seo:
   page_description: >-
     The hopes and strategies for ensuring cultural continuity in Hawaii focus on revitalizing traditional practices, preserving the Hawaiian language, empowering communities, and advocating for sovereignty, fostering a vibrant Hawaiian identity.
   page_keywords: >-
-    Hawaii, cultural continuity, Hawaiian Renaissance, language preservation, intergenerational knowledge, community empowerment, sovereignty movement, cultural activism, ʻŌiwi values, Indigenous identity
+    Hawaii, cultural continuity, Hawaiian Renaissance, language preservation, intergenerational knowledge, community empowerment, sovereignty movement, cultural activism, iwi values, Indigenous identity
 author: QuickTakes
 question: >-
     What are the hopes and strategies for ensuring cultural continuity in Hawaii?
@@ -23,30 +23,7 @@ subject: Sociology
 file_name: what-are-the-hopes-and-strategies-for-ensuring-cultural-continuity-in-hawaii.md
 url: /learn/sociology/questions/what-are-the-hopes-and-strategies-for-ensuring-cultural-continuity-in-hawaii
 score: -1.0
-related_article1:
-    id: 104635
-    title: >-
-        What are the contemporary challenges facing Hawaiian cultural identity?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-contemporary-challenges-facing-hawaiian-cultural-identity
-related_article2:
-    id: 104636
-    title: >-
-        What are the current debates surrounding Hawaiian sovereignty and independence?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-current-debates-surrounding-hawaiian-sovereignty-and-independence
-related_article3:
-    id: 104638
-    title: >-
-        What are the ongoing struggles faced by Native Hawaiians in preserving their culture?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-ongoing-struggles-faced-by-native-hawaiians-in-preserving-their-culture
-related_article4:
-    id: 104644
-    title: >-
-        How do personal narratives and community experiences shape the understanding of historical trauma?
-    subject: Sociology
-    url: /learn/sociology/questions/how-do-personal-narratives-and-community-experiences-shape-the-understanding-of-historical-trauma
+
 ---
 
 &nbsp;

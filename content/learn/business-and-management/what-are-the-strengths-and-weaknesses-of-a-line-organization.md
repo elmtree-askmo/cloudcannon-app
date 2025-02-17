@@ -24,12 +24,18 @@ file_name: what-are-the-strengths-and-weaknesses-of-a-line-organization.md
 url: /learn/business-and-management/questions/what-are-the-strengths-and-weaknesses-of-a-line-organization
 score: -1.0
 related_article1:
+    id: 115755
+    title: >-
+        How does the process of organizing work within an organization?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-does-the-process-of-organizing-work-within-an-organization
+related_article2:
     id: 115762
     title: >-
         Why is coordination important in an organization?
     subject: Business and Management
     url: /learn/business-and-management/questions/why-is-coordination-important-in-an-organization
-related_article2:
+related_article3:
     id: 115767
     title: >-
         What are the steps involved in the process of delegation?

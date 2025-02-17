@@ -24,35 +24,35 @@ file_name: how-does-player-rotation-work-in-volleyball.md
 url: /learn/education-studies/questions/how-does-player-rotation-work-in-volleyball
 score: -1.0
 related_article1:
-    id: 119038
+    id: 119049
     title: >-
-        How can players improve their free throw shooting accuracy?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-players-improve-their-free-throw-shooting-accuracy
-related_article2:
-    id: 119047
-    title: >-
-        How do proteins contribute to overall health and fitness?
+        What are the key dietary goals for maintaining good health?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-proteins-contribute-to-overall-health-and-fitness
-related_article3:
-    id: 119056
-    title: >-
-        What constitutes good player conduct in sports?
-    subject: Psychology
-    url: /learn/psychology/questions/what-constitutes-good-player-conduct-in-sports
-related_article4:
+    url: /learn/health-studies/questions/what-are-the-key-dietary-goals-for-maintaining-good-health
+related_article2:
     id: 119051
     title: >-
         What are the major components of the muscular system?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-major-components-of-the-muscular-system
-related_article5:
-    id: 119050
+related_article3:
+    id: 119046
     title: >-
-        How does physical fitness contribute to overall well-being?
+        What are the primary functions of carbohydrates in the body?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-physical-fitness-contribute-to-overall-wellbeing
+    url: /learn/health-studies/questions/what-are-the-primary-functions-of-carbohydrates-in-the-body
+related_article4:
+    id: 119057
+    title: >-
+        How do balance and posture affect athletic performance?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-balance-and-posture-affect-athletic-performance
+related_article5:
+    id: 119038
+    title: >-
+        How can players improve their free throw shooting accuracy?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-players-improve-their-free-throw-shooting-accuracy
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: what-are-the-key-considerations-when-implementing-file-services-in-a-
 url: /learn/computer-science/questions/what-are-the-key-considerations-when-implementing-file-services-in-a-network
 score: -1.0
 related_article1:
-    id: 122328
+    id: 122306
     title: >-
-        What are the best practices for managing directory services in a large organization?
+        How does software development impact network printing solutions?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-best-practices-for-managing-directory-services-in-a-large-organization
+    url: /learn/computer-science/questions/how-does-software-development-impact-network-printing-solutions
 related_article2:
-    id: 122323
+    id: 122317
     title: >-
-        How do file services integrate with other network services?
+        How do Active Directory and LDAP function in directory services?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-file-services-integrate-with-other-network-services
+    url: /learn/computer-science/questions/how-do-active-directory-and-ldap-function-in-directory-services
 related_article3:
-    id: 122302
-    title: >-
-        What challenges are commonly faced in network printing?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-challenges-are-commonly-faced-in-network-printing
-related_article4:
-    id: 122322
-    title: >-
-        What are the differences between SMTP, POP3, and IMAP4 protocols?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-differences-between-smtp-pop3-and-imap4-protocols
-related_article5:
     id: 122304
     title: >-
         What are the main advantages of using network printing over traditional printing methods?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-main-advantages-of-using-network-printing-over-traditional-printing-methods
+related_article4:
+    id: 122318
+    title: >-
+        What is the role of AD DS in network management?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-role-of-ad-ds-in-network-management
+related_article5:
+    id: 122310
+    title: >-
+        How is storage managed in relation to DBMS?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-is-storage-managed-in-relation-to-dbms
 ---
 
 &nbsp;

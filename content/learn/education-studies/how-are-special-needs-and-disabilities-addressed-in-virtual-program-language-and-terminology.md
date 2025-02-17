@@ -24,35 +24,35 @@ file_name: how-are-special-needs-and-disabilities-addressed-in-virtual-program-l
 url: /learn/education-studies/questions/how-are-special-needs-and-disabilities-addressed-in-virtual-program-language-and-terminology
 score: -1.0
 related_article1:
-    id: 116971
+    id: 116954
     title: >-
-        What is the role of public health nurses and librarians in virtual early childhood programs?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-role-of-public-health-nurses-and-librarians-in-virtual-early-childhood-programs
+        What is the role of early childhood educators in virtual learning environments?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-role-of-early-childhood-educators-in-virtual-learning-environments
 related_article2:
-    id: 116949
+    id: 116973
     title: >-
-        What factors determine the accessibility of programs for families with children aged 0-6?
+        What methods are used for debriefing and feedback in virtual early childhood programs?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-factors-determine-the-accessibility-of-programs-for-families-with-children-aged-06
+    url: /learn/education-studies/questions/what-methods-are-used-for-debriefing-and-feedback-in-virtual-early-childhood-programs
 related_article3:
-    id: 116963
+    id: 116972
     title: >-
-        What are the core services and mission of early childhood virtual programs?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-core-services-and-mission-of-early-childhood-virtual-programs
+        How is dental hygiene and literacy promotion integrated into virtual programs?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-dental-hygiene-and-literacy-promotion-integrated-into-virtual-programs
 related_article4:
-    id: 116962
+    id: 116967
     title: >-
-        What strategies are effective in promoting friendships and community among families in virtual settings?
+        What role do parents and caregivers play in virtual child development programs?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-are-effective-in-promoting-friendships-and-community-among-families-in-virtual-settings
+    url: /learn/education-studies/questions/what-role-do-parents-and-caregivers-play-in-virtual-child-development-programs
 related_article5:
-    id: 116959
+    id: 116950
     title: >-
-        How has the transition to the Ministry of Education impacted early childhood programs?
+        How do location and convenience impact program accessibility for families?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-has-the-transition-to-the-ministry-of-education-impacted-early-childhood-programs
+    url: /learn/education-studies/questions/how-do-location-and-convenience-impact-program-accessibility-for-families
 ---
 
 &nbsp;

@@ -24,23 +24,17 @@ file_name: how-do-different-mythologies-compare-in-their-depiction-of-the-underw
 url: /learn/philosophy-and-greek-myths/questions/how-do-different-mythologies-compare-in-their-depiction-of-the-underworld
 score: -1.0
 related_article1:
-    id: 95507
-    title: >-
-        What are some famous mythological figures associated with the underworld besides Scytius, Tantalus, and Sisyphus?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-some-famous-mythological-figures-associated-with-the-underworld-besides-scytius-tantalus-and-sisyphus
-related_article2:
-    id: 95502
-    title: >-
-        How is the underworld represented in contemporary literature and media?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-is-the-underworld-represented-in-contemporary-literature-and-media
-related_article3:
     id: 95496
     title: >-
         How is the underworld depicted in Homer's Odyssey?
     subject: Philosophy and Greek Myths
     url: /learn/philosophy-and-greek-myths/questions/how-is-the-underworld-depicted-in-homers-odyssey
+related_article2:
+    id: 95507
+    title: >-
+        What are some famous mythological figures associated with the underworld besides Scytius, Tantalus, and Sisyphus?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-some-famous-mythological-figures-associated-with-the-underworld-besides-scytius-tantalus-and-sisyphus
 ---
 
 &nbsp;

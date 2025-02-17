@@ -24,35 +24,35 @@ file_name: what-is-a-pn-junction-and-why-is-it-fundamental-to-semiconductor-devi
 url: /learn/physics/questions/what-is-a-pn-junction-and-why-is-it-fundamental-to-semiconductor-devices
 score: -1.0
 related_article1:
-    id: 116380
-    title: >-
-        What are the latest advancements in semiconductor technology?
-    subject: Engineering
-    url: /learn/engineering/questions/what-are-the-latest-advancements-in-semiconductor-technology
-related_article2:
-    id: 116361
-    title: >-
-        Who were the pioneering scientists and engineers in the field of semiconductor electronics?
-    subject: Engineering
-    url: /learn/engineering/questions/who-were-the-pioneering-scientists-and-engineers-in-the-field-of-semiconductor-electronics
-related_article3:
-    id: 116387
-    title: >-
-        How do semiconductor devices impact the design and functionality of modern communication systems?
-    subject: Engineering
-    url: /learn/engineering/questions/how-do-semiconductor-devices-impact-the-design-and-functionality-of-modern-communication-systems
-related_article4:
     id: 116379
     title: >-
         How do temperature and impurities affect the conductivity of semiconductors?
     subject: Physics
     url: /learn/physics/questions/how-do-temperature-and-impurities-affect-the-conductivity-of-semiconductors
-related_article5:
-    id: 116372
+related_article2:
+    id: 116384
     title: >-
-        What are the advantages of using diodes in electronic circuits?
+        What are the future trends in semiconductor electronics?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-future-trends-in-semiconductor-electronics
+related_article3:
+    id: 116365
+    title: >-
+        What are the different types of semiconductors and their characteristics?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-advantages-of-using-diodes-in-electronic-circuits
+    url: /learn/engineering/questions/what-are-the-different-types-of-semiconductors-and-their-characteristics
+related_article4:
+    id: 116382
+    title: >-
+        What is the role of semiconductor physics in the development of renewable energy technologies?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-role-of-semiconductor-physics-in-the-development-of-renewable-energy-technologies
+related_article5:
+    id: 116369
+    title: >-
+        What role do dopants play in the properties of extrinsic semiconductors?
+    subject: Physics
+    url: /learn/physics/questions/what-role-do-dopants-play-in-the-properties-of-extrinsic-semiconductors
 ---
 
 &nbsp;

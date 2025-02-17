@@ -24,18 +24,12 @@ file_name: how-do-multinational-corporations-influence-nationstates-and-their-so
 url: /learn/business-and-management/questions/how-do-multinational-corporations-influence-nationstates-and-their-sovereignty
 score: -1.0
 related_article1:
-    id: 118312
-    title: >-
-        What historical events led to the emergence of nation-states?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-historical-events-led-to-the-emergence-of-nationstates
-related_article2:
     id: 118313
     title: >-
         How do cultural identity and nationalism interact in the context of nation-states?
     subject: Sociology
     url: /learn/sociology/questions/how-do-cultural-identity-and-nationalism-interact-in-the-context-of-nationstates
-related_article3:
+related_article2:
     id: 118310
     title: >-
         What challenges and opportunities do nation-states face in a globalized world?

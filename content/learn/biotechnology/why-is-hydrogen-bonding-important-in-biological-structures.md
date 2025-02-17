@@ -24,17 +24,17 @@ file_name: why-is-hydrogen-bonding-important-in-biological-structures.md
 url: /learn/biotechnology/questions/why-is-hydrogen-bonding-important-in-biological-structures
 score: -1.0
 related_article1:
-    id: 123592
+    id: 123601
     title: >-
-        What are the characteristics of London dispersion forces?
+        How can intermolecular forces be visually represented or drawn?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-characteristics-of-london-dispersion-forces
+    url: /learn/chemistry/questions/how-can-intermolecular-forces-be-visually-represented-or-drawn
 related_article2:
-    id: 123617
+    id: 123598
     title: >-
-        How do intermolecular forces influence melting points?
+        What are the characteristics of hydrogen bonding?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-intermolecular-forces-influence-melting-points
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-hydrogen-bonding
 ---
 
 &nbsp;

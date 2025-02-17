@@ -23,24 +23,7 @@ subject: Computer Science
 file_name: how-does-internet-and-networking-technology-work.md
 url: /learn/computer-science/questions/how-does-internet-and-networking-technology-work
 score: -1.0
-related_article1:
-    id: 97197
-    title: >-
-        How does the Sun's orbit influence the solar system?
-    subject: Physics
-    url: /learn/physics/questions/how-does-the-suns-orbit-influence-the-solar-system
-related_article2:
-    id: 97195
-    title: >-
-        How does the Sun's structure affect its energy output?
-    subject: Physics
-    url: /learn/physics/questions/how-does-the-suns-structure-affect-its-energy-output
-related_article3:
-    id: 97217
-    title: >-
-        How has Indian music evolved over time?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-has-indian-music-evolved-over-time
+
 ---
 
 &nbsp;

@@ -29,6 +29,12 @@ related_article1:
         How does the cross bridge cycle contribute to muscle contraction?
     subject: Health Studies
     url: /learn/health-studies/questions/how-does-the-cross-bridge-cycle-contribute-to-muscle-contraction
+related_article2:
+    id: 121813
+    title: >-
+        What are effective study techniques for understanding muscle contraction mechanisms?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-effective-study-techniques-for-understanding-muscle-contraction-mechanisms
 ---
 
 &nbsp;

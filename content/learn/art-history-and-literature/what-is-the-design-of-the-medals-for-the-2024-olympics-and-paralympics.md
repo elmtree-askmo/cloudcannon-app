@@ -24,17 +24,17 @@ file_name: what-is-the-design-of-the-medals-for-the-2024-olympics-and-paralympic
 url: /learn/art-history-and-literature/questions/what-is-the-design-of-the-medals-for-the-2024-olympics-and-paralympics
 score: -1.0
 related_article1:
+    id: 97239
+    title: >-
+        What youth engagement programs are planned for the 2024 Winter Youth Olympics?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-youth-engagement-programs-are-planned-for-the-2024-winter-youth-olympics
+related_article2:
     id: 97226
     title: >-
         How was the host city for the 2024 Summer Olympics selected?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-was-the-host-city-for-the-2024-summer-olympics-selected
-related_article2:
-    id: 97229
-    title: >-
-        How many nations are expected to participate in the 2024 Summer Olympics?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-many-nations-are-expected-to-participate-in-the-2024-summer-olympics
 ---
 
 &nbsp;

@@ -29,6 +29,12 @@ related_article1:
         How is environmental monitoring conducted?
     subject: Health Studies
     url: /learn/health-studies/questions/how-is-environmental-monitoring-conducted
+related_article2:
+    id: 116712
+    title: >-
+        How does ecology play a role in human development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-ecology-play-a-role-in-human-development
 ---
 
 &nbsp;

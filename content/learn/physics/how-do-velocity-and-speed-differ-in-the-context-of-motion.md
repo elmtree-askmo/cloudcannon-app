@@ -24,23 +24,35 @@ file_name: how-do-velocity-and-speed-differ-in-the-context-of-motion.md
 url: /learn/physics/questions/how-do-velocity-and-speed-differ-in-the-context-of-motion
 score: -1.0
 related_article1:
-    id: 122461
+    id: 122453
     title: >-
-        How does Newton's Second Law relate to force and acceleration?
+        How is average velocity calculated, and how does it differ from instantaneous velocity?
     subject: Physics
-    url: /learn/physics/questions/how-does-newtons-second-law-relate-to-force-and-acceleration
+    url: /learn/physics/questions/how-is-average-velocity-calculated-and-how-does-it-differ-from-instantaneous-velocity
 related_article2:
-    id: 122466
+    id: 122471
     title: >-
-        What are the different forms of potential energy, and how are they calculated?
+        How is electric potential energy related to voltage?
     subject: Physics
-    url: /learn/physics/questions/what-are-the-different-forms-of-potential-energy-and-how-are-they-calculated
+    url: /learn/physics/questions/how-is-electric-potential-energy-related-to-voltage
 related_article3:
-    id: 122457
+    id: 122458
     title: >-
-        How is average acceleration different from instantaneous acceleration?
+        What are the key equations of motion for uniform motion?
     subject: Physics
-    url: /learn/physics/questions/how-is-average-acceleration-different-from-instantaneous-acceleration
+    url: /learn/physics/questions/what-are-the-key-equations-of-motion-for-uniform-motion
+related_article4:
+    id: 122460
+    title: >-
+        Can you explain Newton's First Law and its implications in real-world scenarios?
+    subject: Physics
+    url: /learn/physics/questions/can-you-explain-newtons-first-law-and-its-implications-in-realworld-scenarios
+related_article5:
+    id: 122476
+    title: >-
+        How is density defined, and what is its significance in physics?
+    subject: Physics
+    url: /learn/physics/questions/how-is-density-defined-and-what-is-its-significance-in-physics
 ---
 
 &nbsp;

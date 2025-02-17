@@ -24,35 +24,35 @@ file_name: how-is-dietary-fiber-classified-and-what-are-its-benefits.md
 url: /learn/health-studies/questions/how-is-dietary-fiber-classified-and-what-are-its-benefits
 score: -1.0
 related_article1:
-    id: 104366
+    id: 104354
     title: >-
-        What are the effects of protein deficiency on health?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-effects-of-protein-deficiency-on-health
-related_article2:
-    id: 104376
-    title: >-
-        What are the health risks of excessive lipid consumption?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-health-risks-of-excessive-lipid-consumption
-related_article3:
-    id: 104360
-    title: >-
-        What are the consequences of carbohydrate deficiency?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-consequences-of-carbohydrate-deficiency
-related_article4:
-    id: 104355
-    title: >-
-        How do oligosaccharides differ from other carbohydrates?
+        What are disaccharides and where are they commonly found?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-oligosaccharides-differ-from-other-carbohydrates
-related_article5:
+    url: /learn/chemistry/questions/what-are-disaccharides-and-where-are-they-commonly-found
+related_article2:
+    id: 104361
+    title: >-
+        What are essential amino acids and why are they important?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-essential-amino-acids-and-why-are-they-important
+related_article3:
+    id: 104364
+    title: >-
+        What are the primary functions of proteins in the body?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-primary-functions-of-proteins-in-the-body
+related_article4:
     id: 104352
     title: >-
         What are the different types of carbohydrates and their characteristics?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-different-types-of-carbohydrates-and-their-characteristics
+related_article5:
+    id: 104376
+    title: >-
+        What are the health risks of excessive lipid consumption?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-health-risks-of-excessive-lipid-consumption
 ---
 
 &nbsp;

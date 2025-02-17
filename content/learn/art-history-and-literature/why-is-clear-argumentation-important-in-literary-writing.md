@@ -24,35 +24,35 @@ file_name: why-is-clear-argumentation-important-in-literary-writing.md
 url: /learn/art-history-and-literature/questions/why-is-clear-argumentation-important-in-literary-writing
 score: -1.0
 related_article1:
-    id: 111430
-    title: >-
-        What is the primary purpose of literary theory?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-primary-purpose-of-literary-theory
-related_article2:
-    id: 111444
-    title: >-
-        Why is close reading considered important in literary analysis?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/why-is-close-reading-considered-important-in-literary-analysis
-related_article3:
-    id: 111446
-    title: >-
-        How are theoretical frameworks applied in literary analysis?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-are-theoretical-frameworks-applied-in-literary-analysis
-related_article4:
-    id: 111441
-    title: >-
-        In what ways is gender represented in literature?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-is-gender-represented-in-literature
-related_article5:
     id: 111435
     title: >-
         What are the main characteristics of post-colonial narratives?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-are-the-main-characteristics-of-postcolonial-narratives
+related_article2:
+    id: 111449
+    title: >-
+        What are some emerging trends in literary theory?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-some-emerging-trends-in-literary-theory
+related_article3:
+    id: 111441
+    title: >-
+        In what ways is gender represented in literature?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/in-what-ways-is-gender-represented-in-literature
+related_article4:
+    id: 111444
+    title: >-
+        Why is close reading considered important in literary analysis?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/why-is-close-reading-considered-important-in-literary-analysis
+related_article5:
+    id: 111430
+    title: >-
+        What is the primary purpose of literary theory?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-is-the-primary-purpose-of-literary-theory
 ---
 
 &nbsp;

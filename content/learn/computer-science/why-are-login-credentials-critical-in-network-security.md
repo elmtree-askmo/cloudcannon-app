@@ -24,29 +24,35 @@ file_name: why-are-login-credentials-critical-in-network-security.md
 url: /learn/computer-science/questions/why-are-login-credentials-critical-in-network-security
 score: -1.0
 related_article1:
-    id: 122283
+    id: 122280
     title: >-
-        What are the best practices for physical protection of network infrastructure?
+        What strategies are effective against phishing and ransomware attacks?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-best-practices-for-physical-protection-of-network-infrastructure
+    url: /learn/computer-science/questions/what-strategies-are-effective-against-phishing-and-ransomware-attacks
 related_article2:
-    id: 122288
+    id: 122271
     title: >-
-        What are the benefits of email and spam filtering in network security?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-benefits-of-email-and-spam-filtering-in-network-security
+        What is ransomware and how does it typically infiltrate a network?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-is-ransomware-and-how-does-it-typically-infiltrate-a-network
 related_article3:
-    id: 122285
+    id: 122298
     title: >-
-        What is the role of firewalls in network security?
+        What is the importance of input validation and sanitization in software security?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-firewalls-in-network-security
+    url: /learn/computer-science/questions/what-is-the-importance-of-input-validation-and-sanitization-in-software-security
 related_article4:
-    id: 122274
+    id: 122287
     title: >-
-        How does access control contribute to network security?
+        How can user training and awareness improve network security?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-access-control-contribute-to-network-security
+    url: /learn/computer-science/questions/how-can-user-training-and-awareness-improve-network-security
+related_article5:
+    id: 122291
+    title: >-
+        What are the best practices for data backup and recovery?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-best-practices-for-data-backup-and-recovery
 ---
 
 &nbsp;

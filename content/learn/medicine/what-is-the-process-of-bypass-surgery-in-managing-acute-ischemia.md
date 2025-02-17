@@ -24,35 +24,29 @@ file_name: what-is-the-process-of-bypass-surgery-in-managing-acute-ischemia.md
 url: /learn/medicine/questions/what-is-the-process-of-bypass-surgery-in-managing-acute-ischemia
 score: -1.0
 related_article1:
-    id: 102178
+    id: 102183
     title: >-
-        How do mechanical thrombectomy devices like Rotarex and AngioJet work?
-    subject: Medicine
-    url: /learn/medicine/questions/how-do-mechanical-thrombectomy-devices-like-rotarex-and-angiojet-work
+        What are the benefits and limitations of different imaging techniques for acute ischemia?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-benefits-and-limitations-of-different-imaging-techniques-for-acute-ischemia
 related_article2:
-    id: 102181
+    id: 102182
     title: >-
-        What are the potential complications associated with acute ischemia treatment?
+        How do chronic and acute ischemia management strategies differ?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-potential-complications-associated-with-acute-ischemia-treatment
+    url: /learn/medicine/questions/how-do-chronic-and-acute-ischemia-management-strategies-differ
 related_article3:
-    id: 102175
+    id: 102174
     title: >-
-        What diagnostic methods are used for chronic ischemia?
+        How do the clinical features of chronic ischemia differ from acute ischemia?
     subject: Medicine
-    url: /learn/medicine/questions/what-diagnostic-methods-are-used-for-chronic-ischemia
+    url: /learn/medicine/questions/how-do-the-clinical-features-of-chronic-ischemia-differ-from-acute-ischemia
 related_article4:
-    id: 102172
+    id: 102155
     title: >-
-        What is the role of fasciotomy in managing compartment syndrome post-surgery?
+        What are the primary causes of acute ischemia in the lower extremities?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-the-role-of-fasciotomy-in-managing-compartment-syndrome-postsurgery
-related_article5:
-    id: 102168
-    title: >-
-        How does thrombolysis work in the context of acute ischemia treatment?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-thrombolysis-work-in-the-context-of-acute-ischemia-treatment
+    url: /learn/medicine/questions/what-are-the-primary-causes-of-acute-ischemia-in-the-lower-extremities
 ---
 
 &nbsp;

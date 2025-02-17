@@ -24,35 +24,35 @@ file_name: what-are-the-effects-and-uses-of-ultraviolet-rays.md
 url: /learn/health-studies/questions/what-are-the-effects-and-uses-of-ultraviolet-rays
 score: -1.0
 related_article1:
-    id: 116216
+    id: 116222
     title: >-
-        How do electric and magnetic fields interact in electromagnetic waves?
+        How does visible light fit into the electromagnetic spectrum?
     subject: Physics
-    url: /learn/physics/questions/how-do-electric-and-magnetic-fields-interact-in-electromagnetic-waves
+    url: /learn/physics/questions/how-does-visible-light-fit-into-the-electromagnetic-spectrum
 related_article2:
+    id: 116209
+    title: >-
+        How did Maxwell's work build upon the contributions of previous scientists in the field of electromagnetism?
+    subject: Physics
+    url: /learn/physics/questions/how-did-maxwells-work-build-upon-the-contributions-of-previous-scientists-in-the-field-of-electromagnetism
+related_article3:
+    id: 116221
+    title: >-
+        What are the properties and applications of infrared waves?
+    subject: Physics
+    url: /learn/physics/questions/what-are-the-properties-and-applications-of-infrared-waves
+related_article4:
+    id: 116232
+    title: >-
+        How did Maxwell's equations change the understanding of physics in the 19th century?
+    subject: Physics
+    url: /learn/physics/questions/how-did-maxwells-equations-change-the-understanding-of-physics-in-the-19th-century
+related_article5:
     id: 116210
     title: >-
         What specific contributions did Maxwell make to the field of electromagnetism?
     subject: Physics
     url: /learn/physics/questions/what-specific-contributions-did-maxwell-make-to-the-field-of-electromagnetism
-related_article3:
-    id: 116227
-    title: >-
-        What are some technological applications that have resulted from Maxwell's equations?
-    subject: Physics
-    url: /learn/physics/questions/what-are-some-technological-applications-that-have-resulted-from-maxwells-equations
-related_article4:
-    id: 116236
-    title: >-
-        How do Maxwell's equations relate to the theory of relativity?
-    subject: Physics
-    url: /learn/physics/questions/how-do-maxwells-equations-relate-to-the-theory-of-relativity
-related_article5:
-    id: 116228
-    title: >-
-        How have Maxwell's equations influenced modern communication systems?
-    subject: Physics
-    url: /learn/physics/questions/how-have-maxwells-equations-influenced-modern-communication-systems
 ---
 
 &nbsp;

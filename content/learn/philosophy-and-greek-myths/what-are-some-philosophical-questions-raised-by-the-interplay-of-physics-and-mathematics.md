@@ -24,35 +24,35 @@ file_name: what-are-some-philosophical-questions-raised-by-the-interplay-of-phys
 url: /learn/philosophy-and-greek-myths/questions/what-are-some-philosophical-questions-raised-by-the-interplay-of-physics-and-mathematics
 score: -1.0
 related_article1:
-    id: 124230
+    id: 124227
     title: >-
-        What are some examples of fundamental principles in physics that rely on mathematics?
-    subject: Physics
-    url: /learn/physics/questions/what-are-some-examples-of-fundamental-principles-in-physics-that-rely-on-mathematics
+        How did ancient civilizations contribute to the development of mathematical concepts used in physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-concepts-used-in-physics
 related_article2:
-    id: 124217
+    id: 124209
     title: >-
-        How did the Babylonian method influence the development of physics?
-    subject: Physics
-    url: /learn/physics/questions/how-did-the-babylonian-method-influence-the-development-of-physics
+        How does mathematics help us understand natural phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
 related_article3:
+    id: 124233
+    title: >-
+        How do physicists use mathematical language to describe forces and motion?
+    subject: Physics
+    url: /learn/physics/questions/how-do-physicists-use-mathematical-language-to-describe-forces-and-motion
+related_article4:
     id: 124236
     title: >-
         What is the significance of the local field method in modern physics?
     subject: Physics
     url: /learn/physics/questions/what-is-the-significance-of-the-local-field-method-in-modern-physics
-related_article4:
-    id: 124223
-    title: >-
-        How does the minimum principle apply to physics and mathematics?
-    subject: Physics
-    url: /learn/physics/questions/how-does-the-minimum-principle-apply-to-physics-and-mathematics
 related_article5:
-    id: 124211
+    id: 124235
     title: >-
-        Can you explain Newton's Law of Gravitation in mathematical terms?
+        How do the concepts of force and equal areas relate to Kepler's laws?
     subject: Physics
-    url: /learn/physics/questions/can-you-explain-newtons-law-of-gravitation-in-mathematical-terms
+    url: /learn/physics/questions/how-do-the-concepts-of-force-and-equal-areas-relate-to-keplers-laws
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: what-are-the-key-components-of-supportive-relationships-in-an-educati
 url: /learn/education-studies/questions/what-are-the-key-components-of-supportive-relationships-in-an-educational-setting
 score: -1.0
 related_article1:
-    id: 116937
+    id: 116930
     title: >-
-        What role do peer relationships play in student mental health during the pandemic?
+        What is narrative therapy and how can it be applied in educational settings?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-do-peer-relationships-play-in-student-mental-health-during-the-pandemic
+    url: /learn/psychology/questions/what-is-narrative-therapy-and-how-can-it-be-applied-in-educational-settings
 related_article2:
-    id: 116945
+    id: 116924
     title: >-
-        What are the best practices for implementing therapeutic approaches in schools?
+        What role do schools play in ensuring student well-being during the pandemic?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-best-practices-for-implementing-therapeutic-approaches-in-schools
+    url: /learn/education-studies/questions/what-role-do-schools-play-in-ensuring-student-wellbeing-during-the-pandemic
 related_article3:
-    id: 116941
+    id: 116944
     title: >-
-        What training do teachers need to support student mental health effectively?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-training-do-teachers-need-to-support-student-mental-health-effectively
+        How can schools measure the effectiveness of mental health interventions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-schools-measure-the-effectiveness-of-mental-health-interventions
 related_article4:
-    id: 116934
+    id: 116933
     title: >-
-        How can schools prepare for future mental health challenges in education?
+        What strategies can be implemented to support students' mental health post-pandemic?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-schools-prepare-for-future-mental-health-challenges-in-education
+    url: /learn/psychology/questions/what-strategies-can-be-implemented-to-support-students-mental-health-postpandemic
 related_article5:
-    id: 116936
+    id: 116938
     title: >-
-        How can parents support their children's mental health during and after the pandemic?
-    subject: Psychology
-    url: /learn/psychology/questions/how-can-parents-support-their-childrens-mental-health-during-and-after-the-pandemic
+        How can technology be used to support mental health in education?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-technology-be-used-to-support-mental-health-in-education
 ---
 
 &nbsp;

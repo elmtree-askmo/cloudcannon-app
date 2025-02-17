@@ -24,23 +24,23 @@ file_name: what-are-the-historical-developments-in-decimal-arithmetic-teaching-m
 url: /learn/education-studies/questions/what-are-the-historical-developments-in-decimal-arithmetic-teaching-methods
 score: -1.0
 related_article1:
-    id: 111490
-    title: >-
-        Why is it important to align decimal points when performing decimal operations?
-    subject: Mathematics
-    url: /learn/mathematics/questions/why-is-it-important-to-align-decimal-points-when-performing-decimal-operations
-related_article2:
-    id: 111496
-    title: >-
-        How can one avoid errors when subtracting decimals?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-can-one-avoid-errors-when-subtracting-decimals
-related_article3:
     id: 111501
     title: >-
         How does precision impact the results of decimal calculations?
     subject: Mathematics
     url: /learn/mathematics/questions/how-does-precision-impact-the-results-of-decimal-calculations
+related_article2:
+    id: 111508
+    title: >-
+        How can practice activities enhance understanding of decimal arithmetic?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-practice-activities-enhance-understanding-of-decimal-arithmetic
+related_article3:
+    id: 111490
+    title: >-
+        Why is it important to align decimal points when performing decimal operations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-it-important-to-align-decimal-points-when-performing-decimal-operations
 ---
 
 &nbsp;

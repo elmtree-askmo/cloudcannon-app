@@ -24,35 +24,29 @@ file_name: what-are-the-future-trends-in-ai-engineering.md
 url: /learn/engineering/questions/what-are-the-future-trends-in-ai-engineering
 score: -1.0
 related_article1:
-    id: 118485
-    title: >-
-        What strategies are used to improve bandwidth efficiency in tech?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-strategies-are-used-to-improve-bandwidth-efficiency-in-tech
-related_article2:
     id: 118498
     title: >-
         What are the potential environmental impacts of increased data usage in tech?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-potential-environmental-impacts-of-increased-data-usage-in-tech
+related_article2:
+    id: 118477
+    title: >-
+        What are the unique features of Scrimba that differentiate it from other platforms?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-unique-features-of-scrimba-that-differentiate-it-from-other-platforms
 related_article3:
-    id: 118480
+    id: 118487
     title: >-
-        What are the main challenges faced in coding education today?
+        What are some examples of real-world problem solving in programming education?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-challenges-faced-in-coding-education-today
+    url: /learn/education-studies/questions/what-are-some-examples-of-realworld-problem-solving-in-programming-education
 related_article4:
-    id: 118479
+    id: 118484
     title: >-
-        What role does peer learning play in coding education?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-role-does-peer-learning-play-in-coding-education
-related_article5:
-    id: 118482
-    title: >-
-        How does the tech scene in Norway compare to Silicon Valley?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-does-the-tech-scene-in-norway-compare-to-silicon-valley
+        How does the tech industry address environmental considerations like data and carbon footprint?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-does-the-tech-industry-address-environmental-considerations-like-data-and-carbon-footprint
 ---
 
 &nbsp;

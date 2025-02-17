@@ -29,12 +29,6 @@ related_article1:
         What is the method for converting a percent to a fraction?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-method-for-converting-a-percent-to-a-fraction
-related_article2:
-    id: 119789
-    title: >-
-        How do you tackle subtraction word problems?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-tackle-subtraction-word-problems
 ---
 
 &nbsp;

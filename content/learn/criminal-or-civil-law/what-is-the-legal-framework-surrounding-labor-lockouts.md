@@ -24,35 +24,35 @@ file_name: what-is-the-legal-framework-surrounding-labor-lockouts.md
 url: /learn/criminal-or-civil-law/questions/what-is-the-legal-framework-surrounding-labor-lockouts
 score: -1.0
 related_article1:
-    id: 123001
+    id: 122989
     title: >-
-        How do antitrust laws intersect with labor laws in the U.S.?
+        What is the significance of the quasi-legislative power of the NLRB?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-do-antitrust-laws-intersect-with-labor-laws-in-the-us
+    url: /learn/criminal-or-civil-law/questions/what-is-the-significance-of-the-quasilegislative-power-of-the-nlrb
 related_article2:
-    id: 123011
+    id: 123005
     title: >-
-        What is the statute of limitations for securities violations under the Securities Act of 1933?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-the-statute-of-limitations-for-securities-violations-under-the-securities-act-of-1933
-related_article3:
-    id: 122992
-    title: >-
-        How did the Landrum-Griffin Act of 1959 address union member rights?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-did-the-landrumgriffin-act-of-1959-address-union-member-rights
-related_article4:
-    id: 123007
-    title: >-
-        What are the exemptions to registration requirements under the Securities Act of 1933?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-exemptions-to-registration-requirements-under-the-securities-act-of-1933
-related_article5:
-    id: 123002
-    title: >-
-        What was the significance of the Standard Oil of New Jersey vs United States case in antitrust law?
+        What exceptions exist under the Robinson-Patman Amendment?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-was-the-significance-of-the-standard-oil-of-new-jersey-vs-united-states-case-in-antitrust-law
+    url: /learn/business-and-management/questions/what-exceptions-exist-under-the-robinsonpatman-amendment
+related_article3:
+    id: 122991
+    title: >-
+        What is an agency shop agreement and how does it differ from a closed shop agreement?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-is-an-agency-shop-agreement-and-how-does-it-differ-from-a-closed-shop-agreement
+related_article4:
+    id: 123000
+    title: >-
+        What is a bona fide occupational qualification (FOQ) and how is it applied?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-is-a-bona-fide-occupational-qualification-foq-and-how-is-it-applied
+related_article5:
+    id: 122987
+    title: >-
+        How did the Yellow Dog Contract affect employee rights?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-did-the-yellow-dog-contract-affect-employee-rights
 ---
 
 &nbsp;

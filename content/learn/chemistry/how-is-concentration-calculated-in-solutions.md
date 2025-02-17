@@ -24,29 +24,17 @@ file_name: how-is-concentration-calculated-in-solutions.md
 url: /learn/chemistry/questions/how-is-concentration-calculated-in-solutions
 score: -1.0
 related_article1:
-    id: 117907
+    id: 117924
     title: >-
-        What factors affect ionization energies of elements?
+        How do vapor pressure and boiling point elevation relate to solutions?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-factors-affect-ionization-energies-of-elements
+    url: /learn/chemistry/questions/how-do-vapor-pressure-and-boiling-point-elevation-relate-to-solutions
 related_article2:
-    id: 117919
+    id: 117929
     title: >-
-        What factors determine the boiling and melting points of substances?
+        How do molecular orbital diagrams help in understanding chemical bonding?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-factors-determine-the-boiling-and-melting-points-of-substances
-related_article3:
-    id: 117916
-    title: >-
-        How is gas pressure calculated in different conditions?
-    subject: Physics
-    url: /learn/physics/questions/how-is-gas-pressure-calculated-in-different-conditions
-related_article4:
-    id: 117905
-    title: >-
-        What are quantum numbers and how do they relate to electron configurations?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-are-quantum-numbers-and-how-do-they-relate-to-electron-configurations
+    url: /learn/chemistry/questions/how-do-molecular-orbital-diagrams-help-in-understanding-chemical-bonding
 ---
 
 &nbsp;

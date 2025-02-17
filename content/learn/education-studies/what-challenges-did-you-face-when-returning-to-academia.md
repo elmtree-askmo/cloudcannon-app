@@ -24,17 +24,17 @@ file_name: what-challenges-did-you-face-when-returning-to-academia.md
 url: /learn/education-studies/questions/what-challenges-did-you-face-when-returning-to-academia
 score: -1.0
 related_article1:
-    id: 94169
-    title: >-
-        What are your potential career paths after completing your graduate education?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-your-potential-career-paths-after-completing-your-graduate-education
-related_article2:
     id: 94160
     title: >-
         What personal reasons motivated you to further your education?
     subject: Education Studies
     url: /learn/education-studies/questions/what-personal-reasons-motivated-you-to-further-your-education
+related_article2:
+    id: 94169
+    title: >-
+        What are your potential career paths after completing your graduate education?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-your-potential-career-paths-after-completing-your-graduate-education
 ---
 
 &nbsp;

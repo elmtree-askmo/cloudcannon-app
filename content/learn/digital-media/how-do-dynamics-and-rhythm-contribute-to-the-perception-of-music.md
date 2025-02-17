@@ -24,35 +24,35 @@ file_name: how-do-dynamics-and-rhythm-contribute-to-the-perception-of-music.md
 url: /learn/digital-media/questions/how-do-dynamics-and-rhythm-contribute-to-the-perception-of-music
 score: -1.0
 related_article1:
-    id: 122518
+    id: 122530
     title: >-
-        What is spectral segregation and how does it aid in auditory scene analysis?
+        How do pitch, chroma, and the octave relate to music perception?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-spectral-segregation-and-how-does-it-aid-in-auditory-scene-analysis
+    url: /learn/psychology/questions/how-do-pitch-chroma-and-the-octave-relate-to-music-perception
 related_article2:
-    id: 122527
-    title: >-
-        What are the main theories of speech perception?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-theories-of-speech-perception
-related_article3:
     id: 122517
     title: >-
         How does spatial segregation work in auditory scene analysis?
     subject: Psychology
     url: /learn/psychology/questions/how-does-spatial-segregation-work-in-auditory-scene-analysis
-related_article4:
-    id: 122514
+related_article3:
+    id: 122515
     title: >-
-        What methods are used to detect the distance of a sound source?
+        How does auditory scene analysis help in distinguishing different sound sources?
     subject: Psychology
-    url: /learn/psychology/questions/what-methods-are-used-to-detect-the-distance-of-a-sound-source
-related_article5:
+    url: /learn/psychology/questions/how-does-auditory-scene-analysis-help-in-distinguishing-different-sound-sources
+related_article4:
     id: 122513
     title: >-
         How is elevation perception achieved in the auditory system?
     subject: Psychology
     url: /learn/psychology/questions/how-is-elevation-perception-achieved-in-the-auditory-system
+related_article5:
+    id: 122538
+    title: >-
+        What is the neuropsychology of music and its impact on perception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-neuropsychology-of-music-and-its-impact-on-perception
 ---
 
 &nbsp;

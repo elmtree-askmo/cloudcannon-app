@@ -24,29 +24,29 @@ file_name: why-is-the-femur-considered-an-important-bone-in-the-body.md
 url: /learn/health-studies/questions/why-is-the-femur-considered-an-important-bone-in-the-body
 score: -1.0
 related_article1:
-    id: 100381
+    id: 100361
     title: >-
-        What are the structural differences between the upper and lower limbs?
+        What are the main components of the appendicular skeleton?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-structural-differences-between-the-upper-and-lower-limbs
+    url: /learn/health-studies/questions/what-are-the-main-components-of-the-appendicular-skeleton
 related_article2:
-    id: 100356
+    id: 100367
     title: >-
-        How does the skeleton provide support and protection to the body?
-    subject: Nursing
-    url: /learn/nursing/questions/how-does-the-skeleton-provide-support-and-protection-to-the-body
-related_article3:
-    id: 100384
-    title: >-
-        How does the skeletal system change with age or disease?
+        What are the main functions of the legs in the skeletal system?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-skeletal-system-change-with-age-or-disease
-related_article4:
-    id: 100358
+    url: /learn/health-studies/questions/what-are-the-main-functions-of-the-legs-in-the-skeletal-system
+related_article3:
+    id: 100377
     title: >-
-        What roles do bones play in blood production?
-    subject: Medicine
-    url: /learn/medicine/questions/what-roles-do-bones-play-in-blood-production
+        How does the axial skeleton differ from the appendicular skeleton in terms of function?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-axial-skeleton-differ-from-the-appendicular-skeleton-in-terms-of-function
+related_article4:
+    id: 100374
+    title: >-
+        What is the importance of the pelvis in terms of weight distribution?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-importance-of-the-pelvis-in-terms-of-weight-distribution
 ---
 
 &nbsp;

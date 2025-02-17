@@ -24,29 +24,35 @@ file_name: how-did-stuart-smalley-become-a-notable-guest-host-character-on-snl.m
 url: /learn/american-culture/questions/how-did-stuart-smalley-become-a-notable-guest-host-character-on-snl
 score: -1.0
 related_article1:
-    id: 1004
+    id: 1018
     title: >-
-        In what ways does the 'Single Ladies' parody on SNL differ from the original performance?
+        How did 'Wayne's World' transition from SNL to film?
     subject: American Culture
-    url: /learn/american-culture/questions/in-what-ways-does-the-single-ladies-parody-on-snl-differ-from-the-original-performance
+    url: /learn/american-culture/questions/how-did-waynes-world-transition-from-snl-to-film
 related_article2:
+    id: 1024
+    title: >-
+        How does 'Celebrity Jeopardy!' utilize parody to create humor?
+    subject: American Culture
+    url: /learn/american-culture/questions/how-does-celebrity-jeopardy-utilize-parody-to-create-humor
+related_article3:
     id: 1017
     title: >-
         What cultural impact did Steve Martin's 'King Tut' have on SNL?
     subject: American Culture
     url: /learn/american-culture/questions/what-cultural-impact-did-steve-martins-king-tut-have-on-snl
-related_article3:
-    id: 1012
-    title: >-
-        How did Adele's performance of 'Rolling in the Deep' stand out on SNL?
-    subject: American Culture
-    url: /learn/american-culture/questions/how-did-adeles-performance-of-rolling-in-the-deep-stand-out-on-snl
 related_article4:
-    id: 1001
+    id: 1003
     title: >-
-        What is the main comedic element in the 'More Cowbell' sketch?
+        How does 'The Lawrence Welk Show' parody use exaggeration to create humor?
     subject: American Culture
-    url: /learn/american-culture/questions/what-is-the-main-comedic-element-in-the-more-cowbell-sketch
+    url: /learn/american-culture/questions/how-does-the-lawrence-welk-show-parody-use-exaggeration-to-create-humor
+related_article5:
+    id: 1014
+    title: >-
+        Why is George Carlin's role as the first host of SNL historically significant?
+    subject: American Culture
+    url: /learn/american-culture/questions/why-is-george-carlins-role-as-the-first-host-of-snl-historically-significant
 ---
 
 &nbsp;

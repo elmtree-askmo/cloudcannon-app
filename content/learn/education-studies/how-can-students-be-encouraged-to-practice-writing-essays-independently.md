@@ -24,17 +24,17 @@ file_name: how-can-students-be-encouraged-to-practice-writing-essays-independent
 url: /learn/education-studies/questions/how-can-students-be-encouraged-to-practice-writing-essays-independently
 score: -1.0
 related_article1:
-    id: 98148
-    title: >-
-        How can coherence and unity be maintained throughout an essay?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-coherence-and-unity-be-maintained-throughout-an-essay
-related_article2:
     id: 98149
     title: >-
         What are some effective strategies for revising and editing essays?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-some-effective-strategies-for-revising-and-editing-essays
+related_article2:
+    id: 98148
+    title: >-
+        How can coherence and unity be maintained throughout an essay?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-coherence-and-unity-be-maintained-throughout-an-essay
 ---
 
 &nbsp;

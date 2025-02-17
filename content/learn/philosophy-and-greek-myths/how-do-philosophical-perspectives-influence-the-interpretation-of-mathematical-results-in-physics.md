@@ -24,35 +24,35 @@ file_name: how-do-philosophical-perspectives-influence-the-interpretation-of-mat
 url: /learn/philosophy-and-greek-myths/questions/how-do-philosophical-perspectives-influence-the-interpretation-of-mathematical-results-in-physics
 score: -1.0
 related_article1:
-    id: 116792
+    id: 116788
     title: >-
-        What is the relationship between the minimum principle and optimization in physics?
+        What are some examples of fundamental principles in physics that rely on mathematics?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-relationship-between-the-minimum-principle-and-optimization-in-physics
+    url: /learn/physics/questions/what-are-some-examples-of-fundamental-principles-in-physics-that-rely-on-mathematics
 related_article2:
+    id: 116768
+    title: >-
+        What is Faraday's Law and how does it relate to mathematics?
+    subject: Physics
+    url: /learn/physics/questions/what-is-faradays-law-and-how-does-it-relate-to-mathematics
+related_article3:
     id: 116778
     title: >-
         What is the conservation of angular momentum and its mathematical representation?
     subject: Physics
     url: /learn/physics/questions/what-is-the-conservation-of-angular-momentum-and-its-mathematical-representation
-related_article3:
-    id: 116790
-    title: >-
-        What is the importance of mathematical notation in communicating complex physical concepts?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-importance-of-mathematical-notation-in-communicating-complex-physical-concepts
 related_article4:
-    id: 116770
+    id: 116794
     title: >-
-        How is mathematical language used in physics?
+        What are some modern applications of Faraday's Law in technology?
     subject: Physics
-    url: /learn/physics/questions/how-is-mathematical-language-used-in-physics
+    url: /learn/physics/questions/what-are-some-modern-applications-of-faradays-law-in-technology
 related_article5:
-    id: 116780
+    id: 116777
     title: >-
-        What is the local field method in physics?
+        How does the law of gravitation demonstrate the relationship between physics and mathematics?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-local-field-method-in-physics
+    url: /learn/physics/questions/how-does-the-law-of-gravitation-demonstrate-the-relationship-between-physics-and-mathematics
 ---
 
 &nbsp;

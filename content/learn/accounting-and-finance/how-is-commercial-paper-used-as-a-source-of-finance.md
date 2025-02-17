@@ -24,29 +24,29 @@ file_name: how-is-commercial-paper-used-as-a-source-of-finance.md
 url: /learn/accounting-and-finance/questions/how-is-commercial-paper-used-as-a-source-of-finance
 score: -1.0
 related_article1:
-    id: 98645
+    id: 98655
     title: >-
-        What are debentures and how are they used in business finance?
+        What are Foreign Currency Convertible Bonds (FCCBs) and their benefits?
     subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-are-debentures-and-how-are-they-used-in-business-finance
+    url: /learn/accounting-and-finance/questions/what-are-foreign-currency-convertible-bonds-fccbs-and-their-benefits
 related_article2:
-    id: 98636
+    id: 98631
     title: >-
-        What are retained earnings and how are they used in business finance?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-are-retained-earnings-and-how-are-they-used-in-business-finance
-related_article3:
-    id: 98646
-    title: >-
-        What role do commercial banks play in providing business finance?
+        What are fixed capital requirements in business finance?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-role-do-commercial-banks-play-in-providing-business-finance
-related_article4:
-    id: 98642
+    url: /learn/business-and-management/questions/what-are-fixed-capital-requirements-in-business-finance
+related_article3:
+    id: 98630
     title: >-
-        What are the different types of shares issued by companies?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-are-the-different-types-of-shares-issued-by-companies
+        Why is business finance significant for companies?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/why-is-business-finance-significant-for-companies
+related_article4:
+    id: 98650
+    title: >-
+        What role do international agencies and development banks play in international financing?
+    subject: Economics
+    url: /learn/economics/questions/what-role-do-international-agencies-and-development-banks-play-in-international-financing
 ---
 
 &nbsp;

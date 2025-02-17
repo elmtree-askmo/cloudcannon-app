@@ -24,35 +24,35 @@ file_name: how-does-a-print-server-facilitate-network-printing.md
 url: /learn/computer-science/questions/how-does-a-print-server-facilitate-network-printing
 score: -1.0
 related_article1:
-    id: 122307
+    id: 122301
     title: >-
-        What are the core components of a Database Management System (DBMS)?
+        What are the key considerations when implementing file services in a network?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-core-components-of-a-database-management-system-dbms
+    url: /learn/computer-science/questions/what-are-the-key-considerations-when-implementing-file-services-in-a-network
 related_article2:
+    id: 122327
+    title: >-
+        How do web services integrate with other network services?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-web-services-integrate-with-other-network-services
+related_article3:
     id: 122322
     title: >-
         What are the differences between SMTP, POP3, and IMAP4 protocols?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-differences-between-smtp-pop3-and-imap4-protocols
-related_article3:
-    id: 122299
-    title: >-
-        What are the primary functions of a file server in a network?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-primary-functions-of-a-file-server-in-a-network
 related_article4:
-    id: 122309
-    title: >-
-        What are the benefits of clustering and virtualization in database management?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-benefits-of-clustering-and-virtualization-in-database-management
-related_article5:
     id: 122323
     title: >-
         How do file services integrate with other network services?
     subject: Computer Science
     url: /learn/computer-science/questions/how-do-file-services-integrate-with-other-network-services
+related_article5:
+    id: 122311
+    title: >-
+        What functionalities are essential for a web server?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-functionalities-are-essential-for-a-web-server
 ---
 
 &nbsp;

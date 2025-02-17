@@ -24,11 +24,11 @@ file_name: what-is-quincy-larsons-educational-background.md
 url: /learn/education-studies/questions/what-is-quincy-larsons-educational-background
 score: -1.0
 related_article1:
-    id: 118477
+    id: 118496
     title: >-
-        What are the unique features of Scrimba that differentiate it from other platforms?
+        What are the benefits of interactive video tutorials in coding education?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-unique-features-of-scrimba-that-differentiate-it-from-other-platforms
+    url: /learn/education-studies/questions/what-are-the-benefits-of-interactive-video-tutorials-in-coding-education
 related_article2:
     id: 118487
     title: >-
@@ -36,23 +36,23 @@ related_article2:
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-some-examples-of-realworld-problem-solving-in-programming-education
 related_article3:
-    id: 118486
+    id: 118492
     title: >-
-        How does project-based learning benefit programming students?
+        What are some successful case studies of project-based learning in coding?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-projectbased-learning-benefit-programming-students
+    url: /learn/education-studies/questions/what-are-some-successful-case-studies-of-projectbased-learning-in-coding
 related_article4:
-    id: 118496
+    id: 118480
     title: >-
-        What are the benefits of interactive video tutorials in coding education?
+        What are the main challenges faced in coding education today?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-benefits-of-interactive-video-tutorials-in-coding-education
+    url: /learn/education-studies/questions/what-are-the-main-challenges-faced-in-coding-education-today
 related_article5:
-    id: 118485
+    id: 118479
     title: >-
-        What strategies are used to improve bandwidth efficiency in tech?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-strategies-are-used-to-improve-bandwidth-efficiency-in-tech
+        What role does peer learning play in coding education?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-role-does-peer-learning-play-in-coding-education
 ---
 
 &nbsp;

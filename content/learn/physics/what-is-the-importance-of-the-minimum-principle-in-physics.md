@@ -24,35 +24,35 @@ file_name: what-is-the-importance-of-the-minimum-principle-in-physics.md
 url: /learn/physics/questions/what-is-the-importance-of-the-minimum-principle-in-physics
 score: -1.0
 related_article1:
-    id: 119274
+    id: 119275
     title: >-
-        What contributions did Babylonian and Greek traditions make to mathematics and physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-contributions-did-babylonian-and-greek-traditions-make-to-mathematics-and-physics
+        What are fundamental principles and consequential statements in physics?
+    subject: Physics
+    url: /learn/physics/questions/what-are-fundamental-principles-and-consequential-statements-in-physics
 related_article2:
+    id: 119290
+    title: >-
+        How does the conservation of angular momentum apply in real-world scenarios?
+    subject: Physics
+    url: /learn/physics/questions/how-does-the-conservation-of-angular-momentum-apply-in-realworld-scenarios
+related_article3:
+    id: 119295
+    title: >-
+        What are some challenges in translating physical phenomena into mathematical language?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-challenges-in-translating-physical-phenomena-into-mathematical-language
+related_article4:
     id: 119289
     title: >-
         What are some examples of fundamental principles in physics that rely on mathematics?
     subject: Physics
     url: /learn/physics/questions/what-are-some-examples-of-fundamental-principles-in-physics-that-rely-on-mathematics
-related_article3:
+related_article5:
     id: 119292
     title: >-
         How does the local field method contribute to our understanding of physical systems?
     subject: Physics
     url: /learn/physics/questions/how-does-the-local-field-method-contribute-to-our-understanding-of-physical-systems
-related_article4:
-    id: 119271
-    title: >-
-        How is mathematical language used in physics?
-    subject: Physics
-    url: /learn/physics/questions/how-is-mathematical-language-used-in-physics
-related_article5:
-    id: 119283
-    title: >-
-        What are the philosophical implications of the relationship between physics and mathematics?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
 ---
 
 &nbsp;

@@ -24,35 +24,29 @@ file_name: what-are-debentures-and-how-are-they-used-in-business-finance.md
 url: /learn/accounting-and-finance/questions/what-are-debentures-and-how-are-they-used-in-business-finance
 score: -1.0
 related_article1:
-    id: 98628
+    id: 98650
     title: >-
-        How would you define business finance?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/how-would-you-define-business-finance
+        What role do international agencies and development banks play in international financing?
+    subject: Economics
+    url: /learn/economics/questions/what-role-do-international-agencies-and-development-banks-play-in-international-financing
 related_article2:
-    id: 98642
+    id: 98635
     title: >-
-        What are the different types of shares issued by companies?
+        Can you explain the source of generation basis for classifying sources of funds?
     subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-are-the-different-types-of-shares-issued-by-companies
+    url: /learn/accounting-and-finance/questions/can-you-explain-the-source-of-generation-basis-for-classifying-sources-of-funds
 related_article3:
-    id: 98639
-    title: >-
-        Can you explain lease financing and its advantages for businesses?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/can-you-explain-lease-financing-and-its-advantages-for-businesses
-related_article4:
     id: 98631
     title: >-
         What are fixed capital requirements in business finance?
     subject: Business and Management
     url: /learn/business-and-management/questions/what-are-fixed-capital-requirements-in-business-finance
-related_article5:
-    id: 98643
+related_article4:
+    id: 98644
     title: >-
-        What are the characteristics of equity shares?
+        How do preference shares differ from equity shares?
     subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-are-the-characteristics-of-equity-shares
+    url: /learn/accounting-and-finance/questions/how-do-preference-shares-differ-from-equity-shares
 ---
 
 &nbsp;

@@ -24,29 +24,29 @@ file_name: how-did-waynes-world-transition-from-snl-to-film.md
 url: /learn/american-culture/questions/how-did-waynes-world-transition-from-snl-to-film
 score: -1.0
 related_article1:
-    id: 1012
+    id: 1028
     title: >-
-        How did Adele's performance of 'Rolling in the Deep' stand out on SNL?
+        What is the significance of the 'Lazy Sunday' digital short in the evolution of SNL's sketch format?
     subject: American Culture
-    url: /learn/american-culture/questions/how-did-adeles-performance-of-rolling-in-the-deep-stand-out-on-snl
+    url: /learn/american-culture/questions/what-is-the-significance-of-the-lazy-sunday-digital-short-in-the-evolution-of-snls-sketch-format
 related_article2:
-    id: 1004
+    id: 1021
     title: >-
-        In what ways does the 'Single Ladies' parody on SNL differ from the original performance?
+        How does 'D*** in a Box' exemplify absurdity in comedy?
     subject: American Culture
-    url: /learn/american-culture/questions/in-what-ways-does-the-single-ladies-parody-on-snl-differ-from-the-original-performance
+    url: /learn/american-culture/questions/how-does-d-in-a-box-exemplify-absurdity-in-comedy
 related_article3:
-    id: 1002
+    id: 1008
     title: >-
-        How does 'Schweddy Balls' utilize innuendo for comedic effect?
+        What makes The Church Lady a memorable SNL character?
     subject: American Culture
-    url: /learn/american-culture/questions/how-does-schweddy-balls-utilize-innuendo-for-comedic-effect
+    url: /learn/american-culture/questions/what-makes-the-church-lady-a-memorable-snl-character
 related_article4:
-    id: 1010
+    id: 1015
     title: >-
-        Why was Nirvana's performance of 'Smells Like Teen Spirit' on SNL considered iconic?
+        How has Kenan Thompson contributed to SNL as a long-serving cast member?
     subject: American Culture
-    url: /learn/american-culture/questions/why-was-nirvanas-performance-of-smells-like-teen-spirit-on-snl-considered-iconic
+    url: /learn/american-culture/questions/how-has-kenan-thompson-contributed-to-snl-as-a-longserving-cast-member
 ---
 
 &nbsp;

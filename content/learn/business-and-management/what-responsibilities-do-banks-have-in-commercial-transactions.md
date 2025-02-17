@@ -24,17 +24,17 @@ file_name: what-responsibilities-do-banks-have-in-commercial-transactions.md
 url: /learn/business-and-management/questions/what-responsibilities-do-banks-have-in-commercial-transactions
 score: -1.0
 related_article1:
-    id: 112358
-    title: >-
-        What are the potential consequences of a breach of contract on commercial liability?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-potential-consequences-of-a-breach-of-contract-on-commercial-liability
-related_article2:
     id: 112348
     title: >-
         What legal remedies are available for breaches of contract under Article 2 of the UCC?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-legal-remedies-are-available-for-breaches-of-contract-under-article-2-of-the-ucc
+related_article2:
+    id: 112358
+    title: >-
+        What are the potential consequences of a breach of contract on commercial liability?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-are-the-potential-consequences-of-a-breach-of-contract-on-commercial-liability
 ---
 
 &nbsp;

@@ -24,29 +24,35 @@ file_name: what-are-the-key-contributions-of-babylonian-and-greek-traditions-to-
 url: /learn/history-of-the-world/questions/what-are-the-key-contributions-of-babylonian-and-greek-traditions-to-physics-and-mathematics
 score: -1.0
 related_article1:
+    id: 110299
+    title: >-
+        What is Newton's Law of Gravitation and how is it mathematically formulated?
+    subject: Physics
+    url: /learn/physics/questions/what-is-newtons-law-of-gravitation-and-how-is-it-mathematically-formulated
+related_article2:
+    id: 110321
+    title: >-
+        How do the Babylonian and Greek traditions influence modern physics?
+    subject: Physics
+    url: /learn/physics/questions/how-do-the-babylonian-and-greek-traditions-influence-modern-physics
+related_article3:
     id: 110317
     title: >-
         How do physicists use mathematical language to communicate complex ideas?
     subject: Physics
     url: /learn/physics/questions/how-do-physicists-use-mathematical-language-to-communicate-complex-ideas
-related_article2:
+related_article4:
     id: 110322
     title: >-
         What are some examples of fundamental principles in physics that lead to consequential statements?
     subject: Physics
     url: /learn/physics/questions/what-are-some-examples-of-fundamental-principles-in-physics-that-lead-to-consequential-statements
-related_article3:
-    id: 110320
+related_article5:
+    id: 110323
     title: >-
-        What are some modern advancements in mathematical notation that have impacted physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-modern-advancements-in-mathematical-notation-that-have-impacted-physics
-related_article4:
-    id: 110325
-    title: >-
-        How does the minimum principle relate to optimization problems in physics?
-    subject: Physics
-    url: /learn/physics/questions/how-does-the-minimum-principle-relate-to-optimization-problems-in-physics
+        How does the Euclidean method differ from the Babylonian method in approaching physics problems?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/how-does-the-euclidean-method-differ-from-the-babylonian-method-in-approaching-physics-problems
 ---
 
 &nbsp;

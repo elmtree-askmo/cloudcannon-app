@@ -23,12 +23,7 @@ subject: Criminal or Civil Law
 file_name: how-did-evidence-collection-and-processing-play-a-role-in-the-claremont-serial-killings-case.md
 url: /learn/criminal-or-civil-law/questions/how-did-evidence-collection-and-processing-play-a-role-in-the-claremont-serial-killings-case
 score: -1.0
-related_article1:
-    id: 111189
-    title: >-
-        What role do cultural and legal differences play in evidence collection practices across countries?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-role-do-cultural-and-legal-differences-play-in-evidence-collection-practices-across-countries
+
 ---
 
 &nbsp;

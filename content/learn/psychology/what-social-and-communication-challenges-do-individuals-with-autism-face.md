@@ -24,17 +24,17 @@ file_name: what-social-and-communication-challenges-do-individuals-with-autism-f
 url: /learn/psychology/questions/what-social-and-communication-challenges-do-individuals-with-autism-face
 score: -1.0
 related_article1:
+    id: 108014
+    title: >-
+        How are savant skills defined in the context of autism?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-savant-skills-defined-in-the-context-of-autism
+related_article2:
     id: 107997
     title: >-
         What are the current diagnostic criteria for Autism Spectrum Disorders (ASD)?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-current-diagnostic-criteria-for-autism-spectrum-disorders-asd
-related_article2:
-    id: 108011
-    title: >-
-        What are the most effective treatment approaches for autism?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-most-effective-treatment-approaches-for-autism
 ---
 
 &nbsp;

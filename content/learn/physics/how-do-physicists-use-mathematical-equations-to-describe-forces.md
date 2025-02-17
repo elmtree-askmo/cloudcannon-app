@@ -24,35 +24,35 @@ file_name: how-do-physicists-use-mathematical-equations-to-describe-forces.md
 url: /learn/physics/questions/how-do-physicists-use-mathematical-equations-to-describe-forces
 score: -1.0
 related_article1:
-    id: 121443
+    id: 121425
     title: >-
-        What are the challenges in translating physical concepts into mathematical language?
+        What is the conservation of angular momentum and its mathematical representation?
     subject: Physics
-    url: /learn/physics/questions/what-are-the-challenges-in-translating-physical-concepts-into-mathematical-language
+    url: /learn/physics/questions/what-is-the-conservation-of-angular-momentum-and-its-mathematical-representation
 related_article2:
-    id: 121433
+    id: 121420
     title: >-
-        What is the importance of mathematical proofs in physics?
+        What contributions did Babylonian and Greek traditions make to mathematics and physics?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-importance-of-mathematical-proofs-in-physics
+    url: /learn/mathematics/questions/what-contributions-did-babylonian-and-greek-traditions-make-to-mathematics-and-physics
 related_article3:
+    id: 121438
+    title: >-
+        How do modern physicists use mathematical notation to communicate complex ideas?
+    subject: Physics
+    url: /learn/physics/questions/how-do-modern-physicists-use-mathematical-notation-to-communicate-complex-ideas
+related_article4:
     id: 121415
     title: >-
         What is Faraday's Law and how does it relate to mathematics?
     subject: Physics
     url: /learn/physics/questions/what-is-faradays-law-and-how-does-it-relate-to-mathematics
-related_article4:
-    id: 121418
-    title: >-
-        What is the significance of force and equal areas in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-significance-of-force-and-equal-areas-in-physics
 related_article5:
-    id: 121440
+    id: 121442
     title: >-
-        How do the concepts of force and equal areas relate to Kepler's laws?
+        How do Newton's Laws form the foundation of classical mechanics?
     subject: Physics
-    url: /learn/physics/questions/how-do-the-concepts-of-force-and-equal-areas-relate-to-keplers-laws
+    url: /learn/physics/questions/how-do-newtons-laws-form-the-foundation-of-classical-mechanics
 ---
 
 &nbsp;

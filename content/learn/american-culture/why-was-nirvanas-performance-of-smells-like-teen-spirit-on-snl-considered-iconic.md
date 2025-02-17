@@ -24,35 +24,35 @@ file_name: why-was-nirvanas-performance-of-smells-like-teen-spirit-on-snl-consid
 url: /learn/american-culture/questions/why-was-nirvanas-performance-of-smells-like-teen-spirit-on-snl-considered-iconic
 score: -1.0
 related_article1:
-    id: 1006
+    id: 1007
     title: >-
-        What are the defining characteristics of Matt Foley as a motivational speaker character?
+        How does Stefon's character reflect eccentric personality traits?
     subject: American Culture
-    url: /learn/american-culture/questions/what-are-the-defining-characteristics-of-matt-foley-as-a-motivational-speaker-character
+    url: /learn/american-culture/questions/how-does-stefons-character-reflect-eccentric-personality-traits
 related_article2:
-    id: 1030
+    id: 1014
     title: >-
-        In what ways does the 'Unfrozen Caveman Lawyer' sketch incorporate historical themes?
+        Why is George Carlin's role as the first host of SNL historically significant?
     subject: American Culture
-    url: /learn/american-culture/questions/in-what-ways-does-the-unfrozen-caveman-lawyer-sketch-incorporate-historical-themes
+    url: /learn/american-culture/questions/why-is-george-carlins-role-as-the-first-host-of-snl-historically-significant
 related_article3:
-    id: 1024
+    id: 1022
     title: >-
-        How does 'Celebrity Jeopardy!' utilize parody to create humor?
+        What distinguishes digital shorts from live performances in SNL's sketch formats?
     subject: American Culture
-    url: /learn/american-culture/questions/how-does-celebrity-jeopardy-utilize-parody-to-create-humor
+    url: /learn/american-culture/questions/what-distinguishes-digital-shorts-from-live-performances-in-snls-sketch-formats
 related_article4:
-    id: 1019
+    id: 1001
     title: >-
-        What are the key traits of the Spartan Cheerleaders as recurring characters on SNL?
+        What is the main comedic element in the 'More Cowbell' sketch?
     subject: American Culture
-    url: /learn/american-culture/questions/what-are-the-key-traits-of-the-spartan-cheerleaders-as-recurring-characters-on-snl
+    url: /learn/american-culture/questions/what-is-the-main-comedic-element-in-the-more-cowbell-sketch
 related_article5:
-    id: 1020
+    id: 1008
     title: >-
-        How did Stuart Smalley become a notable guest host character on SNL?
+        What makes The Church Lady a memorable SNL character?
     subject: American Culture
-    url: /learn/american-culture/questions/how-did-stuart-smalley-become-a-notable-guest-host-character-on-snl
+    url: /learn/american-culture/questions/what-makes-the-church-lady-a-memorable-snl-character
 ---
 
 &nbsp;

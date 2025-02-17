@@ -29,12 +29,6 @@ related_article1:
         How can researchers enhance learning and knowledge sharing in mixed methods research?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-researchers-enhance-learning-and-knowledge-sharing-in-mixed-methods-research
-related_article2:
-    id: 102502
-    title: >-
-        How does mixed methods research aid in the interpretation of patient-reported outcomes?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-mixed-methods-research-aid-in-the-interpretation-of-patientreported-outcomes
 ---
 
 &nbsp;

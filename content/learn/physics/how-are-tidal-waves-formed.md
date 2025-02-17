@@ -24,18 +24,12 @@ file_name: how-are-tidal-waves-formed.md
 url: /learn/physics/questions/how-are-tidal-waves-formed
 score: -1.0
 related_article1:
-    id: 119336
-    title: >-
-        What is the tidal generating force?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-tidal-generating-force
-related_article2:
     id: 119332
     title: >-
         Can you explain the Equilibrium Theory of Tides?
     subject: Physics
     url: /learn/physics/questions/can-you-explain-the-equilibrium-theory-of-tides
-related_article3:
+related_article2:
     id: 119350
     title: >-
         How is tidal energy harnessed and what are its benefits?

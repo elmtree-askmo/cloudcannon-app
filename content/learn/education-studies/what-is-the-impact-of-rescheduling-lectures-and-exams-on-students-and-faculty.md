@@ -24,17 +24,17 @@ file_name: what-is-the-impact-of-rescheduling-lectures-and-exams-on-students-and
 url: /learn/education-studies/questions/what-is-the-impact-of-rescheduling-lectures-and-exams-on-students-and-faculty
 score: -1.0
 related_article1:
-    id: 118405
-    title: >-
-        How do capital markets facilitate economic growth?
-    subject: Economics
-    url: /learn/economics/questions/how-do-capital-markets-facilitate-economic-growth
-related_article2:
     id: 118386
     title: >-
         How do currency and monetary policy affect global financial stability?
     subject: Economics
     url: /learn/economics/questions/how-do-currency-and-monetary-policy-affect-global-financial-stability
+related_article2:
+    id: 118405
+    title: >-
+        How do capital markets facilitate economic growth?
+    subject: Economics
+    url: /learn/economics/questions/how-do-capital-markets-facilitate-economic-growth
 ---
 
 &nbsp;

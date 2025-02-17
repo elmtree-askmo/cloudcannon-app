@@ -24,23 +24,29 @@ file_name: what-are-the-defining-characteristics-of-quasiexperiments-in-psycholo
 url: /learn/psychology/questions/what-are-the-defining-characteristics-of-quasiexperiments-in-psychological-research
 score: -1.0
 related_article1:
-    id: 123699
+    id: 123680
     title: >-
-        What role do institutional review boards (IRBs) play in ensuring ethical research practices?
+        What were the main findings of Piliavin's Subway Experiment and how did it contribute to our understanding of human behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-do-institutional-review-boards-irbs-play-in-ensuring-ethical-research-practices
+    url: /learn/psychology/questions/what-were-the-main-findings-of-piliavins-subway-experiment-and-how-did-it-contribute-to-our-understanding-of-human-behavior
 related_article2:
-    id: 123698
-    title: >-
-        How do ethical guidelines differ for experiments involving human participants versus animal subjects?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-ethical-guidelines-differ-for-experiments-involving-human-participants-versus-animal-subjects
-related_article3:
     id: 123706
     title: >-
         How do researchers address issues of consent and confidentiality in psychological studies?
     subject: Psychology
     url: /learn/psychology/questions/how-do-researchers-address-issues-of-consent-and-confidentiality-in-psychological-studies
+related_article3:
+    id: 123685
+    title: >-
+        How do natural experiments differ from other types of experiments in psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-natural-experiments-differ-from-other-types-of-experiments-in-psychology
+related_article4:
+    id: 123700
+    title: >-
+        How can researchers mitigate potential biases in psychological experiments?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-researchers-mitigate-potential-biases-in-psychological-experiments
 ---
 
 &nbsp;

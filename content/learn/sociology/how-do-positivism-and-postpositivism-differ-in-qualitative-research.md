@@ -24,17 +24,17 @@ file_name: how-do-positivism-and-postpositivism-differ-in-qualitative-research.m
 url: /learn/sociology/questions/how-do-positivism-and-postpositivism-differ-in-qualitative-research
 score: -1.0
 related_article1:
-    id: 94440
-    title: >-
-        What strategies can be used to address researcher bias?
-    subject: Sociology
-    url: /learn/sociology/questions/what-strategies-can-be-used-to-address-researcher-bias
-related_article2:
     id: 94426
     title: >-
         How does reflexivity contribute to qualitative research?
     subject: Sociology
     url: /learn/sociology/questions/how-does-reflexivity-contribute-to-qualitative-research
+related_article2:
+    id: 94440
+    title: >-
+        What strategies can be used to address researcher bias?
+    subject: Sociology
+    url: /learn/sociology/questions/what-strategies-can-be-used-to-address-researcher-bias
 ---
 
 &nbsp;

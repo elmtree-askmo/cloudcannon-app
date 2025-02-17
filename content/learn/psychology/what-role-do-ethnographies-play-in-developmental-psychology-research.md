@@ -24,35 +24,35 @@ file_name: what-role-do-ethnographies-play-in-developmental-psychology-research.
 url: /learn/psychology/questions/what-role-do-ethnographies-play-in-developmental-psychology-research
 score: -1.0
 related_article1:
-    id: 121402
+    id: 121386
     title: >-
-        What is sequential design in the context of developmental psychology research?
+        What are the key biological influences on human development?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-sequential-design-in-the-context-of-developmental-psychology-research
+    url: /learn/psychology/questions/what-are-the-key-biological-influences-on-human-development
 related_article2:
-    id: 121389
-    title: >-
-        What is the difference between continuity and discontinuity in human development?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-difference-between-continuity-and-discontinuity-in-human-development
-related_article3:
-    id: 121396
-    title: >-
-        What are on-time and off-time events in human development?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-ontime-and-offtime-events-in-human-development
-related_article4:
     id: 121398
     title: >-
         What is the lifespan perspective in developmental psychology?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-lifespan-perspective-in-developmental-psychology
-related_article5:
-    id: 121399
+related_article3:
+    id: 121392
     title: >-
-        Can you explain Bronfenbrenner’s Ecological Systems Theory?
+        What are normative history-graded changes and how do they impact development?
     subject: Psychology
-    url: /learn/psychology/questions/can-you-explain-bronfenbrenners-ecological-systems-theory
+    url: /learn/psychology/questions/what-are-normative-historygraded-changes-and-how-do-they-impact-development
+related_article4:
+    id: 121395
+    title: >-
+        How is atypical development defined and studied?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-atypical-development-defined-and-studied
+related_article5:
+    id: 121410
+    title: >-
+        How do researchers address biases in developmental psychology studies?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-researchers-address-biases-in-developmental-psychology-studies
 ---
 
 &nbsp;

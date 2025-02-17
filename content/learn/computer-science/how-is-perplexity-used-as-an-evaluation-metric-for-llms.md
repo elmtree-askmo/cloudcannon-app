@@ -24,35 +24,29 @@ file_name: how-is-perplexity-used-as-an-evaluation-metric-for-llms.md
 url: /learn/computer-science/questions/how-is-perplexity-used-as-an-evaluation-metric-for-llms
 score: -1.0
 related_article1:
-    id: 97115
+    id: 97127
     title: >-
-        How do training algorithms and loss functions impact the performance of LLMs?
+        What systems are necessary for effective pretraining of LLMs?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-training-algorithms-and-loss-functions-impact-the-performance-of-llms
+    url: /learn/computer-science/questions/what-systems-are-necessary-for-effective-pretraining-of-llms
 related_article2:
-    id: 97133
-    title: >-
-        How is human evaluation conducted for LLMs?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-is-human-evaluation-conducted-for-llms
-related_article3:
     id: 97140
     title: >-
         What is the importance of low precision in LLM systems?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-importance-of-low-precision-in-llm-systems
+related_article3:
+    id: 97133
+    title: >-
+        How is human evaluation conducted for LLMs?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-is-human-evaluation-conducted-for-llms
 related_article4:
-    id: 97120
+    id: 97136
     title: >-
-        How is the task of predicting the next word implemented in autoregressive models?
+        How do scaling laws influence data collection strategies?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-the-task-of-predicting-the-next-word-implemented-in-autoregressive-models
-related_article5:
-    id: 97137
-    title: >-
-        What are some examples of scaling laws in machine learning?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-examples-of-scaling-laws-in-machine-learning
+    url: /learn/computer-science/questions/how-do-scaling-laws-influence-data-collection-strategies
 ---
 
 &nbsp;

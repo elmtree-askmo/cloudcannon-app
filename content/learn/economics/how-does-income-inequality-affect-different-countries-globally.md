@@ -35,12 +35,6 @@ related_article2:
         How does the flag of Puerto Rico differ from other flags in the region?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-does-the-flag-of-puerto-rico-differ-from-other-flags-in-the-region
-related_article3:
-    id: 96516
-    title: >-
-        How do poverty levels vary between different countries?
-    subject: Economics
-    url: /learn/economics/questions/how-do-poverty-levels-vary-between-different-countries
 ---
 
 &nbsp;

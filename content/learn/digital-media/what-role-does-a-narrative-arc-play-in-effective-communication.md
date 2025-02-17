@@ -24,35 +24,35 @@ file_name: what-role-does-a-narrative-arc-play-in-effective-communication.md
 url: /learn/digital-media/questions/what-role-does-a-narrative-arc-play-in-effective-communication
 score: -1.0
 related_article1:
-    id: 120708
+    id: 120700
     title: >-
-        What are some methods to ensure emotional engagement in storytelling?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-are-some-methods-to-ensure-emotional-engagement-in-storytelling
+        What is the 'Rags to Riches' narrative, and how is it applied?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-is-the-rags-to-riches-narrative-and-how-is-it-applied
 related_article2:
-    id: 120715
+    id: 120710
     title: >-
-        What are some techniques to maintain audience interest throughout a story?
+        What are some common pitfalls to avoid when shaping information into a story?
     subject: Digital Media
-    url: /learn/digital-media/questions/what-are-some-techniques-to-maintain-audience-interest-throughout-a-story
+    url: /learn/digital-media/questions/what-are-some-common-pitfalls-to-avoid-when-shaping-information-into-a-story
 related_article3:
-    id: 120697
+    id: 120711
     title: >-
-        Can you explain the Four C’s: Context, Conflict, Climax, Closure?
+        How can one balance creativity and structure in storytelling?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/can-you-explain-the-four-cs-context-conflict-climax-closure
+    url: /learn/art-history-and-literature/questions/how-can-one-balance-creativity-and-structure-in-storytelling
 related_article4:
-    id: 120707
+    id: 120691
     title: >-
-        How can one craft a compelling story arc that resonates with the audience?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-can-one-craft-a-compelling-story-arc-that-resonates-with-the-audience
-related_article5:
-    id: 120713
-    title: >-
-        What are some examples of successful stories that use the top-down approach?
+        How does sequencing information impact the effectiveness of a story?
     subject: Digital Media
-    url: /learn/digital-media/questions/what-are-some-examples-of-successful-stories-that-use-the-topdown-approach
+    url: /learn/digital-media/questions/how-does-sequencing-information-impact-the-effectiveness-of-a-story
+related_article5:
+    id: 120690
+    title: >-
+        What is the significance of a story arc in storytelling?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-is-the-significance-of-a-story-arc-in-storytelling
 ---
 
 &nbsp;

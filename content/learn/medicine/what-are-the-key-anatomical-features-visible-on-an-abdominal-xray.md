@@ -24,29 +24,29 @@ file_name: what-are-the-key-anatomical-features-visible-on-an-abdominal-xray.md
 url: /learn/medicine/questions/what-are-the-key-anatomical-features-visible-on-an-abdominal-xray
 score: -1.0
 related_article1:
-    id: 118144
+    id: 118168
     title: >-
-        What is a barium meal and when is it used?
+        What specific roles does MRI play in diagnosing GI disorders?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-a-barium-meal-and-when-is-it-used
+    url: /learn/medicine/questions/what-specific-roles-does-mri-play-in-diagnosing-gi-disorders
 related_article2:
-    id: 118141
-    title: >-
-        How do plain films contribute to GI radiology?
-    subject: Medicine
-    url: /learn/medicine/questions/how-do-plain-films-contribute-to-gi-radiology
-related_article3:
     id: 118147
     title: >-
         How does computed tomography (CT) enhance GI imaging?
     subject: Medicine
     url: /learn/medicine/questions/how-does-computed-tomography-ct-enhance-gi-imaging
-related_article4:
-    id: 118149
+related_article3:
+    id: 118162
     title: >-
-        In what scenarios is ultrasound preferred for GI imaging?
+        What is the significance of nasogastric tube positioning in radiology?
     subject: Medicine
-    url: /learn/medicine/questions/in-what-scenarios-is-ultrasound-preferred-for-gi-imaging
+    url: /learn/medicine/questions/what-is-the-significance-of-nasogastric-tube-positioning-in-radiology
+related_article4:
+    id: 118167
+    title: >-
+        When is ultrasound the preferred imaging modality for GI issues?
+    subject: Medicine
+    url: /learn/medicine/questions/when-is-ultrasound-the-preferred-imaging-modality-for-gi-issues
 ---
 
 &nbsp;

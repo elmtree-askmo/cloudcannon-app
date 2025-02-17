@@ -24,35 +24,35 @@ file_name: how-do-imaging-modalities-impact-the-prognosis-of-patients-with-habit
 url: /learn/medicine/questions/how-do-imaging-modalities-impact-the-prognosis-of-patients-with-habitability-disorders
 score: -1.0
 related_article1:
-    id: 118198
+    id: 118174
     title: >-
-        What are the ethical considerations in using imaging modalities for habitability disorders?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-ethical-considerations-in-using-imaging-modalities-for-habitability-disorders
+        How are gallstones detected using abdominal X-rays?
+    subject: Medicine
+    url: /learn/medicine/questions/how-are-gallstones-detected-using-abdominal-xrays
 related_article2:
+    id: 118196
+    title: >-
+        What are the cost implications of using different imaging modalities for habitability disorders?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-cost-implications-of-using-different-imaging-modalities-for-habitability-disorders
+related_article3:
+    id: 118183
+    title: >-
+        What are the signs of dilated intrahepatic ducts in radiological imaging?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-signs-of-dilated-intrahepatic-ducts-in-radiological-imaging
+related_article4:
+    id: 118172
+    title: >-
+        What are the primary roles and limitations of abdominal X-rays in habitability diseases?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-primary-roles-and-limitations-of-abdominal-xrays-in-habitability-diseases
+related_article5:
     id: 118190
     title: >-
         What are the common post-surgical artifacts that impede ultrasound visualization?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-common-postsurgical-artifacts-that-impede-ultrasound-visualization
-related_article3:
-    id: 118171
-    title: >-
-        How does an abdominal X-ray work in diagnosing habitability diseases?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-an-abdominal-xray-work-in-diagnosing-habitability-diseases
-related_article4:
-    id: 118195
-    title: >-
-        How do imaging modalities contribute to the management and treatment planning of habitability diseases?
-    subject: Medicine
-    url: /learn/medicine/questions/how-do-imaging-modalities-contribute-to-the-management-and-treatment-planning-of-habitability-diseases
-related_article5:
-    id: 118184
-    title: >-
-        What are the radiological features of pancreatic head mass and chronic pancreatitis?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-radiological-features-of-pancreatic-head-mass-and-chronic-pancreatitis
 ---
 
 &nbsp;

@@ -24,35 +24,23 @@ file_name: what-were-the-wage-comparisons-between-industrial-workers-in-britain-
 url: /learn/history-of-the-world/questions/what-were-the-wage-comparisons-between-industrial-workers-in-britain-and-other-countries-during-the-industrial-revolution
 score: -1.0
 related_article1:
+    id: 123027
+    title: >-
+        What arguments exist regarding European cultural superiority during the Industrial Revolution?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-arguments-exist-regarding-european-cultural-superiority-during-the-industrial-revolution
+related_article2:
     id: 123032
     title: >-
         How did the development of the steam engine affect transportation and industry?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-the-development-of-the-steam-engine-affect-transportation-and-industry
-related_article2:
-    id: 123017
-    title: >-
-        How did the British textile industry evolve during the Industrial Revolution?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-british-textile-industry-evolve-during-the-industrial-revolution
 related_article3:
-    id: 123044
-    title: >-
-        How did the Industrial Revolution affect global power dynamics?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-industrial-revolution-affect-global-power-dynamics
-related_article4:
     id: 123039
     title: >-
         What were the major shifts in global trade routes due to industrialization?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-the-major-shifts-in-global-trade-routes-due-to-industrialization
-related_article5:
-    id: 123031
-    title: >-
-        What were the social and economic impacts of the British textile industry's innovations?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-social-and-economic-impacts-of-the-british-textile-industrys-innovations
 ---
 
 &nbsp;

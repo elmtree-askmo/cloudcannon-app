@@ -24,17 +24,23 @@ file_name: what-are-the-main-concerns-regarding-police-misconduct-and-due-proces
 url: /learn/criminal-or-civil-law/questions/what-are-the-main-concerns-regarding-police-misconduct-and-due-process-in-the-context-of-gun-rights
 score: -1.0
 related_article1:
-    id: 122166
-    title: >-
-        How did the Brady Handgun Violence Prevention Act (1993) impact gun rights and regulations?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-did-the-brady-handgun-violence-prevention-act-1993-impact-gun-rights-and-regulations
-related_article2:
     id: 122164
     title: >-
         How has the interpretation of the 2nd Amendment evolved over time?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/how-has-the-interpretation-of-the-2nd-amendment-evolved-over-time
+related_article2:
+    id: 122166
+    title: >-
+        How did the Brady Handgun Violence Prevention Act (1993) impact gun rights and regulations?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-did-the-brady-handgun-violence-prevention-act-1993-impact-gun-rights-and-regulations
+related_article3:
+    id: 122170
+    title: >-
+        What were the outcomes of the US v. Dorosan and US v. Rene cases?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-were-the-outcomes-of-the-us-v-dorosan-and-us-v-rene-cases
 ---
 
 &nbsp;

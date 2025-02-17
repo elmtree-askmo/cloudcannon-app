@@ -24,35 +24,29 @@ file_name: what-western-techniques-have-been-assimilated-into-filipino-music.md
 url: /learn/art-history-and-literature/questions/what-western-techniques-have-been-assimilated-into-filipino-music
 score: -1.0
 related_article1:
-    id: 116108
-    title: >-
-        What are some notable works of Lucio San Pedro?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-lucio-san-pedro
-related_article2:
     id: 116117
     title: >-
         What contributions have National Artists for Music made to Philippine music?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-contributions-have-national-artists-for-music-made-to-philippine-music
+related_article2:
+    id: 116100
+    title: >-
+        What are some notable works of Hilarion Rubio?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-hilarion-rubio
 related_article3:
-    id: 116096
+    id: 116106
     title: >-
-        What are some notable works of Nicanor Abelardo?
+        What are some notable works of Felipe Padilla de Leon Sr.?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-nicanor-abelardo
+    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-felipe-padilla-de-leon-sr
 related_article4:
-    id: 116104
+    id: 116110
     title: >-
-        What are some notable works of Rodulfo S. Cornejo?
+        What are some notable works of Rosendo E. Santos Jr.?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-rodulfo-s-cornejo
-related_article5:
-    id: 116092
-    title: >-
-        What are some notable works of Francisco Buen Camino Sr.?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-francisco-buen-camino-sr
+    url: /learn/art-history-and-literature/questions/what-are-some-notable-works-of-rosendo-e-santos-jr
 ---
 
 &nbsp;

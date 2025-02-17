@@ -24,35 +24,35 @@ file_name: what-is-newtons-law-of-gravitation-and-how-is-it-mathematically-formu
 url: /learn/physics/questions/what-is-newtons-law-of-gravitation-and-how-is-it-mathematically-formulated
 score: -1.0
 related_article1:
+    id: 123797
+    title: >-
+        What was the Babylonian method in physics and how did it influence modern science?
+    subject: Physics
+    url: /learn/physics/questions/what-was-the-babylonian-method-in-physics-and-how-did-it-influence-modern-science
+related_article2:
+    id: 123812
+    title: >-
+        What are some examples of fundamental principles in physics that lead to consequential statements?
+    subject: Physics
+    url: /learn/physics/questions/what-are-some-examples-of-fundamental-principles-in-physics-that-lead-to-consequential-statements
+related_article3:
+    id: 123813
+    title: >-
+        How does the Euclidean method differ from other mathematical approaches in physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-euclidean-method-differ-from-other-mathematical-approaches-in-physics
+related_article4:
     id: 123817
     title: >-
         How does the minimum principle relate to optimization problems in physics?
     subject: Physics
     url: /learn/physics/questions/how-does-the-minimum-principle-relate-to-optimization-problems-in-physics
-related_article2:
-    id: 123790
-    title: >-
-        Can you explain Faraday's Law and its significance in physics?
-    subject: Physics
-    url: /learn/physics/questions/can-you-explain-faradays-law-and-its-significance-in-physics
-related_article3:
-    id: 123794
-    title: >-
-        How has modern mathematical notation evolved to aid in the understanding of physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-to-aid-in-the-understanding-of-physics
-related_article4:
-    id: 123816
-    title: >-
-        What are the challenges in using the local field method in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-are-the-challenges-in-using-the-local-field-method-in-physics
 related_article5:
-    id: 123793
+    id: 123803
     title: >-
-        What is the relationship between force and equal areas in physics?
+        Can you explain the minimum principle and its role in physics?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-relationship-between-force-and-equal-areas-in-physics
+    url: /learn/physics/questions/can-you-explain-the-minimum-principle-and-its-role-in-physics
 ---
 
 &nbsp;

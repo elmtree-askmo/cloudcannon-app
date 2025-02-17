@@ -24,35 +24,35 @@ file_name: what-is-a-sensitive-period-in-the-context-of-human-development.md
 url: /learn/psychology/questions/what-is-a-sensitive-period-in-the-context-of-human-development
 score: -1.0
 related_article1:
-    id: 121385
+    id: 121402
     title: >-
-        How are the domains of human development categorized?
+        What is sequential design in the context of developmental psychology research?
     subject: Psychology
-    url: /learn/psychology/questions/how-are-the-domains-of-human-development-categorized
+    url: /learn/psychology/questions/what-is-sequential-design-in-the-context-of-developmental-psychology-research
 related_article2:
-    id: 121409
+    id: 121413
     title: >-
-        What are the latest trends in research methodology in developmental psychology?
+        What are the ethical considerations in studying sensitive periods and atypical development?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-latest-trends-in-research-methodology-in-developmental-psychology
+    url: /learn/psychology/questions/what-are-the-ethical-considerations-in-studying-sensitive-periods-and-atypical-development
 related_article3:
-    id: 121395
+    id: 121404
     title: >-
-        How is atypical development defined and studied?
+        What role do ethnographies play in developmental psychology research?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-atypical-development-defined-and-studied
+    url: /learn/psychology/questions/what-role-do-ethnographies-play-in-developmental-psychology-research
 related_article4:
-    id: 121408
+    id: 121405
     title: >-
-        How is assessment typically conducted in a developmental psychology course?
+        What are the challenges of conducting cross-cultural research in developmental psychology?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-assessment-typically-conducted-in-a-developmental-psychology-course
+    url: /learn/psychology/questions/what-are-the-challenges-of-conducting-crosscultural-research-in-developmental-psychology
 related_article5:
-    id: 121384
+    id: 121391
     title: >-
-        What are the main periods of human development?
+        How do normative age-graded changes affect human development?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-periods-of-human-development
+    url: /learn/psychology/questions/how-do-normative-agegraded-changes-affect-human-development
 ---
 
 &nbsp;

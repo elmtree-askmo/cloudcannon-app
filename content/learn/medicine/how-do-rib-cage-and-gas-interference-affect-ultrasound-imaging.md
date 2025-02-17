@@ -24,29 +24,35 @@ file_name: how-do-rib-cage-and-gas-interference-affect-ultrasound-imaging.md
 url: /learn/medicine/questions/how-do-rib-cage-and-gas-interference-affect-ultrasound-imaging
 score: -1.0
 related_article1:
-    id: 118198
+    id: 118186
     title: >-
-        What are the ethical considerations in using imaging modalities for habitability disorders?
+        What information can be obtained from hepatic vein Doppler ultrasound?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-ethical-considerations-in-using-imaging-modalities-for-habitability-disorders
+    url: /learn/health-studies/questions/what-information-can-be-obtained-from-hepatic-vein-doppler-ultrasound
 related_article2:
-    id: 118181
+    id: 118180
     title: >-
-        What are the radiological features of common habitability disorders affecting the gallbladder and biliary tree?
+        How effective is ultrasound in detecting focal liver lesions?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-radiological-features-of-common-habitability-disorders-affecting-the-gallbladder-and-biliary-tree
+    url: /learn/medicine/questions/how-effective-is-ultrasound-in-detecting-focal-liver-lesions
 related_article3:
-    id: 118194
+    id: 118191
     title: >-
-        What training is required for radiologists to specialize in habitability disorders?
-    subject: Medicine
-    url: /learn/medicine/questions/what-training-is-required-for-radiologists-to-specialize-in-habitability-disorders
+        How do imaging modalities differ in their application to habitability systems compared to other medical fields?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-imaging-modalities-differ-in-their-application-to-habitability-systems-compared-to-other-medical-fields
 related_article4:
     id: 118196
     title: >-
         What are the cost implications of using different imaging modalities for habitability disorders?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-cost-implications-of-using-different-imaging-modalities-for-habitability-disorders
+related_article5:
+    id: 118195
+    title: >-
+        How do imaging modalities contribute to the management and treatment planning of habitability diseases?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-imaging-modalities-contribute-to-the-management-and-treatment-planning-of-habitability-diseases
 ---
 
 &nbsp;

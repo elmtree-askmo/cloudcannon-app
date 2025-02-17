@@ -24,29 +24,23 @@ file_name: what-are-the-most-popular-notetaking-methods-among-students.md
 url: /learn/education-studies/questions/what-are-the-most-popular-notetaking-methods-among-students
 score: -1.0
 related_article1:
-    id: 98704
-    title: >-
-        How can review sessions be structured to reinforce lecture material?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-review-sessions-be-structured-to-reinforce-lecture-material
-related_article2:
-    id: 98703
-    title: >-
-        What are some effective summarization methods for lecture content?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-effective-summarization-methods-for-lecture-content
-related_article3:
     id: 98687
     title: >-
         What are the key components of an effective lecture introduction?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-key-components-of-an-effective-lecture-introduction
-related_article4:
+related_article2:
     id: 98700
     title: >-
         How can students effectively utilize online databases for research?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-students-effectively-utilize-online-databases-for-research
+related_article3:
+    id: 98688
+    title: >-
+        How can a lecturer structure the main content to maximize understanding?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-a-lecturer-structure-the-main-content-to-maximize-understanding
 ---
 
 &nbsp;

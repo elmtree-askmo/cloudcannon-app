@@ -24,35 +24,35 @@ file_name: what-are-the-common-pricing-objectives-companies-pursue.md
 url: /learn/business-and-management/questions/what-are-the-common-pricing-objectives-companies-pursue
 score: -1.0
 related_article1:
-    id: 110235
+    id: 110207
     title: >-
-        How do companies integrate advertising and sales force efforts?
+        What are the core concepts of marketing?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-do-companies-integrate-advertising-and-sales-force-efforts
+    url: /learn/business-and-management/questions/what-are-the-core-concepts-of-marketing
 related_article2:
+    id: 110225
+    title: >-
+        How does technology influence the marketing process today?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-does-technology-influence-the-marketing-process-today
+related_article3:
+    id: 110229
+    title: >-
+        How do companies measure the effectiveness of their marketing mix?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-do-companies-measure-the-effectiveness-of-their-marketing-mix
+related_article4:
     id: 110232
     title: >-
         What are the emerging trends in marketing channels?
     subject: Business and Management
     url: /learn/business-and-management/questions/what-are-the-emerging-trends-in-marketing-channels
-related_article3:
-    id: 110231
-    title: >-
-        How do companies ensure their pricing strategies align with their overall business objectives?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-do-companies-ensure-their-pricing-strategies-align-with-their-overall-business-objectives
-related_article4:
-    id: 110230
-    title: >-
-        What are the advantages and disadvantages of different pricing methods?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-advantages-and-disadvantages-of-different-pricing-methods
 related_article5:
-    id: 110224
+    id: 110234
     title: >-
-        What are the latest trends in marketing that are impacting buyer behavior?
+        What are the most effective promotional strategies in today's market?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-latest-trends-in-marketing-that-are-impacting-buyer-behavior
+    url: /learn/business-and-management/questions/what-are-the-most-effective-promotional-strategies-in-todays-market
 ---
 
 &nbsp;

@@ -24,35 +24,29 @@ file_name: what-is-the-role-of-dead-states-in-dfa-design.md
 url: /learn/computer-science/questions/what-is-the-role-of-dead-states-in-dfa-design
 score: -1.0
 related_article1:
-    id: 98937
+    id: 98915
     title: >-
-        How does Automata Theory help in understanding computational processes?
+        Can you explain the Man, Wolf, Goat, and Cabbage problem as an example of a Finite State Machine?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-automata-theory-help-in-understanding-computational-processes
+    url: /learn/computer-science/questions/can-you-explain-the-man-wolf-goat-and-cabbage-problem-as-an-example-of-a-finite-state-machine
 related_article2:
-    id: 98925
+    id: 98927
     title: >-
-        How is Automata Theory applied in the development of compilers?
+        How does Automata Theory influence programming languages and artificial intelligence?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-automata-theory-applied-in-the-development-of-compilers
+    url: /learn/computer-science/questions/how-does-automata-theory-influence-programming-languages-and-artificial-intelligence
 related_article3:
-    id: 98939
-    title: >-
-        How do transition tables aid in the visualization and understanding of DFA?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-transition-tables-aid-in-the-visualization-and-understanding-of-dfa
-related_article4:
     id: 98924
     title: >-
         What are some real-world applications of Automata Theory in text processing?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-some-realworld-applications-of-automata-theory-in-text-processing
-related_article5:
-    id: 98916
+related_article4:
+    id: 98914
     title: >-
-        What are the different types of Finite Automata?
+        What is a Finite State Machine and how does it function?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-different-types-of-finite-automata
+    url: /learn/computer-science/questions/what-is-a-finite-state-machine-and-how-does-it-function
 ---
 
 &nbsp;

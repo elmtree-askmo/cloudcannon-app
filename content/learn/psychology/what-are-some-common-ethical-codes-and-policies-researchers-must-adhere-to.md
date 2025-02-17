@@ -24,35 +24,29 @@ file_name: what-are-some-common-ethical-codes-and-policies-researchers-must-adhe
 url: /learn/psychology/questions/what-are-some-common-ethical-codes-and-policies-researchers-must-adhere-to
 score: -1.0
 related_article1:
-    id: 102719
+    id: 102724
     title: >-
-        How is a hypothesis employed in the research process?
-    subject: Psychology
-    url: /learn/psychology/questions/how-is-a-hypothesis-employed-in-the-research-process
-related_article2:
-    id: 102736
-    title: >-
-        How is research conducted in the Arts and Design field?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-is-research-conducted-in-the-arts-and-design-field
-related_article3:
-    id: 102716
-    title: >-
-        What are the key characteristics that define empirical research?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-characteristics-that-define-empirical-research
-related_article4:
-    id: 102722
-    title: >-
-        What constitutes original work in research?
+        How does reviewing related literature contribute to the research process?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-constitutes-original-work-in-research
-related_article5:
-    id: 102737
+    url: /learn/education-studies/questions/how-does-reviewing-related-literature-contribute-to-the-research-process
+related_article2:
+    id: 102738
     title: >-
-        What role does research play in the Humanities and Social Sciences?
-    subject: Sociology
-    url: /learn/sociology/questions/what-role-does-research-play-in-the-humanities-and-social-sciences
+        How is research applied in the field of sports?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-research-applied-in-the-field-of-sports
+related_article3:
+    id: 102726
+    title: >-
+        How is a research design developed, and what factors are considered?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-is-a-research-design-developed-and-what-factors-are-considered
+related_article4:
+    id: 102739
+    title: >-
+        What are some examples of agricultural research and its impact?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-some-examples-of-agricultural-research-and-its-impact
 ---
 
 &nbsp;

@@ -24,35 +24,29 @@ file_name: how-does-liver-cancer-impact-overall-liver-function.md
 url: /learn/medicine/questions/how-does-liver-cancer-impact-overall-liver-function
 score: -1.0
 related_article1:
-    id: 97049
+    id: 97064
     title: >-
-        What are the most common treatment options for Hepatocellular Carcinoma (HCC)?
+        What are the common symptoms of Metastatic Liver Cancer?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-most-common-treatment-options-for-hepatocellular-carcinoma-hcc
+    url: /learn/medicine/questions/what-are-the-common-symptoms-of-metastatic-liver-cancer
 related_article2:
-    id: 97057
+    id: 97076
     title: >-
-        What is the prevalence of liver cancer in Hong Kong?
+        How does early detection impact the prognosis of liver cancer?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-prevalence-of-liver-cancer-in-hong-kong
+    url: /learn/health-studies/questions/how-does-early-detection-impact-the-prognosis-of-liver-cancer
 related_article3:
-    id: 97050
+    id: 97052
     title: >-
-        What are the key characteristics of Cholangiocarcinoma?
+        What are the common diagnostic methods for Metastatic Liver Cancer?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-key-characteristics-of-cholangiocarcinoma
+    url: /learn/medicine/questions/what-are-the-common-diagnostic-methods-for-metastatic-liver-cancer
 related_article4:
-    id: 97066
+    id: 97070
     title: >-
-        What are the common causes of hepatomegaly?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-common-causes-of-hepatomegaly
-related_article5:
-    id: 97060
-    title: >-
-        How does the etiology of HCC differ from other liver cancers?
+        How does liver cancer management differ in Hong Kong compared to other regions?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-the-etiology-of-hcc-differ-from-other-liver-cancers
+    url: /learn/medicine/questions/how-does-liver-cancer-management-differ-in-hong-kong-compared-to-other-regions
 ---
 
 &nbsp;

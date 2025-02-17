@@ -30,29 +30,17 @@ related_article1:
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-key-features-of-the-place-geometry-manager
 related_article2:
-    id: 119665
+    id: 119657
     title: >-
-        What is the function of the .geometry method in Tkinter?
+        What are the different types of widgets available in Tkinter?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-function-of-the-geometry-method-in-tkinter
+    url: /learn/computer-science/questions/what-are-the-different-types-of-widgets-available-in-tkinter
 related_article3:
-    id: 119667
+    id: 119669
     title: >-
-        What are frames in Tkinter and how are they used?
+        What is the default behavior of the Pack layout manager?
     subject: Digital Media
-    url: /learn/digital-media/questions/what-are-frames-in-tkinter-and-how-are-they-used
-related_article4:
-    id: 119668
-    title: >-
-        How do layout managers like Pack, Grid, and Place differ in Tkinter?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-do-layout-managers-like-pack-grid-and-place-differ-in-tkinter
-related_article5:
-    id: 119679
-    title: >-
-        Can you provide an example of creating a GUI with the place() method?
-    subject: Computer Science
-    url: /learn/computer-science/questions/can-you-provide-an-example-of-creating-a-gui-with-the-place-method
+    url: /learn/digital-media/questions/what-is-the-default-behavior-of-the-pack-layout-manager
 ---
 
 &nbsp;

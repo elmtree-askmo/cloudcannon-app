@@ -24,17 +24,17 @@ file_name: what-are-the-weaknesses-of-qualitative-research.md
 url: /learn/education-studies/questions/what-are-the-weaknesses-of-qualitative-research
 score: -1.0
 related_article1:
-    id: 102764
+    id: 102752
     title: >-
-        How are content and discourse analysis conducted in qualitative research?
+        How does qualitative research provide a detailed examination of a subject?
     subject: Sociology
-    url: /learn/sociology/questions/how-are-content-and-discourse-analysis-conducted-in-qualitative-research
+    url: /learn/sociology/questions/how-does-qualitative-research-provide-a-detailed-examination-of-a-subject
 related_article2:
-    id: 102748
+    id: 102772
     title: >-
-        Why is understanding participant perceptions important in qualitative research?
+        What are the practical applications of qualitative research in social sciences?
     subject: Sociology
-    url: /learn/sociology/questions/why-is-understanding-participant-perceptions-important-in-qualitative-research
+    url: /learn/sociology/questions/what-are-the-practical-applications-of-qualitative-research-in-social-sciences
 related_article3:
     id: 102771
     title: >-
@@ -42,11 +42,11 @@ related_article3:
     subject: Business and Management
     url: /learn/business-and-management/questions/how-is-qualitative-research-used-in-business-settings
 related_article4:
-    id: 102752
+    id: 102764
     title: >-
-        How does qualitative research provide a detailed examination of a subject?
+        How are content and discourse analysis conducted in qualitative research?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-qualitative-research-provide-a-detailed-examination-of-a-subject
+    url: /learn/sociology/questions/how-are-content-and-discourse-analysis-conducted-in-qualitative-research
 ---
 
 &nbsp;

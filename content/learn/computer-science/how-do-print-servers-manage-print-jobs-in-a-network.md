@@ -24,29 +24,35 @@ file_name: how-do-print-servers-manage-print-jobs-in-a-network.md
 url: /learn/computer-science/questions/how-do-print-servers-manage-print-jobs-in-a-network
 score: -1.0
 related_article1:
-    id: 122662
+    id: 122676
     title: >-
-        Can you explain how SCP differs from other file service protocols?
+        What protocols are commonly used in email services?
     subject: Computer Science
-    url: /learn/computer-science/questions/can-you-explain-how-scp-differs-from-other-file-service-protocols
+    url: /learn/computer-science/questions/what-protocols-are-commonly-used-in-email-services
 related_article2:
-    id: 122664
+    id: 122663
     title: >-
-        How does NFS facilitate file sharing in a network environment?
+        What are the key features of SMB/CIFS in file services?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-nfs-facilitate-file-sharing-in-a-network-environment
+    url: /learn/computer-science/questions/what-are-the-key-features-of-smbcifs-in-file-services
 related_article3:
-    id: 122687
+    id: 122679
     title: >-
-        What are the latest trends in network services and protocols?
+        What are the best practices for implementing file services in a network?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-latest-trends-in-network-services-and-protocols
+    url: /learn/computer-science/questions/what-are-the-best-practices-for-implementing-file-services-in-a-network
 related_article4:
-    id: 122672
+    id: 122668
     title: >-
-        How do directory services support network management?
+        How do database management systems (DBMS) support network services?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-directory-services-support-network-management
+    url: /learn/computer-science/questions/how-do-database-management-systems-dbms-support-network-services
+related_article5:
+    id: 122671
+    title: >-
+        What are the potential dangers associated with using stacks in web services?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-potential-dangers-associated-with-using-stacks-in-web-services
 ---
 
 &nbsp;

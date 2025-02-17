@@ -24,35 +24,35 @@ file_name: how-are-eponyms-used-in-branding-and-marketing.md
 url: /learn/business-and-management/questions/how-are-eponyms-used-in-branding-and-marketing
 score: -1.0
 related_article1:
-    id: 111467
+    id: 111489
     title: >-
-        How does morphemic analysis help in understanding language structure?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-morphemic-analysis-help-in-understanding-language-structure
-related_article2:
-    id: 111470
-    title: >-
-        What is the role of affixes in word formation?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-affixes-in-word-formation
-related_article3:
-    id: 111478
-    title: >-
-        What is the historical significance of eponyms in language?
+        What are some famous eponyms in history?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-eponyms-in-language
-related_article4:
-    id: 111484
+    url: /learn/history-of-the-world/questions/what-are-some-famous-eponyms-in-history
+related_article2:
+    id: 111483
     title: >-
-        Can you provide examples of eponyms in medical terminology?
-    subject: Medicine
-    url: /learn/medicine/questions/can-you-provide-examples-of-eponyms-in-medical-terminology
-related_article5:
-    id: 111472
+        How do cultural factors influence the creation of eponyms?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-cultural-factors-influence-the-creation-of-eponyms
+related_article3:
+    id: 111471
     title: >-
-        What are motivating and motivated words in linguistics?
+        How do prefixes and suffixes differ in their function?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-motivating-and-motivated-words-in-linguistics
+    url: /learn/education-studies/questions/how-do-prefixes-and-suffixes-differ-in-their-function
+related_article4:
+    id: 111466
+    title: >-
+        What are the steps involved in morphemic analysis?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-steps-involved-in-morphemic-analysis
+related_article5:
+    id: 111460
+    title: >-
+        What is the definition of a morpheme?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-definition-of-a-morpheme
 ---
 
 &nbsp;

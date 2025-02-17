@@ -24,29 +24,35 @@ file_name: in-what-ways-were-native-hawaiians-politically-disenfranchised-during
 url: /learn/history-of-the-world/questions/in-what-ways-were-native-hawaiians-politically-disenfranchised-during-and-after-colonization
 score: -1.0
 related_article1:
-    id: 104637
+    id: 104628
     title: >-
-        How do social and health issues impact Native Hawaiian communities today?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-social-and-health-issues-impact-native-hawaiian-communities-today
-related_article2:
-    id: 104626
-    title: >-
-        How does language influence identity among Native Hawaiians?
+        How does storytelling play a role in transforming shame within Hawaiian communities?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-language-influence-identity-among-native-hawaiians
+    url: /learn/sociology/questions/how-does-storytelling-play-a-role-in-transforming-shame-within-hawaiian-communities
+related_article2:
+    id: 104624
+    title: >-
+        How are traditional Hawaiian practices being preserved and revitalized today?
+    subject: Sociology
+    url: /learn/sociology/questions/how-are-traditional-hawaiian-practices-being-preserved-and-revitalized-today
 related_article3:
+    id: 104622
+    title: >-
+        How have cultural revitalization efforts been implemented in Hawaii?
+    subject: Sociology
+    url: /learn/sociology/questions/how-have-cultural-revitalization-efforts-been-implemented-in-hawaii
+related_article4:
     id: 104619
     title: >-
         How did the population of Hawaii decline during the colonial period?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-the-population-of-hawaii-decline-during-the-colonial-period
-related_article4:
-    id: 104634
+related_article5:
+    id: 104626
     title: >-
-        How do scholars critique colonial narratives in the context of Hawaii?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-scholars-critique-colonial-narratives-in-the-context-of-hawaii
+        How does language influence identity among Native Hawaiians?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-language-influence-identity-among-native-hawaiians
 ---
 
 &nbsp;

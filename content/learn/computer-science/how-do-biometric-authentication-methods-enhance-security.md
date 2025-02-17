@@ -24,35 +24,35 @@ file_name: how-do-biometric-authentication-methods-enhance-security.md
 url: /learn/computer-science/questions/how-do-biometric-authentication-methods-enhance-security
 score: -1.0
 related_article1:
-    id: 123110
+    id: 123107
     title: >-
-        Why is network security crucial in the modern IT landscape?
+        How does ransomware affect businesses and individuals?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-network-security-crucial-in-the-modern-it-landscape
+    url: /learn/computer-science/questions/how-does-ransomware-affect-businesses-and-individuals
 related_article2:
-    id: 123123
+    id: 123113
     title: >-
-        How can password complexity be enforced in an organization?
+        How do botnets operate and what threats do they pose?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-password-complexity-be-enforced-in-an-organization
+    url: /learn/computer-science/questions/how-do-botnets-operate-and-what-threats-do-they-pose
 related_article3:
-    id: 123112
+    id: 123132
     title: >-
-        Can you explain the concept of backdoors in network security?
+        What are the best practices for network security?
     subject: Computer Science
-    url: /learn/computer-science/questions/can-you-explain-the-concept-of-backdoors-in-network-security
+    url: /learn/computer-science/questions/what-are-the-best-practices-for-network-security
 related_article4:
-    id: 123117
+    id: 123115
     title: >-
-        What are privilege escalation attacks and how can they be mitigated?
+        What are the common causes of data breaches?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-privilege-escalation-attacks-and-how-can-they-be-mitigated
+    url: /learn/computer-science/questions/what-are-the-common-causes-of-data-breaches
 related_article5:
-    id: 123118
+    id: 123120
     title: >-
-        What are the most effective strategies for preventing phishing attacks?
+        What role does physical security play in protecting network infrastructure?
     subject: Digital Media
-    url: /learn/digital-media/questions/what-are-the-most-effective-strategies-for-preventing-phishing-attacks
+    url: /learn/digital-media/questions/what-role-does-physical-security-play-in-protecting-network-infrastructure
 ---
 
 &nbsp;

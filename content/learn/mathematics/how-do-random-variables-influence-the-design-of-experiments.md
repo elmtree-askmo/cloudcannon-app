@@ -24,29 +24,29 @@ file_name: how-do-random-variables-influence-the-design-of-experiments.md
 url: /learn/mathematics/questions/how-do-random-variables-influence-the-design-of-experiments
 score: -1.0
 related_article1:
-    id: 102700
-    title: >-
-        How do random variables relate to probability mass functions and probability density functions?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-random-variables-relate-to-probability-mass-functions-and-probability-density-functions
-related_article2:
-    id: 102693
-    title: >-
-        How can one determine the possible values of a discrete random variable?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-can-one-determine-the-possible-values-of-a-discrete-random-variable
-related_article3:
     id: 102709
     title: >-
         What are the limitations of using random variables in statistical analysis?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-limitations-of-using-random-variables-in-statistical-analysis
-related_article4:
-    id: 102684
+related_article2:
+    id: 102706
     title: >-
-        What is a random variable in the context of probability and statistics?
+        How do random variables relate to stochastic processes?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-a-random-variable-in-the-context-of-probability-and-statistics
+    url: /learn/mathematics/questions/how-do-random-variables-relate-to-stochastic-processes
+related_article3:
+    id: 102691
+    title: >-
+        How are random variables classified in practice?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-random-variables-classified-in-practice
+related_article4:
+    id: 102704
+    title: >-
+        How do statisticians ensure the accuracy of random variable models?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-statisticians-ensure-the-accuracy-of-random-variable-models
 ---
 
 &nbsp;

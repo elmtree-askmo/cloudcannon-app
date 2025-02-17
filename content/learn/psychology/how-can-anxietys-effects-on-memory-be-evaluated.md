@@ -30,11 +30,11 @@ related_article1:
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-are-the-implications-of-the-weapon-focus-effect-for-legal-proceedings
 related_article2:
-    id: 123708
+    id: 123724
     title: >-
-        What are the physiological components of anxiety?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-physiological-components-of-anxiety
+        How does anxiety affect cognitive processes such as attention and perception?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-anxiety-affect-cognitive-processes-such-as-attention-and-perception
 ---
 
 &nbsp;

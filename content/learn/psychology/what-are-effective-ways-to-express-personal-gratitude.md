@@ -24,35 +24,29 @@ file_name: what-are-effective-ways-to-express-personal-gratitude.md
 url: /learn/psychology/questions/what-are-effective-ways-to-express-personal-gratitude
 score: -1.0
 related_article1:
-    id: 95663
+    id: 95676
     title: >-
-        How do collective goals differ from personal goals in terms of future aspirations?
+        How can collective gratitude strengthen community bonds?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-collective-goals-differ-from-personal-goals-in-terms-of-future-aspirations
+    url: /learn/sociology/questions/how-can-collective-gratitude-strengthen-community-bonds
 related_article2:
-    id: 95662
-    title: >-
-        What are some common personal goals people aspire to achieve in the future?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-some-common-personal-goals-people-aspire-to-achieve-in-the-future
-related_article3:
     id: 95670
     title: >-
         What role does reassurance play in helping individuals achieve their goals?
     subject: Psychology
     url: /learn/psychology/questions/what-role-does-reassurance-play-in-helping-individuals-achieve-their-goals
-related_article4:
-    id: 95679
+related_article3:
+    id: 95663
     title: >-
-        What are some effective ways to identify challenges in achieving future aspirations?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-effective-ways-to-identify-challenges-in-achieving-future-aspirations
-related_article5:
-    id: 95677
-    title: >-
-        What are the key elements that contribute to a strong sense of community?
+        How do collective goals differ from personal goals in terms of future aspirations?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-key-elements-that-contribute-to-a-strong-sense-of-community
+    url: /learn/sociology/questions/how-do-collective-goals-differ-from-personal-goals-in-terms-of-future-aspirations
+related_article4:
+    id: 95662
+    title: >-
+        What are some common personal goals people aspire to achieve in the future?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-personal-goals-people-aspire-to-achieve-in-the-future
 ---
 
 &nbsp;

@@ -24,23 +24,23 @@ file_name: how-have-maxwells-equations-influenced-modern-communication-systems.m
 url: /learn/physics/questions/how-have-maxwells-equations-influenced-modern-communication-systems
 score: -1.0
 related_article1:
-    id: 116222
+    id: 116218
     title: >-
-        How does visible light fit into the electromagnetic spectrum?
+        What are the different types of waves in the electromagnetic spectrum?
     subject: Physics
-    url: /learn/physics/questions/how-does-visible-light-fit-into-the-electromagnetic-spectrum
+    url: /learn/physics/questions/what-are-the-different-types-of-waves-in-the-electromagnetic-spectrum
 related_article2:
-    id: 116214
+    id: 116233
     title: >-
-        What are the primary sources of electromagnetic waves?
+        What challenges did Maxwell face in formulating his equations?
     subject: Physics
-    url: /learn/physics/questions/what-are-the-primary-sources-of-electromagnetic-waves
+    url: /learn/physics/questions/what-challenges-did-maxwell-face-in-formulating-his-equations
 related_article3:
-    id: 116223
+    id: 116226
     title: >-
-        What are the effects and uses of ultraviolet rays?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-effects-and-uses-of-ultraviolet-rays
+        How did Maxwell's work lead to the unification of electricity, magnetism, and light?
+    subject: Physics
+    url: /learn/physics/questions/how-did-maxwells-work-lead-to-the-unification-of-electricity-magnetism-and-light
 related_article4:
     id: 116237
     title: >-
@@ -48,11 +48,11 @@ related_article4:
     subject: Physics
     url: /learn/physics/questions/what-are-the-educational-resources-available-for-learning-about-maxwells-equations
 related_article5:
-    id: 116208
+    id: 116230
     title: >-
-        What was the historical context in which Maxwell developed his equations?
+        How have Maxwell's equations contributed to scientific research and exploration?
     subject: Physics
-    url: /learn/physics/questions/what-was-the-historical-context-in-which-maxwell-developed-his-equations
+    url: /learn/physics/questions/how-have-maxwells-equations-contributed-to-scientific-research-and-exploration
 ---
 
 &nbsp;

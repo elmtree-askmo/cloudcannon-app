@@ -24,17 +24,29 @@ file_name: what-are-the-structural-differences-between-small-and-mediumsized-vei
 url: /learn/medicine/questions/what-are-the-structural-differences-between-small-and-mediumsized-veins-and-large-veins
 score: -1.0
 related_article1:
-    id: 123865
+    id: 123873
     title: >-
-        Can you describe the structure and function of the aortic arch and its branches?
+        How do the hepatic and portal systems function in the circulation of blood through the liver?
     subject: Medicine
-    url: /learn/medicine/questions/can-you-describe-the-structure-and-function-of-the-aortic-arch-and-its-branches
+    url: /learn/medicine/questions/how-do-the-hepatic-and-portal-systems-function-in-the-circulation-of-blood-through-the-liver
 related_article2:
-    id: 123849
+    id: 123863
     title: >-
-        What are the main components of the tunica intima, and what is its primary function?
+        How does venous drainage occur through the external and internal jugular veins?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-main-components-of-the-tunica-intima-and-what-is-its-primary-function
+    url: /learn/medicine/questions/how-does-venous-drainage-occur-through-the-external-and-internal-jugular-veins
+related_article3:
+    id: 123874
+    title: >-
+        What is the role of the internal and external iliac arteries in the pelvic arterial system?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-role-of-the-internal-and-external-iliac-arteries-in-the-pelvic-arterial-system
+related_article4:
+    id: 123862
+    title: >-
+        What are the key features of intracranial vessels in terms of their function and structure?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-key-features-of-intracranial-vessels-in-terms-of-their-function-and-structure
 ---
 
 &nbsp;

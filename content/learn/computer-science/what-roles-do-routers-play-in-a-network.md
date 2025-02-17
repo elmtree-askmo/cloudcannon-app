@@ -24,29 +24,35 @@ file_name: what-roles-do-routers-play-in-a-network.md
 url: /learn/computer-science/questions/what-roles-do-routers-play-in-a-network
 score: -1.0
 related_article1:
-    id: 116175
+    id: 116170
     title: >-
-        What are the benefits of using VPNs for secure communication?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-are-the-benefits-of-using-vpns-for-secure-communication
-related_article2:
-    id: 116158
-    title: >-
-        In what scenarios is a ring topology most effective?
+        How does FTP work and what are its common uses?
     subject: Computer Science
-    url: /learn/computer-science/questions/in-what-scenarios-is-a-ring-topology-most-effective
-related_article3:
+    url: /learn/computer-science/questions/how-does-ftp-work-and-what-are-its-common-uses
+related_article2:
     id: 116150
     title: >-
         What are the basic concepts one should understand about networking?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-basic-concepts-one-should-understand-about-networking
-related_article4:
-    id: 116169
+related_article3:
+    id: 116175
     title: >-
-        What are the main functions of HTTP and HTTPS protocols?
+        What are the benefits of using VPNs for secure communication?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-are-the-benefits-of-using-vpns-for-secure-communication
+related_article4:
+    id: 116164
+    title: >-
+        How do access points facilitate wireless networking?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-functions-of-http-and-https-protocols
+    url: /learn/computer-science/questions/how-do-access-points-facilitate-wireless-networking
+related_article5:
+    id: 116159
+    title: >-
+        What are the benefits of using a mesh topology in a network?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-benefits-of-using-a-mesh-topology-in-a-network
 ---
 
 &nbsp;

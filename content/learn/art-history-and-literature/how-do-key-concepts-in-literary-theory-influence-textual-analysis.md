@@ -24,35 +24,29 @@ file_name: how-do-key-concepts-in-literary-theory-influence-textual-analysis.md
 url: /learn/art-history-and-literature/questions/how-do-key-concepts-in-literary-theory-influence-textual-analysis
 score: -1.0
 related_article1:
-    id: 111449
-    title: >-
-        What are some emerging trends in literary theory?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-emerging-trends-in-literary-theory
-related_article2:
-    id: 111440
-    title: >-
-        How are cyclical narratives defined and characterized?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-are-cyclical-narratives-defined-and-characterized
-related_article3:
-    id: 111446
-    title: >-
-        How are theoretical frameworks applied in literary analysis?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-are-theoretical-frameworks-applied-in-literary-analysis
-related_article4:
-    id: 111435
-    title: >-
-        What are the main characteristics of post-colonial narratives?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-main-characteristics-of-postcolonial-narratives
-related_article5:
     id: 111432
     title: >-
         What are the most common techniques used in textual analysis?
     subject: Digital Media
     url: /learn/digital-media/questions/what-are-the-most-common-techniques-used-in-textual-analysis
+related_article2:
+    id: 111444
+    title: >-
+        Why is close reading considered important in literary analysis?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/why-is-close-reading-considered-important-in-literary-analysis
+related_article3:
+    id: 111447
+    title: >-
+        Why is clear argumentation important in literary writing?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/why-is-clear-argumentation-important-in-literary-writing
+related_article4:
+    id: 111449
+    title: >-
+        What are some emerging trends in literary theory?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-some-emerging-trends-in-literary-theory
 ---
 
 &nbsp;

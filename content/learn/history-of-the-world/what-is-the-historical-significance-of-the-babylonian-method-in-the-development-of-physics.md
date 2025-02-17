@@ -24,11 +24,11 @@ file_name: what-is-the-historical-significance-of-the-babylonian-method-in-the-d
 url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-the-babylonian-method-in-the-development-of-physics
 score: -1.0
 related_article1:
-    id: 120495
+    id: 120497
     title: >-
-        What is the significance of force and equal areas in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-significance-of-force-and-equal-areas-in-physics
+        What are the key differences between Babylonian and Greek mathematical traditions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-differences-between-babylonian-and-greek-mathematical-traditions
 related_article2:
     id: 120494
     title: >-
@@ -36,17 +36,17 @@ related_article2:
     subject: Physics
     url: /learn/physics/questions/how-is-mathematical-language-used-in-physics
 related_article3:
-    id: 120503
+    id: 120520
     title: >-
-        What is the local field method in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-local-field-method-in-physics
+        How do historical mathematical traditions influence contemporary physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-historical-mathematical-traditions-influence-contemporary-physics
 related_article4:
-    id: 120493
+    id: 120492
     title: >-
-        Can you explain Newton's Law of Gravitation in mathematical terms?
+        What is Faraday's Law and how does it relate to mathematics?
     subject: Physics
-    url: /learn/physics/questions/can-you-explain-newtons-law-of-gravitation-in-mathematical-terms
+    url: /learn/physics/questions/what-is-faradays-law-and-how-does-it-relate-to-mathematics
 ---
 
 &nbsp;

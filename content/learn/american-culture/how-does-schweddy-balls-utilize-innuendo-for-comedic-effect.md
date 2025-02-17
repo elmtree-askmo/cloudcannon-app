@@ -24,35 +24,35 @@ file_name: how-does-schweddy-balls-utilize-innuendo-for-comedic-effect.md
 url: /learn/american-culture/questions/how-does-schweddy-balls-utilize-innuendo-for-comedic-effect
 score: -1.0
 related_article1:
-    id: 1025
+    id: 1019
     title: >-
-        How does the portrayal of Matt Foley contribute to his iconic status on SNL?
+        What are the key traits of the Spartan Cheerleaders as recurring characters on SNL?
     subject: American Culture
-    url: /learn/american-culture/questions/how-does-the-portrayal-of-matt-foley-contribute-to-his-iconic-status-on-snl
+    url: /learn/american-culture/questions/what-are-the-key-traits-of-the-spartan-cheerleaders-as-recurring-characters-on-snl
 related_article2:
-    id: 1011
+    id: 1022
     title: >-
-        What is notable about Harry Styles' dual role as host and musical guest on SNL?
+        What distinguishes digital shorts from live performances in SNL's sketch formats?
     subject: American Culture
-    url: /learn/american-culture/questions/what-is-notable-about-harry-styles-dual-role-as-host-and-musical-guest-on-snl
+    url: /learn/american-culture/questions/what-distinguishes-digital-shorts-from-live-performances-in-snls-sketch-formats
 related_article3:
-    id: 1005
+    id: 1021
     title: >-
-        What is the comedic technique used in the 'Word Association' sketch?
+        How does 'D*** in a Box' exemplify absurdity in comedy?
     subject: American Culture
-    url: /learn/american-culture/questions/what-is-the-comedic-technique-used-in-the-word-association-sketch
+    url: /learn/american-culture/questions/how-does-d-in-a-box-exemplify-absurdity-in-comedy
 related_article4:
-    id: 1009
+    id: 1023
     title: >-
-        What was significant about The Police's performance of 'Roxanne' on SNL?
+        What elements make the 'Delicious Dish' parody a successful talk show spoof?
     subject: American Culture
-    url: /learn/american-culture/questions/what-was-significant-about-the-polices-performance-of-roxanne-on-snl
+    url: /learn/american-culture/questions/what-elements-make-the-delicious-dish-parody-a-successful-talk-show-spoof
 related_article5:
-    id: 1024
+    id: 1026
     title: >-
-        How does 'Celebrity Jeopardy!' utilize parody to create humor?
+        How did Tina Fey's role as the first female head writer impact SNL's comedy history?
     subject: American Culture
-    url: /learn/american-culture/questions/how-does-celebrity-jeopardy-utilize-parody-to-create-humor
+    url: /learn/american-culture/questions/how-did-tina-feys-role-as-the-first-female-head-writer-impact-snls-comedy-history
 ---
 
 &nbsp;

@@ -24,23 +24,17 @@ file_name: what-is-the-importance-of-multiparty-collaboration-in-educational-set
 url: /learn/education-studies/questions/what-is-the-importance-of-multiparty-collaboration-in-educational-settings
 score: -1.0
 related_article1:
-    id: 124076
+    id: 124059
     title: >-
-        What are the best practices for home-school collaboration?
+        What are the common models of collaboration between schools and institutions?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-best-practices-for-homeschool-collaboration
+    url: /learn/education-studies/questions/what-are-the-common-models-of-collaboration-between-schools-and-institutions
 related_article2:
-    id: 124066
+    id: 124075
     title: >-
-        How is individual guidance for ADHD students typically arranged?
+        How can teacher training be tailored to address the needs of ADHD students?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-individual-guidance-for-adhd-students-typically-arranged
-related_article3:
-    id: 124067
-    title: >-
-        What role do social workers play in schools?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-social-workers-play-in-schools
+    url: /learn/education-studies/questions/how-can-teacher-training-be-tailored-to-address-the-needs-of-adhd-students
 ---
 
 &nbsp;

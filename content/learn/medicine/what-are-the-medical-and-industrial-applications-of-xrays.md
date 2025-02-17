@@ -24,35 +24,29 @@ file_name: what-are-the-medical-and-industrial-applications-of-xrays.md
 url: /learn/medicine/questions/what-are-the-medical-and-industrial-applications-of-xrays
 score: -1.0
 related_article1:
-    id: 116211
+    id: 116223
     title: >-
-        What is the concept of displacement current and why was it introduced by Maxwell?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-concept-of-displacement-current-and-why-was-it-introduced-by-maxwell
+        What are the effects and uses of ultraviolet rays?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-effects-and-uses-of-ultraviolet-rays
 related_article2:
-    id: 116227
+    id: 116228
     title: >-
-        What are some technological applications that have resulted from Maxwell's equations?
+        How have Maxwell's equations influenced modern communication systems?
     subject: Physics
-    url: /learn/physics/questions/what-are-some-technological-applications-that-have-resulted-from-maxwells-equations
+    url: /learn/physics/questions/how-have-maxwells-equations-influenced-modern-communication-systems
 related_article3:
-    id: 116218
-    title: >-
-        What are the different types of waves in the electromagnetic spectrum?
-    subject: Physics
-    url: /learn/physics/questions/what-are-the-different-types-of-waves-in-the-electromagnetic-spectrum
-related_article4:
     id: 116233
     title: >-
         What challenges did Maxwell face in formulating his equations?
     subject: Physics
     url: /learn/physics/questions/what-challenges-did-maxwell-face-in-formulating-his-equations
-related_article5:
-    id: 116209
+related_article4:
+    id: 116231
     title: >-
-        How did Maxwell's work build upon the contributions of previous scientists in the field of electromagnetism?
+        What are some examples of modern technologies that rely on the principles of electromagnetism?
     subject: Physics
-    url: /learn/physics/questions/how-did-maxwells-work-build-upon-the-contributions-of-previous-scientists-in-the-field-of-electromagnetism
+    url: /learn/physics/questions/what-are-some-examples-of-modern-technologies-that-rely-on-the-principles-of-electromagnetism
 ---
 
 &nbsp;

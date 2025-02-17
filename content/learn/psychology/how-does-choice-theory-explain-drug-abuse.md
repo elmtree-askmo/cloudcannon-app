@@ -29,12 +29,6 @@ related_article1:
         What are some examples of subcultural influences on drug abuse?
     subject: Sociology
     url: /learn/sociology/questions/what-are-some-examples-of-subcultural-influences-on-drug-abuse
-related_article2:
-    id: 119115
-    title: >-
-        What are the challenges in studying the causes of drug abuse from a multi-dimensional perspective?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-challenges-in-studying-the-causes-of-drug-abuse-from-a-multidimensional-perspective
 ---
 
 &nbsp;

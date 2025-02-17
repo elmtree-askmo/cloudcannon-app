@@ -24,35 +24,29 @@ file_name: what-are-the-mental-health-needs-of-students-postpandemic.md
 url: /learn/psychology/questions/what-are-the-mental-health-needs-of-students-postpandemic
 score: -1.0
 related_article1:
-    id: 116923
+    id: 116924
     title: >-
-        Why is student well-being more important now than before the pandemic?
+        What role do schools play in ensuring student well-being during the pandemic?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-student-wellbeing-more-important-now-than-before-the-pandemic
+    url: /learn/education-studies/questions/what-role-do-schools-play-in-ensuring-student-wellbeing-during-the-pandemic
 related_article2:
-    id: 116925
+    id: 116942
     title: >-
-        How can psychological support be integrated into the educational system?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-psychological-support-be-integrated-into-the-educational-system
+        How can community resources be leveraged to support student mental health?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-community-resources-be-leveraged-to-support-student-mental-health
 related_article3:
-    id: 116922
+    id: 116935
     title: >-
-        What are the signs of anxiety and depression in students during the pandemic?
+        What are the long-term effects of the pandemic on students' mental health?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-signs-of-anxiety-and-depression-in-students-during-the-pandemic
+    url: /learn/psychology/questions/what-are-the-longterm-effects-of-the-pandemic-on-students-mental-health
 related_article4:
-    id: 116944
+    id: 116943
     title: >-
-        How can schools measure the effectiveness of mental health interventions?
+        What are the ethical considerations in providing psychological support in schools?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-schools-measure-the-effectiveness-of-mental-health-interventions
-related_article5:
-    id: 116946
-    title: >-
-        How can schools create a culture of mental health awareness and support?
-    subject: Psychology
-    url: /learn/psychology/questions/how-can-schools-create-a-culture-of-mental-health-awareness-and-support
+    url: /learn/psychology/questions/what-are-the-ethical-considerations-in-providing-psychological-support-in-schools
 ---
 
 &nbsp;

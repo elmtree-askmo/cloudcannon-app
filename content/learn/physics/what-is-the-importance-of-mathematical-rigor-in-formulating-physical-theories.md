@@ -24,29 +24,29 @@ file_name: what-is-the-importance-of-mathematical-rigor-in-formulating-physical-
 url: /learn/physics/questions/what-is-the-importance-of-mathematical-rigor-in-formulating-physical-theories
 score: -1.0
 related_article1:
-    id: 95618
+    id: 95626
     title: >-
-        How does the law of gravitation demonstrate the relationship between physics and mathematics?
-    subject: Physics
-    url: /learn/physics/questions/how-does-the-law-of-gravitation-demonstrate-the-relationship-between-physics-and-mathematics
-related_article2:
-    id: 95634
-    title: >-
-        How do the principles of conservation, such as angular momentum, relate to mathematical symmetry?
-    subject: Physics
-    url: /learn/physics/questions/how-do-the-principles-of-conservation-such-as-angular-momentum-relate-to-mathematical-symmetry
-related_article3:
-    id: 95624
-    title: >-
-        How do mathematical models help in predicting physical phenomena?
+        How did ancient civilizations contribute to the development of mathematical concepts used in physics?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
-related_article4:
-    id: 95627
+    url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-concepts-used-in-physics
+related_article2:
+    id: 95619
     title: >-
-        What is the historical significance of the Babylonian method in the context of physics?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-the-babylonian-method-in-the-context-of-physics
+        What is the conservation of angular momentum and its mathematical representation?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-conservation-of-angular-momentum-and-its-mathematical-representation
+related_article3:
+    id: 95637
+    title: >-
+        What are the key differences between the Babylonian and Greek approaches to mathematics in physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-differences-between-the-babylonian-and-greek-approaches-to-mathematics-in-physics
+related_article4:
+    id: 95636
+    title: >-
+        How do philosophical perspectives influence the interpretation of mathematical principles in physics?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/how-do-philosophical-perspectives-influence-the-interpretation-of-mathematical-principles-in-physics
 ---
 
 &nbsp;

@@ -24,29 +24,29 @@ file_name: how-do-layout-managers-like-pack-grid-and-place-differ-in-tkinter.md
 url: /learn/digital-media/questions/how-do-layout-managers-like-pack-grid-and-place-differ-in-tkinter
 score: -1.0
 related_article1:
-    id: 119652
+    id: 119672
     title: >-
-        What are the key APIs used for building GUIs?
+        What are the key notes to remember when using the Pack layout manager?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-apis-used-for-building-guis
+    url: /learn/computer-science/questions/what-are-the-key-notes-to-remember-when-using-the-pack-layout-manager
 related_article2:
-    id: 119663
-    title: >-
-        What is the difference between place(), grid(), and pack() in Tkinter?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-place-grid-and-pack-in-tkinter
-related_article3:
     id: 119673
     title: >-
         What are the steps to create a login UI using Tkinter?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-steps-to-create-a-login-ui-using-tkinter
-related_article4:
-    id: 119678
+related_article3:
+    id: 119655
     title: >-
-        What parameters are important when using the Place geometry manager?
+        How do you install Tkinter on different operating systems?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-parameters-are-important-when-using-the-place-geometry-manager
+    url: /learn/computer-science/questions/how-do-you-install-tkinter-on-different-operating-systems
+related_article4:
+    id: 119680
+    title: >-
+        What are the advantages and disadvantages of using the Place geometry manager?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-advantages-and-disadvantages-of-using-the-place-geometry-manager
 ---
 
 &nbsp;

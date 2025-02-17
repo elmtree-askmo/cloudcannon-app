@@ -24,12 +24,6 @@ file_name: how-do-capacitor-current-and-voltage-ripple-affect-the-overall-perfor
 url: /learn/engineering/questions/how-do-capacitor-current-and-voltage-ripple-affect-the-overall-performance-of-buck-converters
 score: -1.0
 related_article1:
-    id: 109300
-    title: >-
-        What are the typical applications of boost converters in power electronics?
-    subject: Engineering
-    url: /learn/engineering/questions/what-are-the-typical-applications-of-boost-converters-in-power-electronics
-related_article2:
     id: 109307
     title: >-
         What are the typical performance metrics used to evaluate boost converters?

@@ -24,29 +24,35 @@ file_name: what-are-the-best-practices-for-physical-protection-of-network-infras
 url: /learn/computer-science/questions/what-are-the-best-practices-for-physical-protection-of-network-infrastructure
 score: -1.0
 related_article1:
-    id: 122276
+    id: 122269
     title: >-
-        Why are login credentials critical in network security?
+        What are the most common types of viruses that affect network security?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-are-login-credentials-critical-in-network-security
+    url: /learn/computer-science/questions/what-are-the-most-common-types-of-viruses-that-affect-network-security
 related_article2:
-    id: 122272
-    title: >-
-        Can you explain the concept of internal threats and how social engineering is used in these scenarios?
-    subject: Computer Science
-    url: /learn/computer-science/questions/can-you-explain-the-concept-of-internal-threats-and-how-social-engineering-is-used-in-these-scenarios
-related_article3:
-    id: 122292
-    title: >-
-        How does secure software development contribute to network security?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-secure-software-development-contribute-to-network-security
-related_article4:
     id: 122297
     title: >-
         How does biometric authentication work and what are its benefits?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-biometric-authentication-work-and-what-are-its-benefits
+related_article3:
+    id: 122280
+    title: >-
+        What strategies are effective against phishing and ransomware attacks?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-strategies-are-effective-against-phishing-and-ransomware-attacks
+related_article4:
+    id: 122271
+    title: >-
+        What is ransomware and how does it typically infiltrate a network?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-is-ransomware-and-how-does-it-typically-infiltrate-a-network
+related_article5:
+    id: 122274
+    title: >-
+        How does access control contribute to network security?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-access-control-contribute-to-network-security
 ---
 
 &nbsp;

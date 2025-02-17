@@ -24,35 +24,35 @@ file_name: how-does-the-granulometry-of-aggregates-influence-the-workability-of-
 url: /learn/engineering/questions/how-does-the-granulometry-of-aggregates-influence-the-workability-of-concrete
 score: -1.0
 related_article1:
-    id: 120406
+    id: 120416
     title: >-
-        How do metamorphic rocks contribute to the mineralogical composition of aggregates?
+        How is laboratory testing of aggregates conducted and what parameters are typically assessed?
     subject: Engineering
-    url: /learn/engineering/questions/how-do-metamorphic-rocks-contribute-to-the-mineralogical-composition-of-aggregates
+    url: /learn/engineering/questions/how-is-laboratory-testing-of-aggregates-conducted-and-what-parameters-are-typically-assessed
 related_article2:
+    id: 120422
+    title: >-
+        What are the best practices for ensuring the quality of aggregates used in construction?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-best-practices-for-ensuring-the-quality-of-aggregates-used-in-construction
+related_article3:
+    id: 120409
+    title: >-
+        How are aggregates classified based on particle size?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-aggregates-classified-based-on-particle-size
+related_article4:
+    id: 120407
+    title: >-
+        In what ways does the mineralogical composition of aggregates influence their mechanical properties?
+    subject: Engineering
+    url: /learn/engineering/questions/in-what-ways-does-the-mineralogical-composition-of-aggregates-influence-their-mechanical-properties
+related_article5:
     id: 120424
     title: >-
         What are the potential environmental impacts of using different types of aggregates?
     subject: Engineering
     url: /learn/engineering/questions/what-are-the-potential-environmental-impacts-of-using-different-types-of-aggregates
-related_article3:
-    id: 120425
-    title: >-
-        How do aggregates from different geological origins compare in terms of performance?
-    subject: Engineering
-    url: /learn/engineering/questions/how-do-aggregates-from-different-geological-origins-compare-in-terms-of-performance
-related_article4:
-    id: 120408
-    title: >-
-        How does the chemical composition of aggregates affect their performance in construction?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-chemical-composition-of-aggregates-affect-their-performance-in-construction
-related_article5:
-    id: 120428
-    title: >-
-        What role do aggregates play in the sustainability of construction materials?
-    subject: Engineering
-    url: /learn/engineering/questions/what-role-do-aggregates-play-in-the-sustainability-of-construction-materials
 ---
 
 &nbsp;

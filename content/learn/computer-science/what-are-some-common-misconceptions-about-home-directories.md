@@ -24,23 +24,35 @@ file_name: what-are-some-common-misconceptions-about-home-directories.md
 url: /learn/computer-science/questions/what-are-some-common-misconceptions-about-home-directories
 score: -1.0
 related_article1:
-    id: 116283
+    id: 116272
     title: >-
-        What role does the home directory play in user-specific settings and configurations?
+        What are the typical use cases for the 'pwd' command?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-role-does-the-home-directory-play-in-userspecific-settings-and-configurations
+    url: /learn/computer-science/questions/what-are-the-typical-use-cases-for-the-pwd-command
 related_article2:
-    id: 116281
+    id: 116276
     title: >-
-        What are the key components of a directory hierarchy?
+        How can understanding directory hierarchies improve computing efficiency?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-components-of-a-directory-hierarchy
+    url: /learn/computer-science/questions/how-can-understanding-directory-hierarchies-improve-computing-efficiency
 related_article3:
+    id: 116288
+    title: >-
+        How does note-taking enhance the learning process in computing courses?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-notetaking-enhance-the-learning-process-in-computing-courses
+related_article4:
     id: 116274
     title: >-
         What are the benefits of interactive learning in computing?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-benefits-of-interactive-learning-in-computing
+related_article5:
+    id: 116281
+    title: >-
+        What are the key components of a directory hierarchy?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-key-components-of-a-directory-hierarchy
 ---
 
 &nbsp;

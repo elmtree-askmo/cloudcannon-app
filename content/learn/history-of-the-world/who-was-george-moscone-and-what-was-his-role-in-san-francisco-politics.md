@@ -24,35 +24,29 @@ file_name: who-was-george-moscone-and-what-was-his-role-in-san-francisco-politic
 url: /learn/history-of-the-world/questions/who-was-george-moscone-and-what-was-his-role-in-san-francisco-politics
 score: -1.0
 related_article1:
-    id: 123834
+    id: 123847
     title: >-
-        How did the assassinations impact San Francisco as a city?
-    subject: Sociology
-    url: /learn/sociology/questions/how-did-the-assassinations-impact-san-francisco-as-a-city
-related_article2:
-    id: 123846
-    title: >-
-        How did the White Night Riot affect the relationship between the LGBTQ+ community and law enforcement?
-    subject: Sociology
-    url: /learn/sociology/questions/how-did-the-white-night-riot-affect-the-relationship-between-the-lgbtq-community-and-law-enforcement
-related_article3:
-    id: 123831
-    title: >-
-        What were the legal proceedings in Dan White's trial?
+        What were the broader societal implications of the "Twinkie Defense" in legal proceedings?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-were-the-legal-proceedings-in-dan-whites-trial
-related_article4:
-    id: 123839
+    url: /learn/criminal-or-civil-law/questions/what-were-the-broader-societal-implications-of-the-twinkie-defense-in-legal-proceedings
+related_article2:
+    id: 123823
     title: >-
-        What were the long-term consequences of the assassinations and the White Night Riot?
-    subject: Sociology
-    url: /learn/sociology/questions/what-were-the-longterm-consequences-of-the-assassinations-and-the-white-night-riot
-related_article5:
-    id: 123842
-    title: >-
-        How did the political tensions in San Francisco contribute to the events leading to the assassinations?
+        Can you describe the day of the assassinations and the sequence of events?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-political-tensions-in-san-francisco-contribute-to-the-events-leading-to-the-assassinations
+    url: /learn/history-of-the-world/questions/can-you-describe-the-day-of-the-assassinations-and-the-sequence-of-events
+related_article3:
+    id: 123828
+    title: >-
+        How did the public react to the assassinations of George Moscone and Harvey Milk?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-public-react-to-the-assassinations-of-george-moscone-and-harvey-milk
+related_article4:
+    id: 123840
+    title: >-
+        How did the LGBTQ+ community in the Castro district react to the events?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-lgbtq-community-in-the-castro-district-react-to-the-events
 ---
 
 &nbsp;

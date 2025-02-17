@@ -24,29 +24,29 @@ file_name: what-contributions-did-babylonian-and-greek-traditions-make-to-mathem
 url: /learn/mathematics/questions/what-contributions-did-babylonian-and-greek-traditions-make-to-mathematics-and-physics
 score: -1.0
 related_article1:
-    id: 124220
-    title: >-
-        What is the conservation of angular momentum and its mathematical representation?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-conservation-of-angular-momentum-and-its-mathematical-representation
-related_article2:
     id: 124226
     title: >-
         What role does calculus play in understanding physical laws?
     subject: Physics
     url: /learn/physics/questions/what-role-does-calculus-play-in-understanding-physical-laws
-related_article3:
+related_article2:
     id: 124229
     title: >-
         How does the Euclidean method differ from other mathematical approaches in physics?
     subject: Mathematics
     url: /learn/mathematics/questions/how-does-the-euclidean-method-differ-from-other-mathematical-approaches-in-physics
-related_article4:
-    id: 124227
+related_article3:
+    id: 124219
     title: >-
-        How did ancient civilizations contribute to the development of mathematical concepts used in physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-concepts-used-in-physics
+        How does the law of gravitation demonstrate the relationship between physics and mathematics?
+    subject: Physics
+    url: /learn/physics/questions/how-does-the-law-of-gravitation-demonstrate-the-relationship-between-physics-and-mathematics
+related_article4:
+    id: 124235
+    title: >-
+        How do the concepts of force and equal areas relate to Kepler's laws?
+    subject: Physics
+    url: /learn/physics/questions/how-do-the-concepts-of-force-and-equal-areas-relate-to-keplers-laws
 ---
 
 &nbsp;

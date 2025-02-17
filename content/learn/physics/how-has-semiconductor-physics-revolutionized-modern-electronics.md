@@ -24,35 +24,35 @@ file_name: how-has-semiconductor-physics-revolutionized-modern-electronics.md
 url: /learn/physics/questions/how-has-semiconductor-physics-revolutionized-modern-electronics
 score: -1.0
 related_article1:
-    id: 116369
+    id: 116364
     title: >-
-        What role do dopants play in the properties of extrinsic semiconductors?
-    subject: Physics
-    url: /learn/physics/questions/what-role-do-dopants-play-in-the-properties-of-extrinsic-semiconductors
+        How are semiconductors classified based on their conductivity?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-semiconductors-classified-based-on-their-conductivity
 related_article2:
-    id: 116358
+    id: 116363
     title: >-
-        What were the main limitations of vacuum tubes that led to the development of solid-state devices?
-    subject: Engineering
-    url: /learn/engineering/questions/what-were-the-main-limitations-of-vacuum-tubes-that-led-to-the-development-of-solidstate-devices
+        What are the fundamental differences between conductors, insulators, and semiconductors?
+    subject: Physics
+    url: /learn/physics/questions/what-are-the-fundamental-differences-between-conductors-insulators-and-semiconductors
 related_article3:
-    id: 116362
+    id: 116378
     title: >-
-        How did World War II influence the development of semiconductor technology?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-world-war-ii-influence-the-development-of-semiconductor-technology
+        What are the challenges faced in the production and development of semiconductor devices?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-challenges-faced-in-the-production-and-development-of-semiconductor-devices
 related_article4:
-    id: 116375
+    id: 116377
     title: >-
-        How do semiconductor materials contribute to the miniaturization of electronic components?
+        How has the development of semiconductor electronics influenced global technological advancement?
     subject: Engineering
-    url: /learn/engineering/questions/how-do-semiconductor-materials-contribute-to-the-miniaturization-of-electronic-components
+    url: /learn/engineering/questions/how-has-the-development-of-semiconductor-electronics-influenced-global-technological-advancement
 related_article5:
-    id: 116387
+    id: 116370
     title: >-
-        How do semiconductor devices impact the design and functionality of modern communication systems?
-    subject: Engineering
-    url: /learn/engineering/questions/how-do-semiconductor-devices-impact-the-design-and-functionality-of-modern-communication-systems
+        What is a p-n junction and why is it fundamental to semiconductor devices?
+    subject: Physics
+    url: /learn/physics/questions/what-is-a-pn-junction-and-why-is-it-fundamental-to-semiconductor-devices
 ---
 
 &nbsp;

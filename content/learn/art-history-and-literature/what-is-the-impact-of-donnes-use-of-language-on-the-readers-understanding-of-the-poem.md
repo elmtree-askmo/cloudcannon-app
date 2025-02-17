@@ -24,29 +24,35 @@ file_name: what-is-the-impact-of-donnes-use-of-language-on-the-readers-understan
 url: /learn/art-history-and-literature/questions/what-is-the-impact-of-donnes-use-of-language-on-the-readers-understanding-of-the-poem
 score: -1.0
 related_article1:
-    id: 110284
+    id: 110268
     title: >-
-        How does the third stanza reinforce the poem's themes?
+        How does Donne use personification in the first stanza of 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-the-third-stanza-reinforce-the-poems-themes
+    url: /learn/art-history-and-literature/questions/how-does-donne-use-personification-in-the-first-stanza-of-the-sun-rising
 related_article2:
-    id: 110286
+    id: 110281
     title: >-
-        How does Donne convey the transcendence of love throughout the poem?
+        What literary devices are used in the third stanza of 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-donne-convey-the-transcendence-of-love-throughout-the-poem
+    url: /learn/art-history-and-literature/questions/what-literary-devices-are-used-in-the-third-stanza-of-the-sun-rising
 related_article3:
-    id: 110292
+    id: 110289
     title: >-
-        How does Donne's metaphysical exploration of love differ from other poets of his time?
+        What is the role of idealization in 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-donnes-metaphysical-exploration-of-love-differ-from-other-poets-of-his-time
+    url: /learn/art-history-and-literature/questions/what-is-the-role-of-idealization-in-the-sun-rising
 related_article4:
-    id: 110273
+    id: 110279
     title: >-
-        What is the main argument presented in the second stanza of 'The Sun Rising'?
+        What is the focus of the third stanza in 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-main-argument-presented-in-the-second-stanza-of-the-sun-rising
+    url: /learn/art-history-and-literature/questions/what-is-the-focus-of-the-third-stanza-in-the-sun-rising
+related_article5:
+    id: 110296
+    title: >-
+        How does 'The Sun Rising' reflect the characteristics of metaphysical poetry?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-does-the-sun-rising-reflect-the-characteristics-of-metaphysical-poetry
 ---
 
 &nbsp;

@@ -24,23 +24,29 @@ file_name: what-are-some-examples-of-b2c-ebusiness-models.md
 url: /learn/business-and-management/questions/what-are-some-examples-of-b2c-ebusiness-models
 score: -1.0
 related_article1:
-    id: 98583
+    id: 98586
     title: >-
-        What are the primary benefits of E-Business in terms of speed?
+        How does E-Business enable global reach for companies?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-primary-benefits-of-ebusiness-in-terms-of-speed
+    url: /learn/business-and-management/questions/how-does-ebusiness-enable-global-reach-for-companies
 related_article2:
+    id: 98577
+    title: >-
+        How does E-Commerce differ from E-Business?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-does-ecommerce-differ-from-ebusiness
+related_article3:
+    id: 98602
+    title: >-
+        What are the environmental impacts of E-Business?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-the-environmental-impacts-of-ebusiness
+related_article4:
     id: 98587
     title: >-
         In what ways does E-Business contribute to a paperless society?
     subject: Business and Management
     url: /learn/business-and-management/questions/in-what-ways-does-ebusiness-contribute-to-a-paperless-society
-related_article3:
-    id: 98581
-    title: >-
-        How does Intra B (Intra Business) function within E-Business?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-does-intra-b-intra-business-function-within-ebusiness
 ---
 
 &nbsp;

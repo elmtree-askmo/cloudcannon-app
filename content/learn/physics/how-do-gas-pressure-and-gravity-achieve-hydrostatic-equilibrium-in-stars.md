@@ -24,29 +24,29 @@ file_name: how-do-gas-pressure-and-gravity-achieve-hydrostatic-equilibrium-in-st
 url: /learn/physics/questions/how-do-gas-pressure-and-gravity-achieve-hydrostatic-equilibrium-in-stars
 score: -1.0
 related_article1:
+    id: 117719
+    title: >-
+        What are the main sequence lifetimes for stars of varying masses?
+    subject: Physics
+    url: /learn/physics/questions/what-are-the-main-sequence-lifetimes-for-stars-of-varying-masses
+related_article2:
     id: 117697
     title: >-
         What are the defining characteristics of brown dwarfs?
     subject: Physics
     url: /learn/physics/questions/what-are-the-defining-characteristics-of-brown-dwarfs
-related_article2:
-    id: 117695
-    title: >-
-        What is the relationship between a star's mass and its luminosity?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-relationship-between-a-stars-mass-and-its-luminosity
 related_article3:
+    id: 117721
+    title: >-
+        What are the challenges in modeling the process of star formation?
+    subject: Physics
+    url: /learn/physics/questions/what-are-the-challenges-in-modeling-the-process-of-star-formation
+related_article4:
     id: 117702
     title: >-
         How do nebulae contribute to the process of star formation?
     subject: Physics
     url: /learn/physics/questions/how-do-nebulae-contribute-to-the-process-of-star-formation
-related_article4:
-    id: 117709
-    title: >-
-        How does the mass of a star affect its evolutionary path?
-    subject: Physics
-    url: /learn/physics/questions/how-does-the-mass-of-a-star-affect-its-evolutionary-path
 ---
 
 &nbsp;

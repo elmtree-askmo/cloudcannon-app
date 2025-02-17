@@ -30,17 +30,23 @@ related_article1:
     subject: Digital Media
     url: /learn/digital-media/questions/what-are-the-capabilities-of-airtables-api-access
 related_article2:
-    id: 117967
+    id: 117961
     title: >-
-        What functionalities does the Airtable mobile application offer?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-functionalities-does-the-airtable-mobile-application-offer
+        Can you explain the basic concept of Airtable as a database?
+    subject: Computer Science
+    url: /learn/computer-science/questions/can-you-explain-the-basic-concept-of-airtable-as-a-database
 related_article3:
-    id: 117975
+    id: 117989
     title: >-
-        In what ways does Airtable differ from project management tools like Asana?
+        What are the future developments or updates expected for Airtable?
     subject: Digital Media
-    url: /learn/digital-media/questions/in-what-ways-does-airtable-differ-from-project-management-tools-like-asana
+    url: /learn/digital-media/questions/what-are-the-future-developments-or-updates-expected-for-airtable
+related_article4:
+    id: 117972
+    title: >-
+        How suitable is Airtable for startups and small businesses?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-suitable-is-airtable-for-startups-and-small-businesses
 ---
 
 &nbsp;

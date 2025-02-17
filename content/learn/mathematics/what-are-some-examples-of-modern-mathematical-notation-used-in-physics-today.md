@@ -24,17 +24,17 @@ file_name: what-are-some-examples-of-modern-mathematical-notation-used-in-physic
 url: /learn/mathematics/questions/what-are-some-examples-of-modern-mathematical-notation-used-in-physics-today
 score: -1.0
 related_article1:
-    id: 121377
+    id: 121357
     title: >-
-        What is the role of symmetry in the mathematical formulation of physical laws?
+        How is mathematical language used to describe physical laws?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-role-of-symmetry-in-the-mathematical-formulation-of-physical-laws
+    url: /learn/physics/questions/how-is-mathematical-language-used-to-describe-physical-laws
 related_article2:
-    id: 121368
+    id: 121367
     title: >-
-        Can you explain the minimum principle and its importance in physics?
+        What is the local field method in physics?
     subject: Physics
-    url: /learn/physics/questions/can-you-explain-the-minimum-principle-and-its-importance-in-physics
+    url: /learn/physics/questions/what-is-the-local-field-method-in-physics
 related_article3:
     id: 121362
     title: >-
@@ -42,11 +42,17 @@ related_article3:
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-the-babylonian-method-influence-the-development-of-physics
 related_article4:
-    id: 121366
+    id: 121373
     title: >-
-        How do Newton's Laws demonstrate the connection between physics and mathematics?
+        What is the historical significance of the Babylonian method in physics?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-the-babylonian-method-in-physics
+related_article5:
+    id: 121360
+    title: >-
+        What contributions did Babylonian and Greek traditions make to the relationship between physics and mathematics?
     subject: Physics
-    url: /learn/physics/questions/how-do-newtons-laws-demonstrate-the-connection-between-physics-and-mathematics
+    url: /learn/physics/questions/what-contributions-did-babylonian-and-greek-traditions-make-to-the-relationship-between-physics-and-mathematics
 ---
 
 &nbsp;

@@ -24,35 +24,29 @@ file_name: how-do-switches-differ-from-hubs-in-networking.md
 url: /learn/computer-science/questions/how-do-switches-differ-from-hubs-in-networking
 score: -1.0
 related_article1:
-    id: 116151
-    title: >-
-        Can you explain the differences between LAN, WAN, MAN, and PAN?
-    subject: Computer Science
-    url: /learn/computer-science/questions/can-you-explain-the-differences-between-lan-wan-man-and-pan
-related_article2:
-    id: 116150
-    title: >-
-        What are the basic concepts one should understand about networking?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-basic-concepts-one-should-understand-about-networking
-related_article3:
-    id: 116154
-    title: >-
-        What are the typical use cases for a Personal Area Network (PAN)?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-typical-use-cases-for-a-personal-area-network-pan
-related_article4:
-    id: 116170
-    title: >-
-        How does FTP work and what are its common uses?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-ftp-work-and-what-are-its-common-uses
-related_article5:
     id: 116169
     title: >-
         What are the main functions of HTTP and HTTPS protocols?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-main-functions-of-http-and-https-protocols
+related_article2:
+    id: 116156
+    title: >-
+        How does a star topology function and what are its benefits?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-a-star-topology-function-and-what-are-its-benefits
+related_article3:
+    id: 116164
+    title: >-
+        How do access points facilitate wireless networking?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-access-points-facilitate-wireless-networking
+related_article4:
+    id: 116152
+    title: >-
+        What are the key characteristics of a Local Area Network (LAN)?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-key-characteristics-of-a-local-area-network-lan
 ---
 
 &nbsp;

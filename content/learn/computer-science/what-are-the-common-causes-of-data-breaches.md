@@ -24,35 +24,35 @@ file_name: what-are-the-common-causes-of-data-breaches.md
 url: /learn/computer-science/questions/what-are-the-common-causes-of-data-breaches
 score: -1.0
 related_article1:
-    id: 123110
+    id: 123129
     title: >-
-        Why is network security crucial in the modern IT landscape?
+        How can viruses and trojans impact network availability?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-network-security-crucial-in-the-modern-it-landscape
+    url: /learn/computer-science/questions/how-can-viruses-and-trojans-impact-network-availability
 related_article2:
+    id: 123117
+    title: >-
+        What are privilege escalation attacks and how can they be mitigated?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-privilege-escalation-attacks-and-how-can-they-be-mitigated
+related_article3:
+    id: 123130
+    title: >-
+        What are the most common social engineering tactics used by attackers?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-most-common-social-engineering-tactics-used-by-attackers
+related_article4:
     id: 123114
     title: >-
         What is code injection and how can it be prevented?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-code-injection-and-how-can-it-be-prevented
-related_article3:
-    id: 123119
-    title: >-
-        How can controlled access improve network security?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-controlled-access-improve-network-security
-related_article4:
-    id: 123105
-    title: >-
-        How do viruses typically infiltrate a network?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-do-viruses-typically-infiltrate-a-network
 related_article5:
-    id: 123107
+    id: 123104
     title: >-
-        How does ransomware affect businesses and individuals?
+        What are the most common types of network security threats today?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-ransomware-affect-businesses-and-individuals
+    url: /learn/computer-science/questions/what-are-the-most-common-types-of-network-security-threats-today
 ---
 
 &nbsp;

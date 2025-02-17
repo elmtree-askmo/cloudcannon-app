@@ -24,35 +24,29 @@ file_name: how-do-training-algorithms-and-loss-functions-impact-the-performance-
 url: /learn/computer-science/questions/how-do-training-algorithms-and-loss-functions-impact-the-performance-of-llms
 score: -1.0
 related_article1:
-    id: 97132
+    id: 97122
     title: >-
-        What are the standard NLP benchmarks used for LLM evaluation?
+        How does Byte Pair Encoding (BPE) work in tokenization?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-standard-nlp-benchmarks-used-for-llm-evaluation
+    url: /learn/computer-science/questions/how-does-byte-pair-encoding-bpe-work-in-tokenization
 related_article2:
-    id: 97116
+    id: 97136
     title: >-
-        What types of data are most effective for training LLMs?
+        How do scaling laws influence data collection strategies?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-types-of-data-are-most-effective-for-training-llms
+    url: /learn/computer-science/questions/how-do-scaling-laws-influence-data-collection-strategies
 related_article3:
-    id: 97120
+    id: 97114
     title: >-
-        How is the task of predicting the next word implemented in autoregressive models?
+        What are the key architectural considerations when building LLMs?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-the-task-of-predicting-the-next-word-implemented-in-autoregressive-models
+    url: /learn/computer-science/questions/what-are-the-key-architectural-considerations-when-building-llms
 related_article4:
-    id: 97121
+    id: 97131
     title: >-
-        What is the significance of tokenization in language modeling?
+        How is perplexity used as an evaluation metric for LLMs?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-tokenization-in-language-modeling
-related_article5:
-    id: 97143
-    title: >-
-        How do parallelization techniques improve LLM training efficiency?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-parallelization-techniques-improve-llm-training-efficiency
+    url: /learn/computer-science/questions/how-is-perplexity-used-as-an-evaluation-metric-for-llms
 ---
 
 &nbsp;

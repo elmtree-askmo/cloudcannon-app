@@ -24,29 +24,29 @@ file_name: how-do-physicists-ensure-the-accuracy-of-mathematical-models-in-physi
 url: /learn/physics/questions/how-do-physicists-ensure-the-accuracy-of-mathematical-models-in-physics
 score: -1.0
 related_article1:
-    id: 119490
-    title: >-
-        How did ancient civilizations contribute to the development of mathematical physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-physics
-related_article2:
     id: 119487
     title: >-
         What are the philosophical implications of the relationship between physics and mathematics?
     subject: Philosophy and Greek Myths
     url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
+related_article2:
+    id: 119492
+    title: >-
+        How do physicists use mathematical equations to describe the universe?
+    subject: Physics
+    url: /learn/physics/questions/how-do-physicists-use-mathematical-equations-to-describe-the-universe
 related_article3:
-    id: 119499
+    id: 119493
     title: >-
-        What is the role of geometry in understanding physical space?
+        What are some examples of mathematical concepts that have been crucial in physics discoveries?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-role-of-geometry-in-understanding-physical-space
+    url: /learn/mathematics/questions/what-are-some-examples-of-mathematical-concepts-that-have-been-crucial-in-physics-discoveries
 related_article4:
-    id: 119472
+    id: 119486
     title: >-
-        How does mathematics help us understand natural phenomena?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
+        How does the minimum principle apply to physics and mathematics?
+    subject: Physics
+    url: /learn/physics/questions/how-does-the-minimum-principle-apply-to-physics-and-mathematics
 ---
 
 &nbsp;

@@ -24,17 +24,17 @@ file_name: what-role-do-social-media-algorithms-play-in-creating-echo-chambers.m
 url: /learn/sociology/questions/what-role-do-social-media-algorithms-play-in-creating-echo-chambers
 score: -1.0
 related_article1:
-    id: 100250
-    title: >-
-        How can confirmation bias be mitigated in research and analysis?
-    subject: Psychology
-    url: /learn/psychology/questions/how-can-confirmation-bias-be-mitigated-in-research-and-analysis
-related_article2:
     id: 100256
     title: >-
         How can one effectively identify and address red herrings in debates?
     subject: Philosophy and Greek Myths
     url: /learn/philosophy-and-greek-myths/questions/how-can-one-effectively-identify-and-address-red-herrings-in-debates
+related_article2:
+    id: 100250
+    title: >-
+        How can confirmation bias be mitigated in research and analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-confirmation-bias-be-mitigated-in-research-and-analysis
 ---
 
 &nbsp;

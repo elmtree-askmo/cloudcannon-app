@@ -24,35 +24,35 @@ file_name: what-is-the-impact-of-contemporary-art-on-cultural-understanding.md
 url: /learn/art-history-and-literature/questions/what-is-the-impact-of-contemporary-art-on-cultural-understanding
 score: -1.0
 related_article1:
-    id: 110248
+    id: 110239
     title: >-
-        How does music fit into the category of contemporary art?
+        How has the definition of art evolved over time?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-music-fit-into-the-category-of-contemporary-art
+    url: /learn/art-history-and-literature/questions/how-has-the-definition-of-art-evolved-over-time
 related_article2:
-    id: 110243
+    id: 110265
     title: >-
-        What are the defining characteristics of modern art?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-defining-characteristics-of-modern-art
+        What are the economic impacts of contemporary art on society?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-economic-impacts-of-contemporary-art-on-society
 related_article3:
-    id: 110242
+    id: 110250
     title: >-
-        What role does traditional art play in the cultural identity of the Philippines?
+        How is theater represented in contemporary art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-does-traditional-art-play-in-the-cultural-identity-of-the-philippines
+    url: /learn/art-history-and-literature/questions/how-is-theater-represented-in-contemporary-art
 related_article4:
-    id: 110260
+    id: 110257
     title: >-
-        How do the seven major contemporary art forms interact with each other?
+        What are some contemporary art movements that address global issues?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-the-seven-major-contemporary-art-forms-interact-with-each-other
+    url: /learn/art-history-and-literature/questions/what-are-some-contemporary-art-movements-that-address-global-issues
 related_article5:
-    id: 110254
+    id: 110241
     title: >-
-        How is visual art evolving in the contemporary art scene?
+        Why is contemporary art considered important in today's society?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-is-visual-art-evolving-in-the-contemporary-art-scene
+    url: /learn/art-history-and-literature/questions/why-is-contemporary-art-considered-important-in-todays-society
 ---
 
 &nbsp;

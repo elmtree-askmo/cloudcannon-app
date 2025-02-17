@@ -24,35 +24,29 @@ file_name: what-were-the-key-provisions-of-the-national-railway-act-and-norrisla
 url: /learn/criminal-or-civil-law/questions/what-were-the-key-provisions-of-the-national-railway-act-and-norrislaguardia-act-of-1932
 score: -1.0
 related_article1:
-    id: 122987
-    title: >-
-        How did the Yellow Dog Contract affect employee rights?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-did-the-yellow-dog-contract-affect-employee-rights
-related_article2:
-    id: 122988
-    title: >-
-        What role did the National Labor Relations Board (NLRB) play after its creation in 1935?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-did-the-national-labor-relations-board-nlrb-play-after-its-creation-in-1935
-related_article3:
-    id: 123014
-    title: >-
-        What constitutes insider trading and who is considered an insider?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-constitutes-insider-trading-and-who-is-considered-an-insider
-related_article4:
     id: 123002
     title: >-
         What was the significance of the Standard Oil of New Jersey vs United States case in antitrust law?
     subject: Business and Management
     url: /learn/business-and-management/questions/what-was-the-significance-of-the-standard-oil-of-new-jersey-vs-united-states-case-in-antitrust-law
-related_article5:
-    id: 122990
+related_article2:
+    id: 122996
     title: >-
-        How did the Wagner Act and Taft-Hartley Act of 1937 impact labor relations?
+        What is the legal framework surrounding labor lockouts?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-did-the-wagner-act-and-tafthartley-act-of-1937-impact-labor-relations
+    url: /learn/criminal-or-civil-law/questions/what-is-the-legal-framework-surrounding-labor-lockouts
+related_article3:
+    id: 123001
+    title: >-
+        How do antitrust laws intersect with labor laws in the U.S.?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-do-antitrust-laws-intersect-with-labor-laws-in-the-us
+related_article4:
+    id: 122998
+    title: >-
+        What are the key differences between disparate treatment and disparate impact under the Civil Rights Act of 1964?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-are-the-key-differences-between-disparate-treatment-and-disparate-impact-under-the-civil-rights-act-of-1964
 ---
 
 &nbsp;

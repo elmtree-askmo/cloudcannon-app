@@ -24,35 +24,23 @@ file_name: how-does-molecular-testing-contribute-to-the-diagnosis-of-thyroid-con
 url: /learn/medicine/questions/how-does-molecular-testing-contribute-to-the-diagnosis-of-thyroid-conditions
 score: -1.0
 related_article1:
-    id: 123968
+    id: 123954
     title: >-
-        What are the management options for papillary microcarcinoma?
+        What is the difference between hemithyroidectomy and total thyroidectomy?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-management-options-for-papillary-microcarcinoma
+    url: /learn/medicine/questions/what-is-the-difference-between-hemithyroidectomy-and-total-thyroidectomy
 related_article2:
-    id: 123945
+    id: 123962
     title: >-
-        What are the typical presentations of thyroid nodules in patients?
+        What is the extent of thyroidectomy required for different types of thyroid cancer?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-typical-presentations-of-thyroid-nodules-in-patients
+    url: /learn/medicine/questions/what-is-the-extent-of-thyroidectomy-required-for-different-types-of-thyroid-cancer
 related_article3:
-    id: 123950
+    id: 123942
     title: >-
-        What imaging techniques are used in the investigation of thyroid conditions?
-    subject: Medicine
-    url: /learn/medicine/questions/what-imaging-techniques-are-used-in-the-investigation-of-thyroid-conditions
-related_article4:
-    id: 123964
-    title: >-
-        What adjuvant treatments are available for thyroid cancer?
-    subject: Medicine
-    url: /learn/medicine/questions/what-adjuvant-treatments-are-available-for-thyroid-cancer
-related_article5:
-    id: 123961
-    title: >-
-        How is anaplastic thyroid cancer typically treated?
-    subject: Medicine
-    url: /learn/medicine/questions/how-is-anaplastic-thyroid-cancer-typically-treated
+        What are the different types of goiter and how are they classified?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-different-types-of-goiter-and-how-are-they-classified
 ---
 
 &nbsp;

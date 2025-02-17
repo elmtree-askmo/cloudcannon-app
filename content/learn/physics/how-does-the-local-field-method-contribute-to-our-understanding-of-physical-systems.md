@@ -24,35 +24,35 @@ file_name: how-does-the-local-field-method-contribute-to-our-understanding-of-ph
 url: /learn/physics/questions/how-does-the-local-field-method-contribute-to-our-understanding-of-physical-systems
 score: -1.0
 related_article1:
-    id: 119270
+    id: 119276
     title: >-
-        Can you explain Newton's Law of Gravitation in mathematical terms?
+        How did the Babylonian method influence the development of physics?
     subject: Physics
-    url: /learn/physics/questions/can-you-explain-newtons-law-of-gravitation-in-mathematical-terms
+    url: /learn/physics/questions/how-did-the-babylonian-method-influence-the-development-of-physics
 related_article2:
-    id: 119288
-    title: >-
-        How does the Euclidean method differ from other mathematical approaches in physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-euclidean-method-differ-from-other-mathematical-approaches-in-physics
-related_article3:
-    id: 119296
-    title: >-
-        How do physicists use mathematical notation to communicate complex ideas?
-    subject: Physics
-    url: /learn/physics/questions/how-do-physicists-use-mathematical-notation-to-communicate-complex-ideas
-related_article4:
     id: 119284
     title: >-
         How do mathematical models help in predicting physical phenomena?
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
-related_article5:
-    id: 119277
+related_article3:
+    id: 119286
     title: >-
-        What is the Euclidean method and its role in physics?
+        How did ancient civilizations contribute to the development of mathematical concepts used in physics?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-euclidean-method-and-its-role-in-physics
+    url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-concepts-used-in-physics
+related_article4:
+    id: 119291
+    title: >-
+        What are the key differences between Newton's laws and modern physics theories?
+    subject: Physics
+    url: /learn/physics/questions/what-are-the-key-differences-between-newtons-laws-and-modern-physics-theories
+related_article5:
+    id: 119275
+    title: >-
+        What are fundamental principles and consequential statements in physics?
+    subject: Physics
+    url: /learn/physics/questions/what-are-fundamental-principles-and-consequential-statements-in-physics
 ---
 
 &nbsp;

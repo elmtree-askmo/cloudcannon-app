@@ -24,35 +24,23 @@ file_name: what-constitutes-a-legal-serve-in-volleyball.md
 url: /learn/criminal-or-civil-law/questions/what-constitutes-a-legal-serve-in-volleyball
 score: -1.0
 related_article1:
-    id: 119046
+    id: 119041
     title: >-
-        What are the primary functions of carbohydrates in the body?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-functions-of-carbohydrates-in-the-body
-related_article2:
-    id: 119038
-    title: >-
-        How can players improve their free throw shooting accuracy?
+        How does player rotation work in volleyball?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-players-improve-their-free-throw-shooting-accuracy
+    url: /learn/education-studies/questions/how-does-player-rotation-work-in-volleyball
+related_article2:
+    id: 119050
+    title: >-
+        How does physical fitness contribute to overall well-being?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-physical-fitness-contribute-to-overall-wellbeing
 related_article3:
-    id: 119053
+    id: 119054
     title: >-
-        What are the main functions of the brain in the human body?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-functions-of-the-brain-in-the-human-body
-related_article4:
-    id: 119047
-    title: >-
-        How do proteins contribute to overall health and fitness?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-proteins-contribute-to-overall-health-and-fitness
-related_article5:
-    id: 119056
-    title: >-
-        What constitutes good player conduct in sports?
-    subject: Psychology
-    url: /learn/psychology/questions/what-constitutes-good-player-conduct-in-sports
+        How does the heart function within the circulatory system?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-the-heart-function-within-the-circulatory-system
 ---
 
 &nbsp;

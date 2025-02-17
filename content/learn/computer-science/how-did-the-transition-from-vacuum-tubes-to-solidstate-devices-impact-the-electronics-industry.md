@@ -24,29 +24,29 @@ file_name: how-did-the-transition-from-vacuum-tubes-to-solidstate-devices-impact
 url: /learn/computer-science/questions/how-did-the-transition-from-vacuum-tubes-to-solidstate-devices-impact-the-electronics-industry
 score: -1.0
 related_article1:
+    id: 116362
+    title: >-
+        How did World War II influence the development of semiconductor technology?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-world-war-ii-influence-the-development-of-semiconductor-technology
+related_article2:
     id: 116369
     title: >-
         What role do dopants play in the properties of extrinsic semiconductors?
     subject: Physics
     url: /learn/physics/questions/what-role-do-dopants-play-in-the-properties-of-extrinsic-semiconductors
-related_article2:
+related_article3:
     id: 116382
     title: >-
         What is the role of semiconductor physics in the development of renewable energy technologies?
     subject: Physics
     url: /learn/physics/questions/what-is-the-role-of-semiconductor-physics-in-the-development-of-renewable-energy-technologies
-related_article3:
-    id: 116381
-    title: >-
-        How do semiconductors enable the functionality of integrated circuits?
-    subject: Engineering
-    url: /learn/engineering/questions/how-do-semiconductors-enable-the-functionality-of-integrated-circuits
 related_article4:
-    id: 116380
+    id: 116386
     title: >-
-        What are the latest advancements in semiconductor technology?
+        What are the key factors driving innovation in the semiconductor industry?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-latest-advancements-in-semiconductor-technology
+    url: /learn/engineering/questions/what-are-the-key-factors-driving-innovation-in-the-semiconductor-industry
 ---
 
 &nbsp;

@@ -24,35 +24,29 @@ file_name: how-is-elevation-perception-achieved-in-the-auditory-system.md
 url: /learn/psychology/questions/how-is-elevation-perception-achieved-in-the-auditory-system
 score: -1.0
 related_article1:
-    id: 122518
+    id: 122535
     title: >-
-        What is spectral segregation and how does it aid in auditory scene analysis?
+        What are the Gestalt principles of melody?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-spectral-segregation-and-how-does-it-aid-in-auditory-scene-analysis
+    url: /learn/psychology/questions/what-are-the-gestalt-principles-of-melody
 related_article2:
-    id: 122522
+    id: 122512
     title: >-
-        What are the differences in processing vowels and consonants in speech perception?
+        Can you explain the concept of the cone of confusion in sound localization?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-differences-in-processing-vowels-and-consonants-in-speech-perception
+    url: /learn/psychology/questions/can-you-explain-the-concept-of-the-cone-of-confusion-in-sound-localization
 related_article3:
-    id: 122521
-    title: >-
-        How does the human voice serve as a stimulus in speech perception?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-the-human-voice-serve-as-a-stimulus-in-speech-perception
-related_article4:
     id: 122538
     title: >-
         What is the neuropsychology of music and its impact on perception?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-neuropsychology-of-music-and-its-impact-on-perception
-related_article5:
-    id: 122519
+related_article4:
+    id: 122509
     title: >-
-        How does auditory development progress in humans?
+        What are the primary mechanisms of sound localization in the auditory brain?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-auditory-development-progress-in-humans
+    url: /learn/psychology/questions/what-are-the-primary-mechanisms-of-sound-localization-in-the-auditory-brain
 ---
 
 &nbsp;

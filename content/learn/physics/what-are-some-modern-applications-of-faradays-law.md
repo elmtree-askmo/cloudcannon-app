@@ -24,29 +24,35 @@ file_name: what-are-some-modern-applications-of-faradays-law.md
 url: /learn/physics/questions/what-are-some-modern-applications-of-faradays-law
 score: -1.0
 related_article1:
-    id: 103170
+    id: 103173
     title: >-
-        How do fundamental principles lead to consequential statements in physics?
+        How does the law of gravitation relate to other physical laws?
     subject: Physics
-    url: /learn/physics/questions/how-do-fundamental-principles-lead-to-consequential-statements-in-physics
+    url: /learn/physics/questions/how-does-the-law-of-gravitation-relate-to-other-physical-laws
 related_article2:
-    id: 103185
-    title: >-
-        How does the conservation of angular momentum apply in real-world scenarios?
-    subject: Physics
-    url: /learn/physics/questions/how-does-the-conservation-of-angular-momentum-apply-in-realworld-scenarios
-related_article3:
     id: 103175
     title: >-
         How do Newton's Laws form the foundation of classical mechanics?
     subject: Physics
     url: /learn/physics/questions/how-do-newtons-laws-form-the-foundation-of-classical-mechanics
-related_article4:
-    id: 103172
+related_article3:
+    id: 103187
     title: >-
-        Can you describe the Euclidean method and its impact on physics?
+        How did Newton's formulation of gravitation influence subsequent scientific discoveries?
+    subject: Physics
+    url: /learn/physics/questions/how-did-newtons-formulation-of-gravitation-influence-subsequent-scientific-discoveries
+related_article4:
+    id: 103165
+    title: >-
+        What is Newton's Law of Gravitation and how is it mathematically formulated?
+    subject: Physics
+    url: /learn/physics/questions/what-is-newtons-law-of-gravitation-and-how-is-it-mathematically-formulated
+related_article5:
+    id: 103192
+    title: >-
+        What are the challenges in translating physical concepts into mathematical language?
     subject: Mathematics
-    url: /learn/mathematics/questions/can-you-describe-the-euclidean-method-and-its-impact-on-physics
+    url: /learn/mathematics/questions/what-are-the-challenges-in-translating-physical-concepts-into-mathematical-language
 ---
 
 &nbsp;

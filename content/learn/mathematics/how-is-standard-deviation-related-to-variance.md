@@ -24,12 +24,24 @@ file_name: how-is-standard-deviation-related-to-variance.md
 url: /learn/mathematics/questions/how-is-standard-deviation-related-to-variance
 score: -1.0
 related_article1:
-    id: 119644
+    id: 119639
     title: >-
-        How are independent variables defined in the context of statistics?
+        How is the probability mass function (PMF) of a binomial distribution defined?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-are-independent-variables-defined-in-the-context-of-statistics
+    url: /learn/mathematics/questions/how-is-the-probability-mass-function-pmf-of-a-binomial-distribution-defined
 related_article2:
+    id: 119645
+    title: >-
+        Why is understanding variance important in statistical analysis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-understanding-variance-important-in-statistical-analysis
+related_article3:
+    id: 119646
+    title: >-
+        How do probability distributions relate to real-world data?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-probability-distributions-relate-to-realworld-data
+related_article4:
     id: 119637
     title: >-
         How is the variance of a Bernoulli variable determined?

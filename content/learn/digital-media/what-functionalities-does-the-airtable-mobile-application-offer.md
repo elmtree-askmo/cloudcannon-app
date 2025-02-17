@@ -24,29 +24,29 @@ file_name: what-functionalities-does-the-airtable-mobile-application-offer.md
 url: /learn/digital-media/questions/what-functionalities-does-the-airtable-mobile-application-offer
 score: -1.0
 related_article1:
-    id: 117972
+    id: 117981
     title: >-
-        How suitable is Airtable for startups and small businesses?
+        What are the pricing plans for Airtable and how do they compare to competitors?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-suitable-is-airtable-for-startups-and-small-businesses
+    url: /learn/business-and-management/questions/what-are-the-pricing-plans-for-airtable-and-how-do-they-compare-to-competitors
 related_article2:
-    id: 117969
-    title: >-
-        What are the capabilities of Airtable's API access?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-are-the-capabilities-of-airtables-api-access
-related_article3:
     id: 117989
     title: >-
         What are the future developments or updates expected for Airtable?
     subject: Digital Media
     url: /learn/digital-media/questions/what-are-the-future-developments-or-updates-expected-for-airtable
-related_article4:
-    id: 117965
+related_article3:
+    id: 117975
     title: >-
-        What types of data views are available in Airtable?
+        In what ways does Airtable differ from project management tools like Asana?
     subject: Digital Media
-    url: /learn/digital-media/questions/what-types-of-data-views-are-available-in-airtable
+    url: /learn/digital-media/questions/in-what-ways-does-airtable-differ-from-project-management-tools-like-asana
+related_article4:
+    id: 117972
+    title: >-
+        How suitable is Airtable for startups and small businesses?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-suitable-is-airtable-for-startups-and-small-businesses
 ---
 
 &nbsp;

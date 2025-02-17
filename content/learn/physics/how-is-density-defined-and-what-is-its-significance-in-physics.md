@@ -24,11 +24,11 @@ file_name: how-is-density-defined-and-what-is-its-significance-in-physics.md
 url: /learn/physics/questions/how-is-density-defined-and-what-is-its-significance-in-physics
 score: -1.0
 related_article1:
-    id: 122464
+    id: 122477
     title: >-
-        What is the role of torque in rotational equilibrium?
+        What is Archimedes' Principle, and how does it explain buoyancy?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-role-of-torque-in-rotational-equilibrium
+    url: /learn/physics/questions/what-is-archimedes-principle-and-how-does-it-explain-buoyancy
 related_article2:
     id: 122457
     title: >-
@@ -36,23 +36,23 @@ related_article2:
     subject: Physics
     url: /learn/physics/questions/how-is-average-acceleration-different-from-instantaneous-acceleration
 related_article3:
-    id: 122463
+    id: 122456
     title: >-
-        How is equilibrium defined in the context of forces?
+        What are the common methods for graphical analysis in kinematics?
     subject: Physics
-    url: /learn/physics/questions/how-is-equilibrium-defined-in-the-context-of-forces
+    url: /learn/physics/questions/what-are-the-common-methods-for-graphical-analysis-in-kinematics
 related_article4:
-    id: 122449
+    id: 122451
     title: >-
-        What are the key steps involved in setting up a physics problem?
+        What strategies can be used to verify the accuracy of an answer in physics?
     subject: Physics
-    url: /learn/physics/questions/what-are-the-key-steps-involved-in-setting-up-a-physics-problem
+    url: /learn/physics/questions/what-strategies-can-be-used-to-verify-the-accuracy-of-an-answer-in-physics
 related_article5:
-    id: 122461
+    id: 122475
     title: >-
-        How does Newton's Second Law relate to force and acceleration?
+        How is electromotive force different from internal resistance in electrical circuits?
     subject: Physics
-    url: /learn/physics/questions/how-does-newtons-second-law-relate-to-force-and-acceleration
+    url: /learn/physics/questions/how-is-electromotive-force-different-from-internal-resistance-in-electrical-circuits
 ---
 
 &nbsp;

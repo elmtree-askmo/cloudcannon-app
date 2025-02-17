@@ -24,29 +24,35 @@ file_name: what-are-the-benefits-of-interactive-learning-in-computing.md
 url: /learn/education-studies/questions/what-are-the-benefits-of-interactive-learning-in-computing
 score: -1.0
 related_article1:
-    id: 116294
-    title: >-
-        How can educators integrate note-taking techniques into their teaching methods?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-educators-integrate-notetaking-techniques-into-their-teaching-methods
-related_article2:
     id: 116272
     title: >-
         What are the typical use cases for the 'pwd' command?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-typical-use-cases-for-the-pwd-command
-related_article3:
-    id: 116268
-    title: >-
-        What is the definition of a home directory in computing?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-definition-of-a-home-directory-in-computing
-related_article4:
+related_article2:
     id: 116283
     title: >-
         What role does the home directory play in user-specific settings and configurations?
     subject: Computer Science
     url: /learn/computer-science/questions/what-role-does-the-home-directory-play-in-userspecific-settings-and-configurations
+related_article3:
+    id: 116297
+    title: >-
+        What are the differences between absolute and relative paths in directory navigation?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-differences-between-absolute-and-relative-paths-in-directory-navigation
+related_article4:
+    id: 116294
+    title: >-
+        How can educators integrate note-taking techniques into their teaching methods?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-educators-integrate-notetaking-techniques-into-their-teaching-methods
+related_article5:
+    id: 116273
+    title: >-
+        How can the 'ls' command be used to list directory contents effectively?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-can-the-ls-command-be-used-to-list-directory-contents-effectively
 ---
 
 &nbsp;

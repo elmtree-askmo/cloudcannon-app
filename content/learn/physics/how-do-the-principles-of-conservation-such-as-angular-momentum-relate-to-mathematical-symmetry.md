@@ -24,35 +24,35 @@ file_name: how-do-the-principles-of-conservation-such-as-angular-momentum-relate
 url: /learn/physics/questions/how-do-the-principles-of-conservation-such-as-angular-momentum-relate-to-mathematical-symmetry
 score: -1.0
 related_article1:
-    id: 95628
+    id: 95616
     title: >-
-        How does the Euclidean method differ from other mathematical approaches in physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-euclidean-method-differ-from-other-mathematical-approaches-in-physics
+        How did the Babylonian method influence the development of physics?
+    subject: Physics
+    url: /learn/physics/questions/how-did-the-babylonian-method-influence-the-development-of-physics
 related_article2:
-    id: 95619
+    id: 95622
     title: >-
-        What is the conservation of angular momentum and its mathematical representation?
+        How does the minimum principle apply to physics and mathematics?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-conservation-of-angular-momentum-and-its-mathematical-representation
+    url: /learn/physics/questions/how-does-the-minimum-principle-apply-to-physics-and-mathematics
 related_article3:
-    id: 95632
-    title: >-
-        How do the concepts of force and equal areas relate to Kepler's laws?
-    subject: Physics
-    url: /learn/physics/questions/how-do-the-concepts-of-force-and-equal-areas-relate-to-keplers-laws
-related_article4:
     id: 95620
     title: >-
         Can you explain Newton's Laws and their mathematical formulations?
     subject: Physics
     url: /learn/physics/questions/can-you-explain-newtons-laws-and-their-mathematical-formulations
-related_article5:
-    id: 95635
+related_article4:
+    id: 95610
     title: >-
-        What are some challenges in translating physical concepts into mathematical language?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-challenges-in-translating-physical-concepts-into-mathematical-language
+        Can you explain Newton's Law of Gravitation in mathematical terms?
+    subject: Physics
+    url: /learn/physics/questions/can-you-explain-newtons-law-of-gravitation-in-mathematical-terms
+related_article5:
+    id: 95629
+    title: >-
+        What are some examples of fundamental principles in physics that rely on mathematics?
+    subject: Physics
+    url: /learn/physics/questions/what-are-some-examples-of-fundamental-principles-in-physics-that-rely-on-mathematics
 ---
 
 &nbsp;

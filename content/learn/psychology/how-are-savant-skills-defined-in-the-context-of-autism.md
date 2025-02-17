@@ -30,17 +30,17 @@ related_article1:
     subject: Psychology
     url: /learn/psychology/questions/what-social-and-communication-challenges-do-individuals-with-autism-face
 related_article2:
-    id: 107997
-    title: >-
-        What are the current diagnostic criteria for Autism Spectrum Disorders (ASD)?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-current-diagnostic-criteria-for-autism-spectrum-disorders-asd
-related_article3:
     id: 108011
     title: >-
         What are the most effective treatment approaches for autism?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-most-effective-treatment-approaches-for-autism
+related_article3:
+    id: 107997
+    title: >-
+        What are the current diagnostic criteria for Autism Spectrum Disorders (ASD)?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-current-diagnostic-criteria-for-autism-spectrum-disorders-asd
 ---
 
 &nbsp;

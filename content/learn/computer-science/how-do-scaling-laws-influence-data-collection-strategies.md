@@ -24,17 +24,17 @@ file_name: how-do-scaling-laws-influence-data-collection-strategies.md
 url: /learn/computer-science/questions/how-do-scaling-laws-influence-data-collection-strategies
 score: -1.0
 related_article1:
-    id: 97133
+    id: 97114
     title: >-
-        How is human evaluation conducted for LLMs?
+        What are the key architectural considerations when building LLMs?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-human-evaluation-conducted-for-llms
+    url: /learn/computer-science/questions/what-are-the-key-architectural-considerations-when-building-llms
 related_article2:
-    id: 97116
+    id: 97141
     title: >-
-        What types of data are most effective for training LLMs?
+        How does operator fusion enhance LLM training systems?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-types-of-data-are-most-effective-for-training-llms
+    url: /learn/computer-science/questions/how-does-operator-fusion-enhance-llm-training-systems
 related_article3:
     id: 97121
     title: >-
@@ -48,11 +48,11 @@ related_article4:
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-byte-pair-encoding-bpe-work-in-tokenization
 related_article5:
-    id: 97131
+    id: 97132
     title: >-
-        How is perplexity used as an evaluation metric for LLMs?
+        What are the standard NLP benchmarks used for LLM evaluation?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-perplexity-used-as-an-evaluation-metric-for-llms
+    url: /learn/computer-science/questions/what-are-the-standard-nlp-benchmarks-used-for-llm-evaluation
 ---
 
 &nbsp;

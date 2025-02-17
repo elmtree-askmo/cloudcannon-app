@@ -24,35 +24,29 @@ file_name: how-are-the-kernel-and-image-of-a-linear-transformation-defined.md
 url: /learn/mathematics/questions/how-are-the-kernel-and-image-of-a-linear-transformation-defined
 score: -1.0
 related_article1:
-    id: 104656
+    id: 104675
     title: >-
-        Can you explain the process of diagonalization of a matrix?
+        What are the conditions necessary for a matrix to be diagonalizable?
     subject: Mathematics
-    url: /learn/mathematics/questions/can-you-explain-the-process-of-diagonalization-of-a-matrix
+    url: /learn/mathematics/questions/what-are-the-conditions-necessary-for-a-matrix-to-be-diagonalizable
 related_article2:
-    id: 104657
+    id: 104673
     title: >-
-        How are vectors, lines, and planes represented in vector geometry?
+        What is the concept of matrix similarity and its importance?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-are-vectors-lines-and-planes-represented-in-vector-geometry
+    url: /learn/mathematics/questions/what-is-the-concept-of-matrix-similarity-and-its-importance
 related_article3:
-    id: 104671
+    id: 104653
     title: >-
-        What is the significance of quadratic forms and eigenvalues in linear algebra?
+        What are the key properties of matrices that are important in linear algebra?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-significance-of-quadratic-forms-and-eigenvalues-in-linear-algebra
+    url: /learn/mathematics/questions/what-are-the-key-properties-of-matrices-that-are-important-in-linear-algebra
 related_article4:
-    id: 104663
+    id: 104651
     title: >-
-        How is orthogonality defined in inner product spaces?
+        What are the basic operations that can be performed on matrices?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-orthogonality-defined-in-inner-product-spaces
-related_article5:
-    id: 104666
-    title: >-
-        What are some real-world applications of linear algebra in network flow and electrical networks?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-realworld-applications-of-linear-algebra-in-network-flow-and-electrical-networks
+    url: /learn/mathematics/questions/what-are-the-basic-operations-that-can-be-performed-on-matrices
 ---
 
 &nbsp;

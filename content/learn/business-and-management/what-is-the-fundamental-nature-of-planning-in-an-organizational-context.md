@@ -24,23 +24,23 @@ file_name: what-is-the-fundamental-nature-of-planning-in-an-organizational-conte
 url: /learn/business-and-management/questions/what-is-the-fundamental-nature-of-planning-in-an-organizational-context
 score: -1.0
 related_article1:
-    id: 115799
-    title: >-
-        What are the essential steps involved in the planning process?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-essential-steps-involved-in-the-planning-process
-related_article2:
     id: 115807
     title: >-
         What are the complexities and dynamics involved in planning under uncertain environments?
     subject: Business and Management
     url: /learn/business-and-management/questions/what-are-the-complexities-and-dynamics-involved-in-planning-under-uncertain-environments
-related_article3:
+related_article2:
     id: 115793
     title: >-
         How are different levels of planning (strategic, tactical, operational) defined and differentiated?
     subject: Business and Management
     url: /learn/business-and-management/questions/how-are-different-levels-of-planning-strategic-tactical-operational-defined-and-differentiated
+related_article3:
+    id: 115799
+    title: >-
+        What are the essential steps involved in the planning process?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-the-essential-steps-involved-in-the-planning-process
 ---
 
 &nbsp;

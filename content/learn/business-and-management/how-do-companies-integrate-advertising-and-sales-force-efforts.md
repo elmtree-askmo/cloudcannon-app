@@ -24,29 +24,35 @@ file_name: how-do-companies-integrate-advertising-and-sales-force-efforts.md
 url: /learn/business-and-management/questions/how-do-companies-integrate-advertising-and-sales-force-efforts
 score: -1.0
 related_article1:
-    id: 110229
+    id: 110219
     title: >-
-        How do companies measure the effectiveness of their marketing mix?
+        How do marketing channels function in the distribution process?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-do-companies-measure-the-effectiveness-of-their-marketing-mix
+    url: /learn/business-and-management/questions/how-do-marketing-channels-function-in-the-distribution-process
 related_article2:
-    id: 110225
+    id: 110232
     title: >-
-        How does technology influence the marketing process today?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-does-technology-influence-the-marketing-process-today
+        What are the emerging trends in marketing channels?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-the-emerging-trends-in-marketing-channels
 related_article3:
-    id: 110233
+    id: 110236
     title: >-
-        How do companies balance online and offline marketing channels?
+        What metrics are used to evaluate the success of advertising campaigns?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-do-companies-balance-online-and-offline-marketing-channels
+    url: /learn/business-and-management/questions/what-metrics-are-used-to-evaluate-the-success-of-advertising-campaigns
 related_article4:
-    id: 110207
+    id: 110234
     title: >-
-        What are the core concepts of marketing?
+        What are the most effective promotional strategies in today's market?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-core-concepts-of-marketing
+    url: /learn/business-and-management/questions/what-are-the-most-effective-promotional-strategies-in-todays-market
+related_article5:
+    id: 110211
+    title: >-
+        What are the main criteria for effective market segmentation?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-the-main-criteria-for-effective-market-segmentation
 ---
 
 &nbsp;

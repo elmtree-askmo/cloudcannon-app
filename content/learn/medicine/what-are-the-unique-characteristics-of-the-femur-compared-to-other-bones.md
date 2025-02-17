@@ -24,35 +24,29 @@ file_name: what-are-the-unique-characteristics-of-the-femur-compared-to-other-bo
 url: /learn/medicine/questions/what-are-the-unique-characteristics-of-the-femur-compared-to-other-bones
 score: -1.0
 related_article1:
-    id: 100359
+    id: 100378
     title: >-
-        How is the skeletal system divided into axial and appendicular components?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-is-the-skeletal-system-divided-into-axial-and-appendicular-components
+        What are the specific bones included in the thorax?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-specific-bones-included-in-the-thorax
 related_article2:
+    id: 100384
+    title: >-
+        How does the skeletal system change with age or disease?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-skeletal-system-change-with-age-or-disease
+related_article3:
+    id: 100356
+    title: >-
+        How does the skeleton provide support and protection to the body?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-skeleton-provide-support-and-protection-to-the-body
+related_article4:
     id: 100358
     title: >-
         What roles do bones play in blood production?
     subject: Medicine
     url: /learn/medicine/questions/what-roles-do-bones-play-in-blood-production
-related_article3:
-    id: 100366
-    title: >-
-        How does the pelvis support the body?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-pelvis-support-the-body
-related_article4:
-    id: 100361
-    title: >-
-        What are the main components of the appendicular skeleton?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-components-of-the-appendicular-skeleton
-related_article5:
-    id: 100382
-    title: >-
-        How does the pelvis connect the spine to the lower limbs?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-the-pelvis-connect-the-spine-to-the-lower-limbs
 ---
 
 &nbsp;

@@ -24,11 +24,11 @@ file_name: how-are-real-numbers-defined-and-what-are-their-properties.md
 url: /learn/mathematics/questions/how-are-real-numbers-defined-and-what-are-their-properties
 score: -1.0
 related_article1:
-    id: 119758
+    id: 119728
     title: >-
-        How are imaginary numbers used in practical scenarios?
+        What are natural numbers and how are they used in mathematics?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-are-imaginary-numbers-used-in-practical-scenarios
+    url: /learn/mathematics/questions/what-are-natural-numbers-and-how-are-they-used-in-mathematics
 related_article2:
     id: 119739
     title: >-
@@ -36,6 +36,12 @@ related_article2:
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-order-of-operations-and-why-is-it-important
 related_article3:
+    id: 119758
+    title: >-
+        How are imaginary numbers used in practical scenarios?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-imaginary-numbers-used-in-practical-scenarios
+related_article4:
     id: 119752
     title: >-
         How do mathematical concepts apply to professional fields?

@@ -24,23 +24,35 @@ file_name: what-role-does-literature-play-in-contemporary-art.md
 url: /learn/art-history-and-literature/questions/what-role-does-literature-play-in-contemporary-art
 score: -1.0
 related_article1:
+    id: 110243
+    title: >-
+        What are the defining characteristics of modern art?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-the-defining-characteristics-of-modern-art
+related_article2:
+    id: 110265
+    title: >-
+        What are the economic impacts of contemporary art on society?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-economic-impacts-of-contemporary-art-on-society
+related_article3:
+    id: 110261
+    title: >-
+        What are the challenges faced by contemporary artists today?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-the-challenges-faced-by-contemporary-artists-today
+related_article4:
+    id: 110258
+    title: >-
+        How do contemporary artists engage with social and political themes?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-do-contemporary-artists-engage-with-social-and-political-themes
+related_article5:
     id: 110245
     title: >-
         In what ways do contemporary, modern, and traditional art forms influence each other?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/in-what-ways-do-contemporary-modern-and-traditional-art-forms-influence-each-other
-related_article2:
-    id: 110255
-    title: >-
-        What are some examples of traditional art forms in the Philippines?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-examples-of-traditional-art-forms-in-the-philippines
-related_article3:
-    id: 110247
-    title: >-
-        What are the seven major contemporary art forms and their significance?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-seven-major-contemporary-art-forms-and-their-significance
 ---
 
 &nbsp;

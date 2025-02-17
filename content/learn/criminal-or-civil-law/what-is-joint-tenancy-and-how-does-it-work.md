@@ -24,35 +24,35 @@ file_name: what-is-joint-tenancy-and-how-does-it-work.md
 url: /learn/criminal-or-civil-law/questions/what-is-joint-tenancy-and-how-does-it-work
 score: -1.0
 related_article1:
-    id: 96976
+    id: 96972
     title: >-
-        What is the cost replacement approach in property appraisal?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-is-the-cost-replacement-approach-in-property-appraisal
+        What is functional obsolescence in property?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-is-functional-obsolescence-in-property
 related_article2:
-    id: 96960
+    id: 96969
     title: >-
-        What is escheat and when does it occur?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-escheat-and-when-does-it-occur
+        What is the impact of demand on property value?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-impact-of-demand-on-property-value
 related_article3:
-    id: 96950
+    id: 96983
     title: >-
-        What are the key differences between real and personal property?
+        What is steering in the context of fair housing laws?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-key-differences-between-real-and-personal-property
+    url: /learn/criminal-or-civil-law/questions/what-is-steering-in-the-context-of-fair-housing-laws
 related_article4:
-    id: 96970
+    id: 96965
     title: >-
-        What are the different types of depreciation in property?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/what-are-the-different-types-of-depreciation-in-property
+        What are the essential elements of value in property?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-essential-elements-of-value-in-property
 related_article5:
-    id: 96975
+    id: 96986
     title: >-
-        How does the market data approach work in property appraisal?
-    subject: Accounting and Finance
-    url: /learn/accounting-and-finance/questions/how-does-the-market-data-approach-work-in-property-appraisal
+        What is redlining and how does it violate fair housing laws?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-redlining-and-how-does-it-violate-fair-housing-laws
 ---
 
 &nbsp;

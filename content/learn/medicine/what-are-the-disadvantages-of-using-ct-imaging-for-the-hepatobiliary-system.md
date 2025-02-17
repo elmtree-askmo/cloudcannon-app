@@ -24,11 +24,11 @@ file_name: what-are-the-disadvantages-of-using-ct-imaging-for-the-hepatobiliary-
 url: /learn/medicine/questions/what-are-the-disadvantages-of-using-ct-imaging-for-the-hepatobiliary-system
 score: -1.0
 related_article1:
-    id: 118032
+    id: 118026
     title: >-
-        How are liver abscesses typically identified through imaging?
+        What are the primary indications for imaging the liver?
     subject: Medicine
-    url: /learn/medicine/questions/how-are-liver-abscesses-typically-identified-through-imaging
+    url: /learn/medicine/questions/what-are-the-primary-indications-for-imaging-the-liver
 related_article2:
     id: 118040
     title: >-
@@ -36,23 +36,23 @@ related_article2:
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-limitations-of-ultrasound-imaging-for-the-hepatobiliary-system
 related_article3:
-    id: 118029
+    id: 118031
     title: >-
-        What are the common hepatic pathologies that can be identified through imaging?
+        What imaging findings are associated with hepatocellular carcinoma?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-hepatic-pathologies-that-can-be-identified-through-imaging
+    url: /learn/medicine/questions/what-imaging-findings-are-associated-with-hepatocellular-carcinoma
 related_article4:
-    id: 118036
+    id: 118046
     title: >-
-        What are the typical findings in MRI imaging of the hepatobiliary system?
+        What are the common challenges faced in imaging the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-typical-findings-in-mri-imaging-of-the-hepatobiliary-system
+    url: /learn/medicine/questions/what-are-the-common-challenges-faced-in-imaging-the-hepatobiliary-system
 related_article5:
-    id: 118030
+    id: 118020
     title: >-
-        How is cirrhosis typically identified through imaging techniques?
+        What are the main advantages of CT imaging for the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-cirrhosis-typically-identified-through-imaging-techniques
+    url: /learn/medicine/questions/what-are-the-main-advantages-of-ct-imaging-for-the-hepatobiliary-system
 ---
 
 &nbsp;

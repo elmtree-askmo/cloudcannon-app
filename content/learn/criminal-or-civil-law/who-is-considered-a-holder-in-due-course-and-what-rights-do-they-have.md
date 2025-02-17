@@ -24,17 +24,17 @@ file_name: who-is-considered-a-holder-in-due-course-and-what-rights-do-they-have
 url: /learn/criminal-or-civil-law/questions/who-is-considered-a-holder-in-due-course-and-what-rights-do-they-have
 score: -1.0
 related_article1:
-    id: 112183
-    title: >-
-        What are best practices for drafting negotiable instruments?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-best-practices-for-drafting-negotiable-instruments
-related_article2:
     id: 112169
     title: >-
         What are the defining characteristics of negotiable instruments?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-are-the-defining-characteristics-of-negotiable-instruments
+related_article2:
+    id: 112174
+    title: >-
+        What are the legal implications of negotiable instruments?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-implications-of-negotiable-instruments
 related_article3:
     id: 112170
     title: >-

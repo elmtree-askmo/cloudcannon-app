@@ -24,23 +24,23 @@ file_name: how-does-a-call-to-action-drive-the-narrative-forward-in-storytelling
 url: /learn/digital-media/questions/how-does-a-call-to-action-drive-the-narrative-forward-in-storytelling
 score: -1.0
 related_article1:
+    id: 120750
+    title: >-
+        What are the key elements that contribute to emotional engagement in storytelling?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-elements-that-contribute-to-emotional-engagement-in-storytelling
+related_article2:
     id: 120751
     title: >-
         How do personal stories create a stronger emotional connection compared to statistics?
     subject: Psychology
     url: /learn/psychology/questions/how-do-personal-stories-create-a-stronger-emotional-connection-compared-to-statistics
-related_article2:
+related_article3:
     id: 120762
     title: >-
         How can storytellers balance the use of personal stories and statistics?
     subject: Digital Media
     url: /learn/digital-media/questions/how-can-storytellers-balance-the-use-of-personal-stories-and-statistics
-related_article3:
-    id: 120776
-    title: >-
-        How can a call to action be tailored to different audiences?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-can-a-call-to-action-be-tailored-to-different-audiences
 ---
 
 &nbsp;

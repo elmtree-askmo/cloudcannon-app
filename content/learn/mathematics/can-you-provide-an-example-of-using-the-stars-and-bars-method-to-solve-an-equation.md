@@ -30,11 +30,17 @@ related_article1:
     subject: Mathematics
     url: /learn/mathematics/questions/how-can-pascals-triangle-be-used-to-find-paths-in-3d-space
 related_article2:
-    id: 102301
+    id: 102280
     title: >-
-        What are some problem-solving strategies for choosing coins using permutations and combinations?
+        How is the theorem for r-permutations with repetition derived?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-problemsolving-strategies-for-choosing-coins-using-permutations-and-combinations
+    url: /learn/mathematics/questions/how-is-the-theorem-for-rpermutations-with-repetition-derived
+related_article3:
+    id: 102291
+    title: >-
+        Can you explain the expansion of (x + y)^3 using the binomial theorem?
+    subject: Mathematics
+    url: /learn/mathematics/questions/can-you-explain-the-expansion-of-x--y3-using-the-binomial-theorem
 ---
 
 &nbsp;

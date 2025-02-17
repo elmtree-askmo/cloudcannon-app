@@ -24,17 +24,17 @@ file_name: what-are-the-different-styles-of-management.md
 url: /learn/business-and-management/questions/what-are-the-different-styles-of-management
 score: -1.0
 related_article1:
+    id: 115857
+    title: >-
+        What are the key elements of the managerial process?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-the-key-elements-of-the-managerial-process
+related_article2:
     id: 115865
     title: >-
         What were the Hawthorne experiments and their significance?
     subject: Business and Management
     url: /learn/business-and-management/questions/what-were-the-hawthorne-experiments-and-their-significance
-related_article2:
-    id: 115864
-    title: >-
-        What are the neo-classical management theories?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-neoclassical-management-theories
 related_article3:
     id: 115849
     title: >-

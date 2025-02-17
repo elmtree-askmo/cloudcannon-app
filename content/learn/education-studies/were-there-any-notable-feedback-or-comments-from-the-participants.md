@@ -24,29 +24,17 @@ file_name: were-there-any-notable-feedback-or-comments-from-the-participants.md
 url: /learn/education-studies/questions/were-there-any-notable-feedback-or-comments-from-the-participants
 score: -1.0
 related_article1:
-    id: 124155
+    id: 124167
     title: >-
-        How does the lecture topic relate to current trends or issues?
+        Were there any follow-up activities or discussions planned after the lecture?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-lecture-topic-relate-to-current-trends-or-issues
+    url: /learn/education-studies/questions/were-there-any-followup-activities-or-discussions-planned-after-the-lecture
 related_article2:
     id: 124151
     title: >-
         What were the key points discussed during the lecture?
     subject: Education Studies
     url: /learn/education-studies/questions/what-were-the-key-points-discussed-during-the-lecture
-related_article3:
-    id: 124167
-    title: >-
-        Were there any follow-up activities or discussions planned after the lecture?
-    subject: Education Studies
-    url: /learn/education-studies/questions/were-there-any-followup-activities-or-discussions-planned-after-the-lecture
-related_article4:
-    id: 124171
-    title: >-
-        Were there any partnerships or collaborations involved in organizing the lecture?
-    subject: Education Studies
-    url: /learn/education-studies/questions/were-there-any-partnerships-or-collaborations-involved-in-organizing-the-lecture
 ---
 
 &nbsp;

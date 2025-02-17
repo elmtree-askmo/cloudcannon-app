@@ -24,29 +24,35 @@ file_name: what-is-the-extent-of-thyroidectomy-required-for-different-types-of-t
 url: /learn/medicine/questions/what-is-the-extent-of-thyroidectomy-required-for-different-types-of-thyroid-cancer
 score: -1.0
 related_article1:
+    id: 123952
+    title: >-
+        What are the indications for treating benign thyroid nodules?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-indications-for-treating-benign-thyroid-nodules
+related_article2:
+    id: 123945
+    title: >-
+        What are the typical presentations of thyroid nodules in patients?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-typical-presentations-of-thyroid-nodules-in-patients
+related_article3:
+    id: 123942
+    title: >-
+        What are the different types of goiter and how are they classified?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-different-types-of-goiter-and-how-are-they-classified
+related_article4:
     id: 123947
     title: >-
         How is ultrasound used in the diagnosis of thyroid nodules?
     subject: Medicine
     url: /learn/medicine/questions/how-is-ultrasound-used-in-the-diagnosis-of-thyroid-nodules
-related_article2:
-    id: 123941
+related_article5:
+    id: 123960
     title: >-
-        How prevalent are benign thyroid nodules in the general population?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-prevalent-are-benign-thyroid-nodules-in-the-general-population
-related_article3:
-    id: 123963
-    title: >-
-        How is lymph node management approached in thyroid cancer surgery?
+        What are the characteristics of medullary thyroid cancer?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-lymph-node-management-approached-in-thyroid-cancer-surgery
-related_article4:
-    id: 123940
-    title: >-
-        What are the risk factors associated with the development of thyroid nodules?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-risk-factors-associated-with-the-development-of-thyroid-nodules
+    url: /learn/medicine/questions/what-are-the-characteristics-of-medullary-thyroid-cancer
 ---
 
 &nbsp;

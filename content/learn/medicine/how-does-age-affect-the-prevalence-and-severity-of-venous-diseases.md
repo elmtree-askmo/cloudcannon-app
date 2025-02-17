@@ -30,29 +30,29 @@ related_article1:
     subject: Medicine
     url: /learn/medicine/questions/can-you-provide-an-overview-of-the-anatomy-of-the-venous-system
 related_article2:
-    id: 102211
+    id: 102213
     title: >-
-        How do healthcare systems manage the burden of venous diseases?
+        How do venous diseases affect quality of life?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-healthcare-systems-manage-the-burden-of-venous-diseases
+    url: /learn/health-studies/questions/how-do-venous-diseases-affect-quality-of-life
 related_article3:
-    id: 102189
+    id: 102206
     title: >-
-        What are the primary etiological factors of CVI?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-primary-etiological-factors-of-cvi
+        What preventive measures can be taken to reduce the risk of venous diseases?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-preventive-measures-can-be-taken-to-reduce-the-risk-of-venous-diseases
 related_article4:
-    id: 102214
+    id: 102187
     title: >-
-        What are the challenges in diagnosing and treating venous diseases?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-challenges-in-diagnosing-and-treating-venous-diseases
+        What causes venous valve dysfunction?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-causes-venous-valve-dysfunction
 related_article5:
-    id: 102191
+    id: 102193
     title: >-
-        What are the clinical features of CVI?
+        What are the current treatment options for CVI?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-clinical-features-of-cvi
+    url: /learn/medicine/questions/what-are-the-current-treatment-options-for-cvi
 ---
 
 &nbsp;

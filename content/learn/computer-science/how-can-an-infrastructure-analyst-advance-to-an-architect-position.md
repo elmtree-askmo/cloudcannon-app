@@ -24,35 +24,35 @@ file_name: how-can-an-infrastructure-analyst-advance-to-an-architect-position.md
 url: /learn/computer-science/questions/how-can-an-infrastructure-analyst-advance-to-an-architect-position
 score: -1.0
 related_article1:
-    id: 122331
+    id: 122334
     title: >-
-        What qualifications are typically required for a Help Desk Analyst role?
+        What skills are necessary for someone working in Deskside Services?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-qualifications-are-typically-required-for-a-help-desk-analyst-role
+    url: /learn/computer-science/questions/what-skills-are-necessary-for-someone-working-in-deskside-services
 related_article2:
+    id: 122353
+    title: >-
+        What are the primary responsibilities of an IT Security Analyst?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-primary-responsibilities-of-an-it-security-analyst
+related_article3:
+    id: 122333
+    title: >-
+        What are the main duties of Deskside Services personnel?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-main-duties-of-deskside-services-personnel
+related_article4:
     id: 122329
     title: >-
         What are the primary responsibilities of a Help Desk Analyst?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-primary-responsibilities-of-a-help-desk-analyst
-related_article3:
-    id: 122351
-    title: >-
-        What qualifications are needed for a career as a Storage Analyst?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-qualifications-are-needed-for-a-career-as-a-storage-analyst
-related_article4:
-    id: 122340
-    title: >-
-        How does a Network Administrator transition to a Network Architect role?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-a-network-administrator-transition-to-a-network-architect-role
 related_article5:
-    id: 122357
+    id: 122332
     title: >-
-        What are the main duties of someone in Application Services?
+        How can a Help Desk Analyst advance in their career?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-duties-of-someone-in-application-services
+    url: /learn/computer-science/questions/how-can-a-help-desk-analyst-advance-in-their-career
 ---
 
 &nbsp;

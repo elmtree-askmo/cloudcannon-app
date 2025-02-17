@@ -13,7 +13,7 @@ seo:
   page_description: >-
     This content explains the relationship between mathematical symmetries and physical laws, focusing on Noether's theorem, conservation laws, and the implications of symmetry in physics, including examples like momentum and energy conservation, as well as the role of mathematical groups.
   page_keywords: >-
-    mathematical symmetries, physical laws, Noether's theorem, conservation laws, spatial translation, momentum conservation, time translation, energy conservation, mathematical groups, Poincaré group, spacetime, scale invariance, particle physics, spontaneous symmetry breaking, unification of forces, symmetry and conservation principles, modern physics, natural world
+    mathematical symmetries, physical laws, Noether's theorem, conservation laws, spatial translation, momentum conservation, time translation, energy conservation, mathematical groups, Poincar group, spacetime, scale invariance, particle physics, spontaneous symmetry breaking, unification of forces, symmetry and conservation principles, modern physics, natural world
 author: QuickTakes
 question: >-
     How do mathematical symmetries relate to physical laws?
@@ -24,29 +24,35 @@ file_name: how-do-mathematical-symmetries-relate-to-physical-laws.md
 url: /learn/physics/questions/how-do-mathematical-symmetries-relate-to-physical-laws
 score: -1.0
 related_article1:
-    id: 118708
+    id: 118716
     title: >-
-        How is mathematical language used in physics?
+        What is the conservation of angular momentum and its mathematical representation?
     subject: Physics
-    url: /learn/physics/questions/how-is-mathematical-language-used-in-physics
+    url: /learn/physics/questions/what-is-the-conservation-of-angular-momentum-and-its-mathematical-representation
 related_article2:
-    id: 118728
+    id: 118720
     title: >-
-        What is the historical significance of the relationship between physics and mathematics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-historical-significance-of-the-relationship-between-physics-and-mathematics
+        What are the philosophical implications of the relationship between physics and mathematics?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
 related_article3:
-    id: 118734
+    id: 118705
     title: >-
-        What are some modern advancements in mathematics that have influenced physics?
+        How does mathematics help us understand natural phenomena?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-modern-advancements-in-mathematics-that-have-influenced-physics
+    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
 related_article4:
-    id: 118706
+    id: 118710
     title: >-
-        What is Faraday's Law and how does it relate to mathematics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-faradays-law-and-how-does-it-relate-to-mathematics
+        How has modern mathematical notation evolved over time?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-over-time
+related_article5:
+    id: 118711
+    title: >-
+        What contributions did Babylonian and Greek traditions make to mathematics and physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-contributions-did-babylonian-and-greek-traditions-make-to-mathematics-and-physics
 ---
 
 &nbsp;

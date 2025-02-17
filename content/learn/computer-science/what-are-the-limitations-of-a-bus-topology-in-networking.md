@@ -24,35 +24,29 @@ file_name: what-are-the-limitations-of-a-bus-topology-in-networking.md
 url: /learn/computer-science/questions/what-are-the-limitations-of-a-bus-topology-in-networking
 score: -1.0
 related_article1:
-    id: 116166
+    id: 116153
     title: >-
-        How does subnetting work and why is it important?
+        How does a Wide Area Network (WAN) differ from a Metropolitan Area Network (MAN)?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-subnetting-work-and-why-is-it-important
+    url: /learn/computer-science/questions/how-does-a-wide-area-network-wan-differ-from-a-metropolitan-area-network-man
 related_article2:
-    id: 116169
+    id: 116162
     title: >-
-        What are the main functions of HTTP and HTTPS protocols?
+        How do switches differ from hubs in networking?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-functions-of-http-and-https-protocols
+    url: /learn/computer-science/questions/how-do-switches-differ-from-hubs-in-networking
 related_article3:
-    id: 116161
+    id: 116175
     title: >-
-        What roles do routers play in a network?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-roles-do-routers-play-in-a-network
+        What are the benefits of using VPNs for secure communication?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-are-the-benefits-of-using-vpns-for-secure-communication
 related_article4:
-    id: 116148
+    id: 116165
     title: >-
-        What is the definition of networking in the context of computer science?
+        What are the differences between IPv4 and IPv6 addressing?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-definition-of-networking-in-the-context-of-computer-science
-related_article5:
-    id: 116156
-    title: >-
-        How does a star topology function and what are its benefits?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-a-star-topology-function-and-what-are-its-benefits
+    url: /learn/computer-science/questions/what-are-the-differences-between-ipv4-and-ipv6-addressing
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: what-are-the-challenges-in-sourcing-highquality-aggregates-for-constr
 url: /learn/engineering/questions/what-are-the-challenges-in-sourcing-highquality-aggregates-for-construction
 score: -1.0
 related_article1:
-    id: 120406
+    id: 120424
     title: >-
-        How do metamorphic rocks contribute to the mineralogical composition of aggregates?
+        What are the potential environmental impacts of using different types of aggregates?
     subject: Engineering
-    url: /learn/engineering/questions/how-do-metamorphic-rocks-contribute-to-the-mineralogical-composition-of-aggregates
+    url: /learn/engineering/questions/what-are-the-potential-environmental-impacts-of-using-different-types-of-aggregates
 related_article2:
-    id: 120422
+    id: 120411
     title: >-
-        What are the best practices for ensuring the quality of aggregates used in construction?
+        How does the origin of aggregates affect their classification?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-best-practices-for-ensuring-the-quality-of-aggregates-used-in-construction
+    url: /learn/engineering/questions/how-does-the-origin-of-aggregates-affect-their-classification
 related_article3:
-    id: 120405
+    id: 120426
     title: >-
-        What are the characteristics of aggregates derived from sedimentary rocks?
+        What are the latest advancements in testing methods for aggregates?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-characteristics-of-aggregates-derived-from-sedimentary-rocks
+    url: /learn/engineering/questions/what-are-the-latest-advancements-in-testing-methods-for-aggregates
 related_article4:
-    id: 120418
+    id: 120414
     title: >-
-        What are the standard testing methods for assessing the granulometry of aggregates?
+        What types of impurities can be found in aggregates and how do they affect concrete?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-standard-testing-methods-for-assessing-the-granulometry-of-aggregates
+    url: /learn/engineering/questions/what-types-of-impurities-can-be-found-in-aggregates-and-how-do-they-affect-concrete
 related_article5:
-    id: 120423
+    id: 120407
     title: >-
-        How does the granulometry of aggregates influence the workability of concrete?
+        In what ways does the mineralogical composition of aggregates influence their mechanical properties?
     subject: Engineering
-    url: /learn/engineering/questions/how-does-the-granulometry-of-aggregates-influence-the-workability-of-concrete
+    url: /learn/engineering/questions/in-what-ways-does-the-mineralogical-composition-of-aggregates-influence-their-mechanical-properties
 ---
 
 &nbsp;

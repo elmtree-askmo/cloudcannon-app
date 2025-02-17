@@ -24,29 +24,35 @@ file_name: what-are-the-key-learning-objectives-when-studying-emerging-modes-of-
 url: /learn/business-and-management/questions/what-are-the-key-learning-objectives-when-studying-emerging-modes-of-business
 score: -1.0
 related_article1:
-    id: 98572
-    title: >-
-        What are the limitations of e-business that businesses need to be aware of?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-limitations-of-ebusiness-that-businesses-need-to-be-aware-of
-related_article2:
     id: 98558
     title: >-
         What are the typical steps involved in online transactions?
     subject: Business and Management
     url: /learn/business-and-management/questions/what-are-the-typical-steps-involved-in-online-transactions
-related_article3:
-    id: 98561
+related_article2:
+    id: 98563
     title: >-
-        What payment mechanisms are most commonly used in e-business?
+        What are the transaction risks associated with e-business?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-payment-mechanisms-are-most-commonly-used-in-ebusiness
+    url: /learn/business-and-management/questions/what-are-the-transaction-risks-associated-with-ebusiness
+related_article3:
+    id: 98572
+    title: >-
+        What are the limitations of e-business that businesses need to be aware of?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-the-limitations-of-ebusiness-that-businesses-need-to-be-aware-of
 related_article4:
     id: 98549
     title: >-
         How do internationalisation and globalisation impact e-business?
     subject: Business and Management
     url: /learn/business-and-management/questions/how-do-internationalisation-and-globalisation-impact-ebusiness
+related_article5:
+    id: 98552
+    title: >-
+        How does B2B commerce differ from B2C commerce in the context of e-business?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-does-b2b-commerce-differ-from-b2c-commerce-in-the-context-of-ebusiness
 ---
 
 &nbsp;

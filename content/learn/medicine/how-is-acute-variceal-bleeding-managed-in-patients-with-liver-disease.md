@@ -24,29 +24,35 @@ file_name: how-is-acute-variceal-bleeding-managed-in-patients-with-liver-disease
 url: /learn/medicine/questions/how-is-acute-variceal-bleeding-managed-in-patients-with-liver-disease
 score: -1.0
 related_article1:
-    id: 98998
+    id: 98984
     title: >-
-        What are the common diagnostic tools used to assess portal hypertension?
+        How does portal hypertension contribute to the complications of liver disease?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-diagnostic-tools-used-to-assess-portal-hypertension
+    url: /learn/medicine/questions/how-does-portal-hypertension-contribute-to-the-complications-of-liver-disease
 related_article2:
-    id: 98975
-    title: >-
-        What are the long-term management strategies for variceal bleeding?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-longterm-management-strategies-for-variceal-bleeding
-related_article3:
     id: 98987
     title: >-
         What role does lifestyle modification play in the management of cirrhosis?
     subject: Health Studies
     url: /learn/health-studies/questions/what-role-does-lifestyle-modification-play-in-the-management-of-cirrhosis
-related_article4:
+related_article3:
     id: 98990
     title: >-
         What are the latest advancements in the treatment of cirrhosis complications?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-latest-advancements-in-the-treatment-of-cirrhosis-complications
+related_article4:
+    id: 98989
+    title: >-
+        How is the severity of cirrhosis assessed in clinical practice?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-the-severity-of-cirrhosis-assessed-in-clinical-practice
+related_article5:
+    id: 98992
+    title: >-
+        What are the potential side effects of treatments for variceal bleeding?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-potential-side-effects-of-treatments-for-variceal-bleeding
 ---
 
 &nbsp;

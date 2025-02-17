@@ -24,35 +24,35 @@ file_name: what-are-the-primary-responsibilities-of-a-help-desk-analyst.md
 url: /learn/computer-science/questions/what-are-the-primary-responsibilities-of-a-help-desk-analyst
 score: -1.0
 related_article1:
+    id: 122349
+    title: >-
+        What are the key duties of a Storage Analyst?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-key-duties-of-a-storage-analyst
+related_article2:
+    id: 122348
+    title: >-
+        How can an Infrastructure Analyst advance to an Architect position?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-can-an-infrastructure-analyst-advance-to-an-architect-position
+related_article3:
+    id: 122345
+    title: >-
+        What are the main responsibilities of an Infrastructure Analyst?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-main-responsibilities-of-an-infrastructure-analyst
+related_article4:
+    id: 122340
+    title: >-
+        How does a Network Administrator transition to a Network Architect role?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-a-network-administrator-transition-to-a-network-architect-role
+related_article5:
     id: 122358
     title: >-
         What skills are important for a career in Application Services?
     subject: Computer Science
     url: /learn/computer-science/questions/what-skills-are-important-for-a-career-in-application-services
-related_article2:
-    id: 122330
-    title: >-
-        What skills are essential for a Help Desk Analyst to be successful?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-skills-are-essential-for-a-help-desk-analyst-to-be-successful
-related_article3:
-    id: 122343
-    title: >-
-        What qualifications are needed to become a Data Centre Administrator?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-qualifications-are-needed-to-become-a-data-centre-administrator
-related_article4:
-    id: 122337
-    title: >-
-        What are the key responsibilities of a Network Administrator?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-responsibilities-of-a-network-administrator
-related_article5:
-    id: 122355
-    title: >-
-        What qualifications are generally required for an IT Security Analyst role?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-qualifications-are-generally-required-for-an-it-security-analyst-role
 ---
 
 &nbsp;

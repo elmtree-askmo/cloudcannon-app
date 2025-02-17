@@ -35,12 +35,6 @@ related_article2:
         What are the symptoms and causes of narcolepsy?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-symptoms-and-causes-of-narcolepsy
-related_article3:
-    id: 116817
-    title: >-
-        What is sleep apnea and how is it related to hypersomnia?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-sleep-apnea-and-how-is-it-related-to-hypersomnia
 ---
 
 &nbsp;

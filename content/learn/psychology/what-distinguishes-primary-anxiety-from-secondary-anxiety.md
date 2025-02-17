@@ -24,11 +24,11 @@ file_name: what-distinguishes-primary-anxiety-from-secondary-anxiety.md
 url: /learn/psychology/questions/what-distinguishes-primary-anxiety-from-secondary-anxiety
 score: -1.0
 related_article1:
-    id: 104611
+    id: 104615
     title: >-
-        What are common drug interactions associated with antidepressants and mood stabilizers?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-common-drug-interactions-associated-with-antidepressants-and-mood-stabilizers
+        What are the long-term effects of using antipsychotics and anxiolytics?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-longterm-effects-of-using-antipsychotics-and-anxiolytics
 related_article2:
     id: 104599
     title: >-
@@ -36,23 +36,23 @@ related_article2:
     subject: Medicine
     url: /learn/medicine/questions/what-is-the-primary-purpose-of-anxiolytics-in-psychiatric-treatment
 related_article3:
-    id: 104604
+    id: 104611
     title: >-
-        What are the different classes of antidepressants and how do they differ in their mechanisms?
+        What are common drug interactions associated with antidepressants and mood stabilizers?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-different-classes-of-antidepressants-and-how-do-they-differ-in-their-mechanisms
+    url: /learn/medicine/questions/what-are-common-drug-interactions-associated-with-antidepressants-and-mood-stabilizers
 related_article4:
-    id: 104612
+    id: 104596
     title: >-
-        How can nonadherence to antidepressant treatment be addressed in patients?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-can-nonadherence-to-antidepressant-treatment-be-addressed-in-patients
-related_article5:
-    id: 104600
-    title: >-
-        How do benzodiazepines work to alleviate anxiety symptoms?
+        What is Tardive Dyskinesia and how can it be prevented or treated?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-benzodiazepines-work-to-alleviate-anxiety-symptoms
+    url: /learn/medicine/questions/what-is-tardive-dyskinesia-and-how-can-it-be-prevented-or-treated
+related_article5:
+    id: 104610
+    title: >-
+        What role does lithium play as a mood stabilizer and what are its side effects?
+    subject: Medicine
+    url: /learn/medicine/questions/what-role-does-lithium-play-as-a-mood-stabilizer-and-what-are-its-side-effects
 ---
 
 &nbsp;

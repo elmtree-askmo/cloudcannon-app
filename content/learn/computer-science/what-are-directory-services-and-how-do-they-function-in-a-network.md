@@ -30,29 +30,29 @@ related_article1:
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-main-components-of-email-services
 related_article2:
-    id: 123102
+    id: 123098
     title: >-
-        What are the differences between SMTP, POP3, and IMAP4 protocols?
+        How does LDAP facilitate single sign-on in network environments?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-differences-between-smtp-pop3-and-imap4-protocols
+    url: /learn/computer-science/questions/how-does-ldap-facilitate-single-signon-in-network-environments
 related_article3:
-    id: 123100
+    id: 123089
     title: >-
-        How do Mail User Agents (MUA) interact with email servers?
+        What is the relationship between storage solutions and DBMS performance?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-mail-user-agents-mua-interact-with-email-servers
+    url: /learn/computer-science/questions/what-is-the-relationship-between-storage-solutions-and-dbms-performance
 related_article4:
-    id: 123085
+    id: 123087
     title: >-
-        What are the main components of a database system?
+        What are the benefits of having a network-accessible DBMS?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-components-of-a-database-system
+    url: /learn/computer-science/questions/what-are-the-benefits-of-having-a-networkaccessible-dbms
 related_article5:
-    id: 123080
+    id: 123076
     title: >-
-        What are some common challenges associated with network printing?
+        What are the primary functions of a file server in a network?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-common-challenges-associated-with-network-printing
+    url: /learn/computer-science/questions/what-are-the-primary-functions-of-a-file-server-in-a-network
 ---
 
 &nbsp;

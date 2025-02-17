@@ -29,6 +29,12 @@ related_article1:
         How did the Oscar Mack Project impact the families directly involved in the historical incidents?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-the-oscar-mack-project-impact-the-families-directly-involved-in-the-historical-incidents
+related_article2:
+    id: 98359
+    title: >-
+        How did racial violence impact African American communities in Central Florida?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-racial-violence-impact-african-american-communities-in-central-florida
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: how-does-marketing-add-value-by-catering-to-customers-needs.md
 url: /learn/business-and-management/questions/how-does-marketing-add-value-by-catering-to-customers-needs
 score: -1.0
 related_article1:
-    id: 119524
+    id: 119514
     title: >-
-        What are specific markets and how are they identified?
+        What are the unique challenges in marketing persons and places?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-specific-markets-and-how-are-they-identified
+    url: /learn/business-and-management/questions/what-are-the-unique-challenges-in-marketing-persons-and-places
 related_article2:
-    id: 119527
-    title: >-
-        What are the key metrics used in marketing planning?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-key-metrics-used-in-marketing-planning
-related_article3:
-    id: 119521
-    title: >-
-        What are the different demand states in demand management?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-different-demand-states-in-demand-management
-related_article4:
-    id: 119512
-    title: >-
-        What role do events play in marketing strategies?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-role-do-events-play-in-marketing-strategies
-related_article5:
     id: 119509
     title: >-
         How does marketing contribute to a company's success and job creation?
     subject: Business and Management
     url: /learn/business-and-management/questions/how-does-marketing-contribute-to-a-companys-success-and-job-creation
+related_article3:
+    id: 119510
+    title: >-
+        What are the different entities that can be marketed?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-the-different-entities-that-can-be-marketed
+related_article4:
+    id: 119529
+    title: >-
+        What is the Ansoff Matrix and how is it used in market penetration analysis?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-is-the-ansoff-matrix-and-how-is-it-used-in-market-penetration-analysis
+related_article5:
+    id: 119507
+    title: >-
+        Why might wants be considered elusive in marketing?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/why-might-wants-be-considered-elusive-in-marketing
 ---
 
 &nbsp;

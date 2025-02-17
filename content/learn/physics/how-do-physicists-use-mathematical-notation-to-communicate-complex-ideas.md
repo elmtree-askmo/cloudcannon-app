@@ -24,35 +24,29 @@ file_name: how-do-physicists-use-mathematical-notation-to-communicate-complex-id
 url: /learn/physics/questions/how-do-physicists-use-mathematical-notation-to-communicate-complex-ideas
 score: -1.0
 related_article1:
-    id: 119272
+    id: 119276
     title: >-
-        What is the significance of force and equal areas in physics?
+        How did the Babylonian method influence the development of physics?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-significance-of-force-and-equal-areas-in-physics
+    url: /learn/physics/questions/how-did-the-babylonian-method-influence-the-development-of-physics
 related_article2:
-    id: 119286
+    id: 119280
     title: >-
-        How did ancient civilizations contribute to the development of mathematical concepts used in physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-concepts-used-in-physics
+        How do Newton's laws illustrate the connection between physics and mathematics?
+    subject: Physics
+    url: /learn/physics/questions/how-do-newtons-laws-illustrate-the-connection-between-physics-and-mathematics
 related_article3:
-    id: 119275
+    id: 119297
     title: >-
-        What are fundamental principles and consequential statements in physics?
+        What are some modern applications of Faraday's Law in technology?
     subject: Physics
-    url: /learn/physics/questions/what-are-fundamental-principles-and-consequential-statements-in-physics
+    url: /learn/physics/questions/what-are-some-modern-applications-of-faradays-law-in-technology
 related_article4:
-    id: 119279
+    id: 119288
     title: >-
-        What is the principle of conservation of angular momentum?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-principle-of-conservation-of-angular-momentum
-related_article5:
-    id: 119274
-    title: >-
-        What contributions did Babylonian and Greek traditions make to mathematics and physics?
+        How does the Euclidean method differ from other mathematical approaches in physics?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-contributions-did-babylonian-and-greek-traditions-make-to-mathematics-and-physics
+    url: /learn/mathematics/questions/how-does-the-euclidean-method-differ-from-other-mathematical-approaches-in-physics
 ---
 
 &nbsp;

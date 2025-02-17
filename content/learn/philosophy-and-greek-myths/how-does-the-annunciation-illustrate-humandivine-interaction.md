@@ -30,17 +30,17 @@ related_article1:
     subject: Philosophy and Greek Myths
     url: /learn/philosophy-and-greek-myths/questions/what-is-the-importance-of-faith-and-humility-in-the-context-of-the-annunciation
 related_article2:
-    id: 115644
-    title: >-
-        How does the announcement to Zechariah compare to Mary's announcement?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-does-the-announcement-to-zechariah-compare-to-marys-announcement
-related_article3:
     id: 115639
     title: >-
         How is Elizabeth's pregnancy a sign of divine intervention?
     subject: Philosophy and Greek Myths
     url: /learn/philosophy-and-greek-myths/questions/how-is-elizabeths-pregnancy-a-sign-of-divine-intervention
+related_article3:
+    id: 115642
+    title: >-
+        How did Mary show faith and humility in accepting God's plan?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/how-did-mary-show-faith-and-humility-in-accepting-gods-plan
 ---
 
 &nbsp;

@@ -13,7 +13,7 @@ seo:
   page_description: >-
     This content discusses the bond angles in a tetrahedral molecular shape, detailing the ideal angle of 109.5 and how lone pairs can affect this angle.
   page_keywords: >-
-    tetrahedral, bond angle, 109.5 degrees, molecular shape, sp³ hybridization, methane, lone pairs, electron pair repulsion, molecular geometry, chemistry
+    tetrahedral, bond angle, 109.5 degrees, molecular shape, sp hybridization, methane, lone pairs, electron pair repulsion, molecular geometry, chemistry
 author: QuickTakes
 question: >-
     What are the bond angles in a tetrahedral molecular shape?
@@ -30,12 +30,6 @@ related_article1:
     subject: Chemistry
     url: /learn/chemistry/questions/what-are-the-practical-implications-of-understanding-molecular-shapes-in-chemistry
 related_article2:
-    id: 123531
-    title: >-
-        Why is electron pair repulsion important in understanding molecular structures?
-    subject: Chemistry
-    url: /learn/chemistry/questions/why-is-electron-pair-repulsion-important-in-understanding-molecular-structures
-related_article3:
     id: 123539
     title: >-
         What are the basic principles of VSEPR theory?

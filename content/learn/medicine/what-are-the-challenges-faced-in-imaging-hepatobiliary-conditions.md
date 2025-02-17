@@ -24,35 +24,29 @@ file_name: what-are-the-challenges-faced-in-imaging-hepatobiliary-conditions.md
 url: /learn/medicine/questions/what-are-the-challenges-faced-in-imaging-hepatobiliary-conditions
 score: -1.0
 related_article1:
-    id: 118139
+    id: 118121
     title: >-
-        What are the potential risks or side effects associated with imaging techniques used in hepatobiliary diagnosis?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-potential-risks-or-side-effects-associated-with-imaging-techniques-used-in-hepatobiliary-diagnosis
+        What are the common imaging characteristics of hepatocellular carcinoma?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-common-imaging-characteristics-of-hepatocellular-carcinoma
 related_article2:
-    id: 118125
+    id: 118117
     title: >-
-        What are the common imaging characteristics of acute pancreatitis?
+        What are the common treatment and management approaches for acute cholecystitis?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-imaging-characteristics-of-acute-pancreatitis
+    url: /learn/medicine/questions/what-are-the-common-treatment-and-management-approaches-for-acute-cholecystitis
 related_article3:
-    id: 118118
+    id: 118120
     title: >-
-        Can you provide insights into a case study of acute pancreatitis, including patient presentation and imaging findings?
+        What are the typical treatment and management strategies for acute pancreatitis?
     subject: Medicine
-    url: /learn/medicine/questions/can-you-provide-insights-into-a-case-study-of-acute-pancreatitis-including-patient-presentation-and-imaging-findings
+    url: /learn/medicine/questions/what-are-the-typical-treatment-and-management-strategies-for-acute-pancreatitis
 related_article4:
-    id: 118111
+    id: 118112
     title: >-
-        What are the specific indications for using imaging in hepatobiliary conditions?
+        Can you provide details on a case study involving hepatocellular carcinoma, including patient presentation and imaging findings?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-specific-indications-for-using-imaging-in-hepatobiliary-conditions
-related_article5:
-    id: 118137
-    title: >-
-        What are the cost considerations associated with different imaging modalities in hepatobiliary diagnosis?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-cost-considerations-associated-with-different-imaging-modalities-in-hepatobiliary-diagnosis
+    url: /learn/medicine/questions/can-you-provide-details-on-a-case-study-involving-hepatocellular-carcinoma-including-patient-presentation-and-imaging-findings
 ---
 
 &nbsp;

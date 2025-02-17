@@ -24,29 +24,35 @@ file_name: what-are-the-primary-functions-of-the-skeletal-system.md
 url: /learn/health-studies/questions/what-are-the-primary-functions-of-the-skeletal-system
 score: -1.0
 related_article1:
-    id: 100361
-    title: >-
-        What are the main components of the appendicular skeleton?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-components-of-the-appendicular-skeleton
-related_article2:
-    id: 100376
-    title: >-
-        What are the unique characteristics of the femur compared to other bones?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-unique-characteristics-of-the-femur-compared-to-other-bones
-related_article3:
     id: 100358
     title: >-
         What roles do bones play in blood production?
     subject: Medicine
     url: /learn/medicine/questions/what-roles-do-bones-play-in-blood-production
-related_article4:
-    id: 100367
+related_article2:
+    id: 100373
     title: >-
-        What are the main functions of the legs in the skeletal system?
+        How do the arms facilitate movement and dexterity?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-functions-of-the-legs-in-the-skeletal-system
+    url: /learn/health-studies/questions/how-do-the-arms-facilitate-movement-and-dexterity
+related_article3:
+    id: 100380
+    title: >-
+        What are the major bones in the arms and their functions?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-major-bones-in-the-arms-and-their-functions
+related_article4:
+    id: 100370
+    title: >-
+        What is the significance of the skull in protecting the brain?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-significance-of-the-skull-in-protecting-the-brain
+related_article5:
+    id: 100379
+    title: >-
+        How do the bones of the spine interact to allow flexibility and support?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-the-bones-of-the-spine-interact-to-allow-flexibility-and-support
 ---
 
 &nbsp;

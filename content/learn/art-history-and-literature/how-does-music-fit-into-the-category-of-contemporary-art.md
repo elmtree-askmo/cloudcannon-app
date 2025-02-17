@@ -24,35 +24,35 @@ file_name: how-does-music-fit-into-the-category-of-contemporary-art.md
 url: /learn/art-history-and-literature/questions/how-does-music-fit-into-the-category-of-contemporary-art
 score: -1.0
 related_article1:
-    id: 110250
+    id: 110237
     title: >-
-        How is theater represented in contemporary art?
+        How is art defined across different cultures?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-is-theater-represented-in-contemporary-art
+    url: /learn/art-history-and-literature/questions/how-is-art-defined-across-different-cultures
 related_article2:
-    id: 110249
+    id: 110258
     title: >-
-        What role does literature play in contemporary art?
+        How do contemporary artists engage with social and political themes?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-does-literature-play-in-contemporary-art
+    url: /learn/art-history-and-literature/questions/how-do-contemporary-artists-engage-with-social-and-political-themes
 related_article3:
-    id: 110262
+    id: 110263
     title: >-
-        How does contemporary art reflect technological advancements?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-contemporary-art-reflect-technological-advancements
+        What is the role of contemporary art in education?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-role-of-contemporary-art-in-education
 related_article4:
-    id: 110266
+    id: 110238
     title: >-
-        How do contemporary art exhibitions influence public perception of art?
+        What are the key characteristics that distinguish traditional art from modern and contemporary art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-contemporary-art-exhibitions-influence-public-perception-of-art
+    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-that-distinguish-traditional-art-from-modern-and-contemporary-art
 related_article5:
-    id: 110255
+    id: 110239
     title: >-
-        What are some examples of traditional art forms in the Philippines?
+        How has the definition of art evolved over time?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-examples-of-traditional-art-forms-in-the-philippines
+    url: /learn/art-history-and-literature/questions/how-has-the-definition-of-art-evolved-over-time
 ---
 
 &nbsp;

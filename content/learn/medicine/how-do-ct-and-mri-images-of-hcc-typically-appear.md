@@ -24,11 +24,11 @@ file_name: how-do-ct-and-mri-images-of-hcc-typically-appear.md
 url: /learn/medicine/questions/how-do-ct-and-mri-images-of-hcc-typically-appear
 score: -1.0
 related_article1:
-    id: 118089
+    id: 118109
     title: >-
-        What specific features are looked for in PET-CT imaging of HCC?
+        What is the role of imaging in the follow-up care of HCC patients?
     subject: Medicine
-    url: /learn/medicine/questions/what-specific-features-are-looked-for-in-petct-imaging-of-hcc
+    url: /learn/medicine/questions/what-is-the-role-of-imaging-in-the-followup-care-of-hcc-patients
 related_article2:
     id: 118098
     title: >-
@@ -42,17 +42,17 @@ related_article3:
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-key-differences-between-lyrad-and-european-imaging-guidelines-for-hcc
 related_article4:
-    id: 118095
+    id: 118104
     title: >-
-        What imaging characteristics help distinguish cholangiocarcinoma from HCC?
+        How do imaging characteristics of HCC change with different stages of the disease?
     subject: Medicine
-    url: /learn/medicine/questions/what-imaging-characteristics-help-distinguish-cholangiocarcinoma-from-hcc
+    url: /learn/medicine/questions/how-do-imaging-characteristics-of-hcc-change-with-different-stages-of-the-disease
 related_article5:
-    id: 118105
+    id: 118096
     title: >-
-        What are the potential complications of imaging-guided interventions for liver abscesses?
+        How can metastasis to the liver be differentiated from primary HCC on imaging?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-potential-complications-of-imagingguided-interventions-for-liver-abscesses
+    url: /learn/medicine/questions/how-can-metastasis-to-the-liver-be-differentiated-from-primary-hcc-on-imaging
 ---
 
 &nbsp;

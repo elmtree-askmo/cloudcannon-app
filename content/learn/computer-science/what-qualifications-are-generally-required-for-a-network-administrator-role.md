@@ -13,7 +13,7 @@ seo:
   page_description: >-
     An overview of the qualifications required for a Network Administrator role, including educational requirements, certifications, experience, technical and soft skills necessary for success in the field.
   page_keywords: >-
-    Network Administrator, qualifications, educational background, bachelor’s degree, certifications, CCNA, CompTIA Network+, experience, technical skills, soft skills, continuous learning
+    Network Administrator, qualifications, educational background, bachelors degree, certifications, CCNA, CompTIA Network+, experience, technical skills, soft skills, continuous learning
 author: QuickTakes
 question: >-
     What qualifications are generally required for a Network Administrator role?
@@ -24,35 +24,35 @@ file_name: what-qualifications-are-generally-required-for-a-network-administrato
 url: /learn/computer-science/questions/what-qualifications-are-generally-required-for-a-network-administrator-role
 score: -1.0
 related_article1:
-    id: 122332
+    id: 122331
     title: >-
-        How can a Help Desk Analyst advance in their career?
+        What qualifications are typically required for a Help Desk Analyst role?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-a-help-desk-analyst-advance-in-their-career
+    url: /learn/computer-science/questions/what-qualifications-are-typically-required-for-a-help-desk-analyst-role
 related_article2:
-    id: 122343
-    title: >-
-        What qualifications are needed to become a Data Centre Administrator?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-qualifications-are-needed-to-become-a-data-centre-administrator
-related_article3:
-    id: 122347
-    title: >-
-        What qualifications are typically required for an Infrastructure Analyst role?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-qualifications-are-typically-required-for-an-infrastructure-analyst-role
-related_article4:
     id: 122345
     title: >-
         What are the main responsibilities of an Infrastructure Analyst?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-main-responsibilities-of-an-infrastructure-analyst
-related_article5:
-    id: 122336
+related_article3:
+    id: 122335
     title: >-
-        What is the typical career progression for someone in Deskside Services?
+        What qualifications are needed for a career in Deskside Services?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-typical-career-progression-for-someone-in-deskside-services
+    url: /learn/computer-science/questions/what-qualifications-are-needed-for-a-career-in-deskside-services
+related_article4:
+    id: 122341
+    title: >-
+        What are the primary duties of a Data Centre Administrator?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-primary-duties-of-a-data-centre-administrator
+related_article5:
+    id: 122355
+    title: >-
+        What qualifications are generally required for an IT Security Analyst role?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-qualifications-are-generally-required-for-an-it-security-analyst-role
 ---
 
 &nbsp;

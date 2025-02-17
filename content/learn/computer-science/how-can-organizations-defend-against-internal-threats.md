@@ -24,35 +24,35 @@ file_name: how-can-organizations-defend-against-internal-threats.md
 url: /learn/computer-science/questions/how-can-organizations-defend-against-internal-threats
 score: -1.0
 related_article1:
-    id: 123104
+    id: 123114
     title: >-
-        What are the most common types of network security threats today?
+        What is code injection and how can it be prevented?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-most-common-types-of-network-security-threats-today
+    url: /learn/computer-science/questions/what-is-code-injection-and-how-can-it-be-prevented
 related_article2:
-    id: 123124
+    id: 123109
     title: >-
-        What are the benefits of using password management tools?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-benefits-of-using-password-management-tools
+        How does social engineering exploit human psychology in network security breaches?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-social-engineering-exploit-human-psychology-in-network-security-breaches
 related_article3:
+    id: 123120
+    title: >-
+        What role does physical security play in protecting network infrastructure?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-role-does-physical-security-play-in-protecting-network-infrastructure
+related_article4:
     id: 123130
     title: >-
         What are the most common social engineering tactics used by attackers?
     subject: Sociology
     url: /learn/sociology/questions/what-are-the-most-common-social-engineering-tactics-used-by-attackers
-related_article4:
-    id: 123119
-    title: >-
-        How can controlled access improve network security?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-controlled-access-improve-network-security
 related_article5:
-    id: 123122
+    id: 123108
     title: >-
-        What are the risks associated with password reuse?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-are-the-risks-associated-with-password-reuse
+        What are some examples of internal threats in network security?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-some-examples-of-internal-threats-in-network-security
 ---
 
 &nbsp;

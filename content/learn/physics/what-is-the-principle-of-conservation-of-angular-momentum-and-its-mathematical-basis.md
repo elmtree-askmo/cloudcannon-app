@@ -24,35 +24,29 @@ file_name: what-is-the-principle-of-conservation-of-angular-momentum-and-its-mat
 url: /learn/physics/questions/what-is-the-principle-of-conservation-of-angular-momentum-and-its-mathematical-basis
 score: -1.0
 related_article1:
-    id: 123059
-    title: >-
-        What is the local field method in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-local-field-method-in-physics
-related_article2:
     id: 123062
     title: >-
         How do mathematical models help in predicting physical phenomena?
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
+related_article2:
+    id: 123067
+    title: >-
+        What are some examples of fundamental principles in physics that rely on mathematics?
+    subject: Physics
+    url: /learn/physics/questions/what-are-some-examples-of-fundamental-principles-in-physics-that-rely-on-mathematics
 related_article3:
-    id: 123066
+    id: 123056
     title: >-
-        How did Greek philosophers influence the mathematical understanding of nature?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-did-greek-philosophers-influence-the-mathematical-understanding-of-nature
+        How does the law of gravitation illustrate the relationship between physics and mathematics?
+    subject: Physics
+    url: /learn/physics/questions/how-does-the-law-of-gravitation-illustrate-the-relationship-between-physics-and-mathematics
 related_article4:
-    id: 123060
+    id: 123054
     title: >-
-        Can you explain the minimum principle and its importance in physics?
-    subject: Physics
-    url: /learn/physics/questions/can-you-explain-the-minimum-principle-and-its-importance-in-physics
-related_article5:
-    id: 123058
-    title: >-
-        How do Newton's Laws demonstrate the connection between physics and mathematics?
-    subject: Physics
-    url: /learn/physics/questions/how-do-newtons-laws-demonstrate-the-connection-between-physics-and-mathematics
+        How did the Babylonian method influence the development of physics?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-babylonian-method-influence-the-development-of-physics
 ---
 
 &nbsp;

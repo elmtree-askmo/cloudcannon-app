@@ -24,12 +24,6 @@ file_name: why-is-selfconcept-development-important-in-childhood.md
 url: /learn/psychology/questions/why-is-selfconcept-development-important-in-childhood
 score: -1.0
 related_article1:
-    id: 99097
-    title: >-
-        How do parenting styles affect child development?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-parenting-styles-affect-child-development
-related_article2:
     id: 99087
     title: >-
         What are sensitive periods in development and why are they important?

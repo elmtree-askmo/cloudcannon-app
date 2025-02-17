@@ -24,29 +24,23 @@ file_name: what-is-the-euclidean-method-and-its-role-in-physics.md
 url: /learn/physics/questions/what-is-the-euclidean-method-and-its-role-in-physics
 score: -1.0
 related_article1:
-    id: 124006
+    id: 124026
     title: >-
-        What are fundamental principles and consequential statements in physics?
+        What is the significance of the local field method in modern physics?
     subject: Physics
-    url: /learn/physics/questions/what-are-fundamental-principles-and-consequential-statements-in-physics
+    url: /learn/physics/questions/what-is-the-significance-of-the-local-field-method-in-modern-physics
 related_article2:
-    id: 123999
+    id: 124016
     title: >-
-        How does mathematics help us understand natural phenomena?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
+        What role does calculus play in understanding physical laws?
+    subject: Physics
+    url: /learn/physics/questions/what-role-does-calculus-play-in-understanding-physical-laws
 related_article3:
-    id: 124000
+    id: 124019
     title: >-
-        What is Faraday's Law and how does it relate to mathematics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-faradays-law-and-how-does-it-relate-to-mathematics
-related_article4:
-    id: 124003
-    title: >-
-        What is the significance of force and equal areas in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-significance-of-force-and-equal-areas-in-physics
+        How did Greek philosophers influence the mathematical understanding of nature?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/how-did-greek-philosophers-influence-the-mathematical-understanding-of-nature
 ---
 
 &nbsp;

@@ -24,29 +24,29 @@ file_name: what-are-the-radiological-features-of-common-habitability-disorders-a
 url: /learn/medicine/questions/what-are-the-radiological-features-of-common-habitability-disorders-affecting-the-gallbladder-and-biliary-tree
 score: -1.0
 related_article1:
-    id: 118187
+    id: 118174
     title: >-
-        How does hepatic artery Doppler ultrasound contribute to liver assessment?
+        How are gallstones detected using abdominal X-rays?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-hepatic-artery-doppler-ultrasound-contribute-to-liver-assessment
+    url: /learn/medicine/questions/how-are-gallstones-detected-using-abdominal-xrays
 related_article2:
-    id: 118188
+    id: 118175
     title: >-
-        What are the challenges faced in ultrasound imaging, particularly regarding operator dependency?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-challenges-faced-in-ultrasound-imaging-particularly-regarding-operator-dependency
+        What is pneumobilia and how is it identified on an abdominal X-ray?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-pneumobilia-and-how-is-it-identified-on-an-abdominal-xray
 related_article3:
-    id: 118189
+    id: 118180
     title: >-
-        How do rib cage and gas interference affect ultrasound imaging?
+        How effective is ultrasound in detecting focal liver lesions?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-rib-cage-and-gas-interference-affect-ultrasound-imaging
+    url: /learn/medicine/questions/how-effective-is-ultrasound-in-detecting-focal-liver-lesions
 related_article4:
-    id: 118184
+    id: 118178
     title: >-
-        What are the radiological features of pancreatic head mass and chronic pancreatitis?
+        How is ultrasound used in the assessment of liver conditions like cirrhosis and steatosis?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-radiological-features-of-pancreatic-head-mass-and-chronic-pancreatitis
+    url: /learn/medicine/questions/how-is-ultrasound-used-in-the-assessment-of-liver-conditions-like-cirrhosis-and-steatosis
 ---
 
 &nbsp;

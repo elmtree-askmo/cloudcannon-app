@@ -30,17 +30,17 @@ related_article1:
     subject: Sociology
     url: /learn/sociology/questions/how-do-sociological-theories-contribute-to-our-understanding-of-social-change
 related_article2:
-    id: 116742
-    title: >-
-        What are the main tenets of interpretivism in sociology?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-main-tenets-of-interpretivism-in-sociology
-related_article3:
     id: 116737
     title: >-
         What are the key principles of positivism in sociology?
     subject: Sociology
     url: /learn/sociology/questions/what-are-the-key-principles-of-positivism-in-sociology
+related_article3:
+    id: 116742
+    title: >-
+        What are the main tenets of interpretivism in sociology?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-main-tenets-of-interpretivism-in-sociology
 ---
 
 &nbsp;

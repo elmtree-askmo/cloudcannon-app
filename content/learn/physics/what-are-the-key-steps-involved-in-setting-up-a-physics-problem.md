@@ -24,35 +24,35 @@ file_name: what-are-the-key-steps-involved-in-setting-up-a-physics-problem.md
 url: /learn/physics/questions/what-are-the-key-steps-involved-in-setting-up-a-physics-problem
 score: -1.0
 related_article1:
-    id: 122459
+    id: 122452
     title: >-
-        How do the equations of motion change for uniformly accelerated motion?
+        Can you explain the difference between displacement and distance in motion and kinematics?
     subject: Physics
-    url: /learn/physics/questions/how-do-the-equations-of-motion-change-for-uniformly-accelerated-motion
+    url: /learn/physics/questions/can-you-explain-the-difference-between-displacement-and-distance-in-motion-and-kinematics
 related_article2:
-    id: 122461
+    id: 122466
     title: >-
-        How does Newton's Second Law relate to force and acceleration?
+        What are the different forms of potential energy, and how are they calculated?
     subject: Physics
-    url: /learn/physics/questions/how-does-newtons-second-law-relate-to-force-and-acceleration
+    url: /learn/physics/questions/what-are-the-different-forms-of-potential-energy-and-how-are-they-calculated
 related_article3:
-    id: 122458
+    id: 122473
     title: >-
-        What are the key equations of motion for uniform motion?
+        How is Ohm's Law applied in electrical circuits?
     subject: Physics
-    url: /learn/physics/questions/what-are-the-key-equations-of-motion-for-uniform-motion
+    url: /learn/physics/questions/how-is-ohms-law-applied-in-electrical-circuits
 related_article4:
-    id: 122460
+    id: 122464
     title: >-
-        Can you explain Newton's First Law and its implications in real-world scenarios?
+        What is the role of torque in rotational equilibrium?
     subject: Physics
-    url: /learn/physics/questions/can-you-explain-newtons-first-law-and-its-implications-in-realworld-scenarios
+    url: /learn/physics/questions/what-is-the-role-of-torque-in-rotational-equilibrium
 related_article5:
-    id: 122467
+    id: 122474
     title: >-
-        How is kinetic energy calculated, and what factors affect it?
+        What are the characteristics of series and parallel circuits?
     subject: Physics
-    url: /learn/physics/questions/how-is-kinetic-energy-calculated-and-what-factors-affect-it
+    url: /learn/physics/questions/what-are-the-characteristics-of-series-and-parallel-circuits
 ---
 
 &nbsp;

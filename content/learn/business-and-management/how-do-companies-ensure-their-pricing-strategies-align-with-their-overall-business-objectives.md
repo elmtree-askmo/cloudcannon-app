@@ -24,35 +24,35 @@ file_name: how-do-companies-ensure-their-pricing-strategies-align-with-their-ove
 url: /learn/business-and-management/questions/how-do-companies-ensure-their-pricing-strategies-align-with-their-overall-business-objectives
 score: -1.0
 related_article1:
-    id: 110236
+    id: 110228
     title: >-
-        What metrics are used to evaluate the success of advertising campaigns?
+        What are the challenges in accurately segmenting a market?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-metrics-are-used-to-evaluate-the-success-of-advertising-campaigns
+    url: /learn/business-and-management/questions/what-are-the-challenges-in-accurately-segmenting-a-market
 related_article2:
-    id: 110225
+    id: 110224
     title: >-
-        How does technology influence the marketing process today?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-does-technology-influence-the-marketing-process-today
-related_article3:
-    id: 110219
-    title: >-
-        How do marketing channels function in the distribution process?
+        What are the latest trends in marketing that are impacting buyer behavior?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-do-marketing-channels-function-in-the-distribution-process
-related_article4:
+    url: /learn/business-and-management/questions/what-are-the-latest-trends-in-marketing-that-are-impacting-buyer-behavior
+related_article3:
     id: 110230
     title: >-
         What are the advantages and disadvantages of different pricing methods?
     subject: Business and Management
     url: /learn/business-and-management/questions/what-are-the-advantages-and-disadvantages-of-different-pricing-methods
-related_article5:
-    id: 110214
+related_article4:
+    id: 110207
     title: >-
-        Can you explain the elements of the marketing mix?
+        What are the core concepts of marketing?
     subject: Business and Management
-    url: /learn/business-and-management/questions/can-you-explain-the-elements-of-the-marketing-mix
+    url: /learn/business-and-management/questions/what-are-the-core-concepts-of-marketing
+related_article5:
+    id: 110219
+    title: >-
+        How do marketing channels function in the distribution process?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/how-do-marketing-channels-function-in-the-distribution-process
 ---
 
 &nbsp;

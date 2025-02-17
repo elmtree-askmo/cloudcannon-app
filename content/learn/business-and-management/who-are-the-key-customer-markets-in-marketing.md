@@ -24,35 +24,29 @@ file_name: who-are-the-key-customer-markets-in-marketing.md
 url: /learn/business-and-management/questions/who-are-the-key-customer-markets-in-marketing
 score: -1.0
 related_article1:
-    id: 119521
+    id: 119522
     title: >-
-        What are the different demand states in demand management?
+        What are the basic concepts of a market in marketing?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-different-demand-states-in-demand-management
+    url: /learn/business-and-management/questions/what-are-the-basic-concepts-of-a-market-in-marketing
 related_article2:
-    id: 119502
+    id: 119517
     title: >-
-        What is the definition of marketing and how has it evolved over time?
+        What are the key components of demand management in marketing?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-is-the-definition-of-marketing-and-how-has-it-evolved-over-time
+    url: /learn/business-and-management/questions/what-are-the-key-components-of-demand-management-in-marketing
 related_article3:
-    id: 119515
+    id: 119509
     title: >-
-        How is marketing applied to properties and organizations?
+        How does marketing contribute to a company's success and job creation?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-is-marketing-applied-to-properties-and-organizations
+    url: /learn/business-and-management/questions/how-does-marketing-contribute-to-a-companys-success-and-job-creation
 related_article4:
-    id: 119504
+    id: 119524
     title: >-
-        Can you explain the basic concepts of needs, wants, and demand in marketing?
+        What are specific markets and how are they identified?
     subject: Business and Management
-    url: /learn/business-and-management/questions/can-you-explain-the-basic-concepts-of-needs-wants-and-demand-in-marketing
-related_article5:
-    id: 119516
-    title: >-
-        What is the significance of marketing information and ideas?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-is-the-significance-of-marketing-information-and-ideas
+    url: /learn/business-and-management/questions/what-are-specific-markets-and-how-are-they-identified
 ---
 
 &nbsp;

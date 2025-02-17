@@ -24,18 +24,6 @@ file_name: what-distinguishes-community-hospitals-from-other-types-of-hospitals.
 url: /learn/health-studies/questions/what-distinguishes-community-hospitals-from-other-types-of-hospitals
 score: -1.0
 related_article1:
-    id: 111986
-    title: >-
-        What types of services are included in homemaker and handyman services for the elderly?
-    subject: Nursing
-    url: /learn/nursing/questions/what-types-of-services-are-included-in-homemaker-and-handyman-services-for-the-elderly
-related_article2:
-    id: 111969
-    title: >-
-        How have employment trends in health care changed over the past decade?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-have-employment-trends-in-health-care-changed-over-the-past-decade
-related_article3:
     id: 111982
     title: >-
         What is the purpose of adult day care in the context of long-term care?

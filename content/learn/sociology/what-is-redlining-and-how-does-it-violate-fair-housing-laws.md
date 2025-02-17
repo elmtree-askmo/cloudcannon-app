@@ -24,35 +24,29 @@ file_name: what-is-redlining-and-how-does-it-violate-fair-housing-laws.md
 url: /learn/sociology/questions/what-is-redlining-and-how-does-it-violate-fair-housing-laws
 score: -1.0
 related_article1:
-    id: 96965
+    id: 96981
     title: >-
-        What are the essential elements of value in property?
-    subject: Economics
-    url: /learn/economics/questions/what-are-the-essential-elements-of-value-in-property
+        What is the history and enactment of fair housing laws?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-is-the-history-and-enactment-of-fair-housing-laws
 related_article2:
-    id: 96967
+    id: 96985
     title: >-
-        What role does transferability play in property value?
+        What is panic selling in real estate?
     subject: Economics
-    url: /learn/economics/questions/what-role-does-transferability-play-in-property-value
+    url: /learn/economics/questions/what-is-panic-selling-in-real-estate
 related_article3:
+    id: 96968
+    title: >-
+        How does utility influence property value?
+    subject: Economics
+    url: /learn/economics/questions/how-does-utility-influence-property-value
+related_article4:
     id: 96976
     title: >-
         What is the cost replacement approach in property appraisal?
     subject: Accounting and Finance
     url: /learn/accounting-and-finance/questions/what-is-the-cost-replacement-approach-in-property-appraisal
-related_article4:
-    id: 96979
-    title: >-
-        What are specific liens and how do they affect property?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-specific-liens-and-how-do-they-affect-property
-related_article5:
-    id: 96951
-    title: >-
-        Can you provide examples of real property?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/can-you-provide-examples-of-real-property
 ---
 
 &nbsp;

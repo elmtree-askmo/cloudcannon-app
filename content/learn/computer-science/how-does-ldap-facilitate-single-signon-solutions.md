@@ -24,35 +24,35 @@ file_name: how-does-ldap-facilitate-single-signon-solutions.md
 url: /learn/computer-science/questions/how-does-ldap-facilitate-single-signon-solutions
 score: -1.0
 related_article1:
-    id: 122314
+    id: 122310
     title: >-
-        How does virtual hosting work and what are its benefits?
+        How is storage managed in relation to DBMS?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-virtual-hosting-work-and-what-are-its-benefits
+    url: /learn/computer-science/questions/how-is-storage-managed-in-relation-to-dbms
 related_article2:
-    id: 122299
+    id: 122317
     title: >-
-        What are the primary functions of a file server in a network?
+        How do Active Directory and LDAP function in directory services?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-primary-functions-of-a-file-server-in-a-network
+    url: /learn/computer-science/questions/how-do-active-directory-and-ldap-function-in-directory-services
 related_article3:
+    id: 122304
+    title: >-
+        What are the main advantages of using network printing over traditional printing methods?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-main-advantages-of-using-network-printing-over-traditional-printing-methods
+related_article4:
     id: 122311
     title: >-
         What functionalities are essential for a web server?
     subject: Computer Science
     url: /learn/computer-science/questions/what-functionalities-are-essential-for-a-web-server
-related_article4:
-    id: 122300
-    title: >-
-        How do HTTP, FTP, SCP, SMB/CIFS, and NFS differ in terms of file service protocols?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-http-ftp-scp-smbcifs-and-nfs-differ-in-terms-of-file-service-protocols
 related_article5:
-    id: 122321
+    id: 122324
     title: >-
-        How do MUA, MTA, and MDA interact in an email system?
+        What security considerations should be taken into account for file services?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-mua-mta-and-mda-interact-in-an-email-system
+    url: /learn/computer-science/questions/what-security-considerations-should-be-taken-into-account-for-file-services
 ---
 
 &nbsp;

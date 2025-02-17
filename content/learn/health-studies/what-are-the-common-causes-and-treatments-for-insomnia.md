@@ -24,29 +24,35 @@ file_name: what-are-the-common-causes-and-treatments-for-insomnia.md
 url: /learn/health-studies/questions/what-are-the-common-causes-and-treatments-for-insomnia
 score: -1.0
 related_article1:
-    id: 116809
+    id: 116817
     title: >-
-        What is the dichotic listening task and what does it reveal about attention?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-dichotic-listening-task-and-what-does-it-reveal-about-attention
+        What is sleep apnea and how is it related to hypersomnia?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-sleep-apnea-and-how-is-it-related-to-hypersomnia
 related_article2:
-    id: 116811
+    id: 116819
     title: >-
-        How do brainwave patterns change during different stages of sleep?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-brainwave-patterns-change-during-different-stages-of-sleep
+        How do biological clocks regulate sleep and wakefulness?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-biological-clocks-regulate-sleep-and-wakefulness
 related_article3:
-    id: 116798
-    title: >-
-        How does split-brain surgery affect consciousness?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-splitbrain-surgery-affect-consciousness
-related_article4:
     id: 116818
     title: >-
         What are the symptoms and causes of narcolepsy?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-symptoms-and-causes-of-narcolepsy
+related_article4:
+    id: 116811
+    title: >-
+        How do brainwave patterns change during different stages of sleep?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-brainwave-patterns-change-during-different-stages-of-sleep
+related_article5:
+    id: 116824
+    title: >-
+        How do depressants like alcohol affect the brain and behavior?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-depressants-like-alcohol-affect-the-brain-and-behavior
 ---
 
 &nbsp;

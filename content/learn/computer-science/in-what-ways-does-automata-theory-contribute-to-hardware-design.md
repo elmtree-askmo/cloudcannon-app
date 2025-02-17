@@ -24,29 +24,29 @@ file_name: in-what-ways-does-automata-theory-contribute-to-hardware-design.md
 url: /learn/computer-science/questions/in-what-ways-does-automata-theory-contribute-to-hardware-design
 score: -1.0
 related_article1:
+    id: 98913
+    title: >-
+        How does Automata Theory connect to engineering and other sciences?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-automata-theory-connect-to-engineering-and-other-sciences
+related_article2:
+    id: 98939
+    title: >-
+        How do transition tables aid in the visualization and understanding of DFA?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-transition-tables-aid-in-the-visualization-and-understanding-of-dfa
+related_article3:
+    id: 98925
+    title: >-
+        How is Automata Theory applied in the development of compilers?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-is-automata-theory-applied-in-the-development-of-compilers
+related_article4:
     id: 98912
     title: >-
         Why is Automata Theory important in computer science?
     subject: Computer Science
     url: /learn/computer-science/questions/why-is-automata-theory-important-in-computer-science
-related_article2:
-    id: 98924
-    title: >-
-        What are some real-world applications of Automata Theory in text processing?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-realworld-applications-of-automata-theory-in-text-processing
-related_article3:
-    id: 98927
-    title: >-
-        How does Automata Theory influence programming languages and artificial intelligence?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-automata-theory-influence-programming-languages-and-artificial-intelligence
-related_article4:
-    id: 98936
-    title: >-
-        What are the historical developments that led to the creation of Automata Theory?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-historical-developments-that-led-to-the-creation-of-automata-theory
 ---
 
 &nbsp;

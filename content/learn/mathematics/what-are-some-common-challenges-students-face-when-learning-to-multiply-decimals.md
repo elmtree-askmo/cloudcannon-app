@@ -24,29 +24,35 @@ file_name: what-are-some-common-challenges-students-face-when-learning-to-multip
 url: /learn/mathematics/questions/what-are-some-common-challenges-students-face-when-learning-to-multiply-decimals
 score: -1.0
 related_article1:
-    id: 99066
+    id: 99077
     title: >-
-        How can students check their work when multiplying decimals?
+        What are some common misconceptions about decimal multiplication?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-students-check-their-work-when-multiplying-decimals
+    url: /learn/mathematics/questions/what-are-some-common-misconceptions-about-decimal-multiplication
 related_article2:
-    id: 99075
+    id: 99076
     title: >-
-        What are some mnemonic devices to help remember the steps in decimal multiplication?
+        How can students improve their speed and accuracy in decimal multiplication?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-mnemonic-devices-to-help-remember-the-steps-in-decimal-multiplication
+    url: /learn/mathematics/questions/how-can-students-improve-their-speed-and-accuracy-in-decimal-multiplication
 related_article3:
-    id: 99064
-    title: >-
-        How can teachers assess students' understanding of decimal multiplication?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-can-teachers-assess-students-understanding-of-decimal-multiplication
-related_article4:
     id: 99078
     title: >-
         How can group activities enhance the learning of decimal multiplication?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-group-activities-enhance-the-learning-of-decimal-multiplication
+related_article4:
+    id: 99070
+    title: >-
+        How does multiplying decimals differ from multiplying whole numbers?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-multiplying-decimals-differ-from-multiplying-whole-numbers
+related_article5:
+    id: 99072
+    title: >-
+        How can parents support their children in learning decimal multiplication at home?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-parents-support-their-children-in-learning-decimal-multiplication-at-home
 ---
 
 &nbsp;

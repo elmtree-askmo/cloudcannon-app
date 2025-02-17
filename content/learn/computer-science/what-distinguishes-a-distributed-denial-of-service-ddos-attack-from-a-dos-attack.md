@@ -24,29 +24,35 @@ file_name: what-distinguishes-a-distributed-denial-of-service-ddos-attack-from-a
 url: /learn/computer-science/questions/what-distinguishes-a-distributed-denial-of-service-ddos-attack-from-a-dos-attack
 score: -1.0
 related_article1:
-    id: 123113
+    id: 123125
     title: >-
-        How do botnets operate and what threats do they pose?
+        How do biometric authentication methods enhance security?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-botnets-operate-and-what-threats-do-they-pose
+    url: /learn/computer-science/questions/how-do-biometric-authentication-methods-enhance-security
 related_article2:
-    id: 123115
+    id: 123129
     title: >-
-        What are the common causes of data breaches?
+        How can viruses and trojans impact network availability?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-common-causes-of-data-breaches
+    url: /learn/computer-science/questions/how-can-viruses-and-trojans-impact-network-availability
 related_article3:
-    id: 123120
+    id: 123108
     title: >-
-        What role does physical security play in protecting network infrastructure?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-role-does-physical-security-play-in-protecting-network-infrastructure
-related_article4:
-    id: 123132
-    title: >-
-        What are the best practices for network security?
+        What are some examples of internal threats in network security?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-best-practices-for-network-security
+    url: /learn/computer-science/questions/what-are-some-examples-of-internal-threats-in-network-security
+related_article4:
+    id: 123107
+    title: >-
+        How does ransomware affect businesses and individuals?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-ransomware-affect-businesses-and-individuals
+related_article5:
+    id: 123105
+    title: >-
+        How do viruses typically infiltrate a network?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-do-viruses-typically-infiltrate-a-network
 ---
 
 &nbsp;

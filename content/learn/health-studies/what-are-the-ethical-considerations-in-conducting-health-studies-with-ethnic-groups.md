@@ -24,30 +24,24 @@ file_name: what-are-the-ethical-considerations-in-conducting-health-studies-with
 url: /learn/health-studies/questions/what-are-the-ethical-considerations-in-conducting-health-studies-with-ethnic-groups
 score: -1.0
 related_article1:
-    id: 116040
+    id: 116033
     title: >-
-        What role does social support play in health interventions for diabetes prevention?
+        What barriers to a healthy lifestyle are commonly identified in the South Asian community?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-role-does-social-support-play-in-health-interventions-for-diabetes-prevention
+    url: /learn/health-studies/questions/what-barriers-to-a-healthy-lifestyle-are-commonly-identified-in-the-south-asian-community
 related_article2:
-    id: 116055
-    title: >-
-        How can researchers ensure cultural sensitivity in health intervention studies?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-can-researchers-ensure-cultural-sensitivity-in-health-intervention-studies
-related_article3:
     id: 116045
     title: >-
         What challenges are associated with implementing culturally tailored health interventions?
     subject: Health Studies
     url: /learn/health-studies/questions/what-challenges-are-associated-with-implementing-culturally-tailored-health-interventions
-related_article4:
-    id: 116046
+related_article3:
+    id: 116032
     title: >-
-        How can the effectiveness of culturally tailored interventions be measured?
+        What are the key components of a pilot intervention for diabetes prevention?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-can-the-effectiveness-of-culturally-tailored-interventions-be-measured
-related_article5:
+    url: /learn/health-studies/questions/what-are-the-key-components-of-a-pilot-intervention-for-diabetes-prevention
+related_article4:
     id: 116039
     title: >-
         How do the results of the SHAPE study inform future diabetes prevention research?

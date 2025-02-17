@@ -24,17 +24,23 @@ file_name: what-are-some-effective-strategies-for-addressing-economic-inequality
 url: /learn/economics/questions/what-are-some-effective-strategies-for-addressing-economic-inequality
 score: -1.0
 related_article1:
-    id: 119980
+    id: 120002
     title: >-
-        What are the key components of the Angela and Bruno model?
-    subject: Economics
-    url: /learn/economics/questions/what-are-the-key-components-of-the-angela-and-bruno-model
+        How do institutions and power dynamics interact to affect social outcomes?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-institutions-and-power-dynamics-interact-to-affect-social-outcomes
 related_article2:
     id: 119997
     title: >-
         What are some case studies that illustrate different institutional arrangements?
     subject: Sociology
     url: /learn/sociology/questions/what-are-some-case-studies-that-illustrate-different-institutional-arrangements
+related_article3:
+    id: 119980
+    title: >-
+        What are the key components of the Angela and Bruno model?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-key-components-of-the-angela-and-bruno-model
 ---
 
 &nbsp;

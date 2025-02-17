@@ -24,35 +24,29 @@ file_name: what-are-some-common-causes-of-cultural-conflicts-and-controversies.m
 url: /learn/sociology/questions/what-are-some-common-causes-of-cultural-conflicts-and-controversies
 score: -1.0
 related_article1:
-    id: 120616
+    id: 120610
     title: >-
-        What are the key elements of material culture?
+        What does patterned behavior in culture mean?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-key-elements-of-material-culture
+    url: /learn/sociology/questions/what-does-patterned-behavior-in-culture-mean
 related_article2:
-    id: 120606
-    title: >-
-        What is cultural adaptation and how does it occur?
-    subject: Sociology
-    url: /learn/sociology/questions/what-is-cultural-adaptation-and-how-does-it-occur
-related_article3:
-    id: 120607
-    title: >-
-        How is culture shared among members of a society?
-    subject: Sociology
-    url: /learn/sociology/questions/how-is-culture-shared-among-members-of-a-society
-related_article4:
     id: 120603
     title: >-
         What are some examples of non-material culture?
     subject: Sociology
     url: /learn/sociology/questions/what-are-some-examples-of-nonmaterial-culture
-related_article5:
+related_article3:
     id: 120600
     title: >-
         What is the definition of culture in a sociological context?
     subject: Sociology
     url: /learn/sociology/questions/what-is-the-definition-of-culture-in-a-sociological-context
+related_article4:
+    id: 120615
+    title: >-
+        How do individuals undergo the enculturation process?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-individuals-undergo-the-enculturation-process
 ---
 
 &nbsp;

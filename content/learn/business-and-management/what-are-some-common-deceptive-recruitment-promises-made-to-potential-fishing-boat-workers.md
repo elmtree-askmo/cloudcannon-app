@@ -24,23 +24,11 @@ file_name: what-are-some-common-deceptive-recruitment-promises-made-to-potential
 url: /learn/business-and-management/questions/what-are-some-common-deceptive-recruitment-promises-made-to-potential-fishing-boat-workers
 score: -1.0
 related_article1:
-    id: 107018
-    title: >-
-        What are the long-term effects on workers who have experienced abuse and control on fishing boats?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-longterm-effects-on-workers-who-have-experienced-abuse-and-control-on-fishing-boats
-related_article2:
     id: 107019
     title: >-
         How do deceptive employment practices in the fishing industry compare to those in other industries?
     subject: Sociology
     url: /learn/sociology/questions/how-do-deceptive-employment-practices-in-the-fishing-industry-compare-to-those-in-other-industries
-related_article3:
-    id: 107029
-    title: >-
-        How can technology be used to monitor and improve working conditions on fishing boats?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/how-can-technology-be-used-to-monitor-and-improve-working-conditions-on-fishing-boats
 ---
 
 &nbsp;

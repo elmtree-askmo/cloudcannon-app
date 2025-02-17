@@ -24,35 +24,35 @@ file_name: what-is-extrapyramidal-syndrome-and-how-is-it-related-to-antipsychoti
 url: /learn/medicine/questions/what-is-extrapyramidal-syndrome-and-how-is-it-related-to-antipsychotic-use
 score: -1.0
 related_article1:
-    id: 104588
+    id: 104608
     title: >-
-        What are the main differences between typical and atypical antipsychotics?
+        What are atypical antidepressants and in what situations are they typically prescribed?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-main-differences-between-typical-and-atypical-antipsychotics
+    url: /learn/medicine/questions/what-are-atypical-antidepressants-and-in-what-situations-are-they-typically-prescribed
 related_article2:
-    id: 104604
+    id: 104609
     title: >-
-        What are the different classes of antidepressants and how do they differ in their mechanisms?
+        How do Monoamine Oxidase Inhibitors (MAOIs) work and what are their dietary restrictions?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-different-classes-of-antidepressants-and-how-do-they-differ-in-their-mechanisms
+    url: /learn/medicine/questions/how-do-monoamine-oxidase-inhibitors-maois-work-and-what-are-their-dietary-restrictions
 related_article3:
-    id: 104614
+    id: 104607
     title: >-
-        How do antipsychotics interact with other medications commonly prescribed to older adults?
+        How do Serotonin-Norepinephrine Reuptake Inhibitors (SNRI) differ from SSRIs?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-antipsychotics-interact-with-other-medications-commonly-prescribed-to-older-adults
+    url: /learn/medicine/questions/how-do-serotoninnorepinephrine-reuptake-inhibitors-snri-differ-from-ssris
 related_article4:
-    id: 104595
+    id: 104605
     title: >-
-        How does Akathisia manifest in patients and what are the treatment options?
+        How do Tricyclic Antidepressants (TCA) function in treating depression?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-akathisia-manifest-in-patients-and-what-are-the-treatment-options
+    url: /learn/medicine/questions/how-do-tricyclic-antidepressants-tca-function-in-treating-depression
 related_article5:
-    id: 104603
+    id: 104611
     title: >-
-        What are some examples of miscellaneous anxiolytics and their uses?
+        What are common drug interactions associated with antidepressants and mood stabilizers?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-some-examples-of-miscellaneous-anxiolytics-and-their-uses
+    url: /learn/medicine/questions/what-are-common-drug-interactions-associated-with-antidepressants-and-mood-stabilizers
 ---
 
 &nbsp;

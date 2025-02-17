@@ -24,29 +24,35 @@ file_name: why-is-password-management-critical-for-network-security.md
 url: /learn/computer-science/questions/why-is-password-management-critical-for-network-security
 score: -1.0
 related_article1:
+    id: 123132
+    title: >-
+        What are the best practices for network security?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-best-practices-for-network-security
+related_article2:
+    id: 123110
+    title: >-
+        Why is network security crucial in the modern IT landscape?
+    subject: Computer Science
+    url: /learn/computer-science/questions/why-is-network-security-crucial-in-the-modern-it-landscape
+related_article3:
+    id: 123123
+    title: >-
+        How can password complexity be enforced in an organization?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-can-password-complexity-be-enforced-in-an-organization
+related_article4:
     id: 123111
     title: >-
         What are the key components of building and maintaining secure networks?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-key-components-of-building-and-maintaining-secure-networks
-related_article2:
-    id: 123128
-    title: >-
-        What distinguishes a distributed denial of service (DDoS) attack from a DoS attack?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-distinguishes-a-distributed-denial-of-service-ddos-attack-from-a-dos-attack
-related_article3:
+related_article5:
     id: 123105
     title: >-
         How do viruses typically infiltrate a network?
     subject: Digital Media
     url: /learn/digital-media/questions/how-do-viruses-typically-infiltrate-a-network
-related_article4:
-    id: 123130
-    title: >-
-        What are the most common social engineering tactics used by attackers?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-most-common-social-engineering-tactics-used-by-attackers
 ---
 
 &nbsp;

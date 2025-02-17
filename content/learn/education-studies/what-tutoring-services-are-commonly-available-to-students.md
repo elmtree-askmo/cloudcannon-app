@@ -24,11 +24,11 @@ file_name: what-tutoring-services-are-commonly-available-to-students.md
 url: /learn/education-studies/questions/what-tutoring-services-are-commonly-available-to-students
 score: -1.0
 related_article1:
-    id: 98697
+    id: 98696
     title: >-
-        How is grading typically structured in university courses?
+        What should be included in a comprehensive course syllabus?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-grading-typically-structured-in-university-courses
+    url: /learn/education-studies/questions/what-should-be-included-in-a-comprehensive-course-syllabus
 related_article2:
     id: 98702
     title: >-
@@ -36,23 +36,23 @@ related_article2:
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-students-identify-key-points-during-a-lecture
 related_article3:
-    id: 98690
-    title: >-
-        What are the most popular note-taking methods among students?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-most-popular-notetaking-methods-among-students
-related_article4:
     id: 98700
     title: >-
         How can students effectively utilize online databases for research?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-students-effectively-utilize-online-databases-for-research
-related_article5:
-    id: 98699
+related_article4:
+    id: 98697
     title: >-
-        What library services are most beneficial for students?
+        How is grading typically structured in university courses?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-library-services-are-most-beneficial-for-students
+    url: /learn/education-studies/questions/how-is-grading-typically-structured-in-university-courses
+related_article5:
+    id: 98704
+    title: >-
+        How can review sessions be structured to reinforce lecture material?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-review-sessions-be-structured-to-reinforce-lecture-material
 ---
 
 &nbsp;

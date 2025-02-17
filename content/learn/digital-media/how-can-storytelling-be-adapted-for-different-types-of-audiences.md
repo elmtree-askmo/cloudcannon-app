@@ -24,29 +24,29 @@ file_name: how-can-storytelling-be-adapted-for-different-types-of-audiences.md
 url: /learn/digital-media/questions/how-can-storytelling-be-adapted-for-different-types-of-audiences
 score: -1.0
 related_article1:
-    id: 120717
+    id: 120694
     title: >-
-        What are some ways to test the effectiveness of a story before presenting it?
+        What are 'beats' in storytelling, and why are they important?
     subject: Digital Media
-    url: /learn/digital-media/questions/what-are-some-ways-to-test-the-effectiveness-of-a-story-before-presenting-it
+    url: /learn/digital-media/questions/what-are-beats-in-storytelling-and-why-are-they-important
 related_article2:
-    id: 120699
+    id: 120704
     title: >-
-        How does the Hero’s Journey structure a story?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-the-heros-journey-structure-a-story
-related_article3:
-    id: 120713
-    title: >-
-        What are some examples of successful stories that use the top-down approach?
+        What are some effective strategies for connecting with an audience through storytelling?
     subject: Digital Media
-    url: /learn/digital-media/questions/what-are-some-examples-of-successful-stories-that-use-the-topdown-approach
-related_article4:
+    url: /learn/digital-media/questions/what-are-some-effective-strategies-for-connecting-with-an-audience-through-storytelling
+related_article3:
     id: 120709
     title: >-
         How can storytelling techniques be applied to improve presentation structure?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-storytelling-techniques-be-applied-to-improve-presentation-structure
+related_article4:
+    id: 120700
+    title: >-
+        What is the 'Rags to Riches' narrative, and how is it applied?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-is-the-rags-to-riches-narrative-and-how-is-it-applied
 ---
 
 &nbsp;

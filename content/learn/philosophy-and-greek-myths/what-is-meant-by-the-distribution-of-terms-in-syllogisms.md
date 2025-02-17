@@ -24,11 +24,11 @@ file_name: what-is-meant-by-the-distribution-of-terms-in-syllogisms.md
 url: /learn/philosophy-and-greek-myths/questions/what-is-meant-by-the-distribution-of-terms-in-syllogisms
 score: -1.0
 related_article1:
-    id: 99948
+    id: 99940
     title: >-
-        How does a universal affirmative mood (A) affect a syllogism?
+        How is the order of premises important in a syllogism?
     subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-does-a-universal-affirmative-mood-a-affect-a-syllogism
+    url: /learn/philosophy-and-greek-myths/questions/how-is-the-order-of-premises-important-in-a-syllogism
 related_article2:
     id: 99955
     title: >-

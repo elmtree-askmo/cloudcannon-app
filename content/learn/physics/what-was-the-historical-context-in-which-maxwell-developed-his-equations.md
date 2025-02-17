@@ -24,35 +24,35 @@ file_name: what-was-the-historical-context-in-which-maxwell-developed-his-equati
 url: /learn/physics/questions/what-was-the-historical-context-in-which-maxwell-developed-his-equations
 score: -1.0
 related_article1:
-    id: 116233
-    title: >-
-        What challenges did Maxwell face in formulating his equations?
-    subject: Physics
-    url: /learn/physics/questions/what-challenges-did-maxwell-face-in-formulating-his-equations
-related_article2:
-    id: 116218
-    title: >-
-        What are the different types of waves in the electromagnetic spectrum?
-    subject: Physics
-    url: /learn/physics/questions/what-are-the-different-types-of-waves-in-the-electromagnetic-spectrum
-related_article3:
-    id: 116213
-    title: >-
-        Can you explain the Ampere-Maxwell Law and its significance in electromagnetism?
-    subject: Physics
-    url: /learn/physics/questions/can-you-explain-the-amperemaxwell-law-and-its-significance-in-electromagnetism
-related_article4:
     id: 116224
     title: >-
         What are the medical and industrial applications of X-rays?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-medical-and-industrial-applications-of-xrays
-related_article5:
-    id: 116214
+related_article2:
+    id: 116209
     title: >-
-        What are the primary sources of electromagnetic waves?
+        How did Maxwell's work build upon the contributions of previous scientists in the field of electromagnetism?
     subject: Physics
-    url: /learn/physics/questions/what-are-the-primary-sources-of-electromagnetic-waves
+    url: /learn/physics/questions/how-did-maxwells-work-build-upon-the-contributions-of-previous-scientists-in-the-field-of-electromagnetism
+related_article3:
+    id: 116219
+    title: >-
+        What are the characteristics and uses of radio waves?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-characteristics-and-uses-of-radio-waves
+related_article4:
+    id: 116237
+    title: >-
+        What are the educational resources available for learning about Maxwell's equations?
+    subject: Physics
+    url: /learn/physics/questions/what-are-the-educational-resources-available-for-learning-about-maxwells-equations
+related_article5:
+    id: 116232
+    title: >-
+        How did Maxwell's equations change the understanding of physics in the 19th century?
+    subject: Physics
+    url: /learn/physics/questions/how-did-maxwells-equations-change-the-understanding-of-physics-in-the-19th-century
 ---
 
 &nbsp;

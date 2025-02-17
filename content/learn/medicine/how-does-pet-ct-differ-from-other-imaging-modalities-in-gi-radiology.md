@@ -24,35 +24,23 @@ file_name: how-does-pet-ct-differ-from-other-imaging-modalities-in-gi-radiology.
 url: /learn/medicine/questions/how-does-pet-ct-differ-from-other-imaging-modalities-in-gi-radiology
 score: -1.0
 related_article1:
-    id: 118163
+    id: 118141
     title: >-
-        What are the limitations of plain abdominal X-rays in GI imaging?
+        How do plain films contribute to GI radiology?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-limitations-of-plain-abdominal-xrays-in-gi-imaging
+    url: /learn/medicine/questions/how-do-plain-films-contribute-to-gi-radiology
 related_article2:
-    id: 118148
+    id: 118147
     title: >-
-        What role does angiography play in GI radiology?
+        How does computed tomography (CT) enhance GI imaging?
     subject: Medicine
-    url: /learn/medicine/questions/what-role-does-angiography-play-in-gi-radiology
+    url: /learn/medicine/questions/how-does-computed-tomography-ct-enhance-gi-imaging
 related_article3:
-    id: 118168
+    id: 118160
     title: >-
-        What specific roles does MRI play in diagnosing GI disorders?
+        What does an abnormal large bowel loop indicate?
     subject: Medicine
-    url: /learn/medicine/questions/what-specific-roles-does-mri-play-in-diagnosing-gi-disorders
-related_article4:
-    id: 118150
-    title: >-
-        What are the advantages of using MRI in GI radiology?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-advantages-of-using-mri-in-gi-radiology
-related_article5:
-    id: 118167
-    title: >-
-        When is ultrasound the preferred imaging modality for GI issues?
-    subject: Medicine
-    url: /learn/medicine/questions/when-is-ultrasound-the-preferred-imaging-modality-for-gi-issues
+    url: /learn/medicine/questions/what-does-an-abnormal-large-bowel-loop-indicate
 ---
 
 &nbsp;

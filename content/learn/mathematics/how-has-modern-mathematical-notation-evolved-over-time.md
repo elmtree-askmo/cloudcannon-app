@@ -13,7 +13,7 @@ seo:
   page_description: >-
     This content explores the evolution of modern mathematical notation, highlighting its historical developments, key figures like Ren Descartes, and the impact of technological advancements on mathematical communication.
   page_keywords: >-
-    modern mathematical notation, history of mathematical symbols, René Descartes, algebraic notation, mathematical communication, printing press, symbols for functions, calculus notation, Florian Cajori, cultural exchanges, mathematical theories
+    modern mathematical notation, history of mathematical symbols, Ren Descartes, algebraic notation, mathematical communication, printing press, symbols for functions, calculus notation, Florian Cajori, cultural exchanges, mathematical theories
 author: QuickTakes
 question: >-
     How has modern mathematical notation evolved over time?
@@ -24,35 +24,29 @@ file_name: how-has-modern-mathematical-notation-evolved-over-time.md
 url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-over-time
 score: -1.0
 related_article1:
-    id: 124236
+    id: 124224
     title: >-
-        What is the significance of the local field method in modern physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-significance-of-the-local-field-method-in-modern-physics
+        What are the philosophical implications of the relationship between physics and mathematics?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
 related_article2:
-    id: 124211
+    id: 124210
     title: >-
-        Can you explain Newton's Law of Gravitation in mathematical terms?
+        What is Faraday's Law and how does it relate to mathematics?
     subject: Physics
-    url: /learn/physics/questions/can-you-explain-newtons-law-of-gravitation-in-mathematical-terms
+    url: /learn/physics/questions/what-is-faradays-law-and-how-does-it-relate-to-mathematics
 related_article3:
-    id: 124232
+    id: 124223
     title: >-
-        What is the importance of mathematical notation in communicating complex physical concepts?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-importance-of-mathematical-notation-in-communicating-complex-physical-concepts
-related_article4:
-    id: 124209
-    title: >-
-        How does mathematics help us understand natural phenomena?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
-related_article5:
-    id: 124216
-    title: >-
-        What are fundamental principles and consequential statements in physics?
+        How does the minimum principle apply to physics and mathematics?
     subject: Physics
-    url: /learn/physics/questions/what-are-fundamental-principles-and-consequential-statements-in-physics
+    url: /learn/physics/questions/how-does-the-minimum-principle-apply-to-physics-and-mathematics
+related_article4:
+    id: 124221
+    title: >-
+        Can you explain Newton's Laws and their mathematical formulations?
+    subject: Physics
+    url: /learn/physics/questions/can-you-explain-newtons-laws-and-their-mathematical-formulations
 ---
 
 &nbsp;

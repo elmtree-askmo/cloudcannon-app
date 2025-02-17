@@ -24,23 +24,35 @@ file_name: how-does-splitbrain-surgery-affect-consciousness.md
 url: /learn/psychology/questions/how-does-splitbrain-surgery-affect-consciousness
 score: -1.0
 related_article1:
-    id: 116817
+    id: 116812
     title: >-
-        What is sleep apnea and how is it related to hypersomnia?
+        What is the significance of non-REM sleep?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-sleep-apnea-and-how-is-it-related-to-hypersomnia
+    url: /learn/health-studies/questions/what-is-the-significance-of-nonrem-sleep
 related_article2:
-    id: 116815
+    id: 116818
     title: >-
-        What are the common causes and treatments for insomnia?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-common-causes-and-treatments-for-insomnia
+        What are the symptoms and causes of narcolepsy?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-symptoms-and-causes-of-narcolepsy
 related_article3:
+    id: 116811
+    title: >-
+        How do brainwave patterns change during different stages of sleep?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-brainwave-patterns-change-during-different-stages-of-sleep
+related_article4:
     id: 116809
     title: >-
         What is the dichotic listening task and what does it reveal about attention?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-dichotic-listening-task-and-what-does-it-reveal-about-attention
+related_article5:
+    id: 116815
+    title: >-
+        What are the common causes and treatments for insomnia?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-common-causes-and-treatments-for-insomnia
 ---
 
 &nbsp;

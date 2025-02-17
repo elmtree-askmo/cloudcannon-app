@@ -24,29 +24,29 @@ file_name: how-do-the-babylonian-and-greek-traditions-influence-modern-physics.m
 url: /learn/physics/questions/how-do-the-babylonian-and-greek-traditions-influence-modern-physics
 score: -1.0
 related_article1:
-    id: 110312
+    id: 110298
     title: >-
-        What are the philosophical implications of the relationship between physics and mathematics?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
+        Can you explain Faraday's Law and its significance in physics?
+    subject: Physics
+    url: /learn/physics/questions/can-you-explain-faradays-law-and-its-significance-in-physics
 related_article2:
-    id: 110317
+    id: 110318
     title: >-
-        How do physicists use mathematical language to communicate complex ideas?
+        What are the limitations of using mathematics to describe physical reality?
     subject: Physics
-    url: /learn/physics/questions/how-do-physicists-use-mathematical-language-to-communicate-complex-ideas
+    url: /learn/physics/questions/what-are-the-limitations-of-using-mathematics-to-describe-physical-reality
 related_article3:
-    id: 110323
+    id: 110300
     title: >-
-        How does the Euclidean method differ from the Babylonian method in approaching physics problems?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-does-the-euclidean-method-differ-from-the-babylonian-method-in-approaching-physics-problems
+        How is mathematical language used to describe physical laws?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-mathematical-language-used-to-describe-physical-laws
 related_article4:
-    id: 110322
+    id: 110325
     title: >-
-        What are some examples of fundamental principles in physics that lead to consequential statements?
+        How does the minimum principle relate to optimization problems in physics?
     subject: Physics
-    url: /learn/physics/questions/what-are-some-examples-of-fundamental-principles-in-physics-that-lead-to-consequential-statements
+    url: /learn/physics/questions/how-does-the-minimum-principle-relate-to-optimization-problems-in-physics
 related_article5:
     id: 110302
     title: >-

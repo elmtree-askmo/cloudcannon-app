@@ -24,11 +24,11 @@ file_name: what-role-does-peer-learning-play-in-coding-education.md
 url: /learn/education-studies/questions/what-role-does-peer-learning-play-in-coding-education
 score: -1.0
 related_article1:
-    id: 118470
+    id: 118477
     title: >-
-        What is Quincy Larson's educational background?
+        What are the unique features of Scrimba that differentiate it from other platforms?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-quincy-larsons-educational-background
+    url: /learn/education-studies/questions/what-are-the-unique-features-of-scrimba-that-differentiate-it-from-other-platforms
 related_article2:
     id: 118485
     title: >-
@@ -36,17 +36,17 @@ related_article2:
     subject: Computer Science
     url: /learn/computer-science/questions/what-strategies-are-used-to-improve-bandwidth-efficiency-in-tech
 related_article3:
-    id: 118472
+    id: 118487
     title: >-
-        What are Per Borgon's educational and professional experiences?
+        What are some examples of real-world problem solving in programming education?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-per-borgons-educational-and-professional-experiences
+    url: /learn/education-studies/questions/what-are-some-examples-of-realworld-problem-solving-in-programming-education
 related_article4:
-    id: 118477
+    id: 118484
     title: >-
-        What are the unique features of Scrimba that differentiate it from other platforms?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-unique-features-of-scrimba-that-differentiate-it-from-other-platforms
+        How does the tech industry address environmental considerations like data and carbon footprint?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-does-the-tech-industry-address-environmental-considerations-like-data-and-carbon-footprint
 ---
 
 &nbsp;

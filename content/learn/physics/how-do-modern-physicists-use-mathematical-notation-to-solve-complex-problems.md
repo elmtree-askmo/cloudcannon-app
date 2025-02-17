@@ -24,17 +24,17 @@ file_name: how-do-modern-physicists-use-mathematical-notation-to-solve-complex-p
 url: /learn/physics/questions/how-do-modern-physicists-use-mathematical-notation-to-solve-complex-problems
 score: -1.0
 related_article1:
-    id: 116023
+    id: 116017
     title: >-
-        What are the key components of Newton's Laws and their mathematical expressions?
+        What are some examples of mathematical concepts that have been crucial in physics?
     subject: Physics
-    url: /learn/physics/questions/what-are-the-key-components-of-newtons-laws-and-their-mathematical-expressions
+    url: /learn/physics/questions/what-are-some-examples-of-mathematical-concepts-that-have-been-crucial-in-physics
 related_article2:
-    id: 116018
+    id: 116002
     title: >-
-        How does the concept of force relate to mathematical equations in physics?
+        What is the relationship between force and equal areas in physics?
     subject: Physics
-    url: /learn/physics/questions/how-does-the-concept-of-force-relate-to-mathematical-equations-in-physics
+    url: /learn/physics/questions/what-is-the-relationship-between-force-and-equal-areas-in-physics
 related_article3:
     id: 116024
     title: >-
@@ -42,17 +42,11 @@ related_article3:
     subject: Physics
     url: /learn/physics/questions/how-does-the-local-field-method-differ-from-other-approaches-in-physics
 related_article4:
-    id: 116001
+    id: 115998
     title: >-
-        How is mathematical language used to describe physical laws?
-    subject: Physics
-    url: /learn/physics/questions/how-is-mathematical-language-used-to-describe-physical-laws
-related_article5:
-    id: 116027
-    title: >-
-        What are the challenges in translating physical phenomena into mathematical language?
+        How does mathematics help us understand natural phenomena?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-challenges-in-translating-physical-phenomena-into-mathematical-language
+    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
 ---
 
 &nbsp;

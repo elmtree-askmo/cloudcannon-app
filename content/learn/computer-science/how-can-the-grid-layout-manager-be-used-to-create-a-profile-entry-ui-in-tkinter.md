@@ -24,29 +24,29 @@ file_name: how-can-the-grid-layout-manager-be-used-to-create-a-profile-entry-ui-
 url: /learn/computer-science/questions/how-can-the-grid-layout-manager-be-used-to-create-a-profile-entry-ui-in-tkinter
 score: -1.0
 related_article1:
-    id: 119393
+    id: 119383
     title: >-
-        How do layout managers in Tkinter help in designing GUIs?
+        How did the release of the Macintosh in 1984 impact the development of GUIs?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-layout-managers-in-tkinter-help-in-designing-guis
+    url: /learn/computer-science/questions/how-did-the-release-of-the-macintosh-in-1984-impact-the-development-of-guis
 related_article2:
-    id: 119409
+    id: 119397
     title: >-
-        How have user interfaces evolved over time?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-have-user-interfaces-evolved-over-time
+        What is the place geometry manager in Tkinter and what are its key features?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-place-geometry-manager-in-tkinter-and-what-are-its-key-features
 related_article3:
-    id: 119390
+    id: 119389
     title: >-
-        How does the Tkinter library in Python facilitate GUI development?
+        What are the technical aspects of programming GUIs?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-tkinter-library-in-python-facilitate-gui-development
+    url: /learn/computer-science/questions/what-are-the-technical-aspects-of-programming-guis
 related_article4:
-    id: 119391
+    id: 119392
     title: >-
-        What is the main loop in Tkinter and why is it important?
+        What types of widgets are available in Tkinter?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-main-loop-in-tkinter-and-why-is-it-important
+    url: /learn/computer-science/questions/what-types-of-widgets-are-available-in-tkinter
 ---
 
 &nbsp;

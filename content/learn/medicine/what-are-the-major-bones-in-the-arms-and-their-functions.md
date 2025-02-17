@@ -24,35 +24,35 @@ file_name: what-are-the-major-bones-in-the-arms-and-their-functions.md
 url: /learn/medicine/questions/what-are-the-major-bones-in-the-arms-and-their-functions
 score: -1.0
 related_article1:
-    id: 100382
+    id: 100381
     title: >-
-        How does the pelvis connect the spine to the lower limbs?
-    subject: Medicine
-    url: /learn/medicine/questions/how-does-the-pelvis-connect-the-spine-to-the-lower-limbs
+        What are the structural differences between the upper and lower limbs?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-structural-differences-between-the-upper-and-lower-limbs
 related_article2:
-    id: 100358
+    id: 100357
     title: >-
-        What roles do bones play in blood production?
-    subject: Medicine
-    url: /learn/medicine/questions/what-roles-do-bones-play-in-blood-production
+        In what ways does the skeleton facilitate movement?
+    subject: Health Studies
+    url: /learn/health-studies/questions/in-what-ways-does-the-skeleton-facilitate-movement
 related_article3:
-    id: 100378
+    id: 100370
     title: >-
-        What are the specific bones included in the thorax?
+        What is the significance of the skull in protecting the brain?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-specific-bones-included-in-the-thorax
+    url: /learn/medicine/questions/what-is-the-significance-of-the-skull-in-protecting-the-brain
 related_article4:
-    id: 100359
+    id: 100372
     title: >-
-        How is the skeletal system divided into axial and appendicular components?
+        What is the role of the spine in maintaining posture and balance?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-the-skeletal-system-divided-into-axial-and-appendicular-components
+    url: /learn/health-studies/questions/what-is-the-role-of-the-spine-in-maintaining-posture-and-balance
 related_article5:
-    id: 100369
+    id: 100379
     title: >-
-        How do bones contribute to the protection of vital organs?
+        How do the bones of the spine interact to allow flexibility and support?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-bones-contribute-to-the-protection-of-vital-organs
+    url: /learn/health-studies/questions/how-do-the-bones-of-the-spine-interact-to-allow-flexibility-and-support
 ---
 
 &nbsp;

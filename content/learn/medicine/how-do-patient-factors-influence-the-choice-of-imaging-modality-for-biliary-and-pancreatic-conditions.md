@@ -24,35 +24,29 @@ file_name: how-do-patient-factors-influence-the-choice-of-imaging-modality-for-b
 url: /learn/medicine/questions/how-do-patient-factors-influence-the-choice-of-imaging-modality-for-biliary-and-pancreatic-conditions
 score: -1.0
 related_article1:
-    id: 118076
+    id: 118060
     title: >-
-        How do imaging modalities assist in treatment planning for biliary and pancreatic diseases?
+        How are stones in the biliary tree typically diagnosed?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-imaging-modalities-assist-in-treatment-planning-for-biliary-and-pancreatic-diseases
+    url: /learn/medicine/questions/how-are-stones-in-the-biliary-tree-typically-diagnosed
 related_article2:
-    id: 118058
+    id: 118052
     title: >-
-        How does radiolucide imaging work for pancreatic assessment?
+        What are the advantages of using EUS for biliary tree imaging?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-radiolucide-imaging-work-for-pancreatic-assessment
+    url: /learn/medicine/questions/what-are-the-advantages-of-using-eus-for-biliary-tree-imaging
 related_article3:
-    id: 118068
-    title: >-
-        What are the common indications for imaging in biliary tree obstruction?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-indications-for-imaging-in-biliary-tree-obstruction
-related_article4:
-    id: 118079
-    title: >-
-        What are the cost considerations for different imaging techniques in biliary and pancreatic assessment?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-cost-considerations-for-different-imaging-techniques-in-biliary-and-pancreatic-assessment
-related_article5:
     id: 118069
     title: >-
         When is imaging recommended for pancreatic lesions?
     subject: Medicine
     url: /learn/medicine/questions/when-is-imaging-recommended-for-pancreatic-lesions
+related_article4:
+    id: 118075
+    title: >-
+        What imaging techniques are used for intervention and sampling in biliary and pancreatic conditions?
+    subject: Medicine
+    url: /learn/medicine/questions/what-imaging-techniques-are-used-for-intervention-and-sampling-in-biliary-and-pancreatic-conditions
 ---
 
 &nbsp;

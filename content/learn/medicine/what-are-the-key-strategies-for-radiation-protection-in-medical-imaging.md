@@ -30,29 +30,29 @@ related_article1:
     subject: Medicine
     url: /learn/medicine/questions/how-are-current-tissue-weighting-factors-applied-in-medical-imaging
 related_article2:
-    id: 116070
+    id: 116058
     title: >-
-        What is the difference between equivalent dose and effective dose?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-difference-between-equivalent-dose-and-effective-dose
+        What were the key events leading to the discovery of X-rays and radioactive materials?
+    subject: Physics
+    url: /learn/physics/questions/what-were-the-key-events-leading-to-the-discovery-of-xrays-and-radioactive-materials
 related_article3:
-    id: 116082
+    id: 116086
     title: >-
-        How do time, distance, and shielding contribute to radiation protection?
+        How can the concept of Banana Equivalent Dose (BED) be explained to patients?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-time-distance-and-shielding-contribute-to-radiation-protection
+    url: /learn/health-studies/questions/how-can-the-concept-of-banana-equivalent-dose-bed-be-explained-to-patients
 related_article4:
-    id: 116068
+    id: 116065
     title: >-
-        What are the different units used for dose measurement in radiography?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-different-units-used-for-dose-measurement-in-radiography
-related_article5:
-    id: 116080
-    title: >-
-        How are personnel monitoring devices used in radiation protection?
+        How is the conservation of energy applied in dose measurement and control?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-are-personnel-monitoring-devices-used-in-radiation-protection
+    url: /learn/health-studies/questions/how-is-the-conservation-of-energy-applied-in-dose-measurement-and-control
+related_article5:
+    id: 116074
+    title: >-
+        What are Diagnostic Reference Levels (DRLs) and why are they important?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-diagnostic-reference-levels-drls-and-why-are-they-important
 ---
 
 &nbsp;

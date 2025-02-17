@@ -24,23 +24,17 @@ file_name: how-does-an-unconditional-promise-or-order-relate-to-negotiable-instr
 url: /learn/criminal-or-civil-law/questions/how-does-an-unconditional-promise-or-order-relate-to-negotiable-instruments
 score: -1.0
 related_article1:
-    id: 112183
-    title: >-
-        What are best practices for drafting negotiable instruments?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-best-practices-for-drafting-negotiable-instruments
-related_article2:
     id: 112174
     title: >-
         What are the legal implications of negotiable instruments?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-are-the-legal-implications-of-negotiable-instruments
-related_article3:
-    id: 112169
+related_article2:
+    id: 112175
     title: >-
-        What are the defining characteristics of negotiable instruments?
+        Who is considered a holder in due course and what rights do they have?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-defining-characteristics-of-negotiable-instruments
+    url: /learn/criminal-or-civil-law/questions/who-is-considered-a-holder-in-due-course-and-what-rights-do-they-have
 ---
 
 &nbsp;

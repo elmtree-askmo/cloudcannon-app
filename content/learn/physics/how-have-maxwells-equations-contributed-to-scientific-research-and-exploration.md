@@ -24,29 +24,29 @@ file_name: how-have-maxwells-equations-contributed-to-scientific-research-and-ex
 url: /learn/physics/questions/how-have-maxwells-equations-contributed-to-scientific-research-and-exploration
 score: -1.0
 related_article1:
-    id: 116231
+    id: 116224
     title: >-
-        What are some examples of modern technologies that rely on the principles of electromagnetism?
-    subject: Physics
-    url: /learn/physics/questions/what-are-some-examples-of-modern-technologies-that-rely-on-the-principles-of-electromagnetism
+        What are the medical and industrial applications of X-rays?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-medical-and-industrial-applications-of-xrays
 related_article2:
-    id: 116233
+    id: 116215
     title: >-
-        What challenges did Maxwell face in formulating his equations?
+        What are the fundamental nature and properties of electromagnetic waves?
     subject: Physics
-    url: /learn/physics/questions/what-challenges-did-maxwell-face-in-formulating-his-equations
+    url: /learn/physics/questions/what-are-the-fundamental-nature-and-properties-of-electromagnetic-waves
 related_article3:
-    id: 116236
+    id: 116237
     title: >-
-        How do Maxwell's equations relate to the theory of relativity?
+        What are the educational resources available for learning about Maxwell's equations?
     subject: Physics
-    url: /learn/physics/questions/how-do-maxwells-equations-relate-to-the-theory-of-relativity
+    url: /learn/physics/questions/what-are-the-educational-resources-available-for-learning-about-maxwells-equations
 related_article4:
-    id: 116218
+    id: 116216
     title: >-
-        What are the different types of waves in the electromagnetic spectrum?
+        How do electric and magnetic fields interact in electromagnetic waves?
     subject: Physics
-    url: /learn/physics/questions/what-are-the-different-types-of-waves-in-the-electromagnetic-spectrum
+    url: /learn/physics/questions/how-do-electric-and-magnetic-fields-interact-in-electromagnetic-waves
 ---
 
 &nbsp;

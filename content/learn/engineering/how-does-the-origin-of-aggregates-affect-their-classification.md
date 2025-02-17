@@ -24,35 +24,35 @@ file_name: how-does-the-origin-of-aggregates-affect-their-classification.md
 url: /learn/engineering/questions/how-does-the-origin-of-aggregates-affect-their-classification
 score: -1.0
 related_article1:
-    id: 120430
+    id: 120421
     title: >-
-        What are the challenges in sourcing high-quality aggregates for construction?
+        How do harmful substances in aggregates impact the durability of concrete?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-challenges-in-sourcing-highquality-aggregates-for-construction
+    url: /learn/engineering/questions/how-do-harmful-substances-in-aggregates-impact-the-durability-of-concrete
 related_article2:
-    id: 120413
+    id: 120412
     title: >-
-        What chemical properties of aggregates are crucial for their use in construction?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-chemical-properties-of-aggregates-are-crucial-for-their-use-in-construction
+        What are the key physical properties of aggregates that are important for construction?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-key-physical-properties-of-aggregates-that-are-important-for-construction
 related_article3:
-    id: 120410
+    id: 120422
     title: >-
-        What is the significance of specific gravity in the classification of aggregates?
+        What are the best practices for ensuring the quality of aggregates used in construction?
     subject: Engineering
-    url: /learn/engineering/questions/what-is-the-significance-of-specific-gravity-in-the-classification-of-aggregates
+    url: /learn/engineering/questions/what-are-the-best-practices-for-ensuring-the-quality-of-aggregates-used-in-construction
 related_article4:
-    id: 120417
+    id: 120409
     title: >-
-        Why is particle size distribution important in the context of aggregates?
+        How are aggregates classified based on particle size?
     subject: Engineering
-    url: /learn/engineering/questions/why-is-particle-size-distribution-important-in-the-context-of-aggregates
+    url: /learn/engineering/questions/how-are-aggregates-classified-based-on-particle-size
 related_article5:
-    id: 120414
+    id: 120426
     title: >-
-        What types of impurities can be found in aggregates and how do they affect concrete?
+        What are the latest advancements in testing methods for aggregates?
     subject: Engineering
-    url: /learn/engineering/questions/what-types-of-impurities-can-be-found-in-aggregates-and-how-do-they-affect-concrete
+    url: /learn/engineering/questions/what-are-the-latest-advancements-in-testing-methods-for-aggregates
 ---
 
 &nbsp;

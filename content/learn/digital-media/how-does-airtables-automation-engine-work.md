@@ -24,35 +24,29 @@ file_name: how-does-airtables-automation-engine-work.md
 url: /learn/digital-media/questions/how-does-airtables-automation-engine-work
 score: -1.0
 related_article1:
-    id: 117981
+    id: 117975
     title: >-
-        What are the pricing plans for Airtable and how do they compare to competitors?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-pricing-plans-for-airtable-and-how-do-they-compare-to-competitors
-related_article2:
-    id: 117989
-    title: >-
-        What are the future developments or updates expected for Airtable?
+        In what ways does Airtable differ from project management tools like Asana?
     subject: Digital Media
-    url: /learn/digital-media/questions/what-are-the-future-developments-or-updates-expected-for-airtable
-related_article3:
+    url: /learn/digital-media/questions/in-what-ways-does-airtable-differ-from-project-management-tools-like-asana
+related_article2:
     id: 117967
     title: >-
         What functionalities does the Airtable mobile application offer?
     subject: Digital Media
     url: /learn/digital-media/questions/what-functionalities-does-the-airtable-mobile-application-offer
+related_article3:
+    id: 117969
+    title: >-
+        What are the capabilities of Airtable's API access?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-are-the-capabilities-of-airtables-api-access
 related_article4:
-    id: 117965
+    id: 117981
     title: >-
-        What types of data views are available in Airtable?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-types-of-data-views-are-available-in-airtable
-related_article5:
-    id: 117978
-    title: >-
-        What are the benefits of using Airtable for personal data management?
-    subject: Digital Media
-    url: /learn/digital-media/questions/what-are-the-benefits-of-using-airtable-for-personal-data-management
+        What are the pricing plans for Airtable and how do they compare to competitors?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-the-pricing-plans-for-airtable-and-how-do-they-compare-to-competitors
 ---
 
 &nbsp;

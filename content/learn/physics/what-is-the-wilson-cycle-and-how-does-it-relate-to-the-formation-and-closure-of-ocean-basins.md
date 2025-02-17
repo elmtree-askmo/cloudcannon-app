@@ -30,29 +30,29 @@ related_article1:
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-some-key-resources-provided-by-oceans-that-influence-human-culture
 related_article2:
-    id: 119359
-    title: >-
-        How do magnetic field reversals contribute to our understanding of Earth's geological history?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-magnetic-field-reversals-contribute-to-our-understanding-of-earths-geological-history
-related_article3:
     id: 119374
     title: >-
         How do temperature and gas solubility interact in ocean environments?
     subject: Chemistry
     url: /learn/chemistry/questions/how-do-temperature-and-gas-solubility-interact-in-ocean-environments
-related_article4:
-    id: 119364
-    title: >-
-        How do oceans regulate climate through carbon dioxide and heat absorption?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-oceans-regulate-climate-through-carbon-dioxide-and-heat-absorption
-related_article5:
+related_article3:
     id: 119363
     title: >-
         What evidence did Alfred Wegener present for the theory of continental drift, and why was it initially rejected?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-evidence-did-alfred-wegener-present-for-the-theory-of-continental-drift-and-why-was-it-initially-rejected
+related_article4:
+    id: 119359
+    title: >-
+        How do magnetic field reversals contribute to our understanding of Earth's geological history?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-do-magnetic-field-reversals-contribute-to-our-understanding-of-earths-geological-history
+related_article5:
+    id: 119370
+    title: >-
+        How do estuaries function as marine nurseries and what is their ecological significance?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-estuaries-function-as-marine-nurseries-and-what-is-their-ecological-significance
 ---
 
 &nbsp;

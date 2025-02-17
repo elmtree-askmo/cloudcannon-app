@@ -24,23 +24,17 @@ file_name: what-were-the-major-developments-in-mental-health-treatment-during-th
 url: /learn/psychology/questions/what-were-the-major-developments-in-mental-health-treatment-during-the-19th-century
 score: -1.0
 related_article1:
-    id: 118464
-    title: >-
-        What are the main barriers to accessing mental health treatment today?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-barriers-to-accessing-mental-health-treatment-today
-related_article2:
-    id: 118448
-    title: >-
-        How does psychodynamic psychotherapy differ from other types of therapy?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-psychodynamic-psychotherapy-differ-from-other-types-of-therapy
-related_article3:
     id: 118450
     title: >-
         How is behavior therapy applied in mental health treatment?
     subject: Psychology
     url: /learn/psychology/questions/how-is-behavior-therapy-applied-in-mental-health-treatment
+related_article2:
+    id: 118461
+    title: >-
+        What are the most effective treatments for comorbid disorders involving substance use?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-most-effective-treatments-for-comorbid-disorders-involving-substance-use
 ---
 
 &nbsp;

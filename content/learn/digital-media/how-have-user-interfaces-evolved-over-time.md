@@ -24,29 +24,29 @@ file_name: how-have-user-interfaces-evolved-over-time.md
 url: /learn/digital-media/questions/how-have-user-interfaces-evolved-over-time
 score: -1.0
 related_article1:
-    id: 119383
+    id: 119384
     title: >-
-        How did the release of the Macintosh in 1984 impact the development of GUIs?
+        Who was Douglas Engelbart and what was his contribution to early GUI development?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-did-the-release-of-the-macintosh-in-1984-impact-the-development-of-guis
+    url: /learn/computer-science/questions/who-was-douglas-engelbart-and-what-was-his-contribution-to-early-gui-development
 related_article2:
-    id: 119388
+    id: 119389
     title: >-
-        What challenges did early GUI developers face and what is the legacy of these challenges?
+        What are the technical aspects of programming GUIs?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-challenges-did-early-gui-developers-face-and-what-is-the-legacy-of-these-challenges
+    url: /learn/computer-science/questions/what-are-the-technical-aspects-of-programming-guis
 related_article3:
-    id: 119405
+    id: 119401
     title: >-
-        How can a login interface in Tkinter be further improved?
+        How can the grid layout manager be used to create a profile entry UI in Tkinter?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-a-login-interface-in-tkinter-be-further-improved
+    url: /learn/computer-science/questions/how-can-the-grid-layout-manager-be-used-to-create-a-profile-entry-ui-in-tkinter
 related_article4:
-    id: 119402
+    id: 119387
     title: >-
-        What are the steps to create a login interface using Tkinter?
+        What are some of the key innovations from Xerox that have influenced modern computing?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-steps-to-create-a-login-interface-using-tkinter
+    url: /learn/computer-science/questions/what-are-some-of-the-key-innovations-from-xerox-that-have-influenced-modern-computing
 related_article5:
     id: 119411
     title: >-

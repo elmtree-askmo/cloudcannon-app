@@ -24,35 +24,35 @@ file_name: what-strategies-are-effective-against-phishing-and-ransomware-attacks
 url: /learn/computer-science/questions/what-strategies-are-effective-against-phishing-and-ransomware-attacks
 score: -1.0
 related_article1:
-    id: 122269
+    id: 122282
     title: >-
-        What are the most common types of viruses that affect network security?
+        What are some examples of internal threats and how can they be mitigated?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-most-common-types-of-viruses-that-affect-network-security
+    url: /learn/computer-science/questions/what-are-some-examples-of-internal-threats-and-how-can-they-be-mitigated
 related_article2:
-    id: 122283
+    id: 122290
     title: >-
-        What are the best practices for physical protection of network infrastructure?
+        Why are regular updates and patches crucial for network security?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-best-practices-for-physical-protection-of-network-infrastructure
+    url: /learn/computer-science/questions/why-are-regular-updates-and-patches-crucial-for-network-security
 related_article3:
-    id: 122294
+    id: 122288
     title: >-
-        Why is password reuse a security risk?
+        What are the benefits of email and spam filtering in network security?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-password-reuse-a-security-risk
+    url: /learn/computer-science/questions/what-are-the-benefits-of-email-and-spam-filtering-in-network-security
 related_article4:
-    id: 122278
+    id: 122292
     title: >-
-        What are the differences between DoS and DDoS attacks?
+        How does secure software development contribute to network security?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-differences-between-dos-and-ddos-attacks
+    url: /learn/computer-science/questions/how-does-secure-software-development-contribute-to-network-security
 related_article5:
-    id: 122289
+    id: 122285
     title: >-
-        How do antivirus and antimalware software protect networks?
+        What is the role of firewalls in network security?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-antivirus-and-antimalware-software-protect-networks
+    url: /learn/computer-science/questions/what-is-the-role-of-firewalls-in-network-security
 ---
 
 &nbsp;

@@ -24,29 +24,29 @@ file_name: what-is-the-basic-principle-of-thermochemistry.md
 url: /learn/chemistry/questions/what-is-the-basic-principle-of-thermochemistry
 score: -1.0
 related_article1:
-    id: 117921
+    id: 117922
     title: >-
-        What are lattice systems and unit cells in solids?
-    subject: Physics
-    url: /learn/physics/questions/what-are-lattice-systems-and-unit-cells-in-solids
+        How is concentration calculated in solutions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-concentration-calculated-in-solutions
 related_article2:
+    id: 117918
+    title: >-
+        How do you calculate the density and partial pressure of a gas?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-you-calculate-the-density-and-partial-pressure-of-a-gas
+related_article3:
+    id: 117926
+    title: >-
+        How do quantum numbers influence the properties of elements?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-quantum-numbers-influence-the-properties-of-elements
+related_article4:
     id: 117917
     title: >-
         What is the relationship between volume and temperature in gases?
     subject: Physics
     url: /learn/physics/questions/what-is-the-relationship-between-volume-and-temperature-in-gases
-related_article3:
-    id: 117909
-    title: >-
-        How are Lewis structures used to represent molecules?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-are-lewis-structures-used-to-represent-molecules
-related_article4:
-    id: 117904
-    title: >-
-        How do you calculate light and frequency in electronic structure?
-    subject: Physics
-    url: /learn/physics/questions/how-do-you-calculate-light-and-frequency-in-electronic-structure
 ---
 
 &nbsp;

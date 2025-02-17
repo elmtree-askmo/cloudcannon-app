@@ -24,35 +24,29 @@ file_name: what-are-the-different-types-of-thyroid-cancer.md
 url: /learn/medicine/questions/what-are-the-different-types-of-thyroid-cancer
 score: -1.0
 related_article1:
-    id: 123976
+    id: 123996
     title: >-
-        What are the common symptoms associated with thyroid nodules?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-common-symptoms-associated-with-thyroid-nodules
+        Why is it important to have individualized treatment plans for thyroid cancer?
+    subject: Medicine
+    url: /learn/medicine/questions/why-is-it-important-to-have-individualized-treatment-plans-for-thyroid-cancer
 related_article2:
-    id: 123982
+    id: 123977
     title: >-
-        What imaging and endoscopy techniques are used for thyroid nodules?
+        How often are thyroid nodules found incidentally?
     subject: Medicine
-    url: /learn/medicine/questions/what-imaging-and-endoscopy-techniques-are-used-for-thyroid-nodules
+    url: /learn/medicine/questions/how-often-are-thyroid-nodules-found-incidentally
 related_article3:
-    id: 123972
+    id: 123983
     title: >-
-        Can you explain the differences between simple goiter, toxic goiter, and neoplastic goiter?
+        What are the indications for treating benign thyroid nodules?
     subject: Medicine
-    url: /learn/medicine/questions/can-you-explain-the-differences-between-simple-goiter-toxic-goiter-and-neoplastic-goiter
+    url: /learn/medicine/questions/what-are-the-indications-for-treating-benign-thyroid-nodules
 related_article4:
-    id: 123975
+    id: 123979
     title: >-
-        What are the characteristics of differential thyroid carcinoma?
+        How is ultrasound used in the assessment of thyroid nodules?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-characteristics-of-differential-thyroid-carcinoma
-related_article5:
-    id: 123987
-    title: >-
-        How is well-differentiated thyroid cancer different from medullary and anaplastic thyroid cancer?
-    subject: Medicine
-    url: /learn/medicine/questions/how-is-welldifferentiated-thyroid-cancer-different-from-medullary-and-anaplastic-thyroid-cancer
+    url: /learn/medicine/questions/how-is-ultrasound-used-in-the-assessment-of-thyroid-nodules
 ---
 
 &nbsp;

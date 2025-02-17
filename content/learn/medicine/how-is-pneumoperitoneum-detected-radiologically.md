@@ -24,29 +24,35 @@ file_name: how-is-pneumoperitoneum-detected-radiologically.md
 url: /learn/medicine/questions/how-is-pneumoperitoneum-detected-radiologically
 score: -1.0
 related_article1:
-    id: 118151
+    id: 118147
     title: >-
-        How does PET CT differ from other imaging modalities in GI radiology?
+        How does computed tomography (CT) enhance GI imaging?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-pet-ct-differ-from-other-imaging-modalities-in-gi-radiology
+    url: /learn/medicine/questions/how-does-computed-tomography-ct-enhance-gi-imaging
 related_article2:
-    id: 118143
+    id: 118140
     title: >-
-        Can you explain the procedure and purpose of a barium swallow?
+        What are the primary imaging modalities used in gastrointestinal radiology?
     subject: Medicine
-    url: /learn/medicine/questions/can-you-explain-the-procedure-and-purpose-of-a-barium-swallow
+    url: /learn/medicine/questions/what-are-the-primary-imaging-modalities-used-in-gastrointestinal-radiology
 related_article3:
-    id: 118149
+    id: 118152
     title: >-
-        In what scenarios is ultrasound preferred for GI imaging?
+        What are the key anatomical features visible on an abdominal X-ray?
     subject: Medicine
-    url: /learn/medicine/questions/in-what-scenarios-is-ultrasound-preferred-for-gi-imaging
+    url: /learn/medicine/questions/what-are-the-key-anatomical-features-visible-on-an-abdominal-xray
 related_article4:
-    id: 118159
+    id: 118144
     title: >-
-        How are dilated small bowel loops identified on an X-ray?
+        What is a barium meal and when is it used?
     subject: Medicine
-    url: /learn/medicine/questions/how-are-dilated-small-bowel-loops-identified-on-an-xray
+    url: /learn/medicine/questions/what-is-a-barium-meal-and-when-is-it-used
+related_article5:
+    id: 118156
+    title: >-
+        How is the small bowel anatomy assessed through imaging?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-the-small-bowel-anatomy-assessed-through-imaging
 ---
 
 &nbsp;

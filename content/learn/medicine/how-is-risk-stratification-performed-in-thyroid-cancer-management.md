@@ -24,35 +24,35 @@ file_name: how-is-risk-stratification-performed-in-thyroid-cancer-management.md
 url: /learn/medicine/questions/how-is-risk-stratification-performed-in-thyroid-cancer-management
 score: -1.0
 related_article1:
-    id: 123951
+    id: 123947
     title: >-
-        How is endoscopy utilized in the diagnosis of thyroid conditions?
+        How is ultrasound used in the diagnosis of thyroid nodules?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-endoscopy-utilized-in-the-diagnosis-of-thyroid-conditions
+    url: /learn/medicine/questions/how-is-ultrasound-used-in-the-diagnosis-of-thyroid-nodules
 related_article2:
-    id: 123960
+    id: 123943
     title: >-
-        What are the characteristics of medullary thyroid cancer?
+        How does hyperthyroidism relate to toxic goiter?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-characteristics-of-medullary-thyroid-cancer
+    url: /learn/medicine/questions/how-does-hyperthyroidism-relate-to-toxic-goiter
 related_article3:
-    id: 123963
-    title: >-
-        How is lymph node management approached in thyroid cancer surgery?
-    subject: Medicine
-    url: /learn/medicine/questions/how-is-lymph-node-management-approached-in-thyroid-cancer-surgery
-related_article4:
     id: 123944
     title: >-
         What are the common inflammatory thyroid conditions?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-common-inflammatory-thyroid-conditions
-related_article5:
-    id: 123956
+related_article4:
+    id: 123960
     title: >-
-        How effective is ethanol injection in treating benign thyroid nodules?
+        What are the characteristics of medullary thyroid cancer?
     subject: Medicine
-    url: /learn/medicine/questions/how-effective-is-ethanol-injection-in-treating-benign-thyroid-nodules
+    url: /learn/medicine/questions/what-are-the-characteristics-of-medullary-thyroid-cancer
+related_article5:
+    id: 123948
+    title: >-
+        What is the role of fine needle aspiration cytology in thyroid nodule investigation?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-role-of-fine-needle-aspiration-cytology-in-thyroid-nodule-investigation
 ---
 
 &nbsp;

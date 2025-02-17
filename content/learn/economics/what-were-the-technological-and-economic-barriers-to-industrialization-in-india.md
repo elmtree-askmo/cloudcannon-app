@@ -24,11 +24,11 @@ file_name: what-were-the-technological-and-economic-barriers-to-industrializatio
 url: /learn/economics/questions/what-were-the-technological-and-economic-barriers-to-industrialization-in-india
 score: -1.0
 related_article1:
-    id: 123029
+    id: 123044
     title: >-
-        What were the economic conditions in India during the Industrial Revolution?
-    subject: Economics
-    url: /learn/economics/questions/what-were-the-economic-conditions-in-india-during-the-industrial-revolution
+        How did the Industrial Revolution affect global power dynamics?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-industrial-revolution-affect-global-power-dynamics
 related_article2:
     id: 123045
     title: >-
@@ -36,17 +36,23 @@ related_article2:
     subject: Economics
     url: /learn/economics/questions/what-lessons-can-be-learned-from-the-industrial-revolution-for-future-economic-development
 related_article3:
-    id: 123025
+    id: 123042
     title: >-
-        What were the global impacts of industrialization on agriculture?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-were-the-global-impacts-of-industrialization-on-agriculture
-related_article4:
-    id: 123028
-    title: >-
-        What were the economic conditions in China during the Industrial Revolution?
+        How did the Industrial Revolution contribute to the rise of capitalism?
     subject: Economics
-    url: /learn/economics/questions/what-were-the-economic-conditions-in-china-during-the-industrial-revolution
+    url: /learn/economics/questions/how-did-the-industrial-revolution-contribute-to-the-rise-of-capitalism
+related_article4:
+    id: 123030
+    title: >-
+        How did the Industrial Revolution set the stage for future discussions on capitalism?
+    subject: Economics
+    url: /learn/economics/questions/how-did-the-industrial-revolution-set-the-stage-for-future-discussions-on-capitalism
+related_article5:
+    id: 123027
+    title: >-
+        What arguments exist regarding European cultural superiority during the Industrial Revolution?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-arguments-exist-regarding-european-cultural-superiority-during-the-industrial-revolution
 ---
 
 &nbsp;

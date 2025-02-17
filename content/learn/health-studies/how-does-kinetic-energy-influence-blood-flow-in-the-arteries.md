@@ -36,11 +36,11 @@ related_article2:
     subject: Medicine
     url: /learn/medicine/questions/what-is-the-significance-of-viscosity-in-blood-flow
 related_article3:
-    id: 123904
+    id: 123888
     title: >-
-        What role does inertia play in the transition between laminar and turbulent flow?
-    subject: Physics
-    url: /learn/physics/questions/what-role-does-inertia-play-in-the-transition-between-laminar-and-turbulent-flow
+        What are the main factors contributing to resistance to blood flow?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-main-factors-contributing-to-resistance-to-blood-flow
 related_article4:
     id: 123896
     title: >-

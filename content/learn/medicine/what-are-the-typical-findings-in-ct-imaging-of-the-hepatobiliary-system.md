@@ -24,29 +24,35 @@ file_name: what-are-the-typical-findings-in-ct-imaging-of-the-hepatobiliary-syst
 url: /learn/medicine/questions/what-are-the-typical-findings-in-ct-imaging-of-the-hepatobiliary-system
 score: -1.0
 related_article1:
-    id: 118033
+    id: 118028
     title: >-
-        What are the key imaging techniques used for the hepatobiliary system?
+        What are the primary indications for imaging the pancreas?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-key-imaging-techniques-used-for-the-hepatobiliary-system
+    url: /learn/medicine/questions/what-are-the-primary-indications-for-imaging-the-pancreas
 related_article2:
-    id: 118024
+    id: 118029
     title: >-
-        What are the disadvantages of using MRI imaging for the hepatobiliary system?
+        What are the common hepatic pathologies that can be identified through imaging?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-disadvantages-of-using-mri-imaging-for-the-hepatobiliary-system
+    url: /learn/medicine/questions/what-are-the-common-hepatic-pathologies-that-can-be-identified-through-imaging
 related_article3:
-    id: 118020
+    id: 118042
     title: >-
-        What are the main advantages of CT imaging for the hepatobiliary system?
+        What role does contrast material play in CT and MRI imaging of the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-main-advantages-of-ct-imaging-for-the-hepatobiliary-system
+    url: /learn/medicine/questions/what-role-does-contrast-material-play-in-ct-and-mri-imaging-of-the-hepatobiliary-system
 related_article4:
-    id: 118043
+    id: 118025
     title: >-
-        How do patient factors, such as age and health conditions, influence the choice of imaging technique for the hepatobiliary system?
+        In what scenarios is MRI imaging commonly used for the hepatobiliary system?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-patient-factors-such-as-age-and-health-conditions-influence-the-choice-of-imaging-technique-for-the-hepatobiliary-system
+    url: /learn/medicine/questions/in-what-scenarios-is-mri-imaging-commonly-used-for-the-hepatobiliary-system
+related_article5:
+    id: 118026
+    title: >-
+        What are the primary indications for imaging the liver?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-primary-indications-for-imaging-the-liver
 ---
 
 &nbsp;

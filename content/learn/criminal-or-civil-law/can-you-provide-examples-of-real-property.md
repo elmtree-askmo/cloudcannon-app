@@ -30,29 +30,29 @@ related_article1:
     subject: Economics
     url: /learn/economics/questions/what-are-the-essential-elements-of-value-in-property
 related_article2:
-    id: 96957
+    id: 96986
     title: >-
-        How does the government exercise police power over property?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-does-the-government-exercise-police-power-over-property
+        What is redlining and how does it violate fair housing laws?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-redlining-and-how-does-it-violate-fair-housing-laws
 related_article3:
-    id: 96985
+    id: 96984
     title: >-
-        What is panic selling in real estate?
-    subject: Economics
-    url: /learn/economics/questions/what-is-panic-selling-in-real-estate
-related_article4:
-    id: 96968
-    title: >-
-        How does utility influence property value?
-    subject: Economics
-    url: /learn/economics/questions/how-does-utility-influence-property-value
-related_article5:
-    id: 96983
-    title: >-
-        What is steering in the context of fair housing laws?
+        What is blockbusting and how does it relate to fair housing?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-steering-in-the-context-of-fair-housing-laws
+    url: /learn/criminal-or-civil-law/questions/what-is-blockbusting-and-how-does-it-relate-to-fair-housing
+related_article4:
+    id: 96960
+    title: >-
+        What is escheat and when does it occur?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-is-escheat-and-when-does-it-occur
+related_article5:
+    id: 96973
+    title: >-
+        What is physical deterioration in property?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-is-physical-deterioration-in-property
 ---
 
 &nbsp;

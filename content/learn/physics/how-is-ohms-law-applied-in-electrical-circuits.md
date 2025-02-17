@@ -24,23 +24,35 @@ file_name: how-is-ohms-law-applied-in-electrical-circuits.md
 url: /learn/physics/questions/how-is-ohms-law-applied-in-electrical-circuits
 score: -1.0
 related_article1:
-    id: 122449
-    title: >-
-        What are the key steps involved in setting up a physics problem?
-    subject: Physics
-    url: /learn/physics/questions/what-are-the-key-steps-involved-in-setting-up-a-physics-problem
-related_article2:
-    id: 122450
-    title: >-
-        How do you determine which equations to use during the calculation phase of problem-solving?
-    subject: Physics
-    url: /learn/physics/questions/how-do-you-determine-which-equations-to-use-during-the-calculation-phase-of-problemsolving
-related_article3:
     id: 122478
     title: >-
         How do heat and temperature differ, and what is the role of specific heat capacity in thermal processes?
     subject: Physics
     url: /learn/physics/questions/how-do-heat-and-temperature-differ-and-what-is-the-role-of-specific-heat-capacity-in-thermal-processes
+related_article2:
+    id: 122470
+    title: >-
+        What is electric charge, and how does Coulomb's Law describe the interaction between charges?
+    subject: Physics
+    url: /learn/physics/questions/what-is-electric-charge-and-how-does-coulombs-law-describe-the-interaction-between-charges
+related_article3:
+    id: 122474
+    title: >-
+        What are the characteristics of series and parallel circuits?
+    subject: Physics
+    url: /learn/physics/questions/what-are-the-characteristics-of-series-and-parallel-circuits
+related_article4:
+    id: 122457
+    title: >-
+        How is average acceleration different from instantaneous acceleration?
+    subject: Physics
+    url: /learn/physics/questions/how-is-average-acceleration-different-from-instantaneous-acceleration
+related_article5:
+    id: 122469
+    title: >-
+        How is power defined in physics, and what factors influence efficiency?
+    subject: Physics
+    url: /learn/physics/questions/how-is-power-defined-in-physics-and-what-factors-influence-efficiency
 ---
 
 &nbsp;

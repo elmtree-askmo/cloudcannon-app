@@ -24,29 +24,35 @@ file_name: can-you-explain-the-basic-concepts-of-needs-wants-and-demand-in-marke
 url: /learn/business-and-management/questions/can-you-explain-the-basic-concepts-of-needs-wants-and-demand-in-marketing
 score: -1.0
 related_article1:
-    id: 119528
+    id: 119529
     title: >-
-        How is market share calculated and why is it important?
+        What is the Ansoff Matrix and how is it used in market penetration analysis?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-is-market-share-calculated-and-why-is-it-important
+    url: /learn/business-and-management/questions/what-is-the-ansoff-matrix-and-how-is-it-used-in-market-penetration-analysis
 related_article2:
-    id: 119526
+    id: 119502
     title: >-
-        Who are the key customer markets in marketing?
+        What is the definition of marketing and how has it evolved over time?
     subject: Business and Management
-    url: /learn/business-and-management/questions/who-are-the-key-customer-markets-in-marketing
+    url: /learn/business-and-management/questions/what-is-the-definition-of-marketing-and-how-has-it-evolved-over-time
 related_article3:
-    id: 119525
+    id: 119510
     title: >-
-        What constitutes a simple marketing system?
+        What are the different entities that can be marketed?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-constitutes-a-simple-marketing-system
+    url: /learn/business-and-management/questions/what-are-the-different-entities-that-can-be-marketed
 related_article4:
-    id: 119520
+    id: 119514
     title: >-
-        How do supply and demand interact in marketing?
+        What are the unique challenges in marketing persons and places?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-do-supply-and-demand-interact-in-marketing
+    url: /learn/business-and-management/questions/what-are-the-unique-challenges-in-marketing-persons-and-places
+related_article5:
+    id: 119519
+    title: >-
+        What strategies are used to influence demand response?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-strategies-are-used-to-influence-demand-response
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: how-do-mathematical-constants-like-pi-and-e-appear-in-physical-equati
 url: /learn/mathematics/questions/how-do-mathematical-constants-like-pi-and-e-appear-in-physical-equations
 score: -1.0
 related_article1:
-    id: 116185
+    id: 116196
     title: >-
-        What are fundamental principles and consequential statements in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-are-fundamental-principles-and-consequential-statements-in-physics
+        How did ancient civilizations contribute to the development of mathematical concepts used in physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-concepts-used-in-physics
 related_article2:
+    id: 116178
+    title: >-
+        How does mathematics help us understand natural phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
+related_article3:
+    id: 116195
+    title: >-
+        What role does calculus play in understanding physical laws?
+    subject: Physics
+    url: /learn/physics/questions/what-role-does-calculus-play-in-understanding-physical-laws
+related_article4:
+    id: 116203
+    title: >-
+        What is the role of geometry in understanding physical space?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-role-of-geometry-in-understanding-physical-space
+related_article5:
     id: 116206
     title: >-
         How do mathematical transformations help in solving physical problems?
     subject: Physics
     url: /learn/physics/questions/how-do-mathematical-transformations-help-in-solving-physical-problems
-related_article3:
-    id: 116201
-    title: >-
-        What is the historical significance of the relationship between physics and mathematics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-historical-significance-of-the-relationship-between-physics-and-mathematics
-related_article4:
-    id: 116199
-    title: >-
-        What are some examples of mathematical concepts that have been crucial in physics discoveries?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-examples-of-mathematical-concepts-that-have-been-crucial-in-physics-discoveries
-related_article5:
-    id: 116197
-    title: >-
-        What is the importance of mathematical proofs in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-importance-of-mathematical-proofs-in-physics
 ---
 
 &nbsp;

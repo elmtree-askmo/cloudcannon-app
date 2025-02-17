@@ -24,35 +24,35 @@ file_name: can-you-explain-the-concept-of-the-cone-of-confusion-in-sound-localiz
 url: /learn/psychology/questions/can-you-explain-the-concept-of-the-cone-of-confusion-in-sound-localization
 score: -1.0
 related_article1:
-    id: 122532
+    id: 122517
     title: >-
-        How do dynamics and rhythm contribute to the perception of music?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-do-dynamics-and-rhythm-contribute-to-the-perception-of-music
+        How does spatial segregation work in auditory scene analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-spatial-segregation-work-in-auditory-scene-analysis
 related_article2:
-    id: 122509
+    id: 122519
     title: >-
-        What are the primary mechanisms of sound localization in the auditory brain?
+        How does auditory development progress in humans?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-mechanisms-of-sound-localization-in-the-auditory-brain
+    url: /learn/psychology/questions/how-does-auditory-development-progress-in-humans
 related_article3:
-    id: 122535
+    id: 122518
     title: >-
-        What are the Gestalt principles of melody?
+        What is spectral segregation and how does it aid in auditory scene analysis?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-gestalt-principles-of-melody
+    url: /learn/psychology/questions/what-is-spectral-segregation-and-how-does-it-aid-in-auditory-scene-analysis
 related_article4:
-    id: 122522
+    id: 122525
     title: >-
-        What are the differences in processing vowels and consonants in speech perception?
+        How does vision influence speech perception, particularly in the McGurk effect?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-differences-in-processing-vowels-and-consonants-in-speech-perception
+    url: /learn/psychology/questions/how-does-vision-influence-speech-perception-particularly-in-the-mcgurk-effect
 related_article5:
-    id: 122526
+    id: 122530
     title: >-
-        What is the phonemic restoration effect in top-down processing of speech perception?
+        How do pitch, chroma, and the octave relate to music perception?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-phonemic-restoration-effect-in-topdown-processing-of-speech-perception
+    url: /learn/psychology/questions/how-do-pitch-chroma-and-the-octave-relate-to-music-perception
 ---
 
 &nbsp;

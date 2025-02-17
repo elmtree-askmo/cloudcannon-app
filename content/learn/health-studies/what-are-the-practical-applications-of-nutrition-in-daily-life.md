@@ -24,23 +24,35 @@ file_name: what-are-the-practical-applications-of-nutrition-in-daily-life.md
 url: /learn/health-studies/questions/what-are-the-practical-applications-of-nutrition-in-daily-life
 score: -1.0
 related_article1:
-    id: 104337
-    title: >-
-        How do nutrients provide energy to the body?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-nutrients-provide-energy-to-the-body
-related_article2:
     id: 104336
     title: >-
         What is the difference between essential and non-essential nutrients?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-difference-between-essential-and-nonessential-nutrients
+related_article2:
+    id: 104345
+    title: >-
+        How can My Healthy Plate be applied to main meals?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-can-my-healthy-plate-be-applied-to-main-meals
 related_article3:
     id: 104344
     title: >-
         What methods are used to analyze nutrients in food?
     subject: Health Studies
     url: /learn/health-studies/questions/what-methods-are-used-to-analyze-nutrients-in-food
+related_article4:
+    id: 104338
+    title: >-
+        In what ways do nutrients regulate and control body processes?
+    subject: Health Studies
+    url: /learn/health-studies/questions/in-what-ways-do-nutrients-regulate-and-control-body-processes
+related_article5:
+    id: 104339
+    title: >-
+        How can nutrients reduce the risks of certain diseases?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-can-nutrients-reduce-the-risks-of-certain-diseases
 ---
 
 &nbsp;

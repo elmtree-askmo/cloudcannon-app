@@ -24,35 +24,35 @@ file_name: can-you-explain-the-minimum-principle-in-the-context-of-physics.md
 url: /learn/physics/questions/can-you-explain-the-minimum-principle-in-the-context-of-physics
 score: -1.0
 related_article1:
-    id: 119286
+    id: 119284
     title: >-
-        How did ancient civilizations contribute to the development of mathematical concepts used in physics?
+        How do mathematical models help in predicting physical phenomena?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-concepts-used-in-physics
+    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
 related_article2:
-    id: 119285
+    id: 119296
     title: >-
-        What role does calculus play in understanding physical laws?
+        How do physicists use mathematical notation to communicate complex ideas?
     subject: Physics
-    url: /learn/physics/questions/what-role-does-calculus-play-in-understanding-physical-laws
+    url: /learn/physics/questions/how-do-physicists-use-mathematical-notation-to-communicate-complex-ideas
 related_article3:
-    id: 119283
+    id: 119270
     title: >-
-        What are the philosophical implications of the relationship between physics and mathematics?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
-related_article4:
-    id: 119289
-    title: >-
-        What are some examples of fundamental principles in physics that rely on mathematics?
+        Can you explain Newton's Law of Gravitation in mathematical terms?
     subject: Physics
-    url: /learn/physics/questions/what-are-some-examples-of-fundamental-principles-in-physics-that-rely-on-mathematics
-related_article5:
+    url: /learn/physics/questions/can-you-explain-newtons-law-of-gravitation-in-mathematical-terms
+related_article4:
     id: 119278
     title: >-
         How does the law of gravitation demonstrate the relationship between physics and mathematics?
     subject: Physics
     url: /learn/physics/questions/how-does-the-law-of-gravitation-demonstrate-the-relationship-between-physics-and-mathematics
+related_article5:
+    id: 119275
+    title: >-
+        What are fundamental principles and consequential statements in physics?
+    subject: Physics
+    url: /learn/physics/questions/what-are-fundamental-principles-and-consequential-statements-in-physics
 ---
 
 &nbsp;

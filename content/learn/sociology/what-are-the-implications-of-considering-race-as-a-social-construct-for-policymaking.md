@@ -24,17 +24,23 @@ file_name: what-are-the-implications-of-considering-race-as-a-social-construct-f
 url: /learn/sociology/questions/what-are-the-implications-of-considering-race-as-a-social-construct-for-policymaking
 score: -1.0
 related_article1:
-    id: 96540
+    id: 96542
     title: >-
-        How does racism manifest as a learned behavior in society?
+        How do current events reflect ongoing racial and ethnic inequality?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-racism-manifest-as-a-learned-behavior-in-society
+    url: /learn/sociology/questions/how-do-current-events-reflect-ongoing-racial-and-ethnic-inequality
 related_article2:
     id: 96556
     title: >-
         How do Latino and Hispanic identities intersect with other racial and ethnic identities?
     subject: Sociology
     url: /learn/sociology/questions/how-do-latino-and-hispanic-identities-intersect-with-other-racial-and-ethnic-identities
+related_article3:
+    id: 96540
+    title: >-
+        How does racism manifest as a learned behavior in society?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-racism-manifest-as-a-learned-behavior-in-society
 ---
 
 &nbsp;

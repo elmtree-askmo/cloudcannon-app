@@ -24,35 +24,35 @@ file_name: what-were-the-major-chemical-advancements-during-the-industrial-revol
 url: /learn/chemistry/questions/what-were-the-major-chemical-advancements-during-the-industrial-revolution
 score: -1.0
 related_article1:
-    id: 123029
+    id: 123027
     title: >-
-        What were the economic conditions in India during the Industrial Revolution?
-    subject: Economics
-    url: /learn/economics/questions/what-were-the-economic-conditions-in-india-during-the-industrial-revolution
+        What arguments exist regarding European cultural superiority during the Industrial Revolution?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-arguments-exist-regarding-european-cultural-superiority-during-the-industrial-revolution
 related_article2:
-    id: 123034
+    id: 123018
     title: >-
-        How did wage differences affect labor movements during the Industrial Revolution?
+        What role did the steam engine play in the Industrial Revolution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-wage-differences-affect-labor-movements-during-the-industrial-revolution
+    url: /learn/history-of-the-world/questions/what-role-did-the-steam-engine-play-in-the-industrial-revolution
 related_article3:
-    id: 123016
+    id: 123032
     title: >-
-        What were the key technological innovations during the Industrial Revolution?
-    subject: Engineering
-    url: /learn/engineering/questions/what-were-the-key-technological-innovations-during-the-industrial-revolution
-related_article4:
-    id: 123030
-    title: >-
-        How did the Industrial Revolution set the stage for future discussions on capitalism?
-    subject: Economics
-    url: /learn/economics/questions/how-did-the-industrial-revolution-set-the-stage-for-future-discussions-on-capitalism
-related_article5:
-    id: 123020
-    title: >-
-        How did coal availability in Britain influence the Industrial Revolution?
+        How did the development of the steam engine affect transportation and industry?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-coal-availability-in-britain-influence-the-industrial-revolution
+    url: /learn/history-of-the-world/questions/how-did-the-development-of-the-steam-engine-affect-transportation-and-industry
+related_article4:
+    id: 123025
+    title: >-
+        What were the global impacts of industrialization on agriculture?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-were-the-global-impacts-of-industrialization-on-agriculture
+related_article5:
+    id: 123033
+    title: >-
+        What were the environmental impacts of increased coal usage during the Industrial Revolution?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-environmental-impacts-of-increased-coal-usage-during-the-industrial-revolution
 ---
 
 &nbsp;

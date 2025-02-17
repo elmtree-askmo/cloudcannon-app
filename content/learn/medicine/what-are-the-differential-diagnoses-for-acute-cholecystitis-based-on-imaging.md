@@ -23,30 +23,7 @@ subject: Medicine
 file_name: what-are-the-differential-diagnoses-for-acute-cholecystitis-based-on-imaging.md
 url: /learn/medicine/questions/what-are-the-differential-diagnoses-for-acute-cholecystitis-based-on-imaging
 score: -1.0
-related_article1:
-    id: 118128
-    title: >-
-        What role does imaging play in detecting complications of pancreatitis?
-    subject: Medicine
-    url: /learn/medicine/questions/what-role-does-imaging-play-in-detecting-complications-of-pancreatitis
-related_article2:
-    id: 118139
-    title: >-
-        What are the potential risks or side effects associated with imaging techniques used in hepatobiliary diagnosis?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-potential-risks-or-side-effects-associated-with-imaging-techniques-used-in-hepatobiliary-diagnosis
-related_article3:
-    id: 118125
-    title: >-
-        What are the common imaging characteristics of acute pancreatitis?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-common-imaging-characteristics-of-acute-pancreatitis
-related_article4:
-    id: 118118
-    title: >-
-        Can you provide insights into a case study of acute pancreatitis, including patient presentation and imaging findings?
-    subject: Medicine
-    url: /learn/medicine/questions/can-you-provide-insights-into-a-case-study-of-acute-pancreatitis-including-patient-presentation-and-imaging-findings
+
 ---
 
 &nbsp;

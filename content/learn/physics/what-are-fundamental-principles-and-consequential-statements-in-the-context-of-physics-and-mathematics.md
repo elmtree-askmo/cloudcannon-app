@@ -24,35 +24,23 @@ file_name: what-are-fundamental-principles-and-consequential-statements-in-the-c
 url: /learn/physics/questions/what-are-fundamental-principles-and-consequential-statements-in-the-context-of-physics-and-mathematics
 score: -1.0
 related_article1:
-    id: 99799
+    id: 99794
     title: >-
-        What is the minimum principle and how is it applied in physics?
+        How did the Babylonian method influence the development of physics?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-minimum-principle-and-how-is-it-applied-in-physics
+    url: /learn/physics/questions/how-did-the-babylonian-method-influence-the-development-of-physics
 related_article2:
-    id: 99815
+    id: 99805
     title: >-
-        How do mathematical proofs contribute to the validation of physical theories?
+        How do physicists use mathematical equations to describe the universe?
     subject: Physics
-    url: /learn/physics/questions/how-do-mathematical-proofs-contribute-to-the-validation-of-physical-theories
+    url: /learn/physics/questions/how-do-physicists-use-mathematical-equations-to-describe-the-universe
 related_article3:
-    id: 99791
+    id: 99792
     title: >-
-        How has modern mathematical notation evolved to aid in the study of physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-to-aid-in-the-study-of-physics
-related_article4:
-    id: 99796
-    title: >-
-        How does the law of gravitation relate to the conservation of angular momentum?
-    subject: Physics
-    url: /learn/physics/questions/how-does-the-law-of-gravitation-relate-to-the-conservation-of-angular-momentum
-related_article5:
-    id: 99787
-    title: >-
-        Can you explain Faraday's Law and its significance in physics?
-    subject: Physics
-    url: /learn/physics/questions/can-you-explain-faradays-law-and-its-significance-in-physics
+        What contributions did Babylonian and Greek traditions make to the relationship between physics and mathematics?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-contributions-did-babylonian-and-greek-traditions-make-to-the-relationship-between-physics-and-mathematics
 ---
 
 &nbsp;

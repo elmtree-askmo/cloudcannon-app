@@ -24,23 +24,29 @@ file_name: what-is-domain-classification-and-weighting-in-data-collection-for-la
 url: /learn/computer-science/questions/what-is-domain-classification-and-weighting-in-data-collection-for-language-models
 score: -1.0
 related_article1:
-    id: 97110
+    id: 97079
     title: >-
-        What are the future research directions in AI related to data processing efficiency?
+        What types of data are typically used in training large language models?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-future-research-directions-in-ai-related-to-data-processing-efficiency
+    url: /learn/computer-science/questions/what-types-of-data-are-typically-used-in-training-large-language-models
 related_article2:
-    id: 97080
+    id: 97101
     title: >-
-        How is the evaluation of large language models conducted?
+        How does supervised fine-tuning (SFT) work in post-training of large language models?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-the-evaluation-of-large-language-models-conducted
+    url: /learn/computer-science/questions/how-does-supervised-finetuning-sft-work-in-posttraining-of-large-language-models
 related_article3:
-    id: 97100
+    id: 97078
     title: >-
-        What is the scaling recipe in the context of hyperparameter tuning?
+        How does the training loss and algorithm impact the performance of large language models?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-scaling-recipe-in-the-context-of-hyperparameter-tuning
+    url: /learn/computer-science/questions/how-does-the-training-loss-and-algorithm-impact-the-performance-of-large-language-models
+related_article4:
+    id: 97113
+    title: >-
+        What legal and ethical considerations are important in the future research of AI?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-legal-and-ethical-considerations-are-important-in-the-future-research-of-ai
 ---
 
 &nbsp;

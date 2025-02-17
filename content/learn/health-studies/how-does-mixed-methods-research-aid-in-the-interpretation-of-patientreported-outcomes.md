@@ -29,6 +29,12 @@ related_article1:
         How can researchers enhance learning and knowledge sharing in mixed methods research?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-researchers-enhance-learning-and-knowledge-sharing-in-mixed-methods-research
+related_article2:
+    id: 102489
+    title: >-
+        What are the key characteristics of mixed methods research?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-key-characteristics-of-mixed-methods-research
 ---
 
 &nbsp;

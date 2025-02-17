@@ -13,7 +13,7 @@ seo:
   page_description: >-
     Mathematical notation is crucial for effectively communicating scientific concepts, standardizing representations, enhancing clarity, facilitating discovery, and serving as a universal language in science.
   page_keywords: >-
-    mathematical notation, communication, scientific ideas, standardization, conciseness, clarity, discovery, language of science, historical contributions, René Descartes, modeling, predictions, hypotheses
+    mathematical notation, communication, scientific ideas, standardization, conciseness, clarity, discovery, language of science, historical contributions, Ren Descartes, modeling, predictions, hypotheses
 author: QuickTakes
 question: >-
     What is the importance of mathematical notation in communicating scientific ideas?
@@ -24,29 +24,35 @@ file_name: what-is-the-importance-of-mathematical-notation-in-communicating-scie
 url: /learn/mathematics/questions/what-is-the-importance-of-mathematical-notation-in-communicating-scientific-ideas
 score: -1.0
 related_article1:
-    id: 122704
+    id: 122705
     title: >-
-        What are the philosophical implications of the relationship between physics and mathematics?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
+        How do mathematical models help in predicting physical phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
 related_article2:
+    id: 122695
+    title: >-
+        What are the key differences between Babylonian and Greek mathematical traditions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-differences-between-babylonian-and-greek-mathematical-traditions
+related_article3:
+    id: 122691
+    title: >-
+        Can you explain Newton's Law of Gravitation in mathematical terms?
+    subject: Physics
+    url: /learn/physics/questions/can-you-explain-newtons-law-of-gravitation-in-mathematical-terms
+related_article4:
     id: 122714
     title: >-
         What is the significance of the Euclidean method in modern physics?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-significance-of-the-euclidean-method-in-modern-physics
-related_article3:
-    id: 122700
+related_article5:
+    id: 122698
     title: >-
-        How is the conservation of angular momentum expressed mathematically?
-    subject: Physics
-    url: /learn/physics/questions/how-is-the-conservation-of-angular-momentum-expressed-mathematically
-related_article4:
-    id: 122696
-    title: >-
-        How do fundamental principles lead to consequential statements in physics?
-    subject: Physics
-    url: /learn/physics/questions/how-do-fundamental-principles-lead-to-consequential-statements-in-physics
+        How did the Euclidean method contribute to the development of physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-did-the-euclidean-method-contribute-to-the-development-of-physics
 ---
 
 &nbsp;

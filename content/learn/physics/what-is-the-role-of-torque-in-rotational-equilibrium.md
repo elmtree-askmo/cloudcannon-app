@@ -24,35 +24,29 @@ file_name: what-is-the-role-of-torque-in-rotational-equilibrium.md
 url: /learn/physics/questions/what-is-the-role-of-torque-in-rotational-equilibrium
 score: -1.0
 related_article1:
+    id: 122461
+    title: >-
+        How does Newton's Second Law relate to force and acceleration?
+    subject: Physics
+    url: /learn/physics/questions/how-does-newtons-second-law-relate-to-force-and-acceleration
+related_article2:
+    id: 122477
+    title: >-
+        What is Archimedes' Principle, and how does it explain buoyancy?
+    subject: Physics
+    url: /learn/physics/questions/what-is-archimedes-principle-and-how-does-it-explain-buoyancy
+related_article3:
+    id: 122466
+    title: >-
+        What are the different forms of potential energy, and how are they calculated?
+    subject: Physics
+    url: /learn/physics/questions/what-are-the-different-forms-of-potential-energy-and-how-are-they-calculated
+related_article4:
     id: 122470
     title: >-
         What is electric charge, and how does Coulomb's Law describe the interaction between charges?
     subject: Physics
     url: /learn/physics/questions/what-is-electric-charge-and-how-does-coulombs-law-describe-the-interaction-between-charges
-related_article2:
-    id: 122472
-    title: >-
-        What are the key differences between electric current and resistance?
-    subject: Physics
-    url: /learn/physics/questions/what-are-the-key-differences-between-electric-current-and-resistance
-related_article3:
-    id: 122473
-    title: >-
-        How is Ohm's Law applied in electrical circuits?
-    subject: Physics
-    url: /learn/physics/questions/how-is-ohms-law-applied-in-electrical-circuits
-related_article4:
-    id: 122454
-    title: >-
-        What is the significance of the time interval in kinematics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-significance-of-the-time-interval-in-kinematics
-related_article5:
-    id: 122468
-    title: >-
-        What is the principle of conservation of energy, and how is it applied in physics problems?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-principle-of-conservation-of-energy-and-how-is-it-applied-in-physics-problems
 ---
 
 &nbsp;

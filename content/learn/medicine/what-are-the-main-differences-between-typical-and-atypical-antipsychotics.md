@@ -24,35 +24,35 @@ file_name: what-are-the-main-differences-between-typical-and-atypical-antipsycho
 url: /learn/medicine/questions/what-are-the-main-differences-between-typical-and-atypical-antipsychotics
 score: -1.0
 related_article1:
-    id: 104589
+    id: 104617
     title: >-
-        Can you explain the mechanism of action for both typical and atypical antipsychotics?
+        What are the latest advancements in the development of antipsychotics and anxiolytics?
     subject: Medicine
-    url: /learn/medicine/questions/can-you-explain-the-mechanism-of-action-for-both-typical-and-atypical-antipsychotics
+    url: /learn/medicine/questions/what-are-the-latest-advancements-in-the-development-of-antipsychotics-and-anxiolytics
 related_article2:
-    id: 104607
+    id: 104592
     title: >-
-        How do Serotonin-Norepinephrine Reuptake Inhibitors (SNRI) differ from SSRIs?
+        What is Extrapyramidal Syndrome and how is it related to antipsychotic use?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-serotoninnorepinephrine-reuptake-inhibitors-snri-differ-from-ssris
+    url: /learn/medicine/questions/what-is-extrapyramidal-syndrome-and-how-is-it-related-to-antipsychotic-use
 related_article3:
-    id: 104616
+    id: 104608
     title: >-
-        How do healthcare providers determine the appropriate class of antidepressant for a patient?
+        What are atypical antidepressants and in what situations are they typically prescribed?
     subject: Medicine
-    url: /learn/medicine/questions/how-do-healthcare-providers-determine-the-appropriate-class-of-antidepressant-for-a-patient
+    url: /learn/medicine/questions/what-are-atypical-antidepressants-and-in-what-situations-are-they-typically-prescribed
 related_article4:
-    id: 104590
+    id: 104598
     title: >-
-        What are the most common side effects associated with antipsychotics?
+        What special considerations should be taken into account when prescribing antipsychotics to older adults?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-most-common-side-effects-associated-with-antipsychotics
+    url: /learn/medicine/questions/what-special-considerations-should-be-taken-into-account-when-prescribing-antipsychotics-to-older-adults
 related_article5:
-    id: 104594
+    id: 104615
     title: >-
-        What is Acute Dystonia and how is it managed in patients taking antipsychotics?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-acute-dystonia-and-how-is-it-managed-in-patients-taking-antipsychotics
+        What are the long-term effects of using antipsychotics and anxiolytics?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-longterm-effects-of-using-antipsychotics-and-anxiolytics
 ---
 
 &nbsp;

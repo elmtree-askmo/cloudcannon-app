@@ -24,23 +24,17 @@ file_name: what-are-the-legal-precedents-for-warrantless-vehicle-searches.md
 url: /learn/criminal-or-civil-law/questions/what-are-the-legal-precedents-for-warrantless-vehicle-searches
 score: -1.0
 related_article1:
-    id: 122049
-    title: >-
-        How does officer safety impact passenger searches during vehicle stops?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-does-officer-safety-impact-passenger-searches-during-vehicle-stops
-related_article2:
     id: 122064
     title: >-
         How does the Fourth Amendment govern arrest procedures?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/how-does-the-fourth-amendment-govern-arrest-procedures
-related_article3:
-    id: 122057
+related_article2:
+    id: 122049
     title: >-
-        How is privacy protected in public communications during electronic searches?
+        How does officer safety impact passenger searches during vehicle stops?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-is-privacy-protected-in-public-communications-during-electronic-searches
+    url: /learn/criminal-or-civil-law/questions/how-does-officer-safety-impact-passenger-searches-during-vehicle-stops
 ---
 
 &nbsp;

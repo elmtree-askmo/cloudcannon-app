@@ -24,12 +24,6 @@ file_name: what-are-the-stages-of-development-in-eriksons-psychosocial-theory.md
 url: /learn/psychology/questions/what-are-the-stages-of-development-in-eriksons-psychosocial-theory
 score: -1.0
 related_article1:
-    id: 99226
-    title: >-
-        Can you describe the stages of Piaget’s cognitive development theory?
-    subject: Psychology
-    url: /learn/psychology/questions/can-you-describe-the-stages-of-piagets-cognitive-development-theory
-related_article2:
     id: 99235
     title: >-
         What is Chomsky’s innateness hypothesis in language development?

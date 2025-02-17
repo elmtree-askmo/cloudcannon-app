@@ -24,29 +24,29 @@ file_name: what-is-the-short-swing-profit-rule-and-how-does-it-apply-to-insiders
 url: /learn/criminal-or-civil-law/questions/what-is-the-short-swing-profit-rule-and-how-does-it-apply-to-insiders
 score: -1.0
 related_article1:
-    id: 122996
+    id: 122993
     title: >-
-        What is the legal framework surrounding labor lockouts?
+        What are primary concerted activities and how do they differ from secondary activities?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-the-legal-framework-surrounding-labor-lockouts
+    url: /learn/criminal-or-civil-law/questions/what-are-primary-concerted-activities-and-how-do-they-differ-from-secondary-activities
 related_article2:
-    id: 123012
+    id: 122995
     title: >-
-        What are the disclosure requirements under the Securities Exchange Act of 1934?
+        How does the concept of a runaway shop affect labor relations?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-disclosure-requirements-under-the-securities-exchange-act-of-1934
+    url: /learn/criminal-or-civil-law/questions/how-does-the-concept-of-a-runaway-shop-affect-labor-relations
 related_article3:
-    id: 122990
-    title: >-
-        How did the Wagner Act and Taft-Hartley Act of 1937 impact labor relations?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-did-the-wagner-act-and-tafthartley-act-of-1937-impact-labor-relations
-related_article4:
     id: 122998
     title: >-
         What are the key differences between disparate treatment and disparate impact under the Civil Rights Act of 1964?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-are-the-key-differences-between-disparate-treatment-and-disparate-impact-under-the-civil-rights-act-of-1964
+related_article4:
+    id: 123006
+    title: >-
+        What are the key requirements for the initial sale of securities under the Securities Act of 1933?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-are-the-key-requirements-for-the-initial-sale-of-securities-under-the-securities-act-of-1933
 ---
 
 &nbsp;

@@ -24,35 +24,29 @@ file_name: why-is-contemporary-art-considered-important-in-todays-society.md
 url: /learn/art-history-and-literature/questions/why-is-contemporary-art-considered-important-in-todays-society
 score: -1.0
 related_article1:
-    id: 110266
+    id: 110258
     title: >-
-        How do contemporary art exhibitions influence public perception of art?
+        How do contemporary artists engage with social and political themes?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-contemporary-art-exhibitions-influence-public-perception-of-art
+    url: /learn/art-history-and-literature/questions/how-do-contemporary-artists-engage-with-social-and-political-themes
 related_article2:
-    id: 110259
+    id: 110238
     title: >-
-        What is the impact of contemporary art on cultural understanding?
+        What are the key characteristics that distinguish traditional art from modern and contemporary art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-impact-of-contemporary-art-on-cultural-understanding
+    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-that-distinguish-traditional-art-from-modern-and-contemporary-art
 related_article3:
-    id: 110240
+    id: 110260
     title: >-
-        What are the main differences between modern art and contemporary art?
+        How do the seven major contemporary art forms interact with each other?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-main-differences-between-modern-art-and-contemporary-art
+    url: /learn/art-history-and-literature/questions/how-do-the-seven-major-contemporary-art-forms-interact-with-each-other
 related_article4:
-    id: 110249
+    id: 110264
     title: >-
-        What role does literature play in contemporary art?
+        How do contemporary art forms vary across different regions of the world?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-does-literature-play-in-contemporary-art
-related_article5:
-    id: 110242
-    title: >-
-        What role does traditional art play in the cultural identity of the Philippines?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-does-traditional-art-play-in-the-cultural-identity-of-the-philippines
+    url: /learn/art-history-and-literature/questions/how-do-contemporary-art-forms-vary-across-different-regions-of-the-world
 ---
 
 &nbsp;

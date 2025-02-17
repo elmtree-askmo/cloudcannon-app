@@ -24,23 +24,23 @@ file_name: how-is-standard-error-defined-and-calculated.md
 url: /learn/mathematics/questions/how-is-standard-error-defined-and-calculated
 score: -1.0
 related_article1:
+    id: 122855
+    title: >-
+        What are the common sources of bias in sampling?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-common-sources-of-bias-in-sampling
+related_article2:
     id: 122848
     title: >-
         Can you explain the Central Limit Theorem in simple terms?
     subject: Mathematics
     url: /learn/mathematics/questions/can-you-explain-the-central-limit-theorem-in-simple-terms
-related_article2:
+related_article3:
     id: 122861
     title: >-
         What factors influence the width of a confidence interval?
     subject: Mathematics
     url: /learn/mathematics/questions/what-factors-influence-the-width-of-a-confidence-interval
-related_article3:
-    id: 122854
-    title: >-
-        How does population size affect statistical inference?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-population-size-affect-statistical-inference
 ---
 
 &nbsp;

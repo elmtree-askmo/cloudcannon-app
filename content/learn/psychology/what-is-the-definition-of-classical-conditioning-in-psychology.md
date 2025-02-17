@@ -24,11 +24,11 @@ file_name: what-is-the-definition-of-classical-conditioning-in-psychology.md
 url: /learn/psychology/questions/what-is-the-definition-of-classical-conditioning-in-psychology
 score: -1.0
 related_article1:
-    id: 95704
+    id: 95717
     title: >-
-        How does punishment differ from reinforcement in operant conditioning?
+        How do reinforcement and punishment influence behavior modification?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-punishment-differ-from-reinforcement-in-operant-conditioning
+    url: /learn/psychology/questions/how-do-reinforcement-and-punishment-influence-behavior-modification
 related_article2:
     id: 95719
     title: >-
@@ -36,23 +36,17 @@ related_article2:
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-cognitive-learning-theories-differ-from-behavioral-learning-theories
 related_article3:
-    id: 95711
+    id: 95716
     title: >-
-        What are fixed-ratio and variable-ratio schedules of reinforcement?
+        What are the psychological processes involved in observational learning?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-fixedratio-and-variableratio-schedules-of-reinforcement
+    url: /learn/psychology/questions/what-are-the-psychological-processes-involved-in-observational-learning
 related_article4:
-    id: 95698
+    id: 95706
     title: >-
-        What are conditioned emotional responses and how are they formed?
+        Can you explain the concept of Applied Behaviour Analysis (ABA)?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-conditioned-emotional-responses-and-how-are-they-formed
-related_article5:
-    id: 95717
-    title: >-
-        How do reinforcement and punishment influence behavior modification?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-reinforcement-and-punishment-influence-behavior-modification
+    url: /learn/psychology/questions/can-you-explain-the-concept-of-applied-behaviour-analysis-aba
 ---
 
 &nbsp;

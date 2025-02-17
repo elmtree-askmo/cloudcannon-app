@@ -24,35 +24,35 @@ file_name: what-are-the-different-methods-to-solve-systems-of-linear-equations.m
 url: /learn/mathematics/questions/what-are-the-different-methods-to-solve-systems-of-linear-equations
 score: -1.0
 related_article1:
-    id: 104663
+    id: 104649
     title: >-
-        How is orthogonality defined in inner product spaces?
+        What are the elementary row operations used in matrix manipulation?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-orthogonality-defined-in-inner-product-spaces
+    url: /learn/mathematics/questions/what-are-the-elementary-row-operations-used-in-matrix-manipulation
 related_article2:
-    id: 104653
+    id: 104652
     title: >-
-        What are the key properties of matrices that are important in linear algebra?
+        How is matrix-vector multiplication carried out?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-key-properties-of-matrices-that-are-important-in-linear-algebra
+    url: /learn/mathematics/questions/how-is-matrixvector-multiplication-carried-out
 related_article3:
-    id: 104674
+    id: 104665
     title: >-
-        How is diagonalization related to the Jordan canonical form?
+        How are inner product spaces and norms related?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-diagonalization-related-to-the-jordan-canonical-form
+    url: /learn/mathematics/questions/how-are-inner-product-spaces-and-norms-related
 related_article4:
-    id: 104675
+    id: 104654
     title: >-
-        What are the conditions necessary for a matrix to be diagonalizable?
+        How is the determinant of a matrix calculated and what does it signify?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-conditions-necessary-for-a-matrix-to-be-diagonalizable
+    url: /learn/mathematics/questions/how-is-the-determinant-of-a-matrix-calculated-and-what-does-it-signify
 related_article5:
-    id: 104650
+    id: 104658
     title: >-
-        Can you explain the difference between row-echelon form and reduced row-echelon form?
+        What defines a vector space and its subspaces?
     subject: Mathematics
-    url: /learn/mathematics/questions/can-you-explain-the-difference-between-rowechelon-form-and-reduced-rowechelon-form
+    url: /learn/mathematics/questions/what-defines-a-vector-space-and-its-subspaces
 ---
 
 &nbsp;

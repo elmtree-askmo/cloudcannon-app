@@ -24,35 +24,35 @@ file_name: what-are-the-specific-indications-for-using-imaging-in-hepatobiliary-
 url: /learn/medicine/questions/what-are-the-specific-indications-for-using-imaging-in-hepatobiliary-conditions
 score: -1.0
 related_article1:
-    id: 118123
+    id: 118121
     title: >-
-        What are the sonographic features indicative of acute cholecystitis?
+        What are the common imaging characteristics of hepatocellular carcinoma?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-sonographic-features-indicative-of-acute-cholecystitis
+    url: /learn/medicine/questions/what-are-the-common-imaging-characteristics-of-hepatocellular-carcinoma
 related_article2:
-    id: 118112
+    id: 118137
     title: >-
-        Can you provide details on a case study involving hepatocellular carcinoma, including patient presentation and imaging findings?
-    subject: Medicine
-    url: /learn/medicine/questions/can-you-provide-details-on-a-case-study-involving-hepatocellular-carcinoma-including-patient-presentation-and-imaging-findings
+        What are the cost considerations associated with different imaging modalities in hepatobiliary diagnosis?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-cost-considerations-associated-with-different-imaging-modalities-in-hepatobiliary-diagnosis
 related_article3:
-    id: 118124
+    id: 118120
     title: >-
-        What CT imaging findings are associated with acute cholecystitis?
+        What are the typical treatment and management strategies for acute pancreatitis?
     subject: Medicine
-    url: /learn/medicine/questions/what-ct-imaging-findings-are-associated-with-acute-cholecystitis
+    url: /learn/medicine/questions/what-are-the-typical-treatment-and-management-strategies-for-acute-pancreatitis
 related_article4:
-    id: 118128
+    id: 118134
     title: >-
-        What role does imaging play in detecting complications of pancreatitis?
+        How does imaging assist in the early detection of hepatobiliary diseases?
     subject: Medicine
-    url: /learn/medicine/questions/what-role-does-imaging-play-in-detecting-complications-of-pancreatitis
+    url: /learn/medicine/questions/how-does-imaging-assist-in-the-early-detection-of-hepatobiliary-diseases
 related_article5:
-    id: 118119
+    id: 118115
     title: >-
-        What differential diagnoses should be considered in cases of acute pancreatitis?
+        Could you describe a case study of acute cholecystitis, focusing on patient presentation and imaging findings?
     subject: Medicine
-    url: /learn/medicine/questions/what-differential-diagnoses-should-be-considered-in-cases-of-acute-pancreatitis
+    url: /learn/medicine/questions/could-you-describe-a-case-study-of-acute-cholecystitis-focusing-on-patient-presentation-and-imaging-findings
 ---
 
 &nbsp;

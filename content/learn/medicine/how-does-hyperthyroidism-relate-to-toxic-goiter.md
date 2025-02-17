@@ -24,35 +24,35 @@ file_name: how-does-hyperthyroidism-relate-to-toxic-goiter.md
 url: /learn/medicine/questions/how-does-hyperthyroidism-relate-to-toxic-goiter
 score: -1.0
 related_article1:
-    id: 123947
+    id: 123946
     title: >-
-        How is ultrasound used in the diagnosis of thyroid nodules?
-    subject: Medicine
-    url: /learn/medicine/questions/how-is-ultrasound-used-in-the-diagnosis-of-thyroid-nodules
+        What blood tests are commonly used in the investigation of thyroid conditions?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-blood-tests-are-commonly-used-in-the-investigation-of-thyroid-conditions
 related_article2:
-    id: 123949
+    id: 123958
     title: >-
-        How does molecular testing contribute to the diagnosis of thyroid conditions?
+        What are the different types of thyroid cancer?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-molecular-testing-contribute-to-the-diagnosis-of-thyroid-conditions
+    url: /learn/medicine/questions/what-are-the-different-types-of-thyroid-cancer
 related_article3:
-    id: 123967
+    id: 123955
     title: >-
-        How is risk stratification performed in thyroid cancer management?
+        What non-surgical treatments are available for benign thyroid nodules?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-risk-stratification-performed-in-thyroid-cancer-management
+    url: /learn/medicine/questions/what-nonsurgical-treatments-are-available-for-benign-thyroid-nodules
 related_article4:
-    id: 123965
+    id: 123948
     title: >-
-        How does radioactive iodine ablation work in thyroid cancer treatment?
+        What is the role of fine needle aspiration cytology in thyroid nodule investigation?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-radioactive-iodine-ablation-work-in-thyroid-cancer-treatment
+    url: /learn/medicine/questions/what-is-the-role-of-fine-needle-aspiration-cytology-in-thyroid-nodule-investigation
 related_article5:
-    id: 123964
+    id: 123945
     title: >-
-        What adjuvant treatments are available for thyroid cancer?
+        What are the typical presentations of thyroid nodules in patients?
     subject: Medicine
-    url: /learn/medicine/questions/what-adjuvant-treatments-are-available-for-thyroid-cancer
+    url: /learn/medicine/questions/what-are-the-typical-presentations-of-thyroid-nodules-in-patients
 ---
 
 &nbsp;

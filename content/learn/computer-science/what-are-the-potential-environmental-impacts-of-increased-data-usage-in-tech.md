@@ -24,11 +24,11 @@ file_name: what-are-the-potential-environmental-impacts-of-increased-data-usage-
 url: /learn/computer-science/questions/what-are-the-potential-environmental-impacts-of-increased-data-usage-in-tech
 score: -1.0
 related_article1:
-    id: 118492
+    id: 118490
     title: >-
-        What are some successful case studies of project-based learning in coding?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-successful-case-studies-of-projectbased-learning-in-coding
+        What are the future trends in AI engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-future-trends-in-ai-engineering
 related_article2:
     id: 118470
     title: >-
@@ -36,23 +36,17 @@ related_article2:
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-quincy-larsons-educational-background
 related_article3:
-    id: 118479
+    id: 118484
     title: >-
-        What role does peer learning play in coding education?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-role-does-peer-learning-play-in-coding-education
+        How does the tech industry address environmental considerations like data and carbon footprint?
+    subject: Digital Media
+    url: /learn/digital-media/questions/how-does-the-tech-industry-address-environmental-considerations-like-data-and-carbon-footprint
 related_article4:
-    id: 118487
+    id: 118477
     title: >-
-        What are some examples of real-world problem solving in programming education?
+        What are the unique features of Scrimba that differentiate it from other platforms?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-examples-of-realworld-problem-solving-in-programming-education
-related_article5:
-    id: 118490
-    title: >-
-        What are the future trends in AI engineering?
-    subject: Engineering
-    url: /learn/engineering/questions/what-are-the-future-trends-in-ai-engineering
+    url: /learn/education-studies/questions/what-are-the-unique-features-of-scrimba-that-differentiate-it-from-other-platforms
 ---
 
 &nbsp;

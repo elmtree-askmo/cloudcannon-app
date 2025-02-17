@@ -24,12 +24,18 @@ file_name: how-do-the-combining-forms-dermato-dermo-coro-and-cutaneo-relate-to-s
 url: /learn/medicine/questions/how-do-the-combining-forms-dermato-dermo-coro-and-cutaneo-relate-to-skin
 score: -1.0
 related_article1:
+    id: 106715
+    title: >-
+        How do sudoriferous glands function in the skin?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-sudoriferous-glands-function-in-the-skin
+related_article2:
     id: 106703
     title: >-
         What are the primary protective functions of the skin?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-primary-protective-functions-of-the-skin
-related_article2:
+related_article3:
     id: 106721
     title: >-
         How do collagen and fat tissue function in the hypodermis?

@@ -24,17 +24,11 @@ file_name: how-has-the-aca-influenced-statelevel-healthcare-reforms.md
 url: /learn/health-studies/questions/how-has-the-aca-influenced-statelevel-healthcare-reforms
 score: -1.0
 related_article1:
-    id: 112072
+    id: 112070
     title: >-
-        What federal policy work has been done post-ACA?
+        What role do community health workers play in Washington State's healthcare reform?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-federal-policy-work-has-been-done-postaca
-related_article2:
-    id: 112049
-    title: >-
-        How does the ACA aim to improve health insurance affordability?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-aca-aim-to-improve-health-insurance-affordability
+    url: /learn/health-studies/questions/what-role-do-community-health-workers-play-in-washington-states-healthcare-reform
 ---
 
 &nbsp;

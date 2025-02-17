@@ -30,18 +30,12 @@ related_article1:
     subject: Mathematics
     url: /learn/mathematics/questions/why-are-ratios-important-for-comparison
 related_article2:
-    id: 111592
+    id: 111584
     title: >-
-        How can understanding ratios benefit students in mathematics?
+        What are the common methods used to simplify ratios?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-understanding-ratios-benefit-students-in-mathematics
+    url: /learn/mathematics/questions/what-are-the-common-methods-used-to-simplify-ratios
 related_article3:
-    id: 111598
-    title: >-
-        How can the y-intercept be interpreted in real-world scenarios?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-can-the-yintercept-be-interpreted-in-realworld-scenarios
-related_article4:
     id: 111608
     title: >-
         How can visual aids enhance the understanding of ratios and linear equations?

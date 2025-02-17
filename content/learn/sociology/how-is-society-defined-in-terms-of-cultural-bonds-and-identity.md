@@ -24,29 +24,29 @@ file_name: how-is-society-defined-in-terms-of-cultural-bonds-and-identity.md
 url: /learn/sociology/questions/how-is-society-defined-in-terms-of-cultural-bonds-and-identity
 score: -1.0
 related_article1:
-    id: 120572
+    id: 120555
     title: >-
-        What are some examples of how culture influences political decisions?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-some-examples-of-how-culture-influences-political-decisions
+        In what ways do aesthetics reflect cultural values?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/in-what-ways-do-aesthetics-reflect-cultural-values
 related_article2:
-    id: 120565
+    id: 120568
     title: >-
-        What are the responsibilities of the President and Vice-President in the U.S.?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-responsibilities-of-the-president-and-vicepresident-in-the-us
-related_article3:
-    id: 120573
-    title: >-
-        How do cultural bonds and identity contribute to societal cohesion?
+        How does religion play a role in shaping cultural norms and values?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-cultural-bonds-and-identity-contribute-to-societal-cohesion
-related_article4:
-    id: 120561
+    url: /learn/sociology/questions/how-does-religion-play-a-role-in-shaping-cultural-norms-and-values
+related_article3:
+    id: 120553
     title: >-
-        How do the executive, legislative, and judicial branches function in politics?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-do-the-executive-legislative-and-judicial-branches-function-in-politics
+        What role does language play in shaping cultural identity?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-does-language-play-in-shaping-cultural-identity
+related_article4:
+    id: 120564
+    title: >-
+        What are the roles of the House of Representatives and the Senate?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-roles-of-the-house-of-representatives-and-the-senate
 ---
 
 &nbsp;

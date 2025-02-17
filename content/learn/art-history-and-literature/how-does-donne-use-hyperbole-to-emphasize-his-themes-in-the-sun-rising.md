@@ -24,35 +24,29 @@ file_name: how-does-donne-use-hyperbole-to-emphasize-his-themes-in-the-sun-risin
 url: /learn/art-history-and-literature/questions/how-does-donne-use-hyperbole-to-emphasize-his-themes-in-the-sun-rising
 score: -1.0
 related_article1:
-    id: 110294
+    id: 110281
     title: >-
-        How does Donne's playful mockery of celestial authority contribute to the poem's meaning?
+        What literary devices are used in the third stanza of 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-donnes-playful-mockery-of-celestial-authority-contribute-to-the-poems-meaning
+    url: /learn/art-history-and-literature/questions/what-literary-devices-are-used-in-the-third-stanza-of-the-sun-rising
 related_article2:
-    id: 110279
+    id: 110270
     title: >-
-        What is the focus of the third stanza in 'The Sun Rising'?
+        How does Donne establish the tone in the first stanza of 'The Sun Rising'?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-focus-of-the-third-stanza-in-the-sun-rising
+    url: /learn/art-history-and-literature/questions/how-does-donne-establish-the-tone-in-the-first-stanza-of-the-sun-rising
 related_article3:
-    id: 110272
-    title: >-
-        How does Donne's use of language in the first stanza reflect the poem's themes?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-donnes-use-of-language-in-the-first-stanza-reflect-the-poems-themes
-related_article4:
-    id: 110286
-    title: >-
-        How does Donne convey the transcendence of love throughout the poem?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-donne-convey-the-transcendence-of-love-throughout-the-poem
-related_article5:
     id: 110289
     title: >-
         What is the role of idealization in 'The Sun Rising'?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-is-the-role-of-idealization-in-the-sun-rising
+related_article4:
+    id: 110284
+    title: >-
+        How does the third stanza reinforce the poem's themes?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-does-the-third-stanza-reinforce-the-poems-themes
 ---
 
 &nbsp;

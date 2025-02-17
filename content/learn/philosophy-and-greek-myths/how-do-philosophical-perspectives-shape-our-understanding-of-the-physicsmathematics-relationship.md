@@ -24,35 +24,35 @@ file_name: how-do-philosophical-perspectives-shape-our-understanding-of-the-phys
 url: /learn/philosophy-and-greek-myths/questions/how-do-philosophical-perspectives-shape-our-understanding-of-the-physicsmathematics-relationship
 score: -1.0
 related_article1:
-    id: 123059
+    id: 123046
     title: >-
-        What is the local field method in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-local-field-method-in-physics
+        How does mathematics help us understand natural phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
 related_article2:
-    id: 123075
+    id: 123051
     title: >-
-        What are some challenges in translating physical concepts into mathematical language?
+        How has modern mathematical notation evolved over time?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-challenges-in-translating-physical-concepts-into-mathematical-language
+    url: /learn/mathematics/questions/how-has-modern-mathematical-notation-evolved-over-time
 related_article3:
-    id: 123049
+    id: 123056
     title: >-
-        How is mathematical language used in physics?
+        How does the law of gravitation illustrate the relationship between physics and mathematics?
     subject: Physics
-    url: /learn/physics/questions/how-is-mathematical-language-used-in-physics
+    url: /learn/physics/questions/how-does-the-law-of-gravitation-illustrate-the-relationship-between-physics-and-mathematics
 related_article4:
-    id: 123068
+    id: 123060
     title: >-
-        How does the Euclidean method differ from the Babylonian method in physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-euclidean-method-differ-from-the-babylonian-method-in-physics
+        Can you explain the minimum principle and its importance in physics?
+    subject: Physics
+    url: /learn/physics/questions/can-you-explain-the-minimum-principle-and-its-importance-in-physics
 related_article5:
-    id: 123062
+    id: 123054
     title: >-
-        How do mathematical models help in predicting physical phenomena?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
+        How did the Babylonian method influence the development of physics?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-babylonian-method-influence-the-development-of-physics
 ---
 
 &nbsp;

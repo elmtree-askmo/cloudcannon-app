@@ -24,35 +24,35 @@ file_name: what-role-do-dopants-play-in-the-properties-of-extrinsic-semiconducto
 url: /learn/physics/questions/what-role-do-dopants-play-in-the-properties-of-extrinsic-semiconductors
 score: -1.0
 related_article1:
-    id: 116374
-    title: >-
-        What are some examples of modern electronic devices that rely on semiconductor technology?
-    subject: Engineering
-    url: /learn/engineering/questions/what-are-some-examples-of-modern-electronic-devices-that-rely-on-semiconductor-technology
-related_article2:
-    id: 116385
-    title: >-
-        How do semiconductor devices compare to their vacuum tube predecessors in terms of performance and reliability?
-    subject: Engineering
-    url: /learn/engineering/questions/how-do-semiconductor-devices-compare-to-their-vacuum-tube-predecessors-in-terms-of-performance-and-reliability
-related_article3:
-    id: 116363
-    title: >-
-        What are the fundamental differences between conductors, insulators, and semiconductors?
-    subject: Physics
-    url: /learn/physics/questions/what-are-the-fundamental-differences-between-conductors-insulators-and-semiconductors
-related_article4:
     id: 116373
     title: >-
         How has semiconductor physics revolutionized modern electronics?
     subject: Physics
     url: /learn/physics/questions/how-has-semiconductor-physics-revolutionized-modern-electronics
-related_article5:
-    id: 116368
+related_article2:
+    id: 116374
     title: >-
-        How do intrinsic semiconductors differ from extrinsic semiconductors?
-    subject: Physics
-    url: /learn/physics/questions/how-do-intrinsic-semiconductors-differ-from-extrinsic-semiconductors
+        What are some examples of modern electronic devices that rely on semiconductor technology?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-some-examples-of-modern-electronic-devices-that-rely-on-semiconductor-technology
+related_article3:
+    id: 116375
+    title: >-
+        How do semiconductor materials contribute to the miniaturization of electronic components?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-semiconductor-materials-contribute-to-the-miniaturization-of-electronic-components
+related_article4:
+    id: 116364
+    title: >-
+        How are semiconductors classified based on their conductivity?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-semiconductors-classified-based-on-their-conductivity
+related_article5:
+    id: 116362
+    title: >-
+        How did World War II influence the development of semiconductor technology?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-world-war-ii-influence-the-development-of-semiconductor-technology
 ---
 
 &nbsp;

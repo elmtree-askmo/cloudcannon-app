@@ -30,23 +30,29 @@ related_article1:
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-primary-etiological-factors-of-cvi
 related_article2:
-    id: 102197
+    id: 102208
     title: >-
-        What complications can arise from untreated DVT?
+        What are the long-term outcomes for patients with venous diseases?
     subject: Medicine
-    url: /learn/medicine/questions/what-complications-can-arise-from-untreated-dvt
+    url: /learn/medicine/questions/what-are-the-longterm-outcomes-for-patients-with-venous-diseases
 related_article3:
-    id: 102214
+    id: 102207
     title: >-
-        What are the challenges in diagnosing and treating venous diseases?
+        How do chronic venous insufficiency and deep vein thrombosis differ in terms of pathophysiology?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-challenges-in-diagnosing-and-treating-venous-diseases
+    url: /learn/medicine/questions/how-do-chronic-venous-insufficiency-and-deep-vein-thrombosis-differ-in-terms-of-pathophysiology
 related_article4:
-    id: 102213
+    id: 102188
     title: >-
-        How do venous diseases affect quality of life?
+        How does venous obstruction contribute to chronic venous insufficiency (CVI)?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-venous-diseases-affect-quality-of-life
+    url: /learn/health-studies/questions/how-does-venous-obstruction-contribute-to-chronic-venous-insufficiency-cvi
+related_article5:
+    id: 102195
+    title: >-
+        What symptoms are typically associated with DVT?
+    subject: Medicine
+    url: /learn/medicine/questions/what-symptoms-are-typically-associated-with-dvt
 ---
 
 &nbsp;

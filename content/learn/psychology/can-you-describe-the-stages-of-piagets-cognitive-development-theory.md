@@ -35,6 +35,12 @@ related_article2:
         What are the stages of development in Erikson’s psychosocial theory?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-stages-of-development-in-eriksons-psychosocial-theory
+related_article3:
+    id: 99235
+    title: >-
+        What is Chomsky’s innateness hypothesis in language development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-chomskys-innateness-hypothesis-in-language-development
 ---
 
 &nbsp;

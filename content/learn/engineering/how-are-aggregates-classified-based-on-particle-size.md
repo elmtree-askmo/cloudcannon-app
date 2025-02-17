@@ -24,29 +24,35 @@ file_name: how-are-aggregates-classified-based-on-particle-size.md
 url: /learn/engineering/questions/how-are-aggregates-classified-based-on-particle-size
 score: -1.0
 related_article1:
-    id: 120417
+    id: 120405
     title: >-
-        Why is particle size distribution important in the context of aggregates?
+        What are the characteristics of aggregates derived from sedimentary rocks?
     subject: Engineering
-    url: /learn/engineering/questions/why-is-particle-size-distribution-important-in-the-context-of-aggregates
+    url: /learn/engineering/questions/what-are-the-characteristics-of-aggregates-derived-from-sedimentary-rocks
 related_article2:
-    id: 120412
+    id: 120419
     title: >-
-        What are the key physical properties of aggregates that are important for construction?
+        What causes alkali-aggregate reactivity and what are its effects on concrete structures?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-key-physical-properties-of-aggregates-that-are-important-for-construction
+    url: /learn/engineering/questions/what-causes-alkaliaggregate-reactivity-and-what-are-its-effects-on-concrete-structures
 related_article3:
-    id: 120427
+    id: 120413
     title: >-
-        How do aggregates affect the thermal properties of concrete?
-    subject: Engineering
-    url: /learn/engineering/questions/how-do-aggregates-affect-the-thermal-properties-of-concrete
+        What chemical properties of aggregates are crucial for their use in construction?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-chemical-properties-of-aggregates-are-crucial-for-their-use-in-construction
 related_article4:
-    id: 120421
+    id: 120411
     title: >-
-        How do harmful substances in aggregates impact the durability of concrete?
+        How does the origin of aggregates affect their classification?
     subject: Engineering
-    url: /learn/engineering/questions/how-do-harmful-substances-in-aggregates-impact-the-durability-of-concrete
+    url: /learn/engineering/questions/how-does-the-origin-of-aggregates-affect-their-classification
+related_article5:
+    id: 120407
+    title: >-
+        In what ways does the mineralogical composition of aggregates influence their mechanical properties?
+    subject: Engineering
+    url: /learn/engineering/questions/in-what-ways-does-the-mineralogical-composition-of-aggregates-influence-their-mechanical-properties
 ---
 
 &nbsp;

@@ -24,35 +24,35 @@ file_name: what-is-the-role-of-geometry-in-the-relationship-between-physics-and-
 url: /learn/mathematics/questions/what-is-the-role-of-geometry-in-the-relationship-between-physics-and-mathematics
 score: -1.0
 related_article1:
-    id: 96689
+    id: 96715
     title: >-
-        How does mathematics help us understand natural phenomena?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-mathematics-help-us-understand-natural-phenomena
-related_article2:
-    id: 96699
-    title: >-
-        How does the law of gravitation demonstrate the relationship between physics and mathematics?
+        How do mathematical transformations help in understanding physical systems?
     subject: Physics
-    url: /learn/physics/questions/how-does-the-law-of-gravitation-demonstrate-the-relationship-between-physics-and-mathematics
-related_article3:
-    id: 96718
+    url: /learn/physics/questions/how-do-mathematical-transformations-help-in-understanding-physical-systems
+related_article2:
+    id: 96716
     title: >-
-        What are the challenges in translating physical concepts into mathematical language?
+        What is the impact of mathematical abstraction on the study of physics?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-challenges-in-translating-physical-concepts-into-mathematical-language
+    url: /learn/mathematics/questions/what-is-the-impact-of-mathematical-abstraction-on-the-study-of-physics
+related_article3:
+    id: 96696
+    title: >-
+        What are fundamental principles and consequential statements in physics?
+    subject: Physics
+    url: /learn/physics/questions/what-are-fundamental-principles-and-consequential-statements-in-physics
 related_article4:
+    id: 96713
+    title: >-
+        How do physicists determine the accuracy of mathematical models in describing physical phenomena?
+    subject: Physics
+    url: /learn/physics/questions/how-do-physicists-determine-the-accuracy-of-mathematical-models-in-describing-physical-phenomena
+related_article5:
     id: 96698
     title: >-
         What is the Euclidean method and its role in physics?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-euclidean-method-and-its-role-in-physics
-related_article5:
-    id: 96704
-    title: >-
-        What are the philosophical implications of the relationship between physics and mathematics?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
 ---
 
 &nbsp;

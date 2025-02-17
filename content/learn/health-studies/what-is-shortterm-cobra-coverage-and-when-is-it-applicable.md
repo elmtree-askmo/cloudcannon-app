@@ -24,17 +24,23 @@ file_name: what-is-shortterm-cobra-coverage-and-when-is-it-applicable.md
 url: /learn/health-studies/questions/what-is-shortterm-cobra-coverage-and-when-is-it-applicable
 score: -1.0
 related_article1:
-    id: 111877
+    id: 111902
     title: >-
-        What are the basic concepts of insurance in the context of healthcare?
+        How does the Children's Health Insurance Program (CHIP) complement Medicaid?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-basic-concepts-of-insurance-in-the-context-of-healthcare
+    url: /learn/health-studies/questions/how-does-the-childrens-health-insurance-program-chip-complement-medicaid
 related_article2:
     id: 111875
     title: >-
         What are the primary sources of financing for health care?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-primary-sources-of-financing-for-health-care
+related_article3:
+    id: 111877
+    title: >-
+        What are the basic concepts of insurance in the context of healthcare?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-basic-concepts-of-insurance-in-the-context-of-healthcare
 ---
 
 &nbsp;

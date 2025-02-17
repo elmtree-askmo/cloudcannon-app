@@ -24,35 +24,35 @@ file_name: how-do-bottomup-and-topdown-approaches-differ-in-crafting-a-story.md
 url: /learn/art-history-and-literature/questions/how-do-bottomup-and-topdown-approaches-differ-in-crafting-a-story
 score: -1.0
 related_article1:
-    id: 120700
+    id: 120691
     title: >-
-        What is the 'Rags to Riches' narrative, and how is it applied?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-rags-to-riches-narrative-and-how-is-it-applied
-related_article2:
-    id: 120710
-    title: >-
-        What are some common pitfalls to avoid when shaping information into a story?
+        How does sequencing information impact the effectiveness of a story?
     subject: Digital Media
-    url: /learn/digital-media/questions/what-are-some-common-pitfalls-to-avoid-when-shaping-information-into-a-story
+    url: /learn/digital-media/questions/how-does-sequencing-information-impact-the-effectiveness-of-a-story
+related_article2:
+    id: 120698
+    title: >-
+        What does 'In Medias Res' mean, and how is it used in storytelling?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-does-in-medias-res-mean-and-how-is-it-used-in-storytelling
 related_article3:
-    id: 120719
+    id: 120692
     title: >-
-        What are the benefits of using storytelling in presentations?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-benefits-of-using-storytelling-in-presentations
+        What are the key steps in the bottom-up approach to shaping a story?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-are-the-key-steps-in-the-bottomup-approach-to-shaping-a-story
 related_article4:
-    id: 120699
+    id: 120694
     title: >-
-        How does the Hero’s Journey structure a story?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-the-heros-journey-structure-a-story
+        What are 'beats' in storytelling, and why are they important?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-are-beats-in-storytelling-and-why-are-they-important
 related_article5:
-    id: 120697
+    id: 120715
     title: >-
-        Can you explain the Four C’s: Context, Conflict, Climax, Closure?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/can-you-explain-the-four-cs-context-conflict-climax-closure
+        What are some techniques to maintain audience interest throughout a story?
+    subject: Digital Media
+    url: /learn/digital-media/questions/what-are-some-techniques-to-maintain-audience-interest-throughout-a-story
 ---
 
 &nbsp;

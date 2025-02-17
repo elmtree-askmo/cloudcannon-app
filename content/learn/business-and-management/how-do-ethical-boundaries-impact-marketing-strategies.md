@@ -24,18 +24,12 @@ file_name: how-do-ethical-boundaries-impact-marketing-strategies.md
 url: /learn/business-and-management/questions/how-do-ethical-boundaries-impact-marketing-strategies
 score: -1.0
 related_article1:
-    id: 102572
-    title: >-
-        What are common ethical dilemmas faced in marketing?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-common-ethical-dilemmas-faced-in-marketing
-related_article2:
     id: 102579
     title: >-
         What challenges arise when balancing Kantian and utilitarian principles in marketing?
     subject: Business and Management
     url: /learn/business-and-management/questions/what-challenges-arise-when-balancing-kantian-and-utilitarian-principles-in-marketing
-related_article3:
+related_article2:
     id: 102577
     title: >-
         Why is CSR important for marketing?

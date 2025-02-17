@@ -24,35 +24,29 @@ file_name: what-are-the-cost-implications-of-using-different-imaging-modalities-
 url: /learn/health-studies/questions/what-are-the-cost-implications-of-using-different-imaging-modalities-for-habitability-disorders
 score: -1.0
 related_article1:
-    id: 118197
+    id: 118193
     title: >-
-        How does patient preparation differ for abdominal X-ray versus ultrasound in habitability assessments?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-patient-preparation-differ-for-abdominal-xray-versus-ultrasound-in-habitability-assessments
+        How do imaging findings correlate with clinical symptoms in habitability diseases?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-imaging-findings-correlate-with-clinical-symptoms-in-habitability-diseases
 related_article2:
-    id: 118171
+    id: 118179
     title: >-
-        How does an abdominal X-ray work in diagnosing habitability diseases?
+        What are the key features of hepatic cysts and hemangiomas on ultrasound?
     subject: Medicine
-    url: /learn/medicine/questions/how-does-an-abdominal-xray-work-in-diagnosing-habitability-diseases
+    url: /learn/medicine/questions/what-are-the-key-features-of-hepatic-cysts-and-hemangiomas-on-ultrasound
 related_article3:
-    id: 118180
+    id: 118170
     title: >-
-        How effective is ultrasound in detecting focal liver lesions?
+        What are the most common imaging techniques used in habitability systems?
     subject: Medicine
-    url: /learn/medicine/questions/how-effective-is-ultrasound-in-detecting-focal-liver-lesions
+    url: /learn/medicine/questions/what-are-the-most-common-imaging-techniques-used-in-habitability-systems
 related_article4:
     id: 118182
     title: >-
         How are gallstones detected through radiological imaging?
     subject: Medicine
     url: /learn/medicine/questions/how-are-gallstones-detected-through-radiological-imaging
-related_article5:
-    id: 118170
-    title: >-
-        What are the most common imaging techniques used in habitability systems?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-most-common-imaging-techniques-used-in-habitability-systems
 ---
 
 &nbsp;

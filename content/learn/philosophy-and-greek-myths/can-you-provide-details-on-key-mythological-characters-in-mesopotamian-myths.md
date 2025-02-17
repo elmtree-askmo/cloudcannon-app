@@ -29,12 +29,6 @@ related_article1:
         How did environmental factors like water and irrigation influence Mesopotamian culture?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-environmental-factors-like-water-and-irrigation-influence-mesopotamian-culture
-related_article2:
-    id: 105769
-    title: >-
-        How did the Neo-Babylonian Period impact Mesopotamian history?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-neobabylonian-period-impact-mesopotamian-history
 ---
 
 &nbsp;

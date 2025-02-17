@@ -24,23 +24,23 @@ file_name: how-do-data-protection-laws-relate-to-the-right-to-be-forgotten.md
 url: /learn/criminal-or-civil-law/questions/how-do-data-protection-laws-relate-to-the-right-to-be-forgotten
 score: -1.0
 related_article1:
-    id: 121983
+    id: 121984
     title: >-
-        What are the general principles governing content-neutral restrictions?
+        How are traditional public forums defined and what are some examples?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-general-principles-governing-contentneutral-restrictions
+    url: /learn/criminal-or-civil-law/questions/how-are-traditional-public-forums-defined-and-what-are-some-examples
 related_article2:
-    id: 121998
-    title: >-
-        What was the significance of Roberts v. United States Jaycees in association rights?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-was-the-significance-of-roberts-v-united-states-jaycees-in-association-rights
-related_article3:
     id: 121996
     title: >-
         How did Citizens United v. Federal Election Commission change the landscape of campaign finance?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/how-did-citizens-united-v-federal-election-commission-change-the-landscape-of-campaign-finance
+related_article3:
+    id: 121998
+    title: >-
+        What was the significance of Roberts v. United States Jaycees in association rights?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-was-the-significance-of-roberts-v-united-states-jaycees-in-association-rights
 ---
 
 &nbsp;

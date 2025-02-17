@@ -24,35 +24,23 @@ file_name: what-role-do-markov-chains-play-in-linear-algebra-applications.md
 url: /learn/mathematics/questions/what-role-do-markov-chains-play-in-linear-algebra-applications
 score: -1.0
 related_article1:
-    id: 104665
+    id: 104652
     title: >-
-        How are inner product spaces and norms related?
+        How is matrix-vector multiplication carried out?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-are-inner-product-spaces-and-norms-related
+    url: /learn/mathematics/questions/how-is-matrixvector-multiplication-carried-out
 related_article2:
-    id: 104664
+    id: 104657
     title: >-
-        What is the process of orthogonal diagonalization?
+        How are vectors, lines, and planes represented in vector geometry?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-process-of-orthogonal-diagonalization
+    url: /learn/mathematics/questions/how-are-vectors-lines-and-planes-represented-in-vector-geometry
 related_article3:
-    id: 104676
+    id: 104672
     title: >-
-        How is linear algebra applied in principal component analysis and physics?
+        How does the Principal Axes Theorem provide a geometric interpretation of matrices?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-linear-algebra-applied-in-principal-component-analysis-and-physics
-related_article4:
-    id: 104663
-    title: >-
-        How is orthogonality defined in inner product spaces?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-is-orthogonality-defined-in-inner-product-spaces
-related_article5:
-    id: 104671
-    title: >-
-        What is the significance of quadratic forms and eigenvalues in linear algebra?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-significance-of-quadratic-forms-and-eigenvalues-in-linear-algebra
+    url: /learn/mathematics/questions/how-does-the-principal-axes-theorem-provide-a-geometric-interpretation-of-matrices
 ---
 
 &nbsp;

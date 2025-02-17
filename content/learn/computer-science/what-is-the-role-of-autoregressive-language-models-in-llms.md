@@ -24,29 +24,35 @@ file_name: what-is-the-role-of-autoregressive-language-models-in-llms.md
 url: /learn/computer-science/questions/what-is-the-role-of-autoregressive-language-models-in-llms
 score: -1.0
 related_article1:
-    id: 97143
+    id: 97133
     title: >-
-        How do parallelization techniques improve LLM training efficiency?
+        How is human evaluation conducted for LLMs?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-parallelization-techniques-improve-llm-training-efficiency
+    url: /learn/computer-science/questions/how-is-human-evaluation-conducted-for-llms
 related_article2:
-    id: 97136
-    title: >-
-        How do scaling laws influence data collection strategies?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-scaling-laws-influence-data-collection-strategies
-related_article3:
     id: 97141
     title: >-
         How does operator fusion enhance LLM training systems?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-operator-fusion-enhance-llm-training-systems
-related_article4:
+related_article3:
     id: 97140
     title: >-
         What is the importance of low precision in LLM systems?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-importance-of-low-precision-in-llm-systems
+related_article4:
+    id: 97132
+    title: >-
+        What are the standard NLP benchmarks used for LLM evaluation?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-standard-nlp-benchmarks-used-for-llm-evaluation
+related_article5:
+    id: 97116
+    title: >-
+        What types of data are most effective for training LLMs?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-types-of-data-are-most-effective-for-training-llms
 ---
 
 &nbsp;

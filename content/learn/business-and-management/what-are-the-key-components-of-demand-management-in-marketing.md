@@ -24,35 +24,35 @@ file_name: what-are-the-key-components-of-demand-management-in-marketing.md
 url: /learn/business-and-management/questions/what-are-the-key-components-of-demand-management-in-marketing
 score: -1.0
 related_article1:
-    id: 119521
+    id: 119531
     title: >-
-        What are the different demand states in demand management?
+        How do ethical considerations impact marketing strategies?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-different-demand-states-in-demand-management
+    url: /learn/business-and-management/questions/how-do-ethical-considerations-impact-marketing-strategies
 related_article2:
-    id: 119524
+    id: 119505
     title: >-
-        What are specific markets and how are they identified?
+        What does it mean to serve or create in the context of marketing?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-specific-markets-and-how-are-they-identified
+    url: /learn/business-and-management/questions/what-does-it-mean-to-serve-or-create-in-the-context-of-marketing
 related_article3:
-    id: 119509
+    id: 119522
     title: >-
-        How does marketing contribute to a company's success and job creation?
+        What are the basic concepts of a market in marketing?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-does-marketing-contribute-to-a-companys-success-and-job-creation
+    url: /learn/business-and-management/questions/what-are-the-basic-concepts-of-a-market-in-marketing
 related_article4:
-    id: 119510
+    id: 119507
     title: >-
-        What are the different entities that can be marketed?
+        Why might wants be considered elusive in marketing?
     subject: Business and Management
-    url: /learn/business-and-management/questions/what-are-the-different-entities-that-can-be-marketed
+    url: /learn/business-and-management/questions/why-might-wants-be-considered-elusive-in-marketing
 related_article5:
-    id: 119508
+    id: 119504
     title: >-
-        How does marketing add value by catering to customers' needs?
+        Can you explain the basic concepts of needs, wants, and demand in marketing?
     subject: Business and Management
-    url: /learn/business-and-management/questions/how-does-marketing-add-value-by-catering-to-customers-needs
+    url: /learn/business-and-management/questions/can-you-explain-the-basic-concepts-of-needs-wants-and-demand-in-marketing
 ---
 
 &nbsp;

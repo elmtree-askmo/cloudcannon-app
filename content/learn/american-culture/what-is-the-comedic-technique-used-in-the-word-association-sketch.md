@@ -24,35 +24,35 @@ file_name: what-is-the-comedic-technique-used-in-the-word-association-sketch.md
 url: /learn/american-culture/questions/what-is-the-comedic-technique-used-in-the-word-association-sketch
 score: -1.0
 related_article1:
-    id: 1021
+    id: 1001
     title: >-
-        How does 'D*** in a Box' exemplify absurdity in comedy?
+        What is the main comedic element in the 'More Cowbell' sketch?
     subject: American Culture
-    url: /learn/american-culture/questions/how-does-d-in-a-box-exemplify-absurdity-in-comedy
+    url: /learn/american-culture/questions/what-is-the-main-comedic-element-in-the-more-cowbell-sketch
 related_article2:
-    id: 1028
+    id: 1030
     title: >-
-        What is the significance of the 'Lazy Sunday' digital short in the evolution of SNL's sketch format?
+        In what ways does the 'Unfrozen Caveman Lawyer' sketch incorporate historical themes?
     subject: American Culture
-    url: /learn/american-culture/questions/what-is-the-significance-of-the-lazy-sunday-digital-short-in-the-evolution-of-snls-sketch-format
+    url: /learn/american-culture/questions/in-what-ways-does-the-unfrozen-caveman-lawyer-sketch-incorporate-historical-themes
 related_article3:
-    id: 1029
+    id: 1024
     title: >-
-        How does the parody song 'King Tut' reflect SNL's approach to comedic music videos?
+        How does 'Celebrity Jeopardy!' utilize parody to create humor?
     subject: American Culture
-    url: /learn/american-culture/questions/how-does-the-parody-song-king-tut-reflect-snls-approach-to-comedic-music-videos
+    url: /learn/american-culture/questions/how-does-celebrity-jeopardy-utilize-parody-to-create-humor
 related_article4:
-    id: 1023
+    id: 1006
     title: >-
-        What elements make the 'Delicious Dish' parody a successful talk show spoof?
+        What are the defining characteristics of Matt Foley as a motivational speaker character?
     subject: American Culture
-    url: /learn/american-culture/questions/what-elements-make-the-delicious-dish-parody-a-successful-talk-show-spoof
+    url: /learn/american-culture/questions/what-are-the-defining-characteristics-of-matt-foley-as-a-motivational-speaker-character
 related_article5:
-    id: 1007
+    id: 1022
     title: >-
-        How does Stefon's character reflect eccentric personality traits?
+        What distinguishes digital shorts from live performances in SNL's sketch formats?
     subject: American Culture
-    url: /learn/american-culture/questions/how-does-stefons-character-reflect-eccentric-personality-traits
+    url: /learn/american-culture/questions/what-distinguishes-digital-shorts-from-live-performances-in-snls-sketch-formats
 ---
 
 &nbsp;

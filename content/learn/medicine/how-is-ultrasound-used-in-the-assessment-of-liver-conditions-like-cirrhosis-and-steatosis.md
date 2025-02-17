@@ -24,35 +24,35 @@ file_name: how-is-ultrasound-used-in-the-assessment-of-liver-conditions-like-cir
 url: /learn/medicine/questions/how-is-ultrasound-used-in-the-assessment-of-liver-conditions-like-cirrhosis-and-steatosis
 score: -1.0
 related_article1:
-    id: 118192
+    id: 118181
     title: >-
-        What are the latest advancements in imaging techniques for habitability disorders?
+        What are the radiological features of common habitability disorders affecting the gallbladder and biliary tree?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-latest-advancements-in-imaging-techniques-for-habitability-disorders
+    url: /learn/medicine/questions/what-are-the-radiological-features-of-common-habitability-disorders-affecting-the-gallbladder-and-biliary-tree
 related_article2:
+    id: 118191
+    title: >-
+        How do imaging modalities differ in their application to habitability systems compared to other medical fields?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-imaging-modalities-differ-in-their-application-to-habitability-systems-compared-to-other-medical-fields
+related_article3:
     id: 118184
     title: >-
         What are the radiological features of pancreatic head mass and chronic pancreatitis?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-radiological-features-of-pancreatic-head-mass-and-chronic-pancreatitis
-related_article3:
+related_article4:
+    id: 118172
+    title: >-
+        What are the primary roles and limitations of abdominal X-rays in habitability diseases?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-primary-roles-and-limitations-of-abdominal-xrays-in-habitability-diseases
+related_article5:
     id: 118173
     title: >-
         What are the common findings in abdominal X-rays related to habitability diseases?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-common-findings-in-abdominal-xrays-related-to-habitability-diseases
-related_article4:
-    id: 118175
-    title: >-
-        What is pneumobilia and how is it identified on an abdominal X-ray?
-    subject: Medicine
-    url: /learn/medicine/questions/what-is-pneumobilia-and-how-is-it-identified-on-an-abdominal-xray
-related_article5:
-    id: 118174
-    title: >-
-        How are gallstones detected using abdominal X-rays?
-    subject: Medicine
-    url: /learn/medicine/questions/how-are-gallstones-detected-using-abdominal-xrays
 ---
 
 &nbsp;

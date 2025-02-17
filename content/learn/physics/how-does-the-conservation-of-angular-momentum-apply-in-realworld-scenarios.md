@@ -24,35 +24,35 @@ file_name: how-does-the-conservation-of-angular-momentum-apply-in-realworld-scen
 url: /learn/physics/questions/how-does-the-conservation-of-angular-momentum-apply-in-realworld-scenarios
 score: -1.0
 related_article1:
-    id: 119276
+    id: 119274
     title: >-
-        How did the Babylonian method influence the development of physics?
-    subject: Physics
-    url: /learn/physics/questions/how-did-the-babylonian-method-influence-the-development-of-physics
+        What contributions did Babylonian and Greek traditions make to mathematics and physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-contributions-did-babylonian-and-greek-traditions-make-to-mathematics-and-physics
 related_article2:
-    id: 119297
+    id: 119280
     title: >-
-        What are some modern applications of Faraday's Law in technology?
+        How do Newton's laws illustrate the connection between physics and mathematics?
     subject: Physics
-    url: /learn/physics/questions/what-are-some-modern-applications-of-faradays-law-in-technology
+    url: /learn/physics/questions/how-do-newtons-laws-illustrate-the-connection-between-physics-and-mathematics
 related_article3:
-    id: 119271
+    id: 119270
     title: >-
-        How is mathematical language used in physics?
+        Can you explain Newton's Law of Gravitation in mathematical terms?
     subject: Physics
-    url: /learn/physics/questions/how-is-mathematical-language-used-in-physics
+    url: /learn/physics/questions/can-you-explain-newtons-law-of-gravitation-in-mathematical-terms
 related_article4:
-    id: 119293
-    title: >-
-        What is the importance of the minimum principle in physics?
-    subject: Physics
-    url: /learn/physics/questions/what-is-the-importance-of-the-minimum-principle-in-physics
-related_article5:
     id: 119286
     title: >-
         How did ancient civilizations contribute to the development of mathematical concepts used in physics?
     subject: Mathematics
     url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-concepts-used-in-physics
+related_article5:
+    id: 119285
+    title: >-
+        What role does calculus play in understanding physical laws?
+    subject: Physics
+    url: /learn/physics/questions/what-role-does-calculus-play-in-understanding-physical-laws
 ---
 
 &nbsp;

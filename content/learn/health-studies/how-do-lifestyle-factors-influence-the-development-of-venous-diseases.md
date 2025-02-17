@@ -24,35 +24,35 @@ file_name: how-do-lifestyle-factors-influence-the-development-of-venous-diseases
 url: /learn/health-studies/questions/how-do-lifestyle-factors-influence-the-development-of-venous-diseases
 score: -1.0
 related_article1:
-    id: 102210
+    id: 102191
     title: >-
-        What role does genetics play in venous diseases?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-role-does-genetics-play-in-venous-diseases
-related_article2:
-    id: 102208
-    title: >-
-        What are the long-term outcomes for patients with venous diseases?
+        What are the clinical features of CVI?
     subject: Medicine
-    url: /learn/medicine/questions/what-are-the-longterm-outcomes-for-patients-with-venous-diseases
-related_article3:
+    url: /learn/medicine/questions/what-are-the-clinical-features-of-cvi
+related_article2:
     id: 102211
     title: >-
         How do healthcare systems manage the burden of venous diseases?
     subject: Health Studies
     url: /learn/health-studies/questions/how-do-healthcare-systems-manage-the-burden-of-venous-diseases
+related_article3:
+    id: 102187
+    title: >-
+        What causes venous valve dysfunction?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-causes-venous-valve-dysfunction
 related_article4:
-    id: 102186
+    id: 102206
     title: >-
-        Can you explain the role of venous valves in venous diseases?
-    subject: Medicine
-    url: /learn/medicine/questions/can-you-explain-the-role-of-venous-valves-in-venous-diseases
+        What preventive measures can be taken to reduce the risk of venous diseases?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-preventive-measures-can-be-taken-to-reduce-the-risk-of-venous-diseases
 related_article5:
-    id: 102193
+    id: 102203
     title: >-
-        What are the current treatment options for CVI?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-current-treatment-options-for-cvi
+        How do venous diseases impact overall health?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-venous-diseases-impact-overall-health
 ---
 
 &nbsp;

@@ -24,23 +24,35 @@ file_name: what-is-the-difference-between-a-deed-and-a-title-in-real-estate.md
 url: /learn/criminal-or-civil-law/questions/what-is-the-difference-between-a-deed-and-a-title-in-real-estate
 score: -1.0
 related_article1:
-    id: 96963
+    id: 96983
     title: >-
-        What is joint tenancy and how does it work?
+        What is steering in the context of fair housing laws?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-joint-tenancy-and-how-does-it-work
+    url: /learn/criminal-or-civil-law/questions/what-is-steering-in-the-context-of-fair-housing-laws
 related_article2:
-    id: 96979
+    id: 96967
     title: >-
-        What are specific liens and how do they affect property?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-specific-liens-and-how-do-they-affect-property
+        What role does transferability play in property value?
+    subject: Economics
+    url: /learn/economics/questions/what-role-does-transferability-play-in-property-value
 related_article3:
-    id: 96986
+    id: 96972
     title: >-
-        What is redlining and how does it violate fair housing laws?
-    subject: Sociology
-    url: /learn/sociology/questions/what-is-redlining-and-how-does-it-violate-fair-housing-laws
+        What is functional obsolescence in property?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-is-functional-obsolescence-in-property
+related_article4:
+    id: 96957
+    title: >-
+        How does the government exercise police power over property?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-does-the-government-exercise-police-power-over-property
+related_article5:
+    id: 96969
+    title: >-
+        What is the impact of demand on property value?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-impact-of-demand-on-property-value
 ---
 
 &nbsp;

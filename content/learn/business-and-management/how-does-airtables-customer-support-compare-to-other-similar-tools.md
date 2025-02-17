@@ -24,29 +24,29 @@ file_name: how-does-airtables-customer-support-compare-to-other-similar-tools.md
 url: /learn/business-and-management/questions/how-does-airtables-customer-support-compare-to-other-similar-tools
 score: -1.0
 related_article1:
+    id: 117991
+    title: >-
+        Can you explain the basic concept of Airtable as a database?
+    subject: Computer Science
+    url: /learn/computer-science/questions/can-you-explain-the-basic-concept-of-airtable-as-a-database
+related_article2:
+    id: 118012
+    title: >-
+        Can Airtable handle large volumes of data efficiently?
+    subject: Digital Media
+    url: /learn/digital-media/questions/can-airtable-handle-large-volumes-of-data-efficiently
+related_article3:
     id: 118010
     title: >-
         What are the pricing plans for Airtable and what features do they include?
     subject: Business and Management
     url: /learn/business-and-management/questions/what-are-the-pricing-plans-for-airtable-and-what-features-do-they-include
-related_article2:
-    id: 118005
-    title: >-
-        In what ways does Airtable differ from project management tools like Asana?
-    subject: Business and Management
-    url: /learn/business-and-management/questions/in-what-ways-does-airtable-differ-from-project-management-tools-like-asana
-related_article3:
-    id: 117994
-    title: >-
-        How can users customize tables and fields in Airtable?
-    subject: Digital Media
-    url: /learn/digital-media/questions/how-can-users-customize-tables-and-fields-in-airtable
 related_article4:
-    id: 118019
+    id: 118018
     title: >-
-        What are the future developments or updates expected for Airtable?
+        How does Airtable's automation engine improve workflow efficiency?
     subject: Digital Media
-    url: /learn/digital-media/questions/what-are-the-future-developments-or-updates-expected-for-airtable
+    url: /learn/digital-media/questions/how-does-airtables-automation-engine-improve-workflow-efficiency
 ---
 
 &nbsp;
