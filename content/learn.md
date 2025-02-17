@@ -1,41 +1,26 @@
 ---
 title: AI Top Questions
 content_blocks:
-  - _bookshop_name: top-questions/header
+  - _bookshop_name: learn/header
     title: Q & A
-    contentTitle: 
+    contentTitle:
       en: Study Smarter Learn Faster
-      zh_hk: 熱門問題
+      zh_hk: 更聰明地學習，更快速地掌握
       fr: 
-      sp: Top Questions
+      sp: Estudia de manera más inteligente, aprende más rápido
     description: 
       en: >-
         QuickTakes is your go to study source for all your courses and subjects. Record class lectures, upload videos and course materials and get back AI-generated documents so you study smarter and learn faster. Have the Class Assistant (an "AI TA") assess your knowledge and teach you the material to ace your exams. Perfect for all learners! Sign-up for the free!
       zh_hk: >-
-        快來我們的博客了解人工智能的最新趨勢、高效學習技巧以及QuickTakes的資訊!
+        QuickTakes 是您所有課程和科目的首選學習資源。錄製課堂講座、上傳影片和課程材料，並獲得 AI 生成的文檔，讓您更聰明地學習、快速掌握知識。讓 Class Assistant（“AI 助教”）評估您的知識，並幫助您學習材料，為考試做好準備。非常適合所有學習者！現在就註冊免費體驗！
       fr: 
       sp: >-
-       ¡Explore tendencias en IA, consejos de estudio y todo lo relacionado con QuickTakes en nuestro blog!
-  - _bookshop_name: top-questions/subjects
+        QuickTakes es tu fuente de estudio ideal para todos tus cursos y materias. Graba las lecciones de clase, sube videos y materiales del curso, y recibe documentos generados por IA para estudiar de manera más inteligente y aprender más rápido. Haz que el Asistente de Clase (un "TA IA") evalúe tu conocimiento y te enseñe el material para aprobar tus exámenes. ¡Perfecto para todos los estudiantes! ¡Regístrate gratis!
+  - _bookshop_name: learn/subjects
     title: Discover Subjects
-    contentTitle: 
+    contentTitle:
       en: Discover Subjects
       zh_hk: 发现主题
-      fr: 
+      fr:
       sp: Discover Subjects
-  # - _bookshop_name: top-questions/list
-  #   title: Top Questions Section
-  #   buttonTxt:
-  #     en: Read More
-  #     zh_hk: 閱讀更多
-  #     fr: 
-  #     sp: Leer más
-  #   description: 
-  #     en: >-
-  #       Explore trends in AI, study tips, and all things QuickTakes in our blog!
-  #     zh_hk: >-
-  #       快來我們的博客了解人工智能的最新趨勢、高效學習技巧以及QuickTakes的資訊!
-  #     fr: 
-  #     sp: >-
-  #      ¡Explore tendencias en IA, consejos de estudio y todo lo relacionado con QuickTakes en nuestro blog!
 ---

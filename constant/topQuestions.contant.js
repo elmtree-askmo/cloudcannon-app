@@ -4,6 +4,10 @@ export const TOP_QUESTIONS_SUBJECTS = [
         "key": "accounting-and-finance"
     },
     {
+        "title": "American Culture",
+        "key": "american-culture"
+    },
+    {
         "title": "Art History and Literature",
         "key": "art-history-and-literature"
     },

@@ -1,26 +1,20 @@
-
-
-import { Button } from 'antd';
-import styles from '../styles/Home.module.css';
-import Link from 'next/link';
-import { API_DOMAIN, APP_URL, X_API_KEY, appStoreLink, googlePlayLink } from '../constant/app.constant';
-import axios from 'axios';
 import { useEffect } from 'react';
 import mixpanel from 'mixpanel-browser';
-import { content } from '../staticProps/home.content';
 import Head from 'next/head';
 import Filer from '@cloudcannon/filer';
+
 import renderComponent from '@/util/componentsMapping';
+import styles from '../styles/Home.module.css';
 
-const filer = new Filer({path: 'content'})
+const filer = new Filer({ path: 'content' })
 
-export default function Home({page, language, utmParams}) {
+export default function Home({ page, language, utmParams }) {
 
   const blocks = page.data.content_blocks;
-  
-  useEffect(()=>{
-      mixpanel.track("MarketingPage_Home")
-  },[])
+
+  useEffect(() => {
+    mixpanel.track("MarketingPage_Home")
+  }, [])
 
   return (
     <>
@@ -30,21 +24,21 @@ export default function Home({page, language, utmParams}) {
       </Head>
       <div className={styles['home']}>
         {
-          blocks.map((item, index)=>{
+          blocks.map((item, index) => {
             return renderComponent(item._bookshop_name, index, item, null, language, null, utmParams)
           })
         }
-        
+
       </div>
     </>
   )
 }
 
-export async function getStaticProps(){
+export async function getStaticProps() {
   const page = await filer.getItem('index.md');
   return {
-    props:{
-      page:JSON.parse(JSON.stringify(page))
+    props: {
+      page: JSON.parse(JSON.stringify(page))
     }
   }
 }
