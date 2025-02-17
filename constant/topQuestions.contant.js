@@ -1,10 +1,14 @@
 export const TOP_QUESTIONS_SUBJECTS = [
     {
-        "title": "Accounting and Finance",
+        "title": "Accounting and finance",
         "key": "accounting-and-finance"
     },
     {
-        "title": "Art History and Literature",
+        "title": "American culture",
+        "key": "american-culture"
+    },
+    {
+        "title": "Art history and literature",
         "key": "art-history-and-literature"
     },
     {
@@ -12,7 +16,7 @@ export const TOP_QUESTIONS_SUBJECTS = [
         "key": "biotechnology"
     },
     {
-        "title": "Business and Management",
+        "title": "Business and management",
         "key": "business-and-management"
     },
     {
@@ -20,15 +24,15 @@ export const TOP_QUESTIONS_SUBJECTS = [
         "key": "chemistry"
     },
     {
-        "title": "Computer Science",
+        "title": "Computer science",
         "key": "computer-science"
     },
     {
-        "title": "Criminal or Civil Law",
+        "title": "Criminal or civil law",
         "key": "criminal-or-civil-law"
     },
     {
-        "title": "Digital Media",
+        "title": "Digital media",
         "key": "digital-media"
     },
     {
@@ -36,7 +40,7 @@ export const TOP_QUESTIONS_SUBJECTS = [
         "key": "economics"
     },
     {
-        "title": "Education Studies",
+        "title": "Education studies",
         "key": "education-studies"
     },
     {
@@ -44,11 +48,11 @@ export const TOP_QUESTIONS_SUBJECTS = [
         "key": "engineering"
     },
     {
-        "title": "Health Studies",
+        "title": "Health studies",
         "key": "health-studies"
     },
     {
-        "title": "History of the World",
+        "title": "History of the world",
         "key": "history-of-the-world"
     },
     {
@@ -64,7 +68,7 @@ export const TOP_QUESTIONS_SUBJECTS = [
         "key": "nursing"
     },
     {
-        "title": "Philosophy and Greek Myths",
+        "title": "Philosophy and greek myths",
         "key": "philosophy-and-greek-myths"
     },
     {
@@ -78,5 +82,4 @@ export const TOP_QUESTIONS_SUBJECTS = [
     {
         "title": "Sociology",
         "key": "sociology"
-    },
-]
+    }]
