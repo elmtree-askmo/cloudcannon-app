@@ -12,7 +12,7 @@ import rehypeKatex from 'rehype-katex';
 import remarkGfm from 'remark-gfm';
 
 import { TOP_QUESTIONS_SUBJECTS } from '../../../../constant/topQuestions.contant';
-import { APP_URL } from "../../../../constant/app.constant";
+import { APP_URL, SITEMAP_DOMAIN } from "../../../../constant/app.constant";
 import styles from '../../../../styles/learn.module.css';
 import 'katex/dist/katex.min.css';
 
@@ -60,12 +60,12 @@ export default function TopQuestion({ page, subject, subjectTitle, question, lan
         <meta property="og:title" content={seoTitle} />
         <meta property="og:description" content={seoDescriptio} />
         <meta property="og:type" content="article" />
-        <meta property="og:url" content={`https://${APP_URL}/learn/${subject}/questions/${question}`} />
+        <meta property="og:url" content={`${SITEMAP_DOMAIN}/learn/${subject}/questions/${question}`} />
 
 
         {/* 其他重要 Meta 标签 */}
         <meta name="robots" content="index, follow" />
-        <link rel="canonical" href={`https://${APP_URL}/learn/${subject}/questions/${question}`} />
+        <link rel="canonical" href={`${SITEMAP_DOMAIN}/learn/${subject}/questions/${question}`} />
       </Head>
 
       <header className={styles['learn-subjects-header-container']}>

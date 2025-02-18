@@ -5,12 +5,12 @@ import Filer from "@cloudcannon/filer";
 import { SitemapStream, streamToPromise } from 'sitemap';
 
 import { TOP_QUESTIONS_SUBJECTS } from '../constant/topQuestions.contant.js';
-import {  APP_URL } from '../constant/app.constant.js';
+import {  SITEMAP_DOMAIN } from '../constant/app.constant.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
-const sitemap = new SitemapStream({ hostname: `https://quicktakes.io` });
+const sitemap = new SitemapStream({ hostname: SITEMAP_DOMAIN });
 // const writeStream = fs.createWriteStream(path.join(__dirname, '../', 'sitemap.xml'));
 
 const filer = new Filer({ path: 'content' });
@@ -29,7 +29,7 @@ for (const subject of TOP_QUESTIONS_SUBJECTS) {
   const filteredFiles = files.filter(file => !file.includes('.DS_Store'));
   
   filteredFiles.forEach(file => {
-    const fileUrl = `https://quicktakes.io/learn/${key}/questions/${file}`;
+    const fileUrl = `${SITEMAP_DOMAIN}/learn/${key}/questions/${file}`;
     sitemap.write({ url: fileUrl, changefreq: 'daily', priority: 0.7 });
   });
 }
