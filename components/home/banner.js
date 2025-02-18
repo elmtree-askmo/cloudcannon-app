@@ -1,9 +1,8 @@
 import mixpanel from 'mixpanel-browser';
-import { APP_URL, appStoreLink, googlePlayLink } from '@/constant/app.constant';
+import { appStoreLink, googlePlayLink } from '@/constant/app.constant';
 import styles from '../../styles/Home.module.css';
 import { Button } from 'antd';
 import Link from 'next/link';
-import { useEffect } from 'react';
 
 export default function Banner({content, block, language="en", utmParams=null}){
     const handleSignUpNow = ()=>{
@@ -39,9 +38,6 @@ export default function Banner({content, block, language="en", utmParams=null}){
                 </div>
               </div>
             </div>
-            {/* <div className={styles['section-1-r']}>
-              <img src='/home-student.png' />
-            </div> */}
           </div>
         </div>
     )

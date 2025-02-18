@@ -107,6 +107,7 @@
   height: 450px;
   max-width: 340px;
   margin: 0 auto;
+  /* animation: 'pulse 1.5s cubic-bezier(0.4, 0, 0.2, 1) infinite', */
 }
 
 .howItWorks-text-container h4 {
@@ -616,4 +617,20 @@
     left: calc((100% - 32px * 2) / 2);
     transform: translateX(-50%);
   }
+}
+
+/* portrait */
+@media (max-width: 480px) {
+  .section-4-content-container-l{
+    height: 182px;
+    margin-top: 16px;
+  }
+  .section-4-content-container-r p{
+    margin: 16px 0 0;
+  }
+}
+
+/* landscape */
+@media (min-width: 481px) and (max-width: 767px) {
+  /* 在此处添加适用于大屏幕手机的样式 */
 }
