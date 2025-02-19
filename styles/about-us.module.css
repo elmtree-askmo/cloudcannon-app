@@ -113,9 +113,12 @@
   cursor: pointer;
 }
 .founding-box .photo{
+  position: relative;
   display: flex;
   align-items: center;
   justify-content: center;
+  min-width: 100px;
+  min-height: 100px;
   max-width: 140px;
   max-height: 140px;
   border-radius: 50%;
@@ -125,9 +128,9 @@
 .active-avatar{
   box-shadow: 0px 0px 1px 5px var(--student-button-theme);
 }
-.founding-box .photo img{
+/* .founding-box .photo img{
   width: 100%;
-}
+} */
 .founding-box .name{
   font-size: 20px;
   line-height: 24px;
@@ -159,14 +162,11 @@
   margin: 0 10px;
 }
 .founding-carousel-item-avatar{
+  position: relative;
   margin-right: 32px;
   width: 180px;
   height: 180px;
   flex-shrink: 0;
-}
-.founding-carousel-item-avatar img{
-  width: 100%;
-  display: block;
 }
 .founding-carousel-item-content h5{
   font-size: 20px;
@@ -224,19 +224,18 @@
   margin-bottom: 16px;
 }
 .founding-carousel-item-mobile-avatar{
+  position: relative;
   display: flex;
   align-items: center;
   justify-content: center;
-  max-width: 90px;
-  max-height: 90px;
+  width: 90px;
+  height: 90px;
   border-radius: 50%;
   overflow: hidden;
   margin-bottom: 16px;
   box-shadow: 0px 0px 1px 5px var(--student-button-theme);
 }
-.founding-carousel-item-mobile-avatar img{
-  width: 100%;
-}
+
 .founding-carousel-item-mobile-headshots .name{
   font-size: 16px;
   font-weight: 500;
