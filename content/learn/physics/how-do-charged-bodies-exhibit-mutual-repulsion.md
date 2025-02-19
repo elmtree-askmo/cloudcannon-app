@@ -1,7 +1,7 @@
 ---
 _schema: default
-id: 85769
-date: 2024-12-04
+id: 50195
+date: 2024-11-26
 title: >-
     How do charged bodies exhibit mutual repulsion?
 article_title: >-
@@ -11,48 +11,42 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Physics
   page_description: >-
-    This content explains how charged bodies exhibit mutual repulsion due to electric charge properties, highlighting Coulomb's law and the behavior of like charges.
+    This content explains how charged bodies exhibit mutual repulsion due to electrostatic principles, particularly Coulomb's law, which describes the force between charges.
   page_keywords: >-
-    electric charge, mutual repulsion, electrostatics, Coulomb's law, charged bodies, like charges, repulsive force, point charges, electrostatic force, force magnitude, distance, positive charge, negative charge, fundamental properties
+    charged bodies, mutual repulsion, electrostatics, Coulomb's law, like charges, force of repulsion, point charges, Coulomb's constant, electrostatic interaction, electric charge
 author: QuickTakes
 question: >-
     How do charged bodies exhibit mutual repulsion?
 answer: >-
-    Charged bodies exhibit mutual repulsion due to the fundamental properties of electric charge. There are two types of electric charges: positive and negative. According to the principles of electrostatics, like charges repel each other while unlike charges attract. This behavior can be explained through Coulomb's law, which quantifies the electrostatic force between two charged objects.\n\nCoulomb's law states that the force $ F $ between two point charges $ q_1 $ and $ q_2 $ separated by a distance $ r $ is given by the formula:\n\n$$\nF = k \frac{|q_1 q_2|}{r^2}\n$$\n\nwhere $ k $ is Coulomb's law constant, approximately $ 9 \times 10^9 \, \text{N m}^2/\text{C}^2 $. The force is positive when both charges are of the same type (either both positive or both negative), indicating a repulsive force.\n\nWhen two charged bodies with like charges come close to each other, the electrons and nuclei within each body experience a shift. This shift results in similar charges accumulating near the surfaces of both objects, leading to a repulsive force between them. The greater the magnitude of the charges and the closer the distance between them, the stronger the repulsive force will be.\n\nIn summary, the mutual repulsion of charged bodies is a direct consequence of the nature of electric charges and is mathematically described by Coulomb's law, which illustrates how the force between charges varies with their magnitudes and the distance separating them.
+    Charged bodies exhibit mutual repulsion due to the fundamental principles of electrostatics, specifically described by Coulomb's law. According to Coulomb's first law, like charges repel each other, while unlike charges attract. This means that when two bodies possess the same type of charge—either both positive or both negative—they will exert a force on each other that pushes them apart.\n\nThe force of repulsion between two charged bodies can be quantified using Coulomb's law, which states that the force $F$ between two point charges $q_1$ and $q_2$ separated by a distance $r$ is given by the formula:\n\n$$\nF = k \frac{|q_1 q_2|}{r^2}\n$$\n\nwhere $k$ is Coulomb's constant, approximately equal to $8.99 \times 10^9 \, \text{N m}^2/\text{C}^2$. This equation indicates that the force is directly proportional to the product of the magnitudes of the charges and inversely proportional to the square of the distance between them. As the distance $r$ decreases, the force of repulsion increases, leading to a stronger interaction between the charges.\n\nIn summary, charged bodies exhibit mutual repulsion due to the nature of electric charge, where like charges repel each other, and this interaction can be mathematically described by Coulomb's law.
 subject: Physics
 file_name: how-do-charged-bodies-exhibit-mutual-repulsion.md
 url: /learn/physics/questions/how-do-charged-bodies-exhibit-mutual-repulsion
 score: -1.0
 related_article1:
-    id: 85783
+    id: 50214
     title: >-
-        What is the significance of an electric dipole in electric field studies?
+        How do electric fields influence the behavior of charged particles?
     subject: Physics
-    url: /learn/physics/questions/what-is-the-significance-of-an-electric-dipole-in-electric-field-studies
+    url: /learn/physics/questions/how-do-electric-fields-influence-the-behavior-of-charged-particles
 related_article2:
-    id: 85770
+    id: 50200
     title: >-
-        How does the presence of an electric field modify the properties of space?
+        How does the strength of an electric field vary with distance from a point charge?
     subject: Physics
-    url: /learn/physics/questions/how-does-the-presence-of-an-electric-field-modify-the-properties-of-space
+    url: /learn/physics/questions/how-does-the-strength-of-an-electric-field-vary-with-distance-from-a-point-charge
 related_article3:
-    id: 85788
+    id: 50207
     title: >-
-        What are the limitations of the test charge method?
+        What are some common problems involving electric fields?
     subject: Physics
-    url: /learn/physics/questions/what-are-the-limitations-of-the-test-charge-method
+    url: /learn/physics/questions/what-are-some-common-problems-involving-electric-fields
 related_article4:
-    id: 85793
+    id: 50219
     title: >-
-        How do electric fields interact with magnetic fields?
+        What are the challenges in measuring electric fields accurately?
     subject: Physics
-    url: /learn/physics/questions/how-do-electric-fields-interact-with-magnetic-fields
-related_article5:
-    id: 85790
-    title: >-
-        What are the practical applications of understanding electric fields?
-    subject: Physics
-    url: /learn/physics/questions/what-are-the-practical-applications-of-understanding-electric-fields
+    url: /learn/physics/questions/what-are-the-challenges-in-measuring-electric-fields-accurately
 ---
 
 &nbsp;

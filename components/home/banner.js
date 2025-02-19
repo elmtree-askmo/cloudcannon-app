@@ -3,6 +3,7 @@ import { appStoreLink, googlePlayLink } from '@/constant/app.constant';
 import styles from '../../styles/Home.module.css';
 import { Button } from 'antd';
 import Link from 'next/link';
+import Image from 'next/image';
 
 export default function Banner({content, block, language="en", utmParams=null}){
     const handleSignUpNow = ()=>{
@@ -26,13 +27,21 @@ export default function Banner({content, block, language="en", utmParams=null}){
                 <Button type="primary" className={`custom-antd-design-button-student ${styles['sign-up-now']}`} onClick={handleSignUpNow}>{block.buttonTxt[language] || block.buttonTxt['en']}</Button>
                 <div className={styles['download-group']}>
                   <Link href={appStoreLink} target='_blank'>
-                    <img 
+                    <Image 
                       src="/appStore.svg"
+                      alt="appStore"
+                      width={227}
+                      height={65}
+                      unoptimized
                     />
                   </Link>
                   <Link href={googlePlayLink} target='_blank'>
-                    <img 
+                    <Image 
                       src="/googlePlay.svg"
+                      alt="googlePlay"
+                      width={227}
+                      height={65}
+                      unoptimized
                     />
                   </Link>
                 </div>

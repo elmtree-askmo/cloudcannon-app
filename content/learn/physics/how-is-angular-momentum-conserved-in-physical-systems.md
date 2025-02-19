@@ -1,7 +1,7 @@
 ---
 _schema: default
-id: 83040
-date: 2024-12-03
+id: 61115
+date: 2024-11-27
 title: >-
     How is angular momentum conserved in physical systems?
 article_title: >-
@@ -11,48 +11,48 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Physics
   page_description: >-
-    This content explains the conservation of angular momentum in physical systems, detailing its mathematical definitions, examples from ice skating and celestial mechanics, and its importance in understanding physical phenomena.
+    This content explains the principle of conservation of angular momentum in physical systems, detailing its mathematical expressions and examples in mechanics and astrophysics.
   page_keywords: >-
-    angular momentum, conservation, physical systems, external torque, moment of inertia, angular velocity, cross product, linear momentum, ice skater, celestial mechanics, physical phenomena, Newton's laws of motion, rotational motion, gravitational forces, solar systems
+    angular momentum, conservation, physics, mechanics, astrophysics, external torque, moment of inertia, angular velocity, solar system, ice skater, closed system, physical phenomena
 author: QuickTakes
 question: >-
     How is angular momentum conserved in physical systems?
 answer: >-
-    Angular momentum conservation is a fundamental principle in physics that states that the total angular momentum of a system remains constant if no external torques act on it. This principle is a rotational counterpart to the conservation of linear momentum and is deeply rooted in Newton's laws of motion.\n\nMathematically, angular momentum $L$ can be defined in two ways:\n\n1. As the product of the moment of inertia $I$ and the angular velocity $\omega$:\n   $$\n   L = I \omega\n   $$\n\n2. As the cross product of the position vector $r$ and the linear momentum $p$:\n   $$\n   L = r \times p\n   $$\n\nThe conservation of angular momentum can be observed in various physical systems. For instance, when an ice skater pulls her arms in while spinning, she reduces her moment of inertia, which causes her to spin faster to conserve angular momentum. This occurs because the net torque acting on her is very close to zero, allowing her angular momentum to remain constant.\n\nAnother example is found in celestial mechanics, where the conservation of angular momentum explains the orbits of planets. As a cloud of gas and dust contracts under gravitational forces, its rotation rate increases due to the conservation of angular momentum, leading to the formation of solar systems.\n\nIn summary, angular momentum is conserved in a system when the net external torque is zero. This principle is crucial in understanding a wide range of phenomena, from the behavior of spinning objects to the dynamics of celestial bodies, and it highlights the underlying unity in the laws of physics.
+    Angular momentum conservation is a fundamental principle in physics that applies to various physical systems, particularly in mechanics and astrophysics. The principle states that if the net external torque acting on a system is zero, then the angular momentum of that system remains constant. This is analogous to the conservation of linear momentum, which holds when the net external force is zero.\n\nMathematically, angular momentum $L$ can be expressed as:\n\n$$\nL = I \omega\n$$\n\nor \n\n$$\nL = r \times p\n$$\n\nwhere $I$ is the moment of inertia, $\omega$ is the angular velocity, $r$ is the radius vector from the axis of rotation to the point of interest, and $p$ is the linear momentum.\n\nThe conservation of angular momentum can be observed in various scenarios. For example, when an ice skater pulls in their arms while spinning, the moment of inertia decreases, leading to an increase in angular velocity to conserve angular momentum. This is because the net torque on the skater is very close to zero due to minimal friction between the skates and the ice.\n\nAnother significant example is the formation of the solar system. The solar system coalesced from a rotating cloud of gas and dust. As gravitational forces caused the cloud to contract, the rotation rate increased, demonstrating the conservation of angular momentum.\n\nIn summary, angular momentum is conserved in a closed system where no external torques are acting. This principle is crucial for understanding various physical phenomena, from the motion of celestial bodies to the dynamics of everyday objects.
 subject: Physics
 file_name: how-is-angular-momentum-conserved-in-physical-systems.md
 url: /learn/physics/questions/how-is-angular-momentum-conserved-in-physical-systems
 score: -1.0
 related_article1:
-    id: 83026
+    id: 61105
     title: >-
-        Can you explain Newton's Laws and their mathematical formulations?
-    subject: Physics
-    url: /learn/physics/questions/can-you-explain-newtons-laws-and-their-mathematical-formulations
+        How do mathematical models help in predicting physical phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-mathematical-models-help-in-predicting-physical-phenomena
 related_article2:
-    id: 83038
+    id: 61104
     title: >-
-        How does the Euclidean method differ from other mathematical approaches in physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-euclidean-method-differ-from-other-mathematical-approaches-in-physics
+        What are the philosophical implications of the relationship between physics and mathematics?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-philosophical-implications-of-the-relationship-between-physics-and-mathematics
 related_article3:
-    id: 83020
+    id: 61102
     title: >-
-        What contributions did Babylonian and Greek traditions make to mathematics and physics?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-contributions-did-babylonian-and-greek-traditions-make-to-mathematics-and-physics
-related_article4:
-    id: 83015
-    title: >-
-        What is Faraday's Law and how does it relate to mathematics?
+        What is the local field method in physics?
     subject: Physics
-    url: /learn/physics/questions/what-is-faradays-law-and-how-does-it-relate-to-mathematics
-related_article5:
-    id: 83032
+    url: /learn/physics/questions/what-is-the-local-field-method-in-physics
+related_article4:
+    id: 61117
     title: >-
-        How did ancient civilizations contribute to the development of mathematical concepts used in physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-did-ancient-civilizations-contribute-to-the-development-of-mathematical-concepts-used-in-physics
+        How does the local field method differ from other methods in physics?
+    subject: Physics
+    url: /learn/physics/questions/how-does-the-local-field-method-differ-from-other-methods-in-physics
+related_article5:
+    id: 61109
+    title: >-
+        How do physicists use mathematical equations to describe forces?
+    subject: Physics
+    url: /learn/physics/questions/how-do-physicists-use-mathematical-equations-to-describe-forces
 ---
 
 &nbsp;
