@@ -1,7 +1,7 @@
 ---
 _schema: default
-id: 144605
-date: 2025-01-01
+id: 29880
+date: 2024-11-23
 title: >-
     What are the key properties of exponential functions?
 article_title: >-
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content discusses the key properties of exponential functions, including their general form, domain, range, behavior on graphs, and applications in real-world contexts.
+    This content outlines the key properties and characteristics of exponential functions, highlighting their unique behaviors such as domain, range, y-intercept, asymptotes, growth and decay rates, and transformation properties, essential for understanding and applying these functions in various contexts.
   page_keywords: >-
-    exponential functions, properties of exponential functions, mathematical functions, domain and range, y-intercept, horizontal asymptote, exponential growth, exponential decay, one-to-one function, transformation properties, key points, graph behavior, real-world applications
+    exponential functions, properties, general form, domain, range, y-intercept, asymptote, growth, decay, one-to-one function, transformations, key points, mathematical functions, equations, real-world applications
 author: QuickTakes
 question: >-
     What are the key properties of exponential functions?
@@ -24,23 +24,11 @@ file_name: what-are-the-key-properties-of-exponential-functions.md
 url: /learn/mathematics/questions/what-are-the-key-properties-of-exponential-functions
 score: -1.0
 related_article1:
-    id: 144602
+    id: 29888
     title: >-
-        What is the process for identifying x-axis intersections when solving polynomial equations?
+        Can you explain the laws of logarithms and how they apply to logarithmic functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-process-for-identifying-xaxis-intersections-when-solving-polynomial-equations
-related_article2:
-    id: 144612
-    title: >-
-        How can the discriminant be used to solve quadratic equations?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-can-the-discriminant-be-used-to-solve-quadratic-equations
-related_article3:
-    id: 144602
-    title: >-
-        What is the process for identifying x-axis intersections when solving polynomial equations?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-process-for-identifying-xaxis-intersections-when-solving-polynomial-equations
+    url: /learn/mathematics/questions/can-you-explain-the-laws-of-logarithms-and-how-they-apply-to-logarithmic-functions
 ---
 
 &nbsp;
