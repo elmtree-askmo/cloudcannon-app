@@ -12,7 +12,7 @@ import rehypeKatex from 'rehype-katex';
 import remarkGfm from 'remark-gfm';
 
 import { TOP_QUESTIONS_SUBJECTS } from '../../../../constant/topQuestions.contant';
-import { SITEMAP_DOMAIN } from "../../../../constant/app.constant";
+import { APP_URL, SITEMAP_DOMAIN } from "../../../../constant/app.constant";
 import styles from '../../../../styles/learn.module.css';
 import 'katex/dist/katex.min.css';
 
