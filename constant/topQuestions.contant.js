@@ -64,6 +64,10 @@ export const TOP_QUESTIONS_SUBJECTS = [
         "key": "medicine"
     },
     {
+        "title": "Movies and Cinematography",
+        "key": "movies-and-cinematography"
+    },
+    {
         "title": "Nursing",
         "key": "nursing"
     },
