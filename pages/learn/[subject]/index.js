@@ -17,6 +17,10 @@ export default function LearnSubjest({ subject, title, pages, language = "en" })
   const itemsPerPage = 30;
 
   useEffect(() => {
+    mixpanel.track("MarketingPage_TopQuestions", { page_level: "subjectlist", qa_subject: title });
+  }, [])
+
+  useEffect(() => {
     setDisplayedPages(pages.slice(0, itemsPerPage));
   }, [pages]);
 

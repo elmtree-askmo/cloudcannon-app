@@ -116,7 +116,10 @@
   width: 24px;
   height: 24px;
   cursor: pointer;
-  display: flex;
+  display: inline-flex;
+  align-items: center;
+  gap: 16px;
+  text-decoration: none;
 }
 
 .questions-quantity {
@@ -181,9 +184,9 @@
 
 /* questions  ---------------- */
 .learn-question-info {
-  display: flex;
-  align-items: flex-start;
-  gap: 50px;
+  /* display: flex; */
+  /* align-items: flex-start; */
+  /* gap: 50px; */
 }
 
 .learn-question-info .learn-question-tag {
@@ -194,13 +197,18 @@
 
 .learn-question-info .learn-question-subject {
   font-size: 22px;
-  color: #777777;
+  color: var(--student-button-theme);
   font-weight: 400;
-  margin: 24px 0 0;
+  /* margin: 24px 0 0; */
+  flex-shrink: 0;
+}
+
+.learn-question-title-container {
+  padding-left: 38px;
 }
 
 .learn-question-info .learn-question-title {
-  margin: 8px 0 0;
+  margin: 24px 0 0;
   font-size: 30px;
   font-weight: 700px;
   color: #FEF7F1;
@@ -219,6 +227,25 @@
   font-weight: 500;
   color: #FEF7F1;
 }
+
+.learn-question-info .banner-save-cta {
+  margin: 32px 0 0;
+  text-align: center;
+}
+
+.learn-question-info .banner-save-btn {
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 500;
+  background: var(--student-button-theme);
+  color: var(--student-font-color);
+  text-decoration: none;
+  border-radius: 60px;
+  padding: 8px 24px;
+  height: 50px;
+  line-height: 50px;
+}
+
 
 .learn-answer {
   margin: 0;
@@ -257,8 +284,8 @@
   color: #FEF7F1;
 }
 
-.anwser-shadow-content  .sign-up-today{
- margin-top: 32px;
+.anwser-shadow-content .sign-up-today {
+  margin-top: 32px;
 }
 
 .anwser-shadow-content .back-to-subjects {
@@ -274,11 +301,11 @@
   text-decoration: underline;
 }
 
-.learn-answer-related{
-  margin-top: 20px;
+.learn-answer-related {
+  margin-top: 56px;
 }
 
-.learn-answer-related-articles{
+.learn-answer-related-articles {
   display: flex;
   flex-wrap: wrap;
   gap: 24px 2%;
@@ -287,7 +314,7 @@
 
 .load-more-btn {
   padding: 10px 20px;
-  background-color:  #00A6FB;
+  background-color: #00A6FB;
   color: var(--student-font-color);
   border: none;
   border-radius: 4px;
@@ -303,12 +330,13 @@
 /* portrait */
 
 @media screen and (max-width: 768px) {
+
   /* learn */
   .learn-header-container {
     padding: 24px;
   }
 
-  .learn-header-center-container h1 { 
+  .learn-header-center-container h1 {
     font-size: 24px;
   }
 
@@ -350,12 +378,12 @@
     line-height: 32px;
   }
 
-  .learn-subjects-header-container .back-btn {
+  .back-btn .back-btn-icon {
     width: 16px;
     height: 16px;
   }
 
-  .learn-subjects-container { 
+  .learn-subjects-container {
     padding: 24px;
   }
 
@@ -382,69 +410,74 @@
     line-height: 24px;
     margin-top: 8px;
     height: 72px;
-  } 
+  }
 
   .question-item .question-item-btn {
     font-size: 14px;
     line-height: 24px;
     margin-top: 8px;
-  } 
+  }
 
   /* questions */
   .learn-question-info {
     gap: 24px;
-  } 
-  
+  }
+
   .learn-question-info .learn-question-tag {
     font-size: 12px;
-  } 
+  }
 
   .learn-question-info .learn-question-title {
     font-size: 18px;
     line-height: 24px;
     letter-spacing: 3%;
-  } 
+  }
 
   .learn-question-info .learn-question-subject {
     font-size: 14px;
     margin-top: 8px;
     line-height: 24px;
     letter-spacing: 3%;
-  } 
+  }
 
   .learn-question-info .learn-question-date {
     font-size: 14px;
     margin-top: 8px;
     line-height: 24px;
     letter-spacing: 3%;
-  } 
+  }
 
   .learn-answer {
     font-size: 18px;
-  } 
-  
+  }
+
   .learn-answer-editor-container {
     font-size: 14px;
-  } 
+  }
 
   .learn-answer-related-articles {
     gap: 16px;
-  }   
-  
+  }
+
   .learn-answer-related {
     font-size: 18px;
-  } 
+  }
 
   .learn-answer-related-articles {
     margin-top: 16px;
-  } 
-  
-  .anwser-shadow-content{
+  }
+
+  .anwser-shadow-content {
     padding-top: 24px;
   }
 
-  .anwser-shadow-content .anwser-shadow-title{
+  .anwser-shadow-content .anwser-shadow-title {
     font-size: 18px;
     line-height: 24px;
+  }
+
+  .banner-save-btn {
+    font-size: 14px;
+    padding: 6px 16px;
   }
 }
