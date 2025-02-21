@@ -19,11 +19,11 @@ import 'katex/dist/katex.min.css';
 const filer = new Filer({ path: 'content' });
 export default function TopQuestion({ page, subject, subjectTitle, question, language = "en" }) {
 
-  useEffect(() => {
-    mixpanel.track("MarketingPage_TopQuestions", { page_level: "detail", qa_question: page.data.title, qa_subject: subjectTitle });
-  }, [])
-
   const pageData = page[language] ? page[language] : page['en'];
+
+  useEffect(() => {
+    mixpanel.track("MarketingPage_TopQuestions", { page_level: "detail", qa_question: pageData.data.title, qa_subject: subjectTitle });
+  }, [])
 
   const formattedAnswer = pageData.data.answer.replace(/\\n/g, '\n');
 
