@@ -20,7 +20,7 @@ const filer = new Filer({ path: 'content' });
 export default function TopQuestion({ page, subject, subjectTitle, question, language = "en" }) {
 
   useEffect(() => {
-    mixpanel.track("MarketingPage_TopQuestions", { title: page.data.title });
+    mixpanel.track("MarketingPage_TopQuestions", { page_level: "detail", qa_question: page.data.title, qa_subject: subjectTitle });
   }, [])
 
   const pageData = page[language] ? page[language] : page['en'];
@@ -72,14 +72,20 @@ export default function TopQuestion({ page, subject, subjectTitle, question, lan
       <header className={styles['learn-subjects-header-container']}>
         <div className={styles['learn-subjects-center-container']}>
           <div className={styles["learn-question-info"]}>
-            <Link href={`/learn/${subject}`} className={styles["back-btn"]} ><img src="/backIcon.svg" /></Link>
-            <div>
-              <div className={styles["learn-question-tag"]}>Question</div>
+            <Link href={`/learn/${subject}`} className={styles["back-btn"]} >
+              <div className={styles["back-btn-icon"]}><img src="/backIcon.svg" /></div>
+              <h3 className={styles["learn-question-subject"]}>back to {subjectTitle}</h3>
+            </Link>
+
+            <div className={styles["learn-question-title-container"]}>
               <h2 className={styles["learn-question-title"]}>
                 {pageData.data.title}
               </h2>
-              <h3 className={styles["learn-question-subject"]}>{subjectTitle}</h3>
-              <div className={styles["learn-question-date"]}>{pageData.data.post_on_text} {moment(pageData.data?.date).format(pageData.data.date_format || 'MMM DD, YYYY')}</div>
+              <div className={styles["banner-save-cta"]}>
+                <Link href="#" onClick={handleSignUp} className={styles["banner-save-btn"]}>
+                  Sign up to save this answer
+                </Link>
+              </div>
             </div>
           </div>
         </div>
@@ -95,6 +101,13 @@ export default function TopQuestion({ page, subject, subjectTitle, question, lan
             />
             {/* <div className={styles["learn-answer-blur"]}></div> */}
           </div>
+          <div className={styles["anwser-shadow-content"]}>
+            <div className={styles["anwser-shadow-title"]}>Create a free account to get more personalized answers!</div>
+            <Link className={styles['sign-up-today']} href="#" onClick={handleSignUp} >Sign up</Link>
+            <Link href={`/learn/${subject}`} className={styles['back-to-subjects']}>
+              Explore more {subjectTitle} questions →
+            </Link>
+          </div>
           {!!relatedArticles.length > 0 && <>
             <h3 className={`${styles["learn-answer"]} ${styles["learn-answer-related"]}`}>Related Questions</h3>
             <div className={styles["learn-answer-related-articles"]}>
@@ -107,14 +120,6 @@ export default function TopQuestion({ page, subject, subjectTitle, question, lan
               ))}
             </div>
           </>}
-
-          <div className={styles["anwser-shadow-content"]}>
-            <div className={styles["anwser-shadow-title"]}>Create a free account to access personalized Q&A!</div>
-            <Link className={styles['sign-up-today']} href="#" onClick={handleSignUp} >Sign up</Link>
-            <Link href={`/learn/${subject}`} className={styles['back-to-subjects']}>
-              Explore more {subjectTitle} questions →
-            </Link>
-          </div>
         </div>
       </div>
     </>

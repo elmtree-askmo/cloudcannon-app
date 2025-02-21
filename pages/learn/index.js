@@ -16,7 +16,7 @@ export default function TopQuestions({ page, language = 'en', posts }) {
   const blocks = page.data.content_blocks;
 
   useEffect(() => {
-    mixpanel.track("MarketingPage_TopQuestions");
+    mixpanel.track("MarketingPage_TopQuestions", { page_level: "home" });
   }, [])
 
   return (
