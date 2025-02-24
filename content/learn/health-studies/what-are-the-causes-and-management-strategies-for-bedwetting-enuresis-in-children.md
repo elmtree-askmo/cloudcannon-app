@@ -23,7 +23,18 @@ subject: Health Studies
 file_name: what-are-the-causes-and-management-strategies-for-bedwetting-enuresis-in-children.md
 url: /learn/health-studies/questions/what-are-the-causes-and-management-strategies-for-bedwetting-enuresis-in-children
 score: -1.0
-
+related_article1:
+    id: 14857
+    title: >-
+        What are the common variations in bowel habits among healthy individuals?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-common-variations-in-bowel-habits-among-healthy-individuals
+related_article2:
+    id: 14876
+    title: >-
+        How does nocturia impact sleep and overall health in men?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-nocturia-impact-sleep-and-overall-health-in-men
 ---
 
 &nbsp;

@@ -23,7 +23,18 @@ subject: Health Studies
 file_name: what-communication-and-support-strategies-are-effective-in-managing-bowel-and-bladder-health.md
 url: /learn/health-studies/questions/what-communication-and-support-strategies-are-effective-in-managing-bowel-and-bladder-health
 score: -1.0
-
+related_article1:
+    id: 14853
+    title: >-
+        What roles do the sympathetic and parasympathetic nervous systems play in the body?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-roles-do-the-sympathetic-and-parasympathetic-nervous-systems-play-in-the-body
+related_article2:
+    id: 14876
+    title: >-
+        How does nocturia impact sleep and overall health in men?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-nocturia-impact-sleep-and-overall-health-in-men
 ---
 
 &nbsp;

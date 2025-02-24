@@ -23,18 +23,7 @@ subject: Psychology
 file_name: what-are-the-leading-theories-on-why-humans-dream.md
 url: /learn/psychology/questions/what-are-the-leading-theories-on-why-humans-dream
 score: -1.0
-related_article1:
-    id: 14940
-    title: >-
-        How do biological rhythms influence consciousness?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-biological-rhythms-influence-consciousness
-related_article2:
-    id: 14957
-    title: >-
-        How do stimulants alter consciousness and attention?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-stimulants-alter-consciousness-and-attention
+
 ---
 
 &nbsp;
