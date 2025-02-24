@@ -87,4 +87,4 @@ export const TOP_QUESTIONS_SUBJECTS = [
         "title": "Sociology",
         "key": "sociology"
     },
-    ]
+]
