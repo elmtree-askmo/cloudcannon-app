@@ -37,8 +37,8 @@ export default function TopQuestion({ page, subject, subjectTitle, question, lan
 
   // const title = pageData.data.seo.title || pageData.data.title;
   // const seoTitle = `${pageData.data.seo.title} | ${pageData.data.title}`;
-  const seoTitle = `${pageData.data.title} | ${subjectTitle} | QuickTakes`;
-  const seoDescriptio = pageData.data.seo.page_description || pageData.data.description;
+  const seoTitle = `Student Question : ${pageData.data.title} | ${subjectTitle} | QuickTakes`;
+  const seoDescription = `Get the full answer from QuickTakes - ${pageData.data.seo.page_description || pageData.data.description}`;
 
   const relatedArticles = [];
   for (let i = 1; i <= 5; i++) {
@@ -54,12 +54,12 @@ export default function TopQuestion({ page, subject, subjectTitle, question, lan
         <title>{seoTitle}</title>
 
         {/* 基础 Meta 标签 */}
-        <meta name="description" content={pageData.data.seo.page_description || pageData.data.description} />
+        <meta name="description" content={seoDescription} />
         <meta name="keywords" content={pageData.data.seo.page_keywords} />
 
         {/* Open Graph 标签 */}
         <meta property="og:title" content={seoTitle} />
-        <meta property="og:description" content={seoDescriptio} />
+        <meta property="og:description" content={seoDescription} />
         <meta property="og:type" content="article" />
         <meta property="og:url" content={`${SITEMAP_DOMAIN}/learn/${subject}/questions/${question}`} />
 

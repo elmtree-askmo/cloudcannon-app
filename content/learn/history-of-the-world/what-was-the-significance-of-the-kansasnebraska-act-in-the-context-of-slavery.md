@@ -24,17 +24,17 @@ file_name: what-was-the-significance-of-the-kansasnebraska-act-in-the-context-of
 url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-kansasnebraska-act-in-the-context-of-slavery
 score: -1.0
 related_article1:
-    id: 6851
+    id: 6832
     title: >-
-        What new political parties emerged during the 19th century realignments?
+        What was the impact of slavery on representation in Congress?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-new-political-parties-emerged-during-the-19th-century-realignments
+    url: /learn/history-of-the-world/questions/what-was-the-impact-of-slavery-on-representation-in-congress
 related_article2:
-    id: 6856
+    id: 6837
     title: >-
-        What key events led to increased sectional conflict in the United States?
+        What role did Henry Clay play in the Missouri Compromise?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-key-events-led-to-increased-sectional-conflict-in-the-united-states
+    url: /learn/history-of-the-world/questions/what-role-did-henry-clay-play-in-the-missouri-compromise
 ---
 
 &nbsp;

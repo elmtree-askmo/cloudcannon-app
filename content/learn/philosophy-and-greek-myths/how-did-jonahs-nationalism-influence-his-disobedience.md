@@ -23,30 +23,7 @@ subject: Philosophy and Greek Myths
 file_name: how-did-jonahs-nationalism-influence-his-disobedience.md
 url: /learn/philosophy-and-greek-myths/questions/how-did-jonahs-nationalism-influence-his-disobedience
 score: -1.0
-related_article1:
-    id: 6867
-    title: >-
-        What were God's specific commands to Jonah and how did he react?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-were-gods-specific-commands-to-jonah-and-how-did-he-react
-related_article2:
-    id: 6860
-    title: >-
-        What is the significance of Jonah's name in the context of his mission?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-is-the-significance-of-jonahs-name-in-the-context-of-his-mission
-related_article3:
-    id: 6880
-    title: >-
-        How does Jonah's story reflect human nature and God's will?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-does-jonahs-story-reflect-human-nature-and-gods-will
-related_article4:
-    id: 6874
-    title: >-
-        How did the mariners respond to the storm and Jonah's confession?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-did-the-mariners-respond-to-the-storm-and-jonahs-confession
+
 ---
 
 &nbsp;

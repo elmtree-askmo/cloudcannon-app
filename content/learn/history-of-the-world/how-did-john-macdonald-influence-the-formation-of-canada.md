@@ -24,17 +24,17 @@ file_name: how-did-john-macdonald-influence-the-formation-of-canada.md
 url: /learn/history-of-the-world/questions/how-did-john-macdonald-influence-the-formation-of-canada
 score: -1.0
 related_article1:
-    id: 6798
-    title: >-
-        What political factors led to the creation of the British North America Act?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-political-factors-led-to-the-creation-of-the-british-north-america-act
-related_article2:
     id: 6827
     title: >-
         What role did trade play in the development of the Canadian domestic market?
     subject: Economics
     url: /learn/economics/questions/what-role-did-trade-play-in-the-development-of-the-canadian-domestic-market
+related_article2:
+    id: 6798
+    title: >-
+        What political factors led to the creation of the British North America Act?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-political-factors-led-to-the-creation-of-the-british-north-america-act
 ---
 
 &nbsp;

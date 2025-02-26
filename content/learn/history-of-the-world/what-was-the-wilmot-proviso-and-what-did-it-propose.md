@@ -24,29 +24,17 @@ file_name: what-was-the-wilmot-proviso-and-what-did-it-propose.md
 url: /learn/history-of-the-world/questions/what-was-the-wilmot-proviso-and-what-did-it-propose
 score: -1.0
 related_article1:
-    id: 6851
-    title: >-
-        What new political parties emerged during the 19th century realignments?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-new-political-parties-emerged-during-the-19th-century-realignments
-related_article2:
     id: 6837
     title: >-
         What role did Henry Clay play in the Missouri Compromise?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-role-did-henry-clay-play-in-the-missouri-compromise
-related_article3:
+related_article2:
     id: 6832
     title: >-
         What was the impact of slavery on representation in Congress?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-was-the-impact-of-slavery-on-representation-in-congress
-related_article4:
-    id: 6843
-    title: >-
-        What were the key provisions and debates of the Compromise of 1850?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-provisions-and-debates-of-the-compromise-of-1850
 ---
 
 &nbsp;

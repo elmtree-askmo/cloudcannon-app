@@ -24,23 +24,17 @@ file_name: what-new-political-parties-emerged-during-the-19th-century-realignmen
 url: /learn/history-of-the-world/questions/what-new-political-parties-emerged-during-the-19th-century-realignments
 score: -1.0
 related_article1:
-    id: 6848
+    id: 6837
     title: >-
-        What internal divisions led to the decline of the Whig Party?
+        What role did Henry Clay play in the Missouri Compromise?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-internal-divisions-led-to-the-decline-of-the-whig-party
+    url: /learn/history-of-the-world/questions/what-role-did-henry-clay-play-in-the-missouri-compromise
 related_article2:
     id: 6832
     title: >-
         What was the impact of slavery on representation in Congress?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-was-the-impact-of-slavery-on-representation-in-congress
-related_article3:
-    id: 6830
-    title: >-
-        What were the main arguments in early political debates on slavery?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-main-arguments-in-early-political-debates-on-slavery
 ---
 
 &nbsp;

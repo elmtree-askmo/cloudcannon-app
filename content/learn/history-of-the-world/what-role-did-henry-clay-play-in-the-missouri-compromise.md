@@ -24,35 +24,11 @@ file_name: what-role-did-henry-clay-play-in-the-missouri-compromise.md
 url: /learn/history-of-the-world/questions/what-role-did-henry-clay-play-in-the-missouri-compromise
 score: -1.0
 related_article1:
-    id: 6835
+    id: 6832
     title: >-
-        What was the significance of the Kansas-Nebraska Act in the context of slavery?
+        What was the impact of slavery on representation in Congress?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-kansasnebraska-act-in-the-context-of-slavery
-related_article2:
-    id: 6856
-    title: >-
-        What key events led to increased sectional conflict in the United States?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-key-events-led-to-increased-sectional-conflict-in-the-united-states
-related_article3:
-    id: 6843
-    title: >-
-        What were the key provisions and debates of the Compromise of 1850?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-provisions-and-debates-of-the-compromise-of-1850
-related_article4:
-    id: 6858
-    title: >-
-        What were the legislative and judicial implications of slavery in American politics?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-legislative-and-judicial-implications-of-slavery-in-american-politics
-related_article5:
-    id: 6851
-    title: >-
-        What new political parties emerged during the 19th century realignments?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-new-political-parties-emerged-during-the-19th-century-realignments
+    url: /learn/history-of-the-world/questions/what-was-the-impact-of-slavery-on-representation-in-congress
 ---
 
 &nbsp;

@@ -23,7 +23,12 @@ subject: History of the World
 file_name: what-was-the-impact-of-slavery-on-representation-in-congress.md
 url: /learn/history-of-the-world/questions/what-was-the-impact-of-slavery-on-representation-in-congress
 score: -1.0
-
+related_article1:
+    id: 6837
+    title: >-
+        What role did Henry Clay play in the Missouri Compromise?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-role-did-henry-clay-play-in-the-missouri-compromise
 ---
 
 &nbsp;

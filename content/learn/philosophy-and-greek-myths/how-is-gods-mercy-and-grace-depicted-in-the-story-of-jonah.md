@@ -23,24 +23,7 @@ subject: Philosophy and Greek Myths
 file_name: how-is-gods-mercy-and-grace-depicted-in-the-story-of-jonah.md
 url: /learn/philosophy-and-greek-myths/questions/how-is-gods-mercy-and-grace-depicted-in-the-story-of-jonah
 score: -1.0
-related_article1:
-    id: 6880
-    title: >-
-        How does Jonah's story reflect human nature and God's will?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-does-jonahs-story-reflect-human-nature-and-gods-will
-related_article2:
-    id: 6863
-    title: >-
-        How does Jonah's story compare to other prophets in the Bible?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-does-jonahs-story-compare-to-other-prophets-in-the-bible
-related_article3:
-    id: 6873
-    title: >-
-        What was the purpose of the storm in Jonah's story?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-was-the-purpose-of-the-storm-in-jonahs-story
+
 ---
 
 &nbsp;
