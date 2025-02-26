@@ -23,30 +23,7 @@ subject: History of the World
 file_name: how-does-jonahs-story-compare-to-other-prophets-in-the-bible.md
 url: /learn/history-of-the-world/questions/how-does-jonahs-story-compare-to-other-prophets-in-the-bible
 score: -1.0
-related_article1:
-    id: 6874
-    title: >-
-        How did the mariners respond to the storm and Jonah's confession?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-did-the-mariners-respond-to-the-storm-and-jonahs-confession
-related_article2:
-    id: 6867
-    title: >-
-        What were God's specific commands to Jonah and how did he react?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-were-gods-specific-commands-to-jonah-and-how-did-he-react
-related_article3:
-    id: 6877
-    title: >-
-        What themes of disobedience and divine mercy are evident in Jonah's story?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-themes-of-disobedience-and-divine-mercy-are-evident-in-jonahs-story
-related_article4:
-    id: 6876
-    title: >-
-        How does the symbolism of the great fish contribute to the story's message?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-does-the-symbolism-of-the-great-fish-contribute-to-the-storys-message
+
 ---
 
 &nbsp;

@@ -23,30 +23,7 @@ subject: Philosophy and Greek Myths
 file_name: what-were-gods-specific-commands-to-jonah-and-how-did-he-react.md
 url: /learn/philosophy-and-greek-myths/questions/what-were-gods-specific-commands-to-jonah-and-how-did-he-react
 score: -1.0
-related_article1:
-    id: 6880
-    title: >-
-        How does Jonah's story reflect human nature and God's will?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-does-jonahs-story-reflect-human-nature-and-gods-will
-related_article2:
-    id: 6868
-    title: >-
-        How is God's mercy and grace depicted in the story of Jonah?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-is-gods-mercy-and-grace-depicted-in-the-story-of-jonah
-related_article3:
-    id: 6874
-    title: >-
-        How did the mariners respond to the storm and Jonah's confession?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-did-the-mariners-respond-to-the-storm-and-jonahs-confession
-related_article4:
-    id: 6869
-    title: >-
-        What are the main arguments for interpreting Jonah's story as an allegory?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-the-main-arguments-for-interpreting-jonahs-story-as-an-allegory
+
 ---
 
 &nbsp;

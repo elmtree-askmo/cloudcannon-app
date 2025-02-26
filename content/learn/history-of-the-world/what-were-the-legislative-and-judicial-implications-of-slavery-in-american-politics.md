@@ -24,29 +24,17 @@ file_name: what-were-the-legislative-and-judicial-implications-of-slavery-in-ame
 url: /learn/history-of-the-world/questions/what-were-the-legislative-and-judicial-implications-of-slavery-in-american-politics
 score: -1.0
 related_article1:
-    id: 6839
+    id: 6832
     title: >-
-        What was the Wilmot Proviso and what did it propose?
+        What was the impact of slavery on representation in Congress?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-wilmot-proviso-and-what-did-it-propose
+    url: /learn/history-of-the-world/questions/what-was-the-impact-of-slavery-on-representation-in-congress
 related_article2:
-    id: 6843
-    title: >-
-        What were the key provisions and debates of the Compromise of 1850?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-provisions-and-debates-of-the-compromise-of-1850
-related_article3:
     id: 6837
     title: >-
         What role did Henry Clay play in the Missouri Compromise?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-role-did-henry-clay-play-in-the-missouri-compromise
-related_article4:
-    id: 6848
-    title: >-
-        What internal divisions led to the decline of the Whig Party?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-internal-divisions-led-to-the-decline-of-the-whig-party
 ---
 
 &nbsp;

@@ -24,23 +24,17 @@ file_name: what-were-the-main-arguments-in-early-political-debates-on-slavery.md
 url: /learn/history-of-the-world/questions/what-were-the-main-arguments-in-early-political-debates-on-slavery
 score: -1.0
 related_article1:
-    id: 6848
+    id: 6832
     title: >-
-        What internal divisions led to the decline of the Whig Party?
+        What was the impact of slavery on representation in Congress?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-internal-divisions-led-to-the-decline-of-the-whig-party
+    url: /learn/history-of-the-world/questions/what-was-the-impact-of-slavery-on-representation-in-congress
 related_article2:
-    id: 6856
+    id: 6837
     title: >-
-        What key events led to increased sectional conflict in the United States?
+        What role did Henry Clay play in the Missouri Compromise?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-key-events-led-to-increased-sectional-conflict-in-the-united-states
-related_article3:
-    id: 6835
-    title: >-
-        What was the significance of the Kansas-Nebraska Act in the context of slavery?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-kansasnebraska-act-in-the-context-of-slavery
+    url: /learn/history-of-the-world/questions/what-role-did-henry-clay-play-in-the-missouri-compromise
 ---
 
 &nbsp;

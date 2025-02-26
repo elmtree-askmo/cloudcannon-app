@@ -24,29 +24,17 @@ file_name: what-internal-divisions-led-to-the-decline-of-the-whig-party.md
 url: /learn/history-of-the-world/questions/what-internal-divisions-led-to-the-decline-of-the-whig-party
 score: -1.0
 related_article1:
-    id: 6858
+    id: 6837
     title: >-
-        What were the legislative and judicial implications of slavery in American politics?
+        What role did Henry Clay play in the Missouri Compromise?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-legislative-and-judicial-implications-of-slavery-in-american-politics
+    url: /learn/history-of-the-world/questions/what-role-did-henry-clay-play-in-the-missouri-compromise
 related_article2:
-    id: 6856
+    id: 6832
     title: >-
-        What key events led to increased sectional conflict in the United States?
+        What was the impact of slavery on representation in Congress?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-key-events-led-to-increased-sectional-conflict-in-the-united-states
-related_article3:
-    id: 6830
-    title: >-
-        What were the main arguments in early political debates on slavery?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-main-arguments-in-early-political-debates-on-slavery
-related_article4:
-    id: 6851
-    title: >-
-        What new political parties emerged during the 19th century realignments?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-new-political-parties-emerged-during-the-19th-century-realignments
+    url: /learn/history-of-the-world/questions/what-was-the-impact-of-slavery-on-representation-in-congress
 ---
 
 &nbsp;

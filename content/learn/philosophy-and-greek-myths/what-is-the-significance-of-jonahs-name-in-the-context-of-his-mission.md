@@ -23,30 +23,7 @@ subject: Philosophy and Greek Myths
 file_name: what-is-the-significance-of-jonahs-name-in-the-context-of-his-mission.md
 url: /learn/philosophy-and-greek-myths/questions/what-is-the-significance-of-jonahs-name-in-the-context-of-his-mission
 score: -1.0
-related_article1:
-    id: 6873
-    title: >-
-        What was the purpose of the storm in Jonah's story?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-was-the-purpose-of-the-storm-in-jonahs-story
-related_article2:
-    id: 6888
-    title: >-
-        What literary devices are used in Jonah's narrative to convey its themes?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-literary-devices-are-used-in-jonahs-narrative-to-convey-its-themes
-related_article3:
-    id: 6876
-    title: >-
-        How does the symbolism of the great fish contribute to the story's message?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-does-the-symbolism-of-the-great-fish-contribute-to-the-storys-message
-related_article4:
-    id: 6882
-    title: >-
-        What lessons can contemporary believers learn from the story of Jonah?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-lessons-can-contemporary-believers-learn-from-the-story-of-jonah
+
 ---
 
 &nbsp;

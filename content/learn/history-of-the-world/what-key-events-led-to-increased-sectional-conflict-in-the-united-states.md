@@ -24,35 +24,17 @@ file_name: what-key-events-led-to-increased-sectional-conflict-in-the-united-sta
 url: /learn/history-of-the-world/questions/what-key-events-led-to-increased-sectional-conflict-in-the-united-states
 score: -1.0
 related_article1:
-    id: 6858
+    id: 6837
     title: >-
-        What were the legislative and judicial implications of slavery in American politics?
+        What role did Henry Clay play in the Missouri Compromise?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-legislative-and-judicial-implications-of-slavery-in-american-politics
+    url: /learn/history-of-the-world/questions/what-role-did-henry-clay-play-in-the-missouri-compromise
 related_article2:
-    id: 6830
-    title: >-
-        What were the main arguments in early political debates on slavery?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-main-arguments-in-early-political-debates-on-slavery
-related_article3:
     id: 6832
     title: >-
         What was the impact of slavery on representation in Congress?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-was-the-impact-of-slavery-on-representation-in-congress
-related_article4:
-    id: 6851
-    title: >-
-        What new political parties emerged during the 19th century realignments?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-new-political-parties-emerged-during-the-19th-century-realignments
-related_article5:
-    id: 6835
-    title: >-
-        What was the significance of the Kansas-Nebraska Act in the context of slavery?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-kansasnebraska-act-in-the-context-of-slavery
 ---
 
 &nbsp;
