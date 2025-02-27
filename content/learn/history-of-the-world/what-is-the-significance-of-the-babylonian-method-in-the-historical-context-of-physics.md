@@ -24,17 +24,23 @@ file_name: what-is-the-significance-of-the-babylonian-method-in-the-historical-c
 url: /learn/history-of-the-world/questions/what-is-the-significance-of-the-babylonian-method-in-the-historical-context-of-physics
 score: -1.0
 related_article1:
-    id: 39153
+    id: 39134
     title: >-
-        What are the key philosophical questions raised by the relationship between physics and mathematics?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-the-key-philosophical-questions-raised-by-the-relationship-between-physics-and-mathematics
-related_article2:
-    id: 39152
-    title: >-
-        How does the Euclidean method differ from other mathematical approaches in physics?
+        What are the key axioms and theorems that underpin mathematical reasoning in physics?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-euclidean-method-differ-from-other-mathematical-approaches-in-physics
+    url: /learn/mathematics/questions/what-are-the-key-axioms-and-theorems-that-underpin-mathematical-reasoning-in-physics
+related_article2:
+    id: 39136
+    title: >-
+        Can you explain the Euclidean method and its relevance to physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/can-you-explain-the-euclidean-method-and-its-relevance-to-physics
+related_article3:
+    id: 39141
+    title: >-
+        What is the local field method and how does it relate to the formulation of physical laws?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-local-field-method-and-how-does-it-relate-to-the-formulation-of-physical-laws
 ---
 
 &nbsp;
