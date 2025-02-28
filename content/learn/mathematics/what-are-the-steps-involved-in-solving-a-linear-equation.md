@@ -1,7 +1,7 @@
 ---
 _schema: default
-id: 157914
-date: 2025-01-22
+id: 178247
+date: 2025-02-18
 title: >-
     What are the steps involved in solving a linear equation?
 article_title: >-
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content provides systematic steps for solving linear equations, including isolating the variable, checking the solution, and methods for graphically and algebraically solving equations.
+    A detailed guide on the systematic steps to solve linear equations, including identifying the equation, isolating the variable, checking the solution, and methods like graphing, substitution, and cross multiplication.
   page_keywords: >-
-    linear equation, solving steps, isolate variable, inverse operations, check solution, graphical method, substitution method, cross multiplication, constants, coefficients
+    linear equation, solving linear equations, isolate variable, check solution, graphical method, substitution method, cross multiplication, inverse operations
 author: QuickTakes
 question: >-
     What are the steps involved in solving a linear equation?
@@ -24,17 +24,23 @@ file_name: what-are-the-steps-involved-in-solving-a-linear-equation.md
 url: /learn/mathematics/questions/what-are-the-steps-involved-in-solving-a-linear-equation
 score: -1.0
 related_article1:
-    id: 157911
+    id: 178241
     title: >-
-        What is the difference between an x-intercept and a y-intercept on a graph?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-an-xintercept-and-a-yintercept-on-a-graph
-related_article2:
-    id: 157924
-    title: >-
-        What are common mistakes to avoid when graphing linear functions?
+        How can you graphically represent a linear relationship?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-common-mistakes-to-avoid-when-graphing-linear-functions
+    url: /learn/mathematics/questions/how-can-you-graphically-represent-a-linear-relationship
+related_article2:
+    id: 178234
+    title: >-
+        What is the definition of slope in the context of a line on a graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-definition-of-slope-in-the-context-of-a-line-on-a-graph
+related_article3:
+    id: 178235
+    title: >-
+        How can you determine the rate of change from a given set of data points?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-determine-the-rate-of-change-from-a-given-set-of-data-points
 ---
 
 &nbsp;
