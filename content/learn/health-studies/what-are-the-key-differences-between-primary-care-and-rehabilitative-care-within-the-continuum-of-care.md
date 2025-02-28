@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Health Studies
   page_description: >-
-    This content discusses the key differences between primary care and rehabilitative care within the continuum of care, highlighting their definitions, services provided, patient interactions, and settings.
+    This article outlines the key differences between primary care and rehabilitative care, discussing their definitions, services provided, patient interactions, and settings within the continuum of care.
   page_keywords: >-
-    primary care, rehabilitative care, continuum of care, health management, preventive care, chronic disease management, outpatient settings, physical therapy, occupational therapy, speech therapy, recovery, healthcare services
+    primary care, rehabilitative care, continuum of care, health management, preventive care, treatment, chronic diseases, patient interaction, outpatient settings, health services, recovery, physical therapy, occupational therapy, quality of life, rehabilitation, healthcare system
 author: QuickTakes
 question: >-
     What are the key differences between primary care and rehabilitative care within the continuum of care?
