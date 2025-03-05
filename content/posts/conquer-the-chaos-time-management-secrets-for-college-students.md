@@ -31,7 +31,7 @@ College. It’s an amazing time – new friends, exciting classes, freedom! But 
 
 Here’s the truth: excelling in college isn't just about being smart; it's about being smart with your time. Think of time management not as another chore, but as your secret weapon to not just survive, but thrive in college.
 
-#### **Why Time Management is Your Ultimate College Hack**
+### **Why Time Management is Your Ultimate College Hack**
 
 Let’s break down why getting a handle on your schedule is a game-changer:
 
