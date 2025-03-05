@@ -43,34 +43,48 @@ Let’s break down why getting a handle on your schedule is a game-changer:
 
 **Future-Proof Your Skills:** The ability to manage your time effectively is a superpower that will benefit you way beyond college. Employers crave it, and your personal life will thank you for it.
 
-#### Level Up Your Time Management Game: Proven Strategies
+### Level Up Your Time Management Game: Proven Strategies
 
 Ready to take charge of your time and make college life work for you? Here are some powerful techniques:
 
-**Become a Prioritization Ninja:** Not every task deserves equal attention. Learn to spot the difference between what’s urgent and what’s important. Tools like the Eisenhower Matrix (categorizing tasks by urgency and importance) or a simple prioritized to-do list can be lifesavers. Focus your energy on high-impact tasks when your focus is sharpest.
+#### **Become a Prioritization Ninja:**
 
-**Goal Setting: Go SMART or Go Home:** "Study more" is a recipe for overwhelm. "Complete the first draft of my history paper by next Wednesday at 5 PM" is a SMART goal: Specific, Measurable, Achievable, Relevant, and Time-bound. Break down big assignments into smaller, actionable steps with deadlines. Suddenly, that mountain of work looks climbable.
+Not every task deserves equal attention. Learn to spot the difference between what’s urgent and what’s important. Tools like the Eisenhower Matrix (categorizing tasks by urgency and importance) or a simple prioritized to-do list can be lifesavers. Focus your energy on high-impact tasks when your focus is sharpest.
 
-**Time Blocking, Schedule Your Success:** Think of your week as a blank canvas. Start time blocking – allocate specific chunks of time for classes, study, extracurriculars, even downtime. Treat these blocks like unbreakable appointments. Use a planner (paper or digital) or calendar apps like Google Calendar to visualize and manage your week.
+#### **Goal Setting: Go SMART or Go Home:**
 
-**Harness the Power of Planners & Digital Tools:** Experiment to find your perfect organization partner. Love paper? Go for a physical planner. Tech-savvy? Explore digital calendars (Google Calendar, Outlook Calendar) or time management apps like Todoist, Trello, or Asana. These tools offer reminders, progress tracking, and a clear overview of your commitments.
+"Study more" is a recipe for overwhelm. "Complete the first draft of my history paper by next Wednesday at 5 PM" is a SMART goal: Specific, Measurable, Achievable, Relevant, and Time-bound. Break down big assignments into smaller, actionable steps with deadlines. Suddenly, that mountain of work looks climbable.
 
-**Procrastination? Not Today!:** Procrastination is the enemy of time management. Identify why you procrastinate. Is it fear of failure? Overwhelm? Then, fight back! Try the Pomodoro Technique (focused 25-minute work bursts with short breaks), break down daunting tasks into tiny steps, or find a study buddy to keep you accountable.
+#### **Time Blocking, Schedule Your Success:**
 
-**Master the Art of "No":** Your time is precious. It’s okay to say "no" to commitments that drain your time or don't align with your priorities. Saying "no" strategically frees you up to say "yes" to what truly matters – your well-being and your academic goals.
+Think of your week as a blank canvas. Start time blocking – allocate specific chunks of time for classes, study, extracurriculars, even downtime. Treat these blocks like unbreakable appointments. Use a planner (paper or digital) or calendar apps like Google Calendar to visualize and manage your week.
 
-**Recharge & Refuel, Breaks are Non-Negotiable:** Time management isn’t about becoming a workaholic. Schedule regular breaks to prevent burnout. Prioritize sleep, healthy meals, exercise, and activities you genuinely enjoy. Downtime isn't wasted time; it's essential for sustained focus and productivity.
+#### **Harness the Power of Planners & Digital Tools:**
 
-#### Your Time, Your Terms: Take Control
+Experiment to find your perfect organization partner. Love paper? Go for a physical planner. Tech-savvy? Explore digital calendars (Google Calendar, Outlook Calendar) or time management apps like Todoist, Trello, or Asana. These tools offer reminders, progress tracking, and a clear overview of your commitments.
+
+#### **Procrastination? Not Today!:**
+
+Procrastination is the enemy of time management. Identify why you procrastinate. Is it fear of failure? Overwhelm? Then, fight back! Try the Pomodoro Technique (focused 25-minute work bursts with short breaks), break down daunting tasks into tiny steps, or find a study buddy to keep you accountable.
+
+#### **Master the Art of "No":**
+
+Your time is precious. It’s okay to say "no" to commitments that drain your time or don't align with your priorities. Saying "no" strategically frees you up to say "yes" to what truly matters – your well-being and your academic goals.
+
+#### **Recharge & Refuel, Breaks are Non-Negotiable:**
+
+Time management isn’t about becoming a workaholic. Schedule regular breaks to prevent burnout. Prioritize sleep, healthy meals, exercise, and activities you genuinely enjoy. Downtime isn't wasted time; it's essential for sustained focus and productivity.
+
+### Your Time, Your Terms: Take Control
 
 Mastering time management is a skill that evolves. Don’t expect perfection overnight. Experiment with these strategies, discover what works best for you, and be kind to yourself along the way. Start small, track your progress, and celebrate every step forward. With consistent effort, you can transform your college experience from chaotic to completely in control. You've got this!
 
-#### Extra Resources for you
+### Extra Resources for you
 
-University of North Carolina at Chapel Hill - Time Management: Get a deep dive into various time management techniques and find what suits your style. https://learningcenter.unc.edu/tips-and-tools/time-management/
+**University of North Carolina at Chapel Hill** - Time Management: Get a deep dive into various time management techniques and find what suits your style. https://learningcenter.unc.edu/tips-and-tools/time-management/
 
-Khan Academy - Time management for school & life: Watch engaging videos and read articles offering practical, student-focused time management advice. https://www.khanacademy.org/college-careers-more/college-admissions/life-in-college/v/time-management-for-school-life
+**Khan Academy** - Time management for school & life: Watch engaging videos and read articles offering practical, student-focused time management advice. https://www.khanacademy.org/college-careers-more/college-admissions/life-in-college/v/time-management-for-school-life
 
-Indeed Career Guide - 10 Time Management Tips for Students: Explore a concise list of actionable time management tips specifically designed to help students succeed. https://www.indeed.com/career-advice/career-development/time-management-tips-for-students
+**Indeed Career Guide** - 10 Time Management Tips for Students: Explore a concise list of actionable time management tips specifically designed to help students succeed. https://www.indeed.com/career-advice/career-development/time-management-tips-for-students
 
 &nbsp;
