@@ -1,6 +1,6 @@
 ---
 _schema: default
-date:
+date: 2025-03-04T00:00:00Z
 title: 'Conquer the Chaos: Time Management Secrets for College Students'
 article_title: 'Conquer the Chaos: Time Management Secrets for College Students'
 description: >-
