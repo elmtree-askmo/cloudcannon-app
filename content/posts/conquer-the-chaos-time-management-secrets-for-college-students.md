@@ -8,8 +8,8 @@ description: >-
   college students! Learn to balance studies, social life, and personal time for
   better grades and less stress. Dominate your schedule and conquer college
   chaos!
-date_format: MAR 04, 2025
-post_on_text: MAR 04, 2025
+date_format:
+post_on_text:
 seo:
   title: 'Conquer the Chaos: Time Management Secrets for College Students'
   page_description: >
