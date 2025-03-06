@@ -9,7 +9,7 @@ description: >-
   better grades and less stress. Dominate your schedule and conquer college
   chaos!
 date_format:
-post_on_text: Posted on March 4, 2025
+post_on_text: Posted on
 seo:
   title: 'Conquer the Chaos: Time Management Secrets for College Students'
   page_description: >
