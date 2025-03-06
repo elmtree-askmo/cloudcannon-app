@@ -1,0 +1,25 @@
+---
+_schema: default
+id: 167351
+date: 2025-01-31
+title: What are the predicted changes in future pH levels based on different emission scenarios?
+article_title: What are the predicted changes in future pH levels based on different emission scenarios?
+date_format: MMM DD, YYYY
+post_on_text: Posted on
+seo:
+  title: QuickTakes | Marine studies
+  page_description: >-
+    This content discusses the predicted changes in future ocean pH levels based on various emission scenarios, highlighting the impacts of greenhouse gas emissions and the potential for mitigation efforts.
+  page_keywords: >-
+    ocean pH levels, emission scenarios, ocean acidification, greenhouse gas emissions, climate change, buffer capacity, regional variability, marine ecosystems, CO2 concentration, mitigation efforts
+author: QuickTakes
+question: >-
+    What are the predicted changes in future pH levels based on different emission scenarios?
+answer: >-
+    Based on the gathered information, the predicted changes in future ocean pH levels vary significantly depending on different emission scenarios. Here are the key points regarding these projections:\n\n1. **Current Trends**: Over the past century, ocean pH has already decreased by approximately 0.1 units. Projections indicate that by 2100, under medium emission scenarios, the pH is expected to decrease by an additional 0.3 units, resulting in a total decrease of about 0.4 units from pre-industrial levels (Williamson and Widdicombe 2017).\n\n2. **High Emission Scenarios**: Under the most aggressive emissions scenario, known as the IPCC RCP8.5, projections suggest that pH levels could drop by as much as 0.36 units by 2100. This scenario assumes continued high levels of greenhouse gas emissions without significant mitigation efforts, leading to atmospheric CO2 concentrations exceeding 800 ppmv (Penman et al. 2014).\n\n3. **Mitigation Scenarios**: In contrast, if aggressive global actions are taken to limit emissions—such as those proposed by the UK Committee on Climate Change (CCC)—the decrease in pH could be mitigated. For instance, a scenario where emissions peak by 2016 and decline by 4% annually could help limit the most severe risks of ocean acidification.\n\n4. **Buffer Capacity**: The ocean's ability to buffer changes in pH is also projected to decline. It is estimated that the buffering capacity could decrease by as much as 34% from 2000 to 2100 under high emission scenarios, which would further exacerbate the impacts of acidification on marine ecosystems.\n\n5. **Regional Variability**: The projections also indicate that there will be regional variations in pH changes, with some areas experiencing more significant declines than others. Improved regional models suggest that pH projections could vary by up to 0.06 units in certain locations, which is equivalent to a 15% difference in acidity.\n\nIn summary, the future pH levels of the ocean are highly dependent on the trajectory of greenhouse gas emissions. Without significant mitigation efforts, we can expect a substantial decline in ocean pH, which poses serious risks to marine life and ecosystems. Conversely, proactive measures to reduce emissions could help alleviate some of these impacts.
+subject: Marine studies
+file_name: what-are-the-predicted-changes-in-future-ph-levels-based-on-different-emission-scenarios.md
+url: /learn/marine-studies/questions/what-are-the-predicted-changes-in-future-ph-levels-based-on-different-emission-scenarios
+---
+
+&nbsp;
