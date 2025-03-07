@@ -1,6 +1,6 @@
 ---
 _schema: default
-date: 2025-03-06T00:00:00Z
+date: 2025-03-06T00:25:00Z
 title: 'Ace Your Exams: Study Hacks for College Students'
 article_title: 'Ace Your Exams: Study Hacks for College Students'
 description: >-
