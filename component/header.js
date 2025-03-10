@@ -242,7 +242,7 @@ export default function Header({ pathname, theme, language, setLanguage, utmPara
                 {item.label}
               </Link>
             ))}
-            {isLoggedIn ? (
+            {/* {isLoggedIn ? (
               <Link href="https://app.quicktakes.io">Go to QuickTakes App</Link>
             ) : (
               <>
@@ -253,7 +253,15 @@ export default function Header({ pathname, theme, language, setLanguage, utmPara
                   {data.signUp}
                 </Link>
               </>
-            )}
+            )} */}
+            <>
+              <Link href="" onClick={handleLogin}>
+                {data.login}
+              </Link>
+              <Link href="" onClick={handleSignUp}>
+                {data.signUp}
+              </Link>
+            </>
           </div>
         </Drawer>
 

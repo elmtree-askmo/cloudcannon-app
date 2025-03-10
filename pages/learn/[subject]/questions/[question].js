@@ -29,8 +29,8 @@ export default function TopQuestion({ page, subject, subjectTitle, question, lan
   const handleSignUp = (e) => {
     e.preventDefault();
     mixpanel.track("MarketingPage_SignUp", { placement: "Q&A", qa_question: pageData.data.title, qa_subject: subjectTitle }, { send_immediately: true }, () => {
-      // window.location.href = `https://${APP_URL}/signup`;
-      window.location.href = `https://app.staging.quicktakes.io/signup?subject=${subject}&question=${pageData.data.title}`;
+      window.location.href = `https://${APP_URL}/signup`;
+      // window.location.href = `https://app.staging.quicktakes.io/signup?subject=${subject}&question=${pageData.data.title}`;
     });
   };
 
