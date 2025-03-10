@@ -158,7 +158,7 @@ export default function Header({ pathname, theme, language, setLanguage, utmPara
             </Dropdown>
             {theme === "b2c" && (
               <div className={styles["signup-login-container"]}>
-                {isLoggedIn ? (
+                {/* {isLoggedIn ? (
                   <Link href="https://app.staging.quicktakes.io" className={styles["sign-up-button"]}>
                     Go to QuickTakes App
                   </Link>
@@ -171,7 +171,15 @@ export default function Header({ pathname, theme, language, setLanguage, utmPara
                       {data.signUp}
                     </Link>
                   </>
-                )}
+                )} */}
+                <>
+                  <Link href="" className={styles["login-button"]} onClick={handleLogin}>
+                    {data.login}
+                  </Link>
+                  <Link href="" className={styles["sign-up-button"]} onClick={handleSignUp}>
+                    {data.signUp}
+                  </Link>
+                </>
               </div>
             )}
             <Image
@@ -234,10 +242,8 @@ export default function Header({ pathname, theme, language, setLanguage, utmPara
                 {item.label}
               </Link>
             ))}
-            {isLoggedIn ? (
-              <Link href="https://app.quicktakes.io">
-                Go to QuickTakes App
-              </Link>
+            {/* {isLoggedIn ? (
+              <Link href="https://app.quicktakes.io">Go to QuickTakes App</Link>
             ) : (
               <>
                 <Link href="" onClick={handleLogin}>
@@ -247,7 +253,15 @@ export default function Header({ pathname, theme, language, setLanguage, utmPara
                   {data.signUp}
                 </Link>
               </>
-            )}
+            )} */}
+            <>
+              <Link href="" onClick={handleLogin}>
+                {data.login}
+              </Link>
+              <Link href="" onClick={handleSignUp}>
+                {data.signUp}
+              </Link>
+            </>
           </div>
         </Drawer>
 

@@ -29,8 +29,8 @@ export default function TopQuestion({ page, subject, subjectTitle, question, lan
   const handleSignUp = (e) => {
     e.preventDefault();
     mixpanel.track("MarketingPage_SignUp", { placement: "Q&A", qa_question: pageData.data.title, qa_subject: subjectTitle }, { send_immediately: true }, () => {
-      // window.location.href = `https://${APP_URL}/signup`;
-      window.location.href = `https://app.staging.quicktakes.io/signup?subject=${subject}&question=${pageData.data.title}`;
+      window.location.href = `https://${APP_URL}/signup`;
+      // window.location.href = `https://app.staging.quicktakes.io/signup?subject=${subject}&question=${pageData.data.title}`;
     });
   };
 
@@ -106,13 +106,18 @@ export default function TopQuestion({ page, subject, subjectTitle, question, lan
 
             <div className={styles["learn-question-title-container"]}>
               <h2 className={styles["learn-question-title"]}>{pageData.data.title}</h2>
-              {!isLoggedIn && (
+              {/* {!isLoggedIn && (
                 <div className={styles["banner-save-cta"]}>
                   <Link href="#" onClick={handleSignUp} className={styles["banner-save-btn"]}>
                     Sign up to save this answer
                   </Link>
                 </div>
-              )}
+              )} */}
+              <div className={styles["banner-save-cta"]}>
+                <Link href="#" onClick={handleSignUp} className={styles["banner-save-btn"]}>
+                  Sign up to save this answer
+                </Link>
+              </div>
             </div>
           </div>
         </div>
@@ -121,7 +126,7 @@ export default function TopQuestion({ page, subject, subjectTitle, question, lan
         <div className={styles["learn-subjects-center-container"]}>
           <h3 className={styles["learn-answer"]}>Answer</h3>
           <div className={styles["learn-answer-editor-container"]}>
-            {!isLoggedIn && (
+            {/* {!isLoggedIn && (
               <div className={styles["sign-up-modal"]}>
                 <div className={styles["sign-up-modal-left"]}>
                   <h3>
@@ -233,20 +238,22 @@ export default function TopQuestion({ page, subject, subjectTitle, question, lan
                   </div>
                 </div>
               </div>
-            )}
+            )} */}
             <div className={`${styles["answer-markdown"]}`}>
               <ReactMarkdown children={formattedAnswer} remarkPlugins={[remarkMath, remarkGfm]} rehypePlugins={[rehypeKatex]} />
-              <div className={styles["learn-answer-blur"]}></div>
+              {/* <div className={styles["learn-answer-blur"]}></div> */}
             </div>
           </div>
 
-          {/* <div className={styles["anwser-shadow-content"]}>
-            <div className={styles["anwser-shadow-title"]}>Create a free account to get more personalized answers!</div>
-            <Link className={styles['sign-up-today']} href="#" onClick={handleSignUp} >Sign up</Link>
-            <Link href={`/learn/${subject}`} className={styles['back-to-subjects']}>
+          <div className={styles["answer-shadow-content"]}>
+            <div className={styles["answer-shadow-title"]}>Create a free account to get more personalized answers!</div>
+            <Link className={styles["sign-up-today"]} href="#" onClick={handleSignUp}>
+              Sign up
+            </Link>
+            <Link href={`/learn/${subject}`} className={styles["back-to-subjects"]}>
               Explore more {subjectTitle} questions →
             </Link>
-          </div> */}
+          </div>
           {!!relatedArticles.length > 0 && (
             <>
               <h3 className={`${styles["learn-answer"]} ${styles["learn-answer-related"]}`}>Related Questions</h3>
