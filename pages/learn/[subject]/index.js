@@ -85,10 +85,11 @@ export async function getStaticProps({ params }) {
 
   const { subject } = params;
 
-  const currtentSubject = TOP_QUESTIONS_SUBJECTS.find(item => item.key === subject);
+  const currentSubject = TOP_QUESTIONS_SUBJECTS.find(item => item.key === subject);
 
-  const folderPath = `learn/${currtentSubject?.key}`;
+  const folderPath = `learn/${currentSubject?.key}`;
   const files = await filer.listItemSlugs(folderPath);
+  
   if (!files) {
     return {
       notFound: true,
@@ -115,8 +116,8 @@ export async function getStaticProps({ params }) {
 
   return {
     props: {
-      subject: currtentSubject?.key,
-      title: currtentSubject?.title,
+      subject: currentSubject?.key,
+      title: currentSubject?.title,
       pages: validPagesData,
     }
   };
