@@ -256,7 +256,7 @@
 .learn-answer-editor-container {
   margin-top: 16px;
   position: relative;
-  height: 1000px;
+  /* height: 1000px; */
 }
 
 .logged-in .learn-answer-editor-container {
@@ -266,8 +266,8 @@
 .answer-markdown {
   position: relative;
   z-index: 1;
-  max-height: 400px;
-  overflow: hidden;
+  /* max-height: 400px; */
+  /* overflow: hidden; */
   color: #fef7f1;
 }
 
