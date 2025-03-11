@@ -3,8 +3,8 @@ import Head from "next/head";
 import Link from "next/link";
 import mixpanel from "mixpanel-browser";
 import { useEffect, useRef, useState } from "react";
-// import { Carousel } from "antd";
-// import Image from "next/image";
+import { Carousel } from "antd";
+import Image from "next/image";
 import { Suspense } from "react";
 
 // markdown
@@ -20,7 +20,6 @@ import { APP_URL, SITEMAP_DOMAIN } from "../../../../constant/app.constant";
 import styles from "../../../../styles/learn.module.css";
 import "katex/dist/katex.min.css";
 
-
 const filer = new Filer({ path: "content" });
 export default function TopQuestion({ page, subject, subjectTitle, question, language = "en", student, howItWorksData }) {
   const pageData = page[language] ? page[language] : page["en"];
@@ -35,16 +34,16 @@ export default function TopQuestion({ page, subject, subjectTitle, question, lan
     e.preventDefault();
     mixpanel.track("MarketingPage_SignUp", { placement: "Q&A", qa_question: pageData.data.title, qa_subject: subjectTitle }, { send_immediately: true }, () => {
       window.location.href = `https://${APP_URL}/signup`;
-      // window.location.href = `https://app.staging.quicktakes.io/signup?subject=${subject}&question=${pageData.data.title}`;
+      // window.location.href = `https://${APP_URL}/signup?subject=${subject}&question=${pageData.data.title}`;
     });
   };
 
-  // const handleLogin = (e) => {
-  //   e.preventDefault();
-  //   mixpanel.track(`MarketingPage_Login`, {}, { send_immediately: true }, () => {
-  //     window.location.href = `https://app.staging.quicktakes.io/login?subject=${subject}&question=${pageData.data.title}`;
-  //   });
-  // };
+  const handleLogin = (e) => {
+    e.preventDefault();
+    mixpanel.track(`MarketingPage_Login`, {}, { send_immediately: true }, () => {
+      window.location.href = `https://${APP_URL}/login?subject=${subject}&question=${pageData.data.title}`;
+    });
+  };
 
   // const title = pageData.data.seo.title || pageData.data.title;
   // const seoTitle = `${pageData.data.seo.title} | ${pageData.data.title}`;
@@ -59,13 +58,13 @@ export default function TopQuestion({ page, subject, subjectTitle, question, lan
     }
   }
 
-  // const carouselRef = useRef();
-  // const onPrev = () => {
-  //   carouselRef.current.prev && carouselRef.current.prev();
-  // };
-  // const onNext = () => {
-  //   carouselRef.current.next && carouselRef.current.next();
-  // };
+  const carouselRef = useRef();
+  const onPrev = () => {
+    carouselRef.current.prev && carouselRef.current.prev();
+  };
+  const onNext = () => {
+    carouselRef.current.next && carouselRef.current.next();
+  };
 
   const [isLoggedIn, setIsLoggedIn] = useState(false);
 
@@ -191,7 +190,10 @@ export default function TopQuestion({ page, subject, subjectTitle, question, lan
                     Sign up
                   </button>
                   <p className={styles["login-text"]}>
-                    Already have an account? <Link href="#" onClick={handleLogin}>Log in</Link>
+                    Already have an account?{" "}
+                    <Link href="#" onClick={handleLogin}>
+                      Log in
+                    </Link>
                   </p>
                 </div>
                 <div className={styles["sign-up-modal-right"]}>
@@ -325,12 +327,9 @@ export async function getStaticProps({ params }) {
 
   const currentSubject = TOP_QUESTIONS_SUBJECTS.find((item) => item.key === subject);
   const filePath = `learn/${currentSubject?.key}/${question}.md`;
-  
+
   // 并行加载数据
-  const [pageData, studentMd] = await Promise.all([
-    filer.getItem(filePath),
-    filer.getItem("index.md")
-  ]);
+  const [pageData, studentMd] = await Promise.all([filer.getItem(filePath), filer.getItem("index.md")]);
 
   if (!pageData) {
     return {
