@@ -4,7 +4,7 @@ import { APP_URL } from '@/constant/app.constant';
 import mixpanel from 'mixpanel-browser';
 import Image from 'next/image';
 
-export default function HowItWorks({ content, block, language = "en", utmParams = null }) {
+export default function HowItWorks({ content, block, language = "en", utmParams = null, isLearnPage = false }) {
   const handleSignUp = (e) => {
     e.preventDefault();
     let deeplink = process.env.NEXT_PUBLIC_UTM_DEEPLINK;
@@ -17,10 +17,9 @@ export default function HowItWorks({ content, block, language = "en", utmParams 
     })
   }
 
-
   return (
-    <div className={styles['howItWorks-container']}>
-      <div className={styles['howItWorks-center-container']}>
+    <div className={`${styles['howItWorks-container']} ${isLearnPage ? styles['howItWorks-container-learn'] : ''}`}>
+      <div className={`${styles['howItWorks-center-container']} ${isLearnPage ? styles['howItWorks-center-container-learn'] : ''}`}>
         <h3>{block.contentTitle[language] || block.contentTitle['en']}</h3>
         <div className={styles['howItWorks-content-container']}>
           <div className={styles['howItWorks-content-box']}>

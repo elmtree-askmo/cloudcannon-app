@@ -66,7 +66,7 @@
   background-color: var(--student-bg);
   padding: 40px 80px 120px;
 }
-
+  
 .learn-subjects-center-container {
   max-width: 1200px;
   margin: 0 auto;
@@ -134,19 +134,24 @@
   flex-wrap: wrap;
   gap: 24px 2%;
   margin-top: 40px;
+  padding: 0;
 }
 
 .question-item {
   all: unset;
   width: 32%;
   box-sizing: border-box;
-  padding: 16px 16px 32px;
   border-radius: 16px;
-  cursor: pointer;
+  border: 1px solid #777777;
+}
+
+.question-item a {
+  display: block;
+  text-decoration: none;
+  padding: 16px 16px 32px;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  border: 1px solid #777777;
 }
 
 .question-item:hover {
@@ -319,13 +324,6 @@
 
 .learn-answer-related {
   margin-top: 56px;
-}
-
-.learn-answer-related-articles {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 24px 2%;
-  margin: 24px 0 0;
 }
 
 .load-more-btn {
@@ -620,6 +618,9 @@
 
   .question-item {
     width: 100%;
+  }
+
+  .question-item a {
     padding: 12px 16px;
   }
 
@@ -677,16 +678,8 @@
     font-size: 14px;
   }
 
-  .learn-answer-related-articles {
-    gap: 16px;
-  }
-
   .learn-answer-related {
     font-size: 18px;
-  }
-
-  .learn-answer-related-articles {
-    margin-top: 16px;
   }
 
   .answer-shadow-content {
@@ -740,5 +733,14 @@
 
   .testimonial-carousel {
     margin-top: 20px;
+  }
+
+  .learn-subjects-container :global(.howItWorks-center-container) {
+    margin-top: 40px;
+  }
+  
+  .learn-subjects-container :global(.howItWorks-center-container h3) {
+    font-size: 30px;
+    margin-bottom: 32px;
   }
 }

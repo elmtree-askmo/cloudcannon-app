@@ -1,10 +1,14 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output:'export',
+  output: 'export',
   reactStrictMode: true,
-  images:{
-    unoptimized:true
-  }
+  images: {
+    unoptimized: true
+  },
+  compiler: {
+    removeConsole: process.env.NODE_ENV === 'production',
+  },
+  swcMinify: true,
 }
 
 module.exports = nextConfig

@@ -70,12 +70,21 @@
   background: var(--student-bg);
 }
 
+.howItWorks-container-learn {
+  background: none;
+}
+
 .howItWorks-center-container {
   margin: 0 auto;
   box-sizing: border-box;
   padding: 80px var(--global-padding);
   color: #fff;
   max-width: var(--max-screen-width);
+}
+
+.howItWorks-center-container-learn {
+  padding: 0;
+  margin-top: 80px;
 }
 
 .howItWorks-center-container h3 {
@@ -616,6 +625,10 @@
   .arrowLeft {
     left: calc((100% - 32px * 2) / 2);
     transform: translateX(-50%);
+  }
+
+  .howItWorks-center-container-learn{
+    padding: 0;
   }
 }
 
