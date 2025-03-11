@@ -150,7 +150,7 @@ export default function Header({ pathname, theme, language, setLanguage, utmPara
         <div className={styles["main-container"]}>
           <div className={styles["logo-container"]} onClick={handleClickLogo}>
             <Image src={data.logo} alt="Logo" className="logo" width={168} height={40} unoptimized />
-            <span className={styles["tagline"]}>#1 AI Study Companion</span>
+            {/* <span className={styles["tagline"]}>#1 AI Study Companion</span> */}
           </div>
           <>
             <div className={styles["menu-container"]}>{renderNav()}</div>
@@ -159,7 +159,7 @@ export default function Header({ pathname, theme, language, setLanguage, utmPara
             </Dropdown>
             {theme === "b2c" && (
               <div className={styles["signup-login-container"]}>
-                {/* {isLoggedIn ? (
+                {isLoggedIn ? (
                   <Link href="https://app.staging.quicktakes.io" className={styles["sign-up-button"]}>
                     Go to QuickTakes App
                   </Link>
@@ -172,15 +172,7 @@ export default function Header({ pathname, theme, language, setLanguage, utmPara
                       {data.signUp}
                     </Link>
                   </>
-                )} */}
-                <>
-                  <Link href="" className={styles["login-button"]} onClick={handleLogin}>
-                    {data.login}
-                  </Link>
-                  <Link href="" className={styles["sign-up-button"]} onClick={handleSignUp}>
-                    {data.signUp}
-                  </Link>
-                </>
+                )}
               </div>
             )}
             <Image
@@ -243,7 +235,7 @@ export default function Header({ pathname, theme, language, setLanguage, utmPara
                 {item.label}
               </Link>
             ))}
-            {/* {isLoggedIn ? (
+            {isLoggedIn ? (
               <Link href="https://app.quicktakes.io">Go to QuickTakes App</Link>
             ) : (
               <>
@@ -254,15 +246,7 @@ export default function Header({ pathname, theme, language, setLanguage, utmPara
                   {data.signUp}
                 </Link>
               </>
-            )} */}
-            <>
-              <Link href="" onClick={handleLogin}>
-                {data.login}
-              </Link>
-              <Link href="" onClick={handleSignUp}>
-                {data.signUp}
-              </Link>
-            </>
+            )}
           </div>
         </Drawer>
 

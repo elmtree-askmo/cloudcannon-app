@@ -3,8 +3,8 @@ import Head from "next/head";
 import Link from "next/link";
 import mixpanel from "mixpanel-browser";
 import { useEffect, useRef, useState } from "react";
-// import { Carousel } from "antd";
-// import Image from "next/image";
+import { Carousel } from "antd";
+import Image from "next/image";
 import { Suspense } from "react";
 
 // markdown
@@ -34,17 +34,17 @@ export default function TopQuestion({ page, subject, subjectTitle, question, lan
   const handleSignUp = (e) => {
     e.preventDefault();
     mixpanel.track("MarketingPage_SignUp", { placement: "Q&A", qa_question: pageData.data.title, qa_subject: subjectTitle }, { send_immediately: true }, () => {
-      window.location.href = `https://${APP_URL}/signup`;
-      // window.location.href = `https://app.staging.quicktakes.io/signup?subject=${subject}&question=${pageData.data.title}`;
+      // window.location.href = `https://${APP_URL}/signup`;
+      window.location.href = `http://localhost:59737/?subject=${subject}&question=${pageData.data.title}`;
     });
   };
 
-  // const handleLogin = (e) => {
-  //   e.preventDefault();
-  //   mixpanel.track(`MarketingPage_Login`, {}, { send_immediately: true }, () => {
-  //     window.location.href = `https://app.staging.quicktakes.io/login?subject=${subject}&question=${pageData.data.title}`;
-  //   });
-  // };
+  const handleLogin = (e) => {
+    e.preventDefault();
+    mixpanel.track(`MarketingPage_Login`, {}, { send_immediately: true }, () => {
+      window.location.href = `https://${APP_URL}/login?subject=${subject}&question=${pageData.data.title}`;
+    });
+  };
 
   // const title = pageData.data.seo.title || pageData.data.title;
   // const seoTitle = `${pageData.data.seo.title} | ${pageData.data.title}`;
@@ -59,13 +59,13 @@ export default function TopQuestion({ page, subject, subjectTitle, question, lan
     }
   }
 
-  // const carouselRef = useRef();
-  // const onPrev = () => {
-  //   carouselRef.current.prev && carouselRef.current.prev();
-  // };
-  // const onNext = () => {
-  //   carouselRef.current.next && carouselRef.current.next();
-  // };
+  const carouselRef = useRef();
+  const onPrev = () => {
+    carouselRef.current.prev && carouselRef.current.prev();
+  };
+  const onNext = () => {
+    carouselRef.current.next && carouselRef.current.next();
+  };
 
   const [isLoggedIn, setIsLoggedIn] = useState(false);
 
@@ -113,18 +113,13 @@ export default function TopQuestion({ page, subject, subjectTitle, question, lan
 
             <div className={styles["learn-question-title-container"]}>
               <h2 className={styles["learn-question-title"]}>{pageData.data.title}</h2>
-              {/* {!isLoggedIn && (
+              {!isLoggedIn && (
                 <div className={styles["banner-save-cta"]}>
                   <Link href="#" onClick={handleSignUp} className={styles["banner-save-btn"]}>
                     Sign up to see the full answer
                   </Link>
                 </div>
-              )} */}
-              <div className={styles["banner-save-cta"]}>
-                <Link href="#" onClick={handleSignUp} className={styles["banner-save-btn"]}>
-                  Sign up to see the full answer
-                </Link>
-              </div>
+              )}
             </div>
           </div>
         </div>
@@ -133,7 +128,7 @@ export default function TopQuestion({ page, subject, subjectTitle, question, lan
         <div className={styles["learn-subjects-center-container"]}>
           <h3 className={styles["learn-answer"]}>Answer</h3>
           <div className={styles["learn-answer-editor-container"]}>
-            {/* {!isLoggedIn && (
+            {!isLoggedIn && (
               <div className={styles["sign-up-modal"]}>
                 <div className={styles["sign-up-modal-left"]}>
                   <h3>
@@ -245,16 +240,16 @@ export default function TopQuestion({ page, subject, subjectTitle, question, lan
                   </div>
                 </div>
               </div>
-            )} */}
+            )}
             <div className={`${styles["answer-markdown"]}`}>
               <Suspense fallback={<div>Loading...</div>}>
                 <ReactMarkdown children={formattedAnswer} remarkPlugins={[remarkMath, remarkGfm]} rehypePlugins={[rehypeKatex]} />
               </Suspense>
-              {/* <div className={styles["learn-answer-blur"]}></div> */}
+              <div className={styles["learn-answer-blur"]}></div>
             </div>
           </div>
 
-          <div className={styles["answer-shadow-content"]}>
+          {/* <div className={styles["answer-shadow-content"]}>
             <div className={styles["answer-shadow-title"]}>Get any question answered by the QuickTakes AI Assistant by creating a free account</div>
             <Link className={styles["sign-up-today"]} href="#" onClick={handleSignUp}>
               Sign up
@@ -262,7 +257,7 @@ export default function TopQuestion({ page, subject, subjectTitle, question, lan
             <Link href={`/learn/${subject}`} className={styles["back-to-subjects"]} prefetch>
               Explore more {subjectTitle} questions →
             </Link>
-          </div>
+          </div> */}
           {!!relatedArticles.length > 0 && (
             <>
               <h3 className={`${styles["learn-answer"]} ${styles["learn-answer-related"]}`}>Related Questions</h3>
