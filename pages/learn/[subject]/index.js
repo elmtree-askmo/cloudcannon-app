@@ -1,7 +1,7 @@
 import Filer from "@cloudcannon/filer";
 import Head from "next/head";
 import Link from "next/link";
-import moment from "moment";
+import Image from 'next/image';
 import mixpanel from "mixpanel-browser";
 import { useEffect, useState } from "react";
 
@@ -11,7 +11,7 @@ import styles from "../../../styles/learn.module.css";
 
 const filer = new Filer({ path: "content" });
 
-export default function LearnSubjest({ subject, title, pages, language = "en" }) {
+export default function LearnSubject({ subject, title, pages, language = "en" }) {
   const [displayedPages, setDisplayedPages] = useState([]);
   const [currentPage, setCurrentPage] = useState(1);
   const itemsPerPage = 30;
@@ -28,7 +28,7 @@ export default function LearnSubjest({ subject, title, pages, language = "en" })
     const nextPage = currentPage + 1;
     const start = (nextPage - 1) * itemsPerPage;
     const end = start + itemsPerPage;
-    setDisplayedPages([...displayedPages, ...pages.slice(start, end)]);
+    setDisplayedPages(prev => [...prev, ...pages.slice(start, end)]);
     setCurrentPage(nextPage);
   };
 
@@ -43,12 +43,19 @@ export default function LearnSubjest({ subject, title, pages, language = "en" })
         <meta name="description" content={seoDescription} />
         <meta property="og:description" content={seoDescription} />
         <meta name="keywords" content={`${title}, questions and answers, learning, education`} />
+        <link rel="preload" href="/backIcon.svg" as="image" />
       </Head>
       <header className={styles["learn-subjects-header-container"]} role="banner">
         <div className={styles["learn-subjects-center-container"]}>
           <h1 className={styles["learn-subject-title"]}>
             <Link href="/learn" className={styles["back-btn"]} aria-label="Back to subjects">
-              <img src="/backIcon.svg" alt="Back arrow" />
+              <Image 
+                src="/backIcon.svg" 
+                alt="Back arrow" 
+                width={24} 
+                height={24} 
+                priority
+              />
             </Link>
             {title}
           </h1>
@@ -60,14 +67,28 @@ export default function LearnSubjest({ subject, title, pages, language = "en" })
           <nav aria-label="Questions list">
             <ul className={styles["questions-list"]} role="list">
               {displayedPages.map((item, index) => (
-                <li key={index} className={styles["question-item"]}>
+                <li 
+                  key={item.en.data.file_name} 
+                  className={styles["question-item"]}
+                >
                   <article>
-                    <Link href={`/learn/${subject}/questions/${item.en.data.file_name.replace(".md", "")}`} aria-labelledby={`question-${index}`}>
-                      <span className={styles["question-item-tag"]}>Question</span>
-                      <h3 id={`question-${index}`} className={styles["question-item-name"]}>
+                    <Link 
+                      href={`/learn/${subject}/questions/${item.en.data.file_name.replace(".md", "")}`}
+                      aria-labelledby={`question-${index}`}
+                      prefetch={index < 5}
+                    >
+                      <span className={styles["question-item-tag"]}>
+                        Question
+                      </span>
+                      <h3 
+                        id={`question-${index}`} 
+                        className={styles["question-item-name"]}
+                      >
                         {item.en.data.question}
                       </h3>
-                      <span className={styles["question-item-btn"]}>View Answer</span>
+                      <span className={styles["question-item-btn"]}>
+                        View Answer
+                      </span>
                     </Link>
                   </article>
                 </li>
@@ -75,7 +96,11 @@ export default function LearnSubjest({ subject, title, pages, language = "en" })
             </ul>
           </nav>
           {displayedPages.length < pages.length && (
-            <button className={styles["load-more-btn"]} onClick={loadMore} aria-label="Load more questions">
+            <button 
+              className={styles["load-more-btn"]} 
+              onClick={loadMore} 
+              aria-label="Load more questions"
+            >
               Next
             </button>
           )}
@@ -85,28 +110,24 @@ export default function LearnSubjest({ subject, title, pages, language = "en" })
   );
 }
 
-export async function getStaticPaths() {
-  // const subjects = await filer.listItemSlugs('/learn');
+export async function getStaticPaths({ params }) {
   const paths = TOP_QUESTIONS_SUBJECTS.map((subject) => ({
     params: { subject: subject.key },
   }));
-
   return { paths, fallback: false };
 }
 
 export async function getStaticProps({ params }) {
   const { subject } = params;
-
   const currentSubject = TOP_QUESTIONS_SUBJECTS.find((item) => item.key === subject);
 
   const folderPath = `learn/${currentSubject?.key}`;
   const files = await filer.listItemSlugs(folderPath);
 
   if (!files) {
-    return {
-      notFound: true,
-    };
+    return { notFound: true };
   }
+
   const filteredFiles = files.filter((file) => !file.includes(".DS_Store"));
 
   const pagesData = await Promise.all(
@@ -114,23 +135,26 @@ export async function getStaticProps({ params }) {
       const filePath = `${folderPath}/${file}.md`;
       const pageData = await filer.getItem(filePath);
 
-      if (!pageData) {
-        return;
-      }
+      if (!pageData) return null;
 
       return {
-        en: JSON.parse(JSON.stringify(pageData)),
+        en: {
+          data: {
+            file_name: pageData.data.file_name,
+            question: pageData.data.question
+          }
+        }
       };
     })
   );
 
-  const validPagesData = pagesData.filter((item) => item !== undefined);
+  const validPagesData = pagesData.filter(Boolean);
 
   return {
     props: {
       subject: currentSubject?.key,
       title: currentSubject?.title,
       pages: validPagesData,
-    },
+    }
   };
 }

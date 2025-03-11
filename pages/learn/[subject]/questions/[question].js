@@ -259,7 +259,7 @@ export default function TopQuestion({ page, subject, subjectTitle, question, lan
             <Link className={styles["sign-up-today"]} href="#" onClick={handleSignUp}>
               Sign up
             </Link>
-            <Link href={`/learn/${subject}`} className={styles["back-to-subjects"]}>
+            <Link href={`/learn/${subject}`} className={styles["back-to-subjects"]} prefetch>
               Explore more {subjectTitle} questions →
             </Link>
           </div>
@@ -325,17 +325,21 @@ export async function getStaticProps({ params }) {
 
   const currentSubject = TOP_QUESTIONS_SUBJECTS.find((item) => item.key === subject);
   const filePath = `learn/${currentSubject?.key}/${question}.md`;
-  const pageData = await filer.getItem(filePath);
-
-  const studentMd = await filer.getItem("index.md");
-  const student = studentMd.data.content_blocks.find((block) => block._bookshop_name === "home/slideshow");
-  const howItWorksData = studentMd.data.content_blocks.find((block) => block._bookshop_name === "home/howItWorks");
+  
+  // 并行加载数据
+  const [pageData, studentMd] = await Promise.all([
+    filer.getItem(filePath),
+    filer.getItem("index.md")
+  ]);
 
   if (!pageData) {
     return {
       notFound: true,
     };
   }
+
+  const student = studentMd.data.content_blocks.find((block) => block._bookshop_name === "home/slideshow");
+  const howItWorksData = studentMd.data.content_blocks.find((block) => block._bookshop_name === "home/howItWorks");
 
   return {
     props: {
