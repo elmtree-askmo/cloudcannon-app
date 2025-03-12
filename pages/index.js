@@ -9,7 +9,7 @@ import renderComponentStatic from '@/util/componentsMapping';
 
 import styles from '../styles/Home.module.css';
 
-// 动态导入整个组件而不是函数
+// Dynamic import of the entire component instead of function
 const DynamicComponent = ({ name, index, props, language, utmParams }) => {
   const Component = renderComponentStatic(name, index, props, null, language, null, utmParams);
   return Component;

@@ -71,7 +71,7 @@ export default function App({ Component, pageProps }) {
   const AppComponent = CloudCannonConnect(Component);
   const HeaderComponent = CloudCannonConnect(Header);
 
-  // 处理语言设置
+  // Handle language settings
   useEffect(() => {
     const lang = localStorage.getItem("language");
     setState(prev => ({
@@ -80,7 +80,7 @@ export default function App({ Component, pageProps }) {
     }));
   }, []);
 
-  // 处理UTM参数
+  // Handle UTM parameters
   useEffect(() => {
     if (!router.isReady) return;
     const { query } = router;

@@ -26,7 +26,7 @@ export default function LearnSubject({ subject, title, pages, language = "en" })
   const [displayedPages, setDisplayedPages] = useState([]);
   const [currentPage, setCurrentPage] = useState(1);
   const [isLoading, setIsLoading] = useState(true);
-  const itemsPerPage = 10; // 减少初始加载数量
+  const itemsPerPage = 10; // Reduce initial loading amount
 
   const { ref, inView } = useInView({
     threshold: 0.5,

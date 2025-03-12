@@ -82,17 +82,17 @@ export default function TopQuestion({ page, subject, subjectTitle, question, lan
       <Head>
         <title>{seoTitle}</title>
 
-        {/* 基础 Meta 标签 */}
+        {/* Basic Meta Tags */}
         <meta name="description" content={seoDescription} />
         <meta name="keywords" content={pageData.data.seo.page_keywords} />
 
-        {/* Open Graph 标签 */}
+        {/* Open Graph Tags */}
         <meta property="og:title" content={seoTitle} />
         <meta property="og:description" content={seoDescription} />
         <meta property="og:type" content="article" />
         <meta property="og:url" content={`${SITEMAP_DOMAIN}/learn/${subject}/questions/${question}`} />
 
-        {/* 其他重要 Meta 标签 */}
+        {/* Other Important Meta Tags */}
         <meta name="robots" content="index, follow" />
         <link rel="canonical" href={`${SITEMAP_DOMAIN}/learn/${subject}/questions/${question}`} />
 
@@ -323,7 +323,7 @@ export async function getStaticProps({ params }) {
   const currentSubject = TOP_QUESTIONS_SUBJECTS.find((item) => item.key === subject);
   const filePath = `learn/${currentSubject?.key}/${question}.md`;
 
-  // 并行加载数据
+  // Parallel data loading
   const [pageData, studentMd] = await Promise.all([filer.getItem(filePath), filer.getItem("index.md")]);
 
   if (!pageData) {

@@ -5,13 +5,16 @@ import SlideArrowLeft from "@/public/slide-arrow-left";
 import SlideArrowRight from "@/public/slide-arrow-right";
 import Image from "next/image";
 
-// 预加载图片的工具函数
+// Image preloading utility function
 const preloadImage = (src) => {
   return new Promise((resolve, reject) => {
-    const img = new Image();
-    img.onload = resolve;
-    img.onerror = reject;
-    img.src = src;
+    const img = new HTMLImageElement();
+    img.onload = () => resolve(src);
+    img.onerror = () => {
+      resolve(src);
+    };
+    // Ensure path starts with /
+    img.src = src.startsWith('/') ? src : `/${src}`;
   });
 };
 
@@ -30,7 +33,7 @@ export default function Schools({ content, block, language = "en" }) {
     return () => window.removeEventListener("resize", checkMobile);
   }, []);
 
-  // 计算每个slide应显示的logo数量
+  // Calculate number of logos to show per slide
   const itemsPerSlide = isMobile ? 2 : 4;
   const slides = [];
   for (let i = 0; i < block.slides.length; i++) {
@@ -40,7 +43,7 @@ export default function Schools({ content, block, language = "en" }) {
     }
   }
 
-  // 预加载下一组图片
+  // Preload next set of images
   useEffect(() => {
     const preloadNextSlideImages = async () => {
       const nextSlideIndex = (currentSlideIndex + 1) % slides.length;
@@ -52,7 +55,7 @@ export default function Schools({ content, block, language = "en" }) {
             await preloadImage(logo.image);
             setPreloadedImages((prev) => new Set([...prev, logo.image]));
           } catch (error) {
-            console.warn("Failed to preload image:", logo.image);
+            // console.warn("Failed to preload image:", logo.image);
           }
         }
       }
@@ -96,7 +99,7 @@ export default function Schools({ content, block, language = "en" }) {
                       quality={75}
                       sizes="(max-width: 768px) 120px, 180px"
                       priority={index === 0}
-                      onLoadingComplete={() => {
+                      onLoad={() => {
                         if (!preloadedImages.has(logo.image)) {
                           setPreloadedImages((prev) => new Set([...prev, logo.image]));
                         }
