@@ -3,6 +3,7 @@ import dynamic from 'next/dynamic';
 import mixpanel from 'mixpanel-browser';
 import Head from 'next/head';
 import Filer from '@cloudcannon/filer';
+import Image from 'next/image';
 
 import renderComponentStatic from '@/util/componentsMapping';
 
@@ -31,7 +32,12 @@ export default function Home({ page, language, utmParams }) {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
-        <link rel="preload" as="image" href="/hero-image.jpg" />
+        <link rel="preload" as="image" href="/hero-image.jpg" fetchpriority="high" />
+        <link
+          rel="preload"
+          href="https://fonts.googleapis.com/css2?family=Your-Font-Family&display=swap"
+          as="style"
+        />
       </Head>
       <div className={styles['home']}>
         {blocks.map((item, index) => (

@@ -3,34 +3,65 @@ import Head from "next/head";
 import Link from "next/link";
 import Image from 'next/image';
 import mixpanel from "mixpanel-browser";
-import { useEffect, useState } from "react";
+import { useEffect, useState, useCallback, memo } from "react";
+import { useInView } from 'react-intersection-observer';
 
 import { TOP_QUESTIONS_SUBJECTS } from "../../../constant/topQuestions.contant";
+import QuestionItem from "@/components/learn/QuestionItem";
 
 import styles from "../../../styles/learn.module.css";
 
 const filer = new Filer({ path: "content" });
 
+// 骨架屏组件
+const QuestionSkeleton = memo(() => (
+  <li className={`${styles["question-item"]} ${styles["skeleton"]}`}>
+    <div className={styles["skeleton-tag"]} />
+    <div className={styles["skeleton-title"]} />
+    <div className={styles["skeleton-button"]} />
+  </li>
+));
+
 export default function LearnSubject({ subject, title, pages, language = "en" }) {
   const [displayedPages, setDisplayedPages] = useState([]);
   const [currentPage, setCurrentPage] = useState(1);
-  const itemsPerPage = 30;
+  const [isLoading, setIsLoading] = useState(true);
+  const itemsPerPage = 10; // 减少初始加载数量
+
+  const { ref, inView } = useInView({
+    threshold: 0.5,
+    triggerOnce: false
+  });
 
   useEffect(() => {
     mixpanel.track("MarketingPage_TopQuestions", { page_level: "subjectlist", qa_subject: title });
   }, []);
 
   useEffect(() => {
-    setDisplayedPages(pages.slice(0, itemsPerPage));
+    setIsLoading(true);
+    const timer = setTimeout(() => {
+      setDisplayedPages(pages.slice(0, itemsPerPage));
+      setIsLoading(false);
+    }, 100);
+    return () => clearTimeout(timer);
   }, [pages]);
 
-  const loadMore = () => {
+  useEffect(() => {
+    if (inView) {
+      loadMore();
+    }
+  }, [inView]);
+
+  const loadMore = useCallback(() => {
     const nextPage = currentPage + 1;
     const start = (nextPage - 1) * itemsPerPage;
     const end = start + itemsPerPage;
-    setDisplayedPages(prev => [...prev, ...pages.slice(start, end)]);
-    setCurrentPage(nextPage);
-  };
+    
+    if (start < pages.length) {
+      setDisplayedPages(prev => [...prev, ...pages.slice(start, end)]);
+      setCurrentPage(nextPage);
+    }
+  }, [currentPage, pages]);
 
   const seoTitle = `Discover top Q&As and quality content in ${title}.`;
   const seoDescription = `Learn faster with QuickTakes—your go-to study resource.`;
@@ -44,6 +75,8 @@ export default function LearnSubject({ subject, title, pages, language = "en" })
         <meta property="og:description" content={seoDescription} />
         <meta name="keywords" content={`${title}, questions and answers, learning, education`} />
         <link rel="preload" href="/backIcon.svg" as="image" />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
       </Head>
       <header className={styles["learn-subjects-header-container"]} role="banner">
         <div className={styles["learn-subjects-center-container"]}>
@@ -55,6 +88,7 @@ export default function LearnSubject({ subject, title, pages, language = "en" })
                 width={24} 
                 height={24} 
                 priority
+                loading="eager"
               />
             </Link>
             {title}
@@ -66,43 +100,27 @@ export default function LearnSubject({ subject, title, pages, language = "en" })
           <h2 className={styles["questions-quantity"]}>All Questions ({pages.length})</h2>
           <nav aria-label="Questions list">
             <ul className={styles["questions-list"]} role="list">
-              {displayedPages.map((item, index) => (
-                <li 
-                  key={item.en.data.file_name} 
-                  className={styles["question-item"]}
-                >
-                  <article>
-                    <Link 
-                      href={`/learn/${subject}/questions/${item.en.data.file_name.replace(".md", "")}`}
-                      aria-labelledby={`question-${index}`}
-                      prefetch={index < 5}
-                    >
-                      <span className={styles["question-item-tag"]}>
-                        Question
-                      </span>
-                      <h3 
-                        id={`question-${index}`} 
-                        className={styles["question-item-name"]}
-                      >
-                        {item.en.data.question}
-                      </h3>
-                      <span className={styles["question-item-btn"]}>
-                        View Answer
-                      </span>
-                    </Link>
-                  </article>
-                </li>
-              ))}
+              {isLoading ? (
+                Array(5).fill(0).map((_, index) => (
+                  <QuestionSkeleton key={index} />
+                ))
+              ) : (
+                displayedPages.map((item, index) => (
+                  <QuestionItem 
+                    key={item.en.data.file_name}
+                    title={item.en.data.question}
+                    url={`/learn/${subject}/questions/${item.en.data.file_name.replace(".md", "")}`}
+                  />
+                ))
+              )}
             </ul>
           </nav>
           {displayedPages.length < pages.length && (
-            <button 
-              className={styles["load-more-btn"]} 
-              onClick={loadMore} 
-              aria-label="Load more questions"
-            >
-              Next
-            </button>
+            <div ref={ref} className={styles["load-more-container"]}>
+              {isLoading ? (
+                <QuestionSkeleton />
+              ) : null}
+            </div>
           )}
         </div>
       </main>
