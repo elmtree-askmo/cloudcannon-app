@@ -3,11 +3,11 @@ _schema: default
 date: 2024-07-29T15:00:00Z
 title: 5 Tips for a 5-star QuickTakes Experience
 article_title: 5 Tips for a 5-star QuickTakes Experience
-date_format: MMM DD, YYYY
-post_on_text: Posted on
 description: >-
   Whether you are just getting started with QuickTakes or are a seasoned
   veteran, check out our tips on how to make the most of our service.
+date_format: MMM DD, YYYY
+post_on_text: Posted on
 seo:
   title: QuickTakes Feature How-To | Study Tool | College
   page_description: >-
@@ -46,6 +46,7 @@ Did you know that all of your QuickTakes can be edited by you? Highlight to your
 ### **Share with Your Classmates or Colleagues**
 
 By now, you’re loving QuickTakes. Glad we’re on the same page. So share us with your friends, classmates, and colleagues! Did you attend a lecture or meeting that someone else missed? Share the full transcript with them within the touch of a button. Want to export your study materials to your Google Drive? Done in the blink of an eye. Everyone should be able to study smarter, and learn better (with QuickTakes)!
+
 
 <br>
 
