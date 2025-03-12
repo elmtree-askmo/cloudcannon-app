@@ -3,8 +3,6 @@ import Head from "next/head";
 import Link from "next/link";
 import mixpanel from "mixpanel-browser";
 import { useEffect, useRef, useState } from "react";
-import { Carousel } from "antd";
-import Image from "next/image";
 import { Suspense } from "react";
 
 // markdown
@@ -14,6 +12,7 @@ import rehypeKatex from "rehype-katex";
 import remarkGfm from "remark-gfm";
 
 import HowItWorks from "@/components/home/howItWorks";
+import QuestionItem from "@/components/learn/QuestionItem";
 
 import { TOP_QUESTIONS_SUBJECTS } from "../../../../constant/topQuestions.contant";
 import { APP_URL, SITEMAP_DOMAIN } from "../../../../constant/app.constant";
@@ -83,17 +82,17 @@ export default function TopQuestion({ page, subject, subjectTitle, question, lan
       <Head>
         <title>{seoTitle}</title>
 
-        {/* 基础 Meta 标签 */}
+        {/* Basic Meta Tags */}
         <meta name="description" content={seoDescription} />
         <meta name="keywords" content={pageData.data.seo.page_keywords} />
 
-        {/* Open Graph 标签 */}
+        {/* Open Graph Tags */}
         <meta property="og:title" content={seoTitle} />
         <meta property="og:description" content={seoDescription} />
         <meta property="og:type" content="article" />
         <meta property="og:url" content={`${SITEMAP_DOMAIN}/learn/${subject}/questions/${question}`} />
 
-        {/* 其他重要 Meta 标签 */}
+        {/* Other Important Meta Tags */}
         <meta name="robots" content="index, follow" />
         <link rel="canonical" href={`${SITEMAP_DOMAIN}/learn/${subject}/questions/${question}`} />
 
@@ -270,15 +269,11 @@ export default function TopQuestion({ page, subject, subjectTitle, question, lan
               <h3 className={`${styles["learn-answer"]} ${styles["learn-answer-related"]}`}>Related Questions</h3>
               <ul className={styles["questions-list"]} role="list">
                 {relatedArticles.map((item, index) => (
-                  <li key={index} className={styles["question-item"]}>
-                    <article>
-                      <Link href={`${item.url}`} key={index}>
-                        <div className={styles["question-item-tag"]}>Question</div>
-                        <h3 className={styles["question-item-name"]}>{item.title}</h3>
-                        <div className={styles["question-item-btn"]}>View Answer</div>
-                      </Link>
-                    </article>
-                  </li>
+                  <QuestionItem 
+                    key={index}
+                    title={item.title}
+                    url={item.url}
+                  />
                 ))}
               </ul>
             </>
@@ -328,7 +323,7 @@ export async function getStaticProps({ params }) {
   const currentSubject = TOP_QUESTIONS_SUBJECTS.find((item) => item.key === subject);
   const filePath = `learn/${currentSubject?.key}/${question}.md`;
 
-  // 并行加载数据
+  // Parallel data loading
   const [pageData, studentMd] = await Promise.all([filer.getItem(filePath), filer.getItem("index.md")]);
 
   if (!pageData) {

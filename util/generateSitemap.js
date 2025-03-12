@@ -16,10 +16,10 @@ const sitemap = new SitemapStream({ hostname: SITEMAP_DOMAIN });
 
 const filer = new Filer({ path: 'content' });
 
-// 用于存储已处理的URL的文件
+// File to store processed URLs
 const PROCESSED_URLS_FILE = path.join(__dirname, '..', 'processed_urls.json');
 
-// 读取已处理的URL
+// Read processed URLs
 const getProcessedUrls = () => {
   try {
     if (fs.existsSync(PROCESSED_URLS_FILE)) {
@@ -31,21 +31,21 @@ const getProcessedUrls = () => {
   return new Set();
 };
 
-// 保存已处理的URL
+// Save processed URLs
 const saveProcessedUrls = (urls) => {
   fs.writeFileSync(PROCESSED_URLS_FILE, JSON.stringify([...urls]), 'utf-8');
 };
 
-// 获取所有当前的URL
+// Get all current URLs
 const getAllCurrentUrls = async () => {
   const urls = new Set();
   
-  // 添加subject URLs
+  // Add subject URLs
   TOP_QUESTIONS_SUBJECTS.forEach(subject => {
     urls.add(`/learn/${subject.key}`);
   });
   
-  // 添加question URLs
+  // Add question URLs
   for (const subject of TOP_QUESTIONS_SUBJECTS) {
     const { key } = subject;
     const folderPath = `learn/${key}`;
@@ -65,14 +65,14 @@ const generateSitemap = async () => {
   const sitemapFileName = `sitemap_${currentDate}.xml`;
   const sitemap = new SitemapStream({ hostname: SITEMAP_DOMAIN });
   
-  // 获取已处理的URL和当前所有URL
+  // Get processed URLs and all current URLs
   const processedUrls = getProcessedUrls();
   const currentUrls = await getAllCurrentUrls();
   
-  // 找出新的URL
+  // Find new URLs
   const newUrls = [...currentUrls].filter(url => !processedUrls.has(url));
   
-  // 如果有新的URL，则生成新的sitemap
+  // If there are new URLs, generate new sitemap
   if (newUrls.length > 0) {
     newUrls.forEach(url => {
       sitemap.write({ url, changefreq: 'daily', priority: 0.7 });
@@ -84,10 +84,10 @@ const generateSitemap = async () => {
     const sitemapData = await streamToPromise(sitemap);
     fs.writeFileSync(path.join(__dirname, '..', sitemapFileName), sitemapData);
     
-    // 保存更新后的已处理URL列表
+    // Save updated processed URLs list
     saveProcessedUrls(processedUrls);
     
-    // 更新sitemap index
+    // Update sitemap index
     const sitemapIndex = new SitemapIndexStream();
     const files = fs.readdirSync(path.join(__dirname, '..'));
     const sitemapFiles = files.filter(file => file.startsWith('sitemap_') && file.endsWith('.xml'));
@@ -107,7 +107,7 @@ const generateSitemap = async () => {
   }
 };
 
-// 执行生成过程
+// Execute generation process
 generateSitemap().catch(err => {
   console.error('Error generating sitemap:', err);
 });

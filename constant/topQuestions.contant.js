@@ -12,6 +12,10 @@ export const TOP_QUESTIONS_SUBJECTS = [
     key: "art-history-and-literature",
   },
   {
+    title: "Biology",
+    key: "biology",
+  },
+  {
     title: "Biotechnology",
     key: "biotechnology",
   },

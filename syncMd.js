@@ -5,7 +5,7 @@ const fs = require('fs').promises;
 const directoryPath = './content/posts';
 const apiEndpoint = 'https://api.dev.quicktakes.io/api-node/quicktake/api/webhook/iap-ios';
 
-// 获取目录中的所有文件
+// Get all files in the directory
 async function getFilesInDirectory(directoryPath) {
   const files = await fs.readdir(directoryPath);
   const filePaths = [];
@@ -79,7 +79,7 @@ function parseYaml(yamlContent) {
 
   return result;
 }
-// 主函数
+// Main function
 async function main() {
 //   try {
 //     const files = await getFilesInDirectory(directoryPath);

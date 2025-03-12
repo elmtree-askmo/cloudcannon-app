@@ -645,5 +645,7 @@
 
 /* landscape */
 @media (min-width: 481px) and (max-width: 767px) {
-  /* 在此处添加适用于大屏幕手机的样式 */
+  /* Add styles for large screen phones here */
 }
+
+
