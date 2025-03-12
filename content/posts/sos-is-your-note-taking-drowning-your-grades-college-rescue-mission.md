@@ -1,6 +1,6 @@
 ---
 _schema: default
-date:
+date: 2025-03-12T17:00:00Z
 title: 'SOS: Is Your Note-Taking Drowning Your Grades? College Rescue Mission!'
 article_title: 'SOS: Is Your Note-Taking Drowning Your Grades? College Rescue Mission!'
 description: >-
