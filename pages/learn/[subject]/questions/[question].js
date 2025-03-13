@@ -14,7 +14,7 @@ import remarkGfm from "remark-gfm";
 import HowItWorks from "@/components/home/howItWorks";
 import QuestionItem from "@/components/learn/QuestionItem";
 
-import { TOP_QUESTIONS_SUBJECTS } from "../../../../constant/topQuestions.contant";
+import { TOP_QUESTIONS_SUBJECTS, TOP_QUESTIONS_SUBJECTS_HIDDEN_FUNC } from "../../../../constant/topQuestions.contant";
 import { APP_URL, SITEMAP_DOMAIN } from "../../../../constant/app.constant";
 import styles from "../../../../styles/learn.module.css";
 import "katex/dist/katex.min.css";
@@ -291,8 +291,11 @@ export async function getStaticPaths() {
   // let subjects = await filer.listItemSlugs('/learn');
   // subjects = subjects.filter(file => !file.includes('.DS_Store'));
 
+  // get all subjects with hidden
+  const subjects = await TOP_QUESTIONS_SUBJECTS_HIDDEN_FUNC(filer);
+
   const paths = [];
-  for (let subject of TOP_QUESTIONS_SUBJECTS) {
+  for (let subject of subjects) {
     const folderPath = `learn/${subject.key}`;
     const files = await filer.listItemSlugs(folderPath);
     if (!files) {
@@ -319,12 +322,24 @@ export async function getStaticPaths() {
 
 export async function getStaticProps({ params }) {
   const { subject, question } = params;
-
-  const currentSubject = TOP_QUESTIONS_SUBJECTS.find((item) => item.key === subject);
+  const subjects = await TOP_QUESTIONS_SUBJECTS_HIDDEN_FUNC(filer);
+  const currentSubject = subjects.find((item) => item.key === subject);
   const filePath = `learn/${currentSubject?.key}/${question}.md`;
 
   // Parallel data loading
-  const [pageData, studentMd] = await Promise.all([filer.getItem(filePath), filer.getItem("index.md")]);
+  const [pageData, studentMd] = await Promise.all([
+    (async function (filePath){
+      return new Promise((resolve, reject) => {
+        filer.getItem(filePath).then(file => {
+            resolve(file);
+          })
+          .catch(error => {
+            resolve(null);
+          });
+      })
+    })(filePath),
+    filer.getItem("index.md")
+  ]);
 
   if (!pageData) {
     return {
