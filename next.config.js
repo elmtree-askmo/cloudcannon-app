@@ -9,6 +9,15 @@ const nextConfig = {
     removeConsole: process.env.NODE_ENV === 'production',
   },
   swcMinify: true,
+  async redirects() {
+    return [
+      {
+        source: "/:any*/questions/undefined/learn/:path*",
+        destination: "/learn/:path*",
+        permanent: true,
+      },
+    ];
+  },
 }
 
 module.exports = nextConfig

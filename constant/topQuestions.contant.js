@@ -92,3 +92,18 @@ export const TOP_QUESTIONS_SUBJECTS = [
     key: "sociology",
   },
 ];
+
+export const TOP_QUESTIONS_SUBJECTS_HIDDEN_FUNC = async (filer) => {
+  const subjectFolders = await filer.listItemSlugs(`learn/`);
+  const subjectKeys = TOP_QUESTIONS_SUBJECTS.map(item => item.key);
+  const diffSubjectKeys = subjectFolders.filter(item => !subjectKeys.includes(item));
+  const titleCaseExclude = (sentence, exceptions = new Set(["and", "or", "of", "the"])) => {
+    return sentence
+      .replaceAll("-", " ")
+      .split(" ")
+      .map(word => exceptions.has(word.toLowerCase()) ? word.toLowerCase() : word.charAt(0).toUpperCase() + word.slice(1))
+      .join(" ");
+  };
+  const hiddenSubjects = diffSubjectKeys.map(item => { return {title: titleCaseExclude(item), key: item}});
+  return TOP_QUESTIONS_SUBJECTS.concat(hiddenSubjects).sort((a, b) => a.title.localeCompare(b.title));
+}

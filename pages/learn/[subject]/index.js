@@ -6,7 +6,7 @@ import mixpanel from "mixpanel-browser";
 import { useEffect, useState, useCallback, memo } from "react";
 import { useInView } from 'react-intersection-observer';
 
-import { TOP_QUESTIONS_SUBJECTS } from "../../../constant/topQuestions.contant";
+import { TOP_QUESTIONS_SUBJECTS, TOP_QUESTIONS_SUBJECTS_HIDDEN_FUNC } from "../../../constant/topQuestions.contant";
 import QuestionItem from "@/components/learn/QuestionItem";
 
 import styles from "../../../styles/learn.module.css";
@@ -129,7 +129,8 @@ export default function LearnSubject({ subject, title, pages, language = "en" })
 }
 
 export async function getStaticPaths({ params }) {
-  const paths = TOP_QUESTIONS_SUBJECTS.map((subject) => ({
+  const subjects = await TOP_QUESTIONS_SUBJECTS_HIDDEN_FUNC(filer);
+  const paths = subjects.map((subject) => ({
     params: { subject: subject.key },
   }));
   return { paths, fallback: false };
@@ -137,7 +138,8 @@ export async function getStaticPaths({ params }) {
 
 export async function getStaticProps({ params }) {
   const { subject } = params;
-  const currentSubject = TOP_QUESTIONS_SUBJECTS.find((item) => item.key === subject);
+  const subjects = await TOP_QUESTIONS_SUBJECTS_HIDDEN_FUNC(filer);
+  const currentSubject = subjects.find((item) => item.key === subject);
 
   const folderPath = `learn/${currentSubject?.key}`;
   const files = await filer.listItemSlugs(folderPath);
