@@ -61,8 +61,6 @@ Imagine having an AI assistant dedicated solely to your course. That’s what th
 
 ### **Pro Tip: Instant Insights with Image Uploads**
 
-![Upload Images and get back AI generated learning materials](/uploads/uploadingimagesquicktakes.png "Upload images and get AI generated learning docs")
-
 Have handwritten notes, complex diagrams, or other study materials? Simply upload these images into the chat for instant analysis and insights. The Class Assistant is equipped to help you decipher and understand even the most complicated materials.
 
 ## **Streamline Your Learning and Achieve Your Goals**
