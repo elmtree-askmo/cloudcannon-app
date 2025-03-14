@@ -9,7 +9,7 @@ const nextConfig = {
     removeConsole: process.env.NODE_ENV === 'production',
   },
   swcMinify: true,
-  async redirects() {
+  async redirects() { // redirect doesn't work on CloudCannon, it will rely on page/404.js
     return [
       {
         source: "/:any*/questions/undefined/learn/:path*",
