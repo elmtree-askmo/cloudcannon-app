@@ -7,7 +7,7 @@ export default function Custom404({statusCode, originalUrl}) {
 
   return <>
     <Head>
-      <script dangerouslySetInnerHTML={{__html: "if(window && window.location && window.location.href.indexOf(`/questions/undefined/learn/`)!==-1) window.onload = function(){ window.location.replace(`${window.location.href.split(`/learn/`)[0]}/learn/${window.location.href.split(`/questions/undefined/learn/`)[1]}`) }"}}/>
+      <script dangerouslySetInnerHTML={{__html: "if(window && window.location && window.location.href.indexOf(`/questions/undefined/learn/`)!==-1) window.onload = function(){ window.location.replace(`${window.location.href.split(`/learn/`)[0]}/learn/${window.location.href.split(`/questions/undefined/learn/`)[1].replace(/\\/$/, ``)}`) }"}}/>
       <title>QuickTakes | AI Study Sidekick | College Learning Tools</title>
     </Head>
     <div style={{"background": "#000", "color": "#fff"}}>
