@@ -107,3 +107,16 @@ export const TOP_QUESTIONS_SUBJECTS_HIDDEN_FUNC = async (filer) => {
   const hiddenSubjects = diffSubjectKeys.map(item => { return {title: titleCaseExclude(item), key: item}});
   return TOP_QUESTIONS_SUBJECTS.concat(hiddenSubjects).sort((a, b) => a.title.localeCompare(b.title));
 }
+
+let cachedQuestions = [];
+export const ALL_TOP_QUESTIONS_FUNC = async (filer) => {
+  if(cachedQuestions.length>0) return cachedQuestions;
+  const subjects = await TOP_QUESTIONS_SUBJECTS_HIDDEN_FUNC(filer);
+  for(const subject of subjects){
+    const questions = await filer.listItemSlugs(`learn/${subject.key}`);
+    for(const question of questions){
+      cachedQuestions[question] = subject.key;
+    }
+  }
+  return cachedQuestions;
+}
