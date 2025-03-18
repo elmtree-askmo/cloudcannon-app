@@ -14,7 +14,8 @@ import remarkGfm from "remark-gfm";
 import HowItWorks from "@/components/home/howItWorks";
 import QuestionItem from "@/components/learn/QuestionItem";
 
-import { TOP_QUESTIONS_SUBJECTS, TOP_QUESTIONS_SUBJECTS_HIDDEN_FUNC } from "../../../../constant/topQuestions.contant";
+import { TOP_QUESTIONS_SUBJECTS, TOP_QUESTIONS_SUBJECTS_HIDDEN_FUNC, ALL_TOP_QUESTIONS_FUNC } from "../../../../constant/topQuestions.contant";
+import { MAPPING_PREVIOUS_QUESTIONS } from "../../../../constant/mappingQuestions.contant";
 import { APP_URL, SITEMAP_DOMAIN } from "../../../../constant/app.constant";
 import styles from "../../../../styles/learn.module.css";
 import "katex/dist/katex.min.css";
@@ -314,6 +315,14 @@ export async function getStaticPaths() {
     });
   }
 
+  // patch the previous questions
+  for(let obj of MAPPING_PREVIOUS_QUESTIONS) {
+    const { previous, question } = obj;
+    paths.push({
+      params: { subject: previous, question },
+    });
+  }
+
   return {
     paths,
     fallback: false,
@@ -333,8 +342,13 @@ export async function getStaticProps({ params }) {
         filer.getItem(filePath).then(file => {
             resolve(file);
           })
-          .catch(error => {
-            resolve(null);
+          .catch(async error => {
+            // read all questions from file system
+            const questions = await ALL_TOP_QUESTIONS_FUNC(filer);
+            const newSubject = questions ? questions[question] : null;
+            const newFilePath = newSubject ? `learn/${newSubject}/${question}.md` : null;
+            const md = newFilePath ? await filer.getItem(newFilePath) : null;
+            resolve(md);
           });
       })
     })(filePath),
