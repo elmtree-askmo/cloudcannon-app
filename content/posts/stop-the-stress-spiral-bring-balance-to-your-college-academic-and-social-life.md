@@ -33,7 +33,7 @@ Heyooo College Squad! 👋 Feeling the pressure cooker vibes? Classes, clubs, so
 
 College isn't just about acing exams (even though, duh, grades matter). Your extracurriculars? They're your secret weapon. They're where you find your crew, unlock hidden talents, and build the skills that'll make you a legend. But here's the kicker: you gotta balance that hustle with the books. No sweat, we've got the “cheat codes.” 😉
 
-### **Why Bother with Extracurriculars? Real Talk.**
+## **Why Bother with Extracurriculars? Real Talk.**
 
 Okay, so why even stress about clubs and activities when you're already drowning in readings?
 
@@ -53,7 +53,7 @@ Alright, enough pep talk. Let's get down to the nitty-gritty. How do you actuall
 * **\#5: Self-Care = Non-Negotiable 💖:** Sleep. Real food 🍎. Moving your body 💃. Breaks 🧘. These aren't "extras." They're FUEL. Schedule self-care like it's a class you CAN'T skip. Even 15-minute breaks = major brain refresh.
 * **\#6: Need Backup? ASK for Help! 🫂:** Overwhelmed? Stuck? Talk to someone! Advisors, mentors, friends, fam – your support squad is READY. Campus resources? AI Assistant? Use them! Seriously, they exist for YOU.
 
-### **Balance is Your Superpower. Unlock It!**
+## **Balance is Your Superpower. Unlock It!**
 
 College balance isn't some mythical unicorn. It's a skill you build, day by day. Use these tips, be patient with yourself, and remember: you're not alone in this. Crush those classes, rock those extracurriculars, and own your college experience. You got this! 🔥 Go get 'em, future legends! 🌟
 
