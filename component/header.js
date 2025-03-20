@@ -83,10 +83,9 @@ export default function Header({ pathname, theme, language, setLanguage, utmPara
   }, []);
 
   useEffect(() => {
-    const userId = document.cookie
-      .split("; ")
-      .find((row) => row.startsWith("userId="))
-      ?.split("=")[1];
+    const appData = localStorage.getItem("appData");
+    const obj = appData ? JSON.parse(appData) : {};
+    const userId = obj.userId;
     if (userId) {
       setIsLoggedIn(true);
     }
@@ -159,7 +158,7 @@ export default function Header({ pathname, theme, language, setLanguage, utmPara
             </Dropdown>
             {theme === "b2c" && (
               <div className={styles["signup-login-container"]}>
-                {/* {isLoggedIn ? (
+                {isLoggedIn ? (
                   <Link href="https://app.staging.quicktakes.io" className={styles["sign-up-button"]}>
                     Go to QuickTakes App
                   </Link>
@@ -172,13 +171,7 @@ export default function Header({ pathname, theme, language, setLanguage, utmPara
                       {data.signUp}
                     </Link>
                   </>
-                )} */}
-                <Link href="" className={styles["login-button"]} onClick={handleLogin}>
-                  {data.login}
-                </Link>
-                <Link href="" className={styles["sign-up-button"]} onClick={handleSignUp}>
-                  {data.signUp}
-                </Link>
+                )}
               </div>
             )}
             <Image
