@@ -4,8 +4,8 @@ export const TOP_QUESTIONS_SUBJECTS = [
     key: "accounting-and-finance",
   },
   {
-    title: "American Culture",
-    key: "american-culture",
+    title: "Architecture",
+    key: "architecture",
   },
   {
     title: "Art History and Literature",
@@ -26,6 +26,10 @@ export const TOP_QUESTIONS_SUBJECTS = [
   {
     title: "Chemistry",
     key: "chemistry",
+  },
+  {
+    title: "College Basketball",
+    key: "college-basketball",
   },
   {
     title: "Computer Science",
@@ -50,6 +54,10 @@ export const TOP_QUESTIONS_SUBJECTS = [
   {
     title: "Engineering",
     key: "engineering",
+  },
+  {
+    title: "Environmental Science",
+    key: "environmental-science",
   },
   {
     title: "Health Studies",
@@ -84,6 +92,10 @@ export const TOP_QUESTIONS_SUBJECTS = [
     key: "physics",
   },
   {
+    title: "Politics",
+    key: "politics",
+  },
+  {
     title: "Psychology",
     key: "psychology",
   },
@@ -95,28 +107,30 @@ export const TOP_QUESTIONS_SUBJECTS = [
 
 export const TOP_QUESTIONS_SUBJECTS_HIDDEN_FUNC = async (filer) => {
   const subjectFolders = await filer.listItemSlugs(`learn/`);
-  const subjectKeys = TOP_QUESTIONS_SUBJECTS.map(item => item.key);
-  const diffSubjectKeys = subjectFolders.filter(item => !subjectKeys.includes(item));
+  const subjectKeys = TOP_QUESTIONS_SUBJECTS.map((item) => item.key);
+  const diffSubjectKeys = subjectFolders.filter((item) => !subjectKeys.includes(item));
   const titleCaseExclude = (sentence, exceptions = new Set(["and", "or", "of", "the"])) => {
     return sentence
       .replaceAll("-", " ")
       .split(" ")
-      .map(word => exceptions.has(word.toLowerCase()) ? word.toLowerCase() : word.charAt(0).toUpperCase() + word.slice(1))
+      .map((word) => (exceptions.has(word.toLowerCase()) ? word.toLowerCase() : word.charAt(0).toUpperCase() + word.slice(1)))
       .join(" ");
   };
-  const hiddenSubjects = diffSubjectKeys.map(item => { return {title: titleCaseExclude(item), key: item}});
+  const hiddenSubjects = diffSubjectKeys.map((item) => {
+    return { title: titleCaseExclude(item), key: item };
+  });
   return TOP_QUESTIONS_SUBJECTS.concat(hiddenSubjects).sort((a, b) => a.title.localeCompare(b.title));
-}
+};
 
 let cachedQuestions = [];
 export const ALL_TOP_QUESTIONS_FUNC = async (filer) => {
-  if(cachedQuestions.length>0) return cachedQuestions;
+  if (cachedQuestions.length > 0) return cachedQuestions;
   const subjects = await TOP_QUESTIONS_SUBJECTS_HIDDEN_FUNC(filer);
-  for(const subject of subjects){
+  for (const subject of subjects) {
     const questions = await filer.listItemSlugs(`learn/${subject.key}`);
-    for(const question of questions){
+    for (const question of questions) {
       cachedQuestions[question] = subject.key;
     }
   }
   return cachedQuestions;
-}
+};
