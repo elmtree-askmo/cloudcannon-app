@@ -156,7 +156,7 @@ export default function Header({ pathname, theme, language, setLanguage, utmPara
             {theme === "b2c" && (
               <div className={styles["signup-login-container"]}>
                 {isLoggedIn ? (
-                  <Link href="https://app.staging.quicktakes.io" className={styles["sign-up-button"]}>
+                  <Link href={APP_URL} className={styles["sign-up-button"]}>
                     Go to QuickTakes App
                   </Link>
                 ) : (
