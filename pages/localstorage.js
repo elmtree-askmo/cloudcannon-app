@@ -5,6 +5,7 @@ export default function LocalStorage({}) {
   useEffect(() => {
     const handleMessage = (event) => {
       const data = typeof event.data === "string" ? JSON.parse(event.data) : event.data;
+      console.log("localstorage handleMessage", data);
       const { action, payload } = data;
       switch (action) {
         case "setMarketingSiteLocalStorage":

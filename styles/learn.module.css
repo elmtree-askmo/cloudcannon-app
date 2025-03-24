@@ -261,7 +261,7 @@
 .learn-answer-editor-container {
   margin-top: 16px;
   position: relative;
-  /* height: 1000px; */
+  height: 1000px;
 }
 
 .logged-in .learn-answer-editor-container {
@@ -271,8 +271,8 @@
 .answer-markdown {
   position: relative;
   z-index: 1;
-  /* max-height: 400px; */
-  /* overflow: hidden; */
+  height: 400px;
+  overflow: hidden;
   color: #fef7f1;
 }
 
@@ -679,6 +679,7 @@
 
   .learn-answer-editor-container {
     font-size: 14px;
+    height: unset;
   }
 
   .learn-answer-related {
@@ -714,12 +715,14 @@
     top: 0;
     box-sizing: border-box;
     transform: none;
+    margin-top: 20px;
   }
 
   .sign-up-modal-left,
   .sign-up-modal-right {
     width: 100%;
     padding: 20px;
+    box-sizing: border-box;
   }
 
   .sign-up-modal-left {
@@ -728,6 +731,15 @@
 
   .sign-up-modal-right {
     order: 2;
+  }
+
+  .testimonial-carousel .arrowLeft,
+  .testimonial-carousel .arrowRight {
+    display: none!important;
+  }
+
+  .testimonial-carousel :global(.ant-carousel .slick-dots) {
+    display: none!important;
   }
 
   .features-list {

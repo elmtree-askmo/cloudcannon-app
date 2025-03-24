@@ -123,6 +123,12 @@ export default function TopQuestion({ page, subject, subjectTitle, question, lan
         <div className={styles["learn-subjects-center-container"]}>
           <h3 className={styles["learn-answer"]}>Answer</h3>
           <div className={styles["learn-answer-editor-container"]}>
+            <div className={`${styles["answer-markdown"]}`}>
+              <Suspense fallback={<div>Loading...</div>}>
+                <ReactMarkdown children={formattedAnswer} remarkPlugins={[remarkMath, remarkGfm]} rehypePlugins={[rehypeKatex]} />
+              </Suspense>
+              <div className={styles["learn-answer-blur"]}></div>
+            </div>
             {!isLoggedIn && (
               <div className={styles["sign-up-modal"]}>
                 <div className={styles["sign-up-modal-left"]}>
@@ -239,12 +245,6 @@ export default function TopQuestion({ page, subject, subjectTitle, question, lan
                 </div>
               </div>
             )}
-            <div className={`${styles["answer-markdown"]}`}>
-              <Suspense fallback={<div>Loading...</div>}>
-                <ReactMarkdown children={formattedAnswer} remarkPlugins={[remarkMath, remarkGfm]} rehypePlugins={[rehypeKatex]} />
-              </Suspense>
-              <div className={styles["learn-answer-blur"]}></div>
-            </div>
           </div>
           {!!relatedArticles.length > 0 && (
             <>
