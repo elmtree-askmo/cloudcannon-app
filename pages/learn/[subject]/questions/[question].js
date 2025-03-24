@@ -4,6 +4,7 @@ import Link from "next/link";
 import mixpanel from "mixpanel-browser";
 import { useEffect, useRef, useState } from "react";
 import { Suspense } from "react";
+import { Carousel } from "antd";
 
 // markdown
 import ReactMarkdown from "react-markdown";
@@ -14,7 +15,7 @@ import remarkGfm from "remark-gfm";
 import HowItWorks from "@/components/home/howItWorks";
 import QuestionItem from "@/components/learn/QuestionItem";
 
-import { TOP_QUESTIONS_SUBJECTS, TOP_QUESTIONS_SUBJECTS_HIDDEN_FUNC, ALL_TOP_QUESTIONS_FUNC } from "../../../../constant/topQuestions.contant";
+import { TOP_QUESTIONS_SUBJECTS_HIDDEN_FUNC, ALL_TOP_QUESTIONS_FUNC } from "../../../../constant/topQuestions.contant";
 import { MAPPING_PREVIOUS_QUESTIONS } from "../../../../constant/mappingQuestions.contant";
 import { APP_URL, SITEMAP_DOMAIN } from "../../../../constant/app.constant";
 import styles from "../../../../styles/learn.module.css";
@@ -33,15 +34,14 @@ export default function TopQuestion({ page, subject, subjectTitle, question, lan
   const handleSignUp = (e) => {
     e.preventDefault();
     mixpanel.track("MarketingPage_SignUp", { placement: "Q&A", qa_question: pageData.data.title, qa_subject: subjectTitle }, { send_immediately: true }, () => {
-      window.location.href = `https://${APP_URL}/signup`;
-      // window.location.href = `https://${APP_URL}/signup?subject=${subject}&question=${pageData.data.title}`;
+      window.location.href = `${APP_URL}/signup?subject=${subject}&question=${pageData.data.title}`;
     });
   };
 
   const handleLogin = (e) => {
     e.preventDefault();
     mixpanel.track(`MarketingPage_Login`, {}, { send_immediately: true }, () => {
-      window.location.href = `https://${APP_URL}/login?subject=${subject}&question=${pageData.data.title}`;
+      window.location.href = `${APP_URL}/login?subject=${subject}&question=${pageData.data.title}`;
     });
   };
 
@@ -69,13 +69,9 @@ export default function TopQuestion({ page, subject, subjectTitle, question, lan
   const [isLoggedIn, setIsLoggedIn] = useState(false);
 
   useEffect(() => {
-    const userId = document.cookie
-      .split("; ")
-      .find((row) => row.startsWith("userId="))
-      ?.split("=")[1];
-    if (userId) {
-      setIsLoggedIn(true);
-    }
+    const localAppData = localStorage.getItem("appData");
+    const appData = !!localAppData ? JSON.parse(localAppData) : {};
+    setIsLoggedIn(!!appData.userId);
   }, []);
 
   return (
@@ -112,18 +108,13 @@ export default function TopQuestion({ page, subject, subjectTitle, question, lan
 
             <div className={styles["learn-question-title-container"]}>
               <h2 className={styles["learn-question-title"]}>{pageData.data.title}</h2>
-              {/* {!isLoggedIn && (
+              {!isLoggedIn && (
                 <div className={styles["banner-save-cta"]}>
                   <Link href="#" onClick={handleSignUp} className={styles["banner-save-btn"]}>
                     Sign up to see the full answer
                   </Link>
                 </div>
-              )} */}
-              <div className={styles["banner-save-cta"]}>
-                <Link href="#" onClick={handleSignUp} className={styles["banner-save-btn"]}>
-                  Sign up to see the full answer
-                </Link>
-              </div>
+              )}
             </div>
           </div>
         </div>
@@ -132,7 +123,7 @@ export default function TopQuestion({ page, subject, subjectTitle, question, lan
         <div className={styles["learn-subjects-center-container"]}>
           <h3 className={styles["learn-answer"]}>Answer</h3>
           <div className={styles["learn-answer-editor-container"]}>
-            {/* {!isLoggedIn && (
+            {!isLoggedIn && (
               <div className={styles["sign-up-modal"]}>
                 <div className={styles["sign-up-modal-left"]}>
                   <h3>
@@ -247,34 +238,20 @@ export default function TopQuestion({ page, subject, subjectTitle, question, lan
                   </div>
                 </div>
               </div>
-            )} */}
+            )}
             <div className={`${styles["answer-markdown"]}`}>
               <Suspense fallback={<div>Loading...</div>}>
                 <ReactMarkdown children={formattedAnswer} remarkPlugins={[remarkMath, remarkGfm]} rehypePlugins={[rehypeKatex]} />
               </Suspense>
-              {/* <div className={styles["learn-answer-blur"]}></div> */}
+              <div className={styles["learn-answer-blur"]}></div>
             </div>
-          </div>
-
-          <div className={styles["answer-shadow-content"]}>
-            <div className={styles["answer-shadow-title"]}>Get any question answered by the QuickTakes AI Assistant by creating a free account</div>
-            <Link className={styles["sign-up-today"]} href="#" onClick={handleSignUp}>
-              Sign up
-            </Link>
-            <Link href={`/learn/${subject}`} className={styles["back-to-subjects"]} prefetch>
-              Explore more {subjectTitle} questions →
-            </Link>
           </div>
           {!!relatedArticles.length > 0 && (
             <>
               <h3 className={`${styles["learn-answer"]} ${styles["learn-answer-related"]}`}>Related Questions</h3>
               <ul className={styles["questions-list"]} role="list">
                 {relatedArticles.map((item, index) => (
-                  <QuestionItem 
-                    key={index}
-                    title={item.title}
-                    url={item.url}
-                  />
+                  <QuestionItem key={index} title={item.title} url={item.url} />
                 ))}
               </ul>
             </>
@@ -316,7 +293,7 @@ export async function getStaticPaths() {
   }
 
   // patch the previous questions
-  for(let obj of MAPPING_PREVIOUS_QUESTIONS) {
+  for (let obj of MAPPING_PREVIOUS_QUESTIONS) {
     const { previous, question } = obj;
     paths.push({
       params: { subject: previous, question },
@@ -337,12 +314,14 @@ export async function getStaticProps({ params }) {
 
   // Parallel data loading
   const [pageData, studentMd] = await Promise.all([
-    (async function (filePath){
+    (async function (filePath) {
       return new Promise((resolve, reject) => {
-        filer.getItem(filePath).then(file => {
+        filer
+          .getItem(filePath)
+          .then((file) => {
             resolve(file);
           })
-          .catch(async error => {
+          .catch(async (error) => {
             // read all questions from file system
             const questions = await ALL_TOP_QUESTIONS_FUNC(filer);
             const newSubject = questions ? questions[question] : null;
@@ -350,9 +329,9 @@ export async function getStaticProps({ params }) {
             const md = newFilePath ? await filer.getItem(newFilePath) : null;
             resolve(md);
           });
-      })
+      });
     })(filePath),
-    filer.getItem("index.md")
+    filer.getItem("index.md"),
   ]);
 
   if (!pageData) {

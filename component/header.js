@@ -61,7 +61,7 @@ export default function Header({ pathname, theme, language, setLanguage, utmPara
   const handleLogin = () => {
     // console.log(eventPrefix + 'Click Login')
     mixpanel.track(`MarketingPage_Login`, {}, { send_immediately: true }, () => {
-      window.location.href = `https://${APP_URL}`;
+      window.location.href = `${APP_URL}`;
     });
   };
   const handleClickLogo = () => {
@@ -83,13 +83,9 @@ export default function Header({ pathname, theme, language, setLanguage, utmPara
   }, []);
 
   useEffect(() => {
-    const userId = document.cookie
-      .split("; ")
-      .find((row) => row.startsWith("userId="))
-      ?.split("=")[1];
-    if (userId) {
-      setIsLoggedIn(true);
-    }
+    const localAppData = localStorage.getItem("appData");
+    const appData = !!localAppData ? JSON.parse(localAppData) : {};
+    setIsLoggedIn(!!appData.userId);
   }, []);
 
   const customDropDownRender = (menus) => {
@@ -159,7 +155,7 @@ export default function Header({ pathname, theme, language, setLanguage, utmPara
             </Dropdown>
             {theme === "b2c" && (
               <div className={styles["signup-login-container"]}>
-                {/* {isLoggedIn ? (
+                {isLoggedIn ? (
                   <Link href="https://app.staging.quicktakes.io" className={styles["sign-up-button"]}>
                     Go to QuickTakes App
                   </Link>
@@ -172,13 +168,7 @@ export default function Header({ pathname, theme, language, setLanguage, utmPara
                       {data.signUp}
                     </Link>
                   </>
-                )} */}
-                <Link href="" className={styles["login-button"]} onClick={handleLogin}>
-                  {data.login}
-                </Link>
-                <Link href="" className={styles["sign-up-button"]} onClick={handleSignUp}>
-                  {data.signUp}
-                </Link>
+                )}
               </div>
             )}
             <Image
