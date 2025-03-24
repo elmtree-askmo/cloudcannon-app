@@ -10,7 +10,7 @@ export default function QuicktakesFeatures({ block, language = "en" }) {
       <div className={styles["insitutions-quicktakes-features-center-container"]}>
         <h3>{block.contentTitle[language] || block.contentTitle["en"]}</h3>
         <p>{block.description[language] || block.description["en"]}</p>
-        <Link href={`https://${APP_URL}`} className={styles["insitutions-quicktakes-features-btn"]}>
+        <Link href={`${APP_URL}`} className={styles["insitutions-quicktakes-features-btn"]}>
           {block.buttonTxt[language] || block.buttonTxt["en"]}
         </Link>
         <div className={styles["features-container"]}>

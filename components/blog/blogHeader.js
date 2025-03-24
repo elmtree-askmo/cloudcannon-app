@@ -9,7 +9,7 @@ export default function BlogHeader({content, block, language='en'}){
     const handleSignUp = (e)=>{
         e.preventDefault();
         mixpanel.track("MarketingPage_SignUp", { placement: 'blogPage' }, {send_immediately:true}, ()=>{
-          window.location.href = `https://${APP_URL}/signup`;
+          window.location.href = `${APP_URL}/signup`;
         })
     }
 

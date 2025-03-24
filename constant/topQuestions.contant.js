@@ -106,7 +106,8 @@ export const TOP_QUESTIONS_SUBJECTS = [
 ];
 
 export const TOP_QUESTIONS_SUBJECTS_HIDDEN_FUNC = async (filer) => {
-  const subjectFolders = await filer.listItemSlugs(`learn/`);
+  let subjectFolders = await filer.listItemSlugs(`learn/`);
+  subjectFolders = subjectFolders.filter(file => !file.includes('.DS_Store'));
   const subjectKeys = TOP_QUESTIONS_SUBJECTS.map((item) => item.key);
   const diffSubjectKeys = subjectFolders.filter((item) => !subjectKeys.includes(item));
   const titleCaseExclude = (sentence, exceptions = new Set(["and", "or", "of", "the"])) => {
