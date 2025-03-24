@@ -1,10 +1,31 @@
 import Head from "next/head";
+import { useEffect } from "react";
 
 export default function LocalStorage({}) {
-  return <>
-    <Head>
-      <script dangerouslySetInnerHTML={{__html: "window.addEventListener(`message`,function(event){const data = JSON.stringify(JSON.parse(event.data)); localStorage.setItem(`appData`, data);}, false);"}}/>
-      <title>QuickTakes | AI Study Sidekick | College Learning Tools</title>
-    </Head>
-  </>;
+  useEffect(() => {
+    const handleMessage = (event) => {
+      const data = typeof event.data === "string" ? JSON.parse(event.data) : event.data;
+      const { action, payload } = data;
+      switch (action) {
+        case "setMarketingSiteLocalStorage":
+          localStorage.setItem("appData", JSON.stringify(payload));
+          break;
+        default:
+          break;
+      }
+    };
+
+    window.addEventListener("message", handleMessage);
+    return () => {
+      window.removeEventListener("message", handleMessage);
+    };
+  }, []);
+
+  return (
+    <>
+      <Head>
+        <title>QuickTakes | AI Study Sidekick | College Learning Tools</title>
+      </Head>
+    </>
+  );
 }

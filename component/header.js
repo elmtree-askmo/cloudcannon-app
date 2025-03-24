@@ -61,7 +61,7 @@ export default function Header({ pathname, theme, language, setLanguage, utmPara
   const handleLogin = () => {
     // console.log(eventPrefix + 'Click Login')
     mixpanel.track(`MarketingPage_Login`, {}, { send_immediately: true }, () => {
-      window.location.href = `https://${APP_URL}`;
+      window.location.href = `${APP_URL}`;
     });
   };
   const handleClickLogo = () => {
@@ -83,12 +83,9 @@ export default function Header({ pathname, theme, language, setLanguage, utmPara
   }, []);
 
   useEffect(() => {
-    const appData = localStorage.getItem("appData");
-    const obj = appData ? JSON.parse(appData) : {};
-    const userId = obj.userId;
-    if (userId) {
-      setIsLoggedIn(true);
-    }
+    const localAppData = localStorage.getItem("appData");
+    const appData = !!localAppData ? JSON.parse(localAppData) : {};
+    setIsLoggedIn(!!appData.userId);
   }, []);
 
   const customDropDownRender = (menus) => {
