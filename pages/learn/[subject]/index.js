@@ -12,6 +12,7 @@ import QuestionItem from "@/components/learn/QuestionItem";
 import styles from "../../../styles/learn.module.css";
 
 const filer = new Filer({ path: "content" });
+const PAGE_SIZE = 20;
 
 // 骨架屏组件
 const QuestionSkeleton = memo(() => (
@@ -22,11 +23,19 @@ const QuestionSkeleton = memo(() => (
   </li>
 ));
 
-export default function LearnSubject({ subject, title, pages, language = "en" }) {
-  const [displayedPages, setDisplayedPages] = useState([]);
+export default function LearnSubject({ 
+  subject, 
+  title, 
+  pages, 
+  allQuestions, 
+  totalCount, 
+  pageInfo, 
+  language = "en" 
+}) {
+  const [displayedPages, setDisplayedPages] = useState(pages);
   const [currentPage, setCurrentPage] = useState(1);
-  const [isLoading, setIsLoading] = useState(true);
-  const itemsPerPage = 10; // Reduce initial loading amount
+  const [isLoading, setIsLoading] = useState(false);
+  const [hasMore, setHasMore] = useState(pageInfo.hasMore);
 
   const { ref, inView } = useInView({
     threshold: 0.5,
@@ -38,30 +47,26 @@ export default function LearnSubject({ subject, title, pages, language = "en" })
   }, []);
 
   useEffect(() => {
-    setIsLoading(true);
-    const timer = setTimeout(() => {
-      setDisplayedPages(pages.slice(0, itemsPerPage));
-      setIsLoading(false);
-    }, 100);
-    return () => clearTimeout(timer);
-  }, [pages]);
-
-  useEffect(() => {
-    if (inView) {
+    if (inView && hasMore && !isLoading) {
       loadMore();
     }
   }, [inView]);
 
   const loadMore = useCallback(() => {
+    setIsLoading(true);
     const nextPage = currentPage + 1;
-    const start = (nextPage - 1) * itemsPerPage;
-    const end = start + itemsPerPage;
+    const start = currentPage * PAGE_SIZE;
+    const end = start + PAGE_SIZE;
     
-    if (start < pages.length) {
-      setDisplayedPages(prev => [...prev, ...pages.slice(start, end)]);
+    // 从已有的 allQuestions 中加载更多数据
+    setTimeout(() => {
+      const newQuestions = allQuestions.slice(start, end);
+      setDisplayedPages(prev => [...prev, ...newQuestions]);
       setCurrentPage(nextPage);
-    }
-  }, [currentPage, pages]);
+      setHasMore(end < allQuestions.length);
+      setIsLoading(false);
+    }, 300); // 添加小延迟以展示加载效果
+  }, [currentPage, allQuestions]);
 
   const seoTitle = `Discover top Q&As and quality content in ${title}.`;
   const seoDescription = `Learn faster with QuickTakes—your go-to study resource.`;
@@ -97,29 +102,21 @@ export default function LearnSubject({ subject, title, pages, language = "en" })
       </header>
       <main className={styles["learn-subjects-container"]} role="main">
         <div className={styles["learn-subjects-center-container"]}>
-          <h2 className={styles["questions-quantity"]}>All Questions ({pages.length})</h2>
+          <h2 className={styles["questions-quantity"]}>All Questions ({totalCount})</h2>
           <nav aria-label="Questions list">
             <ul className={styles["questions-list"]} role="list">
-              {isLoading ? (
-                Array(5).fill(0).map((_, index) => (
-                  <QuestionSkeleton key={index} />
-                ))
-              ) : (
-                displayedPages.map((item, index) => (
-                  <QuestionItem 
-                    key={item.en.data.file_name}
-                    title={item.en.data.question}
-                    url={`/learn/${subject}/questions/${item.en.data.file_name.replace(".md", "")}`}
-                  />
-                ))
-              )}
+              {displayedPages.map((item, index) => (
+                <QuestionItem 
+                  key={item.en.data.file_name}
+                  title={item.en.data.question}
+                  url={`/learn/${subject}/questions/${item.en.data.file_name.replace(".md", "")}`}
+                />
+              ))}
             </ul>
           </nav>
-          {displayedPages.length < pages.length && (
+          {hasMore && (
             <div ref={ref} className={styles["load-more-container"]}>
-              {isLoading ? (
-                <QuestionSkeleton />
-              ) : null}
+              {isLoading && <QuestionSkeleton />}
             </div>
           )}
         </div>
@@ -128,12 +125,16 @@ export default function LearnSubject({ subject, title, pages, language = "en" })
   );
 }
 
-export async function getStaticPaths({ params }) {
+export async function getStaticPaths() {
   const subjects = await TOP_QUESTIONS_SUBJECTS_HIDDEN_FUNC(filer);
   const paths = subjects.map((subject) => ({
     params: { subject: subject.key },
   }));
-  return { paths, fallback: false };
+
+  return { 
+    paths, 
+    fallback: false  // 静态导出模式下只能用 false
+  };
 }
 
 export async function getStaticProps({ params }) {
@@ -149,32 +150,29 @@ export async function getStaticProps({ params }) {
   }
 
   const filteredFiles = files.filter((file) => !file.includes(".DS_Store"));
-
-  const pagesData = await Promise.all(
-    filteredFiles.map(async (file) => {
-      const filePath = `${folderPath}/${file}.md`;
-      const pageData = await filer.getItem(filePath);
-
-      if (!pageData) return null;
-
-      return {
-        en: {
-          data: {
-            file_name: pageData.data.file_name,
-            question: pageData.data.question
-          }
-        }
-      };
-    })
-  );
-
-  const validPagesData = pagesData.filter(Boolean);
+  
+  // 预生成所有问题的基本信息（只包含文件名和问题标题）
+  const allQuestionsInfo = filteredFiles.map(file => ({
+    en: {
+      data: {
+        file_name: file,
+        question: file.replace('.md', '') // 简化的问题标题
+      }
+    }
+  }));
 
   return {
     props: {
       subject: currentSubject?.key,
       title: currentSubject?.title,
-      pages: validPagesData,
+      pages: allQuestionsInfo.slice(0, PAGE_SIZE), // 初始显示的问题
+      allQuestions: allQuestionsInfo, // 所有问题的基本信息
+      totalCount: filteredFiles.length,
+      pageInfo: {
+        currentPage: 1,
+        hasMore: filteredFiles.length > PAGE_SIZE,
+        totalPages: Math.ceil(filteredFiles.length / PAGE_SIZE)
+      }
     }
   };
 }
