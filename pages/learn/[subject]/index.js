@@ -28,7 +28,7 @@ export default function LearnSubject({ subject, title, pages, allQuestions, tota
   const [currentPage, setCurrentPage] = useState(1);
   const [isLoading, setIsLoading] = useState(false);
   const [hasMore, setHasMore] = useState(pageInfo.hasMore);
-  console.log("displayedPages ", displayedPages);
+
   const { ref, inView } = useInView({
     threshold: 0.5,
     triggerOnce: false,
