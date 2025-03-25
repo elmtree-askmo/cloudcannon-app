@@ -13,6 +13,7 @@ import rehypeKatex from "rehype-katex";
 import remarkGfm from "remark-gfm";
 
 import HowItWorks from "@/components/home/howItWorks";
+import QuickTakesTestimonies from "@/components/home/slideshow";
 import QuestionItem from "@/components/learn/QuestionItem";
 
 import { TOP_QUESTIONS_SUBJECTS_HIDDEN_FUNC, ALL_TOP_QUESTIONS_FUNC } from "../../../../constant/topQuestions.contant";
@@ -261,6 +262,8 @@ export default function TopQuestion({ page, subject, subjectTitle, question, lan
           <HowItWorks block={howItWorksData} language={language} isLearnPage={true} />
         </div>
       </div>
+      {/* Add QuickTakes Testimonies */}
+      <QuickTakesTestimonies block={student} language={language} isLearnPage={true} />
     </>
   );
 }
