@@ -16,7 +16,7 @@ import HowItWorks from "@/components/home/howItWorks";
 import QuickTakesTestimonies from "@/components/home/slideshow";
 import QuestionItem from "@/components/learn/QuestionItem";
 
-import { TOP_QUESTIONS_SUBJECTS_HIDDEN_FUNC, ALL_TOP_QUESTIONS_FUNC } from "../../../../constant/topQuestions.contant";
+import { TOP_QUESTIONS_SUBJECTS, TOP_QUESTIONS_SUBJECTS_HIDDEN_FUNC, ALL_TOP_QUESTIONS_FUNC } from "../../../../constant/topQuestions.contant";
 import { MAPPING_PREVIOUS_QUESTIONS } from "../../../../constant/mappingQuestions.contant";
 import { APP_URL, SITEMAP_DOMAIN } from "../../../../constant/app.constant";
 import styles from "../../../../styles/learn.module.css";
@@ -80,6 +80,18 @@ export default function TopQuestion({ page, subjectKey, subjectTitle, question, 
       <Head>
         <title>{seoTitle}</title>
 
+        {/* SEO no index */}
+        {pageData.data.noIndex ? (
+          <>
+            <meta name="robots" content={`noindex`} />
+            <meta name="googlebot" content={`noindex`} />
+          </>
+        ) : (
+          <>
+            <meta name="robots" content="index, follow" />
+          </>
+        )}
+
         {/* Basic Meta Tags */}
         <meta name="description" content={seoDescription} />
         <meta name="keywords" content={pageData.data.seo.page_keywords} />
@@ -91,7 +103,6 @@ export default function TopQuestion({ page, subjectKey, subjectTitle, question, 
         <meta property="og:url" content={`${SITEMAP_DOMAIN}/learn/${subjectKey}/questions/${question}`} />
 
         {/* Other Important Meta Tags */}
-        <meta name="robots" content="index, follow" />
         <link rel="canonical" href={`${SITEMAP_DOMAIN}/learn/${subjectKey}/questions/${question}`} />
 
         <link rel="preload" href="/critical-font.woff2" as="font" type="font/woff2" crossOrigin="anonymous" />
@@ -314,6 +325,7 @@ export async function getStaticProps({ params }) {
   const subjects = await TOP_QUESTIONS_SUBJECTS_HIDDEN_FUNC(filer);
   const currentSubject = subjects.find((item) => item.key === subject);
   const filePath = `learn/${currentSubject?.key}/${question}.md`;
+  const noIndex = TOP_QUESTIONS_SUBJECTS.find((item) => item.key === currentSubject.key) ? 0 : 1;
 
   // Parallel data loading
   const [pageData, studentMd] = await Promise.all([
@@ -330,12 +342,16 @@ export async function getStaticProps({ params }) {
             const newSubject = questions ? questions[question] : null;
             const newFilePath = newSubject ? `learn/${newSubject}/${question}.md` : null;
             const md = newFilePath ? await filer.getItem(newFilePath) : null;
+            if(md) md.noIndex = 1;
             resolve(md);
           });
       });
     })(filePath),
     filer.getItem("index.md"),
   ]);
+
+  // remove from SEO
+  if (pageData && pageData.data && noIndex) pageData.data.noIndex = 1;
 
   if (!pageData) {
     return {
