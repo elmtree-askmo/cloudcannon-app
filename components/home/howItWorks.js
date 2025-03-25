@@ -4,7 +4,7 @@ import { APP_URL } from '@/constant/app.constant';
 import mixpanel from 'mixpanel-browser';
 import Image from 'next/image';
 
-export default function HowItWorks({ content, block, language = "en", utmParams = null, isLearnPage = false }) {
+export default function HowItWorks({ content, block, language = "en", utmParams = null, isLearnPage = false, subjectTitle = null, question = null }) {
   const handleSignUp = (e) => {
     e.preventDefault();
     let deeplink = process.env.NEXT_PUBLIC_UTM_DEEPLINK;
@@ -12,7 +12,14 @@ export default function HowItWorks({ content, block, language = "en", utmParams 
       const search = new URLSearchParams(utmParams).toString();
       deeplink = `${deeplink}?${search}`;
     }
-    mixpanel.track("MarketingPage_SignUp", { placement: 'homeHowItWorks' }, { send_immediately: true }, () => {
+    let properties = { placement: 'homeHowItWorks' };
+    if (subjectTitle) {
+      properties.qa_subject = subjectTitle;
+    }
+    if (question) {
+      properties.qa_question = question;
+    }
+    mixpanel.track("MarketingPage_SignUp", properties, { send_immediately: true }, () => {
       window.location.href = deeplink;
     })
   }
@@ -46,7 +53,7 @@ export default function HowItWorks({ content, block, language = "en", utmParams 
               />
             </div>
           </div>
-          <Link className={styles['howItWorks-button']} href={`${APP_URL}/signup`} prefetch={false}><strong>Try It Now</strong> - It's Free</Link>
+          <Link className={styles['howItWorks-button']} href="#" onClick={handleSignUp} prefetch={false}><strong>Try It Now</strong> - It's Free</Link>
           <div className={styles['howItWorks-content-box']}>
             <div className={styles['howItWorks-text-container']}>
               <h4>{block.rightSideContent_a.title[language] || block.rightSideContent_a.title['en']}</h4>
