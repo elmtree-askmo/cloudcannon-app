@@ -1,10 +1,10 @@
 import Filer from "@cloudcannon/filer";
 import Head from "next/head";
 import Link from "next/link";
-import Image from 'next/image';
+import Image from "next/image";
 import mixpanel from "mixpanel-browser";
 import { useEffect, useState, useCallback, memo } from "react";
-import { useInView } from 'react-intersection-observer';
+import { useInView } from "react-intersection-observer";
 
 import { TOP_QUESTIONS_SUBJECTS, TOP_QUESTIONS_SUBJECTS_HIDDEN_FUNC } from "../../../constant/topQuestions.contant";
 import QuestionItem from "@/components/learn/QuestionItem";
@@ -23,15 +23,7 @@ const QuestionSkeleton = memo(() => (
   </li>
 ));
 
-export default function LearnSubject({ 
-  subject, 
-  title, 
-  pages, 
-  allQuestions, 
-  totalCount, 
-  pageInfo, 
-  language = "en" 
-}) {
+export default function LearnSubject({ subject, title, pages, allQuestions, totalCount, pageInfo, language = "en" }) {
   const [displayedPages, setDisplayedPages] = useState(pages);
   const [currentPage, setCurrentPage] = useState(1);
   const [isLoading, setIsLoading] = useState(false);
@@ -39,7 +31,7 @@ export default function LearnSubject({
 
   const { ref, inView } = useInView({
     threshold: 0.5,
-    triggerOnce: false
+    triggerOnce: false,
   });
 
   useEffect(() => {
@@ -57,11 +49,11 @@ export default function LearnSubject({
     const nextPage = currentPage + 1;
     const start = currentPage * PAGE_SIZE;
     const end = start + PAGE_SIZE;
-    
+
     // Load more data from existing allQuestions
     setTimeout(() => {
       const newQuestions = allQuestions.slice(start, end);
-      setDisplayedPages(prev => [...prev, ...newQuestions]);
+      setDisplayedPages((prev) => [...prev, ...newQuestions]);
       setCurrentPage(nextPage);
       setHasMore(end < allQuestions.length);
       setIsLoading(false);
@@ -87,14 +79,7 @@ export default function LearnSubject({
         <div className={styles["learn-subjects-center-container"]}>
           <h1 className={styles["learn-subject-title"]}>
             <Link href="/learn" className={styles["back-btn"]} aria-label="Back to subjects">
-              <Image 
-                src="/backIcon.svg" 
-                alt="Back arrow" 
-                width={24} 
-                height={24} 
-                priority
-                loading="eager"
-              />
+              <Image src="/backIcon.svg" alt="Back arrow" width={24} height={24} priority loading="eager" />
             </Link>
             {title}
           </h1>
@@ -106,7 +91,13 @@ export default function LearnSubject({
           <nav aria-label="Questions list">
             <ul className={styles["questions-list"]} role="list">
               {displayedPages.map((item, index) => (
-                <QuestionItem key={index} item={item} />
+                <QuestionItem
+                  key={index}
+                  item={{
+                    title: item.en.data.question,
+                    url: `/learn/${subject}/questions/${item.en.data.file_name.replace(".md", "")}`,
+                  }}
+                />
               ))}
             </ul>
           </nav>
@@ -127,9 +118,9 @@ export async function getStaticPaths() {
     params: { subject: subject.key },
   }));
 
-  return { 
-    paths, 
-    fallback: false  // Can only use false in static export mode
+  return {
+    paths,
+    fallback: false, // Can only use false in static export mode
   };
 }
 
@@ -146,15 +137,15 @@ export async function getStaticProps({ params }) {
   }
 
   const filteredFiles = files.filter((file) => !file.includes(".DS_Store"));
-  
+
   // Pre-generate basic information for all questions (only includes filename and question title)
-  const allQuestionsInfo = filteredFiles.map(file => ({
+  const allQuestionsInfo = filteredFiles.map((file) => ({
     en: {
       data: {
         file_name: file,
-        question: file.replace('.md', '') // Simplified question title
-      }
-    }
+        question: file.replace(".md", ""), // Simplified question title
+      },
+    },
   }));
 
   return {
@@ -167,8 +158,8 @@ export async function getStaticProps({ params }) {
       pageInfo: {
         currentPage: 1,
         hasMore: filteredFiles.length > PAGE_SIZE,
-        totalPages: Math.ceil(filteredFiles.length / PAGE_SIZE)
-      }
-    }
+        totalPages: Math.ceil(filteredFiles.length / PAGE_SIZE),
+      },
+    },
   };
 }
