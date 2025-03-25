@@ -277,7 +277,7 @@
 }
 
 .logged-in .answer-markdown {
-  max-height: unset;
+  height: unset;
 }
 
 .answer-markdown .learn-answer-blur {

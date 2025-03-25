@@ -145,7 +145,7 @@ export default function Header({ pathname, theme, language, setLanguage, utmPara
       <div className={`${styles.header} ${styles["students"]} ${styles[theme]}`} style={renderBanner ? { top: "70px" } : {}}>
         <div className={styles["main-container"]}>
           <div className={styles["logo-container"]} onClick={handleClickLogo}>
-            <Image src={data.logo} alt="Logo" className="logo" width={168} height={40} unoptimized />
+            <Image src={data.logo} alt="Logo" className="logo" width={200} height={56} unoptimized />
             {/* <span className={styles["tagline"]}>#1 AI Study Companion</span> */}
           </div>
           <>

@@ -106,11 +106,7 @@ export default function LearnSubject({
           <nav aria-label="Questions list">
             <ul className={styles["questions-list"]} role="list">
               {displayedPages.map((item, index) => (
-                <QuestionItem 
-                  key={item.en.data.file_name}
-                  title={item.en.data.question}
-                  url={`/learn/${subject}/questions/${item.en.data.file_name.replace(".md", "")}`}
-                />
+                <QuestionItem key={index} item={item} />
               ))}
             </ul>
           </nav>
