@@ -3,7 +3,6 @@ import styles from "../../styles/learn.module.css";
 import mixpanel from "mixpanel-browser";
 
 const QuestionItem = ({ type, item, subjectTitle }) => {
-  console.log(item);
   const handleClick = (e) => {
     switch (type) {
       case "question":
