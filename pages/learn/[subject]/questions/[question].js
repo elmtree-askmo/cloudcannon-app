@@ -259,7 +259,7 @@ export default function TopQuestion({ page, subjectKey, subjectTitle, question, 
           )}
 
           {/* Add HowItWorks section */}
-          <HowItWorks block={howItWorksData} language={language} isLearnPage={true} />
+          <HowItWorks block={howItWorksData} language={language} isLearnPage={true} subjectTitle={subjectTitle} question={pageData.data.title} />
         </div>
       </div>
       {/* Add QuickTakes Testimonies */}
