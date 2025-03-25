@@ -19,9 +19,9 @@ const QuestionItem = ({ type, item, subjectTitle }) => {
   return (
     <li className={styles["question-item"]}>
       <article>
-        <Link href={item.url} onClick={handleClick}>
+        <Link href={item?.url} onClick={handleClick}>
           <span className={styles["question-item-tag"]}>Question</span>
-          <h3 className={styles["question-item-name"]}>{item.title}</h3>
+          <h3 className={styles["question-item-name"]}>{item?.title}</h3>
           <span className={styles["question-item-btn"]}>View Answer</span>
         </Link>
       </article>
