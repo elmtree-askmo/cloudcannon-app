@@ -82,6 +82,15 @@ export default function TopQuestion({ page, subjectKey, subjectTitle, questionKe
     mixpanel.track("MarketingPage_BackToSubject", { qa_question: pageData.data.title, qa_subject: subjectTitle });
   };
 
+  const handleRelatedItemClick = (item) => {
+    mixpanel.track("MarketingPage_ToOtherQuestions", {
+      qa_question: pageData.data.title,
+      qa_subject: subjectTitle,
+      qa_subject_next: item.subject,
+      qa_question_next: item.title,
+    });
+  }
+
   return (
     <>
       <Head>
@@ -270,7 +279,7 @@ export default function TopQuestion({ page, subjectKey, subjectTitle, questionKe
               <h3 className={`${styles["learn-answer"]} ${styles["learn-answer-related"]}`}>Related Questions</h3>
               <ul className={styles["questions-list"]} role="list">
                 {relatedArticles.map((item, index) => (
-                  <QuestionItem key={index} type="question" item={item} subjectTitle={subjectTitle} />
+                  <QuestionItem key={index} item={item} onClick={handleRelatedItemClick} />
                 ))}
               </ul>
             </>

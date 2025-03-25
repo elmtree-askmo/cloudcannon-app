@@ -2,18 +2,9 @@ import Link from "next/link";
 import styles from "../../styles/learn.module.css";
 import mixpanel from "mixpanel-browser";
 
-const QuestionItem = ({ type, item, subjectTitle }) => {
+const QuestionItem = ({ item, onClick }) => {
   const handleClick = (e) => {
-    switch (type) {
-      case "question":
-        mixpanel.track("MarketingPage_ToOtherQuestions", {
-          qa_subject: subjectTitle,
-          qa_question: item.title,
-        });
-        break;
-      default:
-        break;
-    }
+    onClick?.(item);
   };
 
   return (
