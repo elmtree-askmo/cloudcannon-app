@@ -75,6 +75,10 @@ export default function TopQuestion({ page, subjectKey, subjectTitle, question, 
     setIsLoggedIn(!!appData.userId);
   }, []);
 
+  const handleBackClick = () => {
+    mixpanel.track("MarketingPage_BackToSubject", { qa_question: pageData.data.title, qa_subject: subjectTitle });
+  };
+
   return (
     <>
       <Head>
@@ -100,7 +104,7 @@ export default function TopQuestion({ page, subjectKey, subjectTitle, question, 
       <header className={styles["learn-subjects-header-container"]}>
         <div className={styles["learn-subjects-center-container"]}>
           <div className={styles["learn-question-info"]}>
-            <Link href={`/learn/${subjectKey}`} className={styles["back-btn"]}>
+            <Link href={`/learn/${subjectKey}`} className={styles["back-btn"]} onClick={handleBackClick}>
               <div className={styles["back-btn-icon"]}>
                 <img src="/backIcon.svg" />
               </div>
