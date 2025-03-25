@@ -1,6 +1,0 @@
-
-User-agent: *
-Disallow: /content/
-
-# Sitemap 
-Sitemap: https://quicktakes.io/sitemap.xml
