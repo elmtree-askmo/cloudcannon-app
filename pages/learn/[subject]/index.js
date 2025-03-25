@@ -139,14 +139,23 @@ export async function getStaticProps({ params }) {
   const filteredFiles = files.filter((file) => !file.includes(".DS_Store"));
 
   // Pre-generate basic information for all questions (only includes filename and question title)
-  const allQuestionsInfo = filteredFiles.map((file) => ({
-    en: {
-      data: {
-        file_name: file,
-        question: file.replace(".md", ""), // Simplified question title
-      },
-    },
-  }));
+  const allQuestionsInfo = await Promise.all(
+    filteredFiles.map(async (file) => {
+      const filePath = `${folderPath}/${file}.md`;
+      const pageData = await filer.getItem(filePath);
+
+      if (!pageData) return null;
+
+      return {
+        en: {
+          data: {
+            file_name: pageData.data.file_name,
+            question: pageData.data.question,
+          },
+        },
+      };
+    })
+  );
 
   return {
     props: {

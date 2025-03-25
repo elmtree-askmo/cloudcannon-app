@@ -23,26 +23,29 @@ import styles from "../../../../styles/learn.module.css";
 import "katex/dist/katex.min.css";
 
 const filer = new Filer({ path: "content" });
-export default function TopQuestion({ page, subjectKey, subjectTitle, question, language = "en", student, howItWorksData }) {
+export default function TopQuestion({ page, subjectKey, subjectTitle, questionKey, language = "en", student, howItWorksData }) {
   const pageData = page[language] ? page[language] : page["en"];
-
   useEffect(() => {
     mixpanel.track("MarketingPage_TopQuestions", { page_level: "detail", qa_question: pageData.data.title, qa_subject: subjectTitle });
   }, []);
 
   const formattedAnswer = pageData.data.answer.replace(/\\n/g, "\n");
 
+  const questionParams = () => {
+    return `?subjectKey=${subjectKey}&questionKey=${questionKey}&subjectTitle=${subjectTitle}&questionTitle=${pageData.data.title}`
+  }
+
   const handleSignUp = (e) => {
     e.preventDefault();
     mixpanel.track("MarketingPage_SignUp", { placement: "Q&A", qa_question: pageData.data.title, qa_subject: subjectTitle }, { send_immediately: true }, () => {
-      window.location.href = `${APP_URL}/signup?subject=${subjectKey}&question=${pageData.data.title}`;
+      window.location.href = `${APP_URL}/signup${questionParams()}`;
     });
   };
 
   const handleLogin = (e) => {
     e.preventDefault();
     mixpanel.track(`MarketingPage_Login`, {}, { send_immediately: true }, () => {
-      window.location.href = `${APP_URL}/login?subject=${subjectKey}&question=${pageData.data.title}`;
+      window.location.href = `${APP_URL}/login${questionParams()}`;
     });
   };
 
@@ -104,10 +107,10 @@ export default function TopQuestion({ page, subjectKey, subjectTitle, question, 
         <meta property="og:title" content={seoTitle} />
         <meta property="og:description" content={seoDescription} />
         <meta property="og:type" content="article" />
-        <meta property="og:url" content={`${SITEMAP_DOMAIN}/learn/${subjectKey}/questions/${question}`} />
+        <meta property="og:url" content={`${SITEMAP_DOMAIN}/learn/${subjectKey}/questions/${questionKey}`} />
 
         {/* Other Important Meta Tags */}
-        <link rel="canonical" href={`${SITEMAP_DOMAIN}/learn/${subjectKey}/questions/${question}`} />
+        <link rel="canonical" href={`${SITEMAP_DOMAIN}/learn/${subjectKey}/questions/${questionKey}`} />
 
         <link rel="preload" href="/critical-font.woff2" as="font" type="font/woff2" crossOrigin="anonymous" />
       </Head>
@@ -370,7 +373,7 @@ export async function getStaticProps({ params }) {
     props: {
       subjectKey: currentSubject?.key,
       subjectTitle: currentSubject?.title,
-      question,
+      questionKey: question,
       page: {
         en: JSON.parse(JSON.stringify(pageData)),
       },
