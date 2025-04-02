@@ -7,8 +7,7 @@ description: >-
   Forge your research edge in college with this skills toolkit! Master research
   skills: source vetting, database strategies, note-taking methods, & ethical AI
   tools. Ace papers, boost grades, and gain a real academic advantage – get the
-  actionable skills now! #CollegeResearch #StudySkills #AcademicSuccess
-  #ResearchToolkit #HowToResearch #CollegeEdge
+  actionable skills now!
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
