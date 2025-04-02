@@ -36,15 +36,15 @@ featuredImg:
   image: /uploads/qt-blog-post-5.png
   image_alt: Managing Stress
 ---
-## **Understanding the Prevalence and Impact of Stress in College**
+## **A- Understanding the Prevalence and Impact of Stress in College**
 
 The collegiate environment presents numerous stressors, including demanding curricula, competitive academic settings, financial concerns, and social adjustments. Unmanaged stress can manifest in various forms, including diminished concentration, sleep disturbances, compromised immune function, and decreased academic efficacy. Therefore, the proactive adoption of effective stress management strategies is not merely advisable but essential for student success and holistic health.
 
-## **Evidence-Based Stress Management Techniques for Collegiate Success**
+## **B - Evidence-Based Stress Management Techniques for Collegiate Success**
 
 To mitigate the adverse effects of stress, college students are encouraged to incorporate the following techniques into their daily routines:
 
-* **Mindfulness and Meditation Practices:** Mindfulness entails cultivating present moment awareness without judgment. Regular mindfulness practices, such as meditation, can effectively reduce anxiety and enhance emotional regulation. Brief, daily mindfulness exercises, even for 5-10 minutes, can promote a sense of calm and improve focus. Numerous guided meditation resources are available via mobile applications and online platforms, offering accessible entry points to this practice.<br>
+* **Mindfulness and Meditation Practices:** Mindfulness entails cultivating present moment awareness without judgment. Regular mindfulness practices, such as meditation, can effectively reduce anxiety and enhance emotional regulation. Brief, daily mindfulness exercises, even for 5-10 minutes, can promote a sense of calm and improve focus. Numerous guided meditation resources are available via mobile applications and online platforms, offering accessible entry points to this practice.
   * **Breath Awareness Techniques:** Simple breath-focused exercises, involving slow, deliberate inhalations and exhalations, can rapidly induce relaxation and reduce physiological arousal associated with stress.
   * **Body Scan Meditations:** Systematically directing attention to different bodily regions can foster body awareness and release muscular tension, contributing to a state of physical and mental relaxation.
 * **Regular Physical Exercise Regimens:** Engaging in consistent physical activity serves as a potent stress buffer. Exercise stimulates the release of endorphins, neurochemicals associated with mood elevation and pain reduction. A variety of activities, ranging from brisk walking to structured gym workouts, can be beneficial.<br>
