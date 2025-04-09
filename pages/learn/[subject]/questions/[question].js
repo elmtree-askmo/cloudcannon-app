@@ -115,6 +115,7 @@ export default function TopQuestion({ page, subjectKey, subjectTitle, questionKe
           <link rel="canonical" href={`${SITEMAP_DOMAIN}/learn/${subjectKey}/questions/${questionKey}`} />
         )}
 
+
         {/* Basic Meta Tags */}
         <meta name="description" content={seoDescription} />
         <meta name="keywords" content={pageData.data.seo.page_keywords} />
@@ -362,11 +363,11 @@ export async function getStaticProps({ params }) {
             const newSubject = questions ? questions[question] : null;
             const newFilePath = newSubject ? `learn/${newSubject}/${question}.md` : null;
             const md = newFilePath ? await filer.getItem(newFilePath) : null;
-            if(md){
+            if(md && md.data) {
               const obj = MAPPING_PREVIOUS_QUESTIONS.find((item) => item.question === question);
               const currSub = obj ? obj.current : newSubject;
-              md.noIndex = 1;
-              md.canonical = `${SITEMAP_DOMAIN}/learn/${currSub}/questions/${question}`;
+              md.data.noIndex = 1;
+              md.data.canonical = `${SITEMAP_DOMAIN}/learn/${currSub}/questions/${question}`;
             }
             resolve(md);
           });
