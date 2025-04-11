@@ -47,7 +47,6 @@ Did you know that all of your QuickTakes can be edited by you? Highlight to your
 
 By now, you’re loving QuickTakes. Glad we’re on the same page. So share us with your friends, classmates, and colleagues! Did you attend a lecture or meeting that someone else missed? Share the full transcript with them within the touch of a button. Want to export your study materials to your Google Drive? Done in the blink of an eye. Everyone should be able to study smarter, and learn better (with QuickTakes)!
 
-
 <br>
 
 *Download QuickTakes today on the Apple App Store & Google Play Store, or access us right here on the web at QuickTakes.io.*
