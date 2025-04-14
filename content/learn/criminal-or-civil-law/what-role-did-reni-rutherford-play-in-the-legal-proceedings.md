@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     What role did Reni Rutherford play in the legal proceedings?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information does not provide specific details about Reni Rutherford's role in the legal proceedings related to Madison Rutherford or any other context. It primarily discusses various aspects of legal scholarship, access to justice, and the case of Madison Rutherford without detailing Reni Rutherford's involvement.
 subject: Criminal or Civil Law

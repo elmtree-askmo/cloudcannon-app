@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     What is the procedure for requesting additional paper during the examination?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information does not include specific details about the procedure for requesting additional paper during the Fiji Year 8 Examination. There may be guidelines or protocols established by the Ministry of Education in Fiji, but those details are not present in the provided data. For accurate information, it would be best to consult official resources or contact the Ministry of Education directly.
 subject: Health Studies

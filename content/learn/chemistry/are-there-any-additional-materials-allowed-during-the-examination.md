@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     Are there any additional materials allowed during the examination?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information does not specify whether any additional materials are allowed during the Fiji Year 12 Chemistry Examination 2023. It primarily includes instructions regarding the examination format, time allowed, and general guidelines for answering questions. For specific details about permitted materials, it would be necessary to refer to the official examination guidelines or contact the Ministry of Education in Fiji directly.
 subject: Chemistry

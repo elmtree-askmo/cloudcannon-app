@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     How is the examination paper reviewed and validated for accuracy?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information does not provide specific details on the review and validation process for the accuracy of the examination paper for the Ministry of Education Fiji Year 12 Chemistry Examination 2023. There are references to examination instructions, marking criteria, and the role of the Examination and Assessment Unit (EAU), but no explicit information on how the examination paper is reviewed or validated for accuracy.
 subject: Education Studies

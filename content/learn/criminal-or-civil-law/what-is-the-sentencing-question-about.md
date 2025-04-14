@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     What is the sentencing question about?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information primarily focuses on the concept of sentencing in the criminal justice system, including types of sentences, guidelines, and principles that influence sentencing decisions. However, it does not provide specific details about a "sentencing question" or what that might entail in a particular context. If you have a more specific aspect of sentencing in mind, please provide additional details, and I would be happy to assist!
 subject: Criminal or Civil Law

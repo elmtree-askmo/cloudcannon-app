@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     Are there any tutorials offered as part of the course?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information does not provide any specific details about tutorials offered as part of the course in question. It primarily includes various online courses and programs from different institutions, but lacks direct references to the structure or offerings of the specific course being discussed. If you have more specific details or context about the course, I may be able to assist further.
 subject: Education Studies

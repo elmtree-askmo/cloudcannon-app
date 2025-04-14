@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     What are the office hours for the instructors and co-instructors?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information discusses the purpose and benefits of office hours, but it does not provide specific details about the office hours for the instructors and co-instructors of the course. There is a lack of information regarding the actual times or schedules for these office hours.
 subject: Education Studies

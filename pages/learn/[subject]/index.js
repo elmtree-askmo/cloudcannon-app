@@ -90,7 +90,7 @@ export default function LearnSubject({ subject, title, pages, allQuestions, tota
           <h2 className={styles["questions-quantity"]}>All Questions ({totalCount})</h2>
           <nav aria-label="Questions list">
             <ul className={styles["questions-list"]} role="list">
-              {displayedPages.map((item, index) => (
+              {displayedPages.map((item, index) => item && (
                 <QuestionItem
                   key={index}
                   item={{
@@ -139,12 +139,13 @@ export async function getStaticProps({ params }) {
   const filteredFiles = files.filter((file) => !file.includes(".DS_Store"));
 
   // Pre-generate basic information for all questions (only includes filename and question title)
-  const allQuestionsInfo = await Promise.all(
+  const allQuestionsInfo = (await Promise.all(
     filteredFiles.map(async (file) => {
       const filePath = `${folderPath}/${file}.md`;
       const pageData = await filer.getItem(filePath);
 
       if (!pageData) return null;
+      if (!!pageData?.data?.no_index) return null;
 
       return {
         en: {
@@ -155,7 +156,7 @@ export async function getStaticProps({ params }) {
         },
       };
     })
-  );
+  )).filter(item => !!item?.en);
 
   return {
     props: {
@@ -163,11 +164,11 @@ export async function getStaticProps({ params }) {
       title: currentSubject?.title,
       pages: allQuestionsInfo.slice(0, PAGE_SIZE), // Initially displayed questions
       allQuestions: allQuestionsInfo, // Basic information for all questions
-      totalCount: filteredFiles.length,
+      totalCount: allQuestionsInfo.length,
       pageInfo: {
         currentPage: 1,
-        hasMore: filteredFiles.length > PAGE_SIZE,
-        totalPages: Math.ceil(filteredFiles.length / PAGE_SIZE),
+        hasMore: allQuestionsInfo.length > PAGE_SIZE,
+        totalPages: Math.ceil(allQuestionsInfo.length / PAGE_SIZE),
       },
     },
   };

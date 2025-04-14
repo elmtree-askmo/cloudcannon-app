@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     What is the date and time of the final exam?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information includes various details about Latin exams, such as the National Latin Exam and AP Latin Exam dates, but it does not specify the date and time of a particular final exam. If you have a specific course or institution in mind, I recommend checking the official exam schedule provided by that institution or course instructor for accurate details.
 subject: Education Studies

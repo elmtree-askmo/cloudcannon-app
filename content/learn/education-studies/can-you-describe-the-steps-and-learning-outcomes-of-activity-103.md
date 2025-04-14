@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     Can you describe the steps and learning outcomes of Activity 10.3?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information does not provide specific details about Activity 10.3, including its steps or learning outcomes. It primarily references various textbooks and chapters related to electric circuits but lacks the necessary content to describe the activity in question. If you have access to the specific textbook or resource that contains Activity 10.3, I recommend consulting that for detailed information.
 subject: Education Studies

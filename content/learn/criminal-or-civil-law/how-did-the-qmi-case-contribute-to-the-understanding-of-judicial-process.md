@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     How did the QMI Case contribute to the understanding of judicial process?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information does not specifically mention the QMI Case or its contributions to the understanding of the judicial process. There are references to judicial independence, public perception, and various judicial review cases, but none provide details on the QMI Case itself or its implications. If you have more specific information or context about the QMI Case, I would be happy to help analyze its contributions to the judicial process.
 subject: Criminal or Civil Law

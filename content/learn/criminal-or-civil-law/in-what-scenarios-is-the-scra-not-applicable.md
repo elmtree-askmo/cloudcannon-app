@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     In what scenarios is the SCRA not applicable?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information primarily pertains to the Servicemembers Civil Relief Act (SCRA) and does not provide details about the Securities Contracts (Regulation) Act, 1956 (SCRA) or its applicability scenarios. Therefore, I am unable to address the specific scenarios in which the Securities Contracts (Regulation) Act is not applicable. If you have more specific information or context regarding the Securities Contracts (Regulation) Act, I would be happy to help further.
 subject: Criminal or Civil Law

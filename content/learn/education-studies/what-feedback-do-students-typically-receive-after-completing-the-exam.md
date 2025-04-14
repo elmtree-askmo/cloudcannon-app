@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     What feedback do students typically receive after completing the exam?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information does not provide specific details about the feedback students typically receive after completing the Fiji Year 8 Basic Science Examination. It mainly includes exam instructions, results statistics, and general comments on student performance from previous years, but lacks direct insights into the feedback process for students post-examination.
 subject: Education Studies

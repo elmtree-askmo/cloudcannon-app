@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     How is Emotional and Social Development evaluated in the examination?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information does not provide specific details on how Emotional and Social Development is evaluated in the Fiji Year 8 Examination. It primarily discusses general examination results, educational challenges, and the importance of social-emotional development in early childhood without detailing the assessment methods used in the Year 8 examination context. Further information or specific guidelines from the Ministry of Education regarding the evaluation criteria for Emotional and Social Development would be necessary to provide a comprehensive answer.
 subject: Health Studies
