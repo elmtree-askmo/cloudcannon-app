@@ -429,25 +429,30 @@ content_blocks:
             recomendación QuickTakes?
         answer:
           en: >-
-            <p>Yes! The QuickTakes Referral Program (available under Settings in
-            the app) was launched to allow you to share your love for QuickTakes
-            with your friends, fellow students and colleagues and earn free
-            minutes. Invite friends through your unique link, post on your
-            social profiles and earn a QT Boost (180 minutes of recording time)
-            when they join and create their first QuickTake. They also get a
-            free QT Boost! Win, Win! Earn up to 100 QT Boosts.</p>
+            <p>Yes! The QuickTakes Referral Program is designed to reward you
+            for sharing your enthusiasm for QuickTakes with friends, fellow
+            students, and colleagues.You can invite your friends in two easy
+            ways. Invite your friends using your unique referral link, which you
+            can find in the app under the Settings menu, or by sharing one of
+            your existing QuickTake files (by tapping on the tree dots in the
+            upper right corner of any QuickTakes). When your friend signs up
+            using your referral link, both of you will receive 6 bonus recording
+            hours! Win, Win!</p>
           zh_hk: >-
-            <p>可以！QuickTakes推薦計畫（可在應用程式的「設定」中選擇應用程式中的設定），讓您可以與您的朋友、同學和同事分享您對
-            QuickTakes 的喜愛，並賺取免費的錄音時間。您可透過您的獨特連結邀請朋友。在他們建立第一個 QuickTake
-            賬號時，雙方可賺取 QT Boost（180 分鐘錄影時間）。你們最多可賺取 100 次 免費 QT Boost。</p>
-          fr:
+            <p>可以！QuickTakes 推薦計畫旨在獎勵您分享對 QuickTakes
+            的熱情與朋友、同學和同事。您可以通過兩種簡單的方法邀請朋友。使用您的獨特推薦鏈接邀請好友，您可以在應用程式的設定菜單中找到該鏈接，或者通過分享您現有的
+            QuickTake 文件（點擊任何 QuickTakes 右上角的三個點）。當您的朋友使用您的推薦鏈接註冊時，您倆都將獲得 6
+            小時的額外錄音時間！雙贏！</p>
+          fr: ''
           sp: >-
-            <p>¡Sí! El Programa de recomendación de QuickTakes (disponible en
-            Configuración en la aplicación) se lanzó para permitirle compartir
-            su amor por QuickTakes con sus amigos, compañeros de estudios y
-            colegas y ganar minutos gratis. Invita a tus amigos a través de tu
-            enlace único, publica en tus perfiles sociales y gana un QT Boost
-            (180 minutos de tiempo de grabación) cuando se unan y creen su
-            primer QuickTake. ¡También obtienen un QT Boost gratis! ¡Gana, gana!
-            Gana hasta 100 aumentos de QT.</p>
+            <p>¡Sí! El Programa de Referidos de QuickTakes está diseñado para
+            recompensarte por compartir tu entusiasmo por QuickTakes con amigos,
+            compañeros de clase y colegas. Puedes invitar a tus amigos de dos
+            maneras sencillas. Invita a tus amigos usando tu enlace de referido
+            único, que puedes encontrar en la aplicación bajo el menú de
+            Configuración, o compartiendo uno de tus archivos QuickTake
+            existentes (tocando los tres puntos en la esquina superior derecha
+            de cualquier QuickTakes). ¡Cuando tu amigo se registre usando tu
+            enlace de referido, ambos recibirán 6 horas adicionales de
+            grabación! ¡Ganancia para ambos!</p>
 ---
