@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     What topics are covered under the 'Weather Components' section in the exam?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information does not provide specific details about the topics covered under the 'Weather Components' section of the Fiji Year 8 Basic Science Examination. There is a lack of direct references to the curriculum or exam content that would outline the specific topics included in that section. If you have access to the official curriculum or exam guidelines from the Ministry of Education in Fiji, that would be the best source for detailed information on the topics covered.
 subject: Education Studies

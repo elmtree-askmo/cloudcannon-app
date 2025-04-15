@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     What are the steps taken in Example 4 of solving triangles?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information does not provide specific details about Example 4 or the steps taken in that example for solving triangles. It mainly discusses general concepts and methods related to solving triangles, such as the Sine and Cosine Laws, but lacks the specific context or content of Example 4. If you have more specific details or context about Example 4, I would be happy to help further!
 subject: Mathematics

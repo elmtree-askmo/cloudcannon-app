@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     Are there any specific instructions for students with special needs during the exam?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information does not provide specific instructions or guidelines for students with special needs during the Fiji Year 8 Basic Science Examination. There is mention of students with disabilities and the establishment of special schools, but no detailed instructions or accommodations for the examination process itself are included. This gap limits the ability to provide a comprehensive response regarding the support available for students with special needs during the exam.
 subject: Education Studies

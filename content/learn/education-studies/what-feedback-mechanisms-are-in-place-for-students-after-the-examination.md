@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     What feedback mechanisms are in place for students after the examination?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information does not provide specific details regarding the feedback mechanisms in place for students after the Fiji Year 12 Chemistry Examination 2023. There is mention of the Ministry of Education reviewing the exam process and the release of examination results, but no explicit feedback mechanisms or processes for students post-examination are outlined.
 subject: Education Studies

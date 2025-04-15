@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     What is the role of CAC in junior high school curriculum planning?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information primarily pertains to various organizations and contexts associated with the acronym "CAC," such as the U.S. Army Combined Arms Center, Children's Advocacy Centers, and other unrelated topics. There is no specific information regarding the role of CAC in junior high school curriculum planning or its relevance to educational contexts. Therefore, I am unable to provide a relevant response.
 subject: Education Studies

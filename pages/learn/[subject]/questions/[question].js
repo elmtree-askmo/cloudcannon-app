@@ -377,7 +377,7 @@ export async function getStaticProps({ params }) {
   ]);
 
   // remove from SEO
-  if (pageData && pageData.data && noIndex) pageData.data.noIndex = 1;
+  if (pageData && pageData.data && (noIndex || !!pageData.data.no_index)) pageData.data.noIndex = 1;
 
   if (!pageData) {
     return {

@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     Can you describe an encounter with bandits during the Revolutionary War?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information does not provide specific encounters with bandits during the Revolutionary War, nor does it detail any personal experiences or narratives related to such encounters. The focus is primarily on military actions, challenges faced by troops, and notable figures, rather than on interactions with outlaws or bandits.
 subject: History of the World

@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     What were the main outcomes of the Prime Minister's visits to Southeast Asia?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information primarily discusses various Prime Ministers' visits to Southeast Asia, including those of New Zealand and India, but it does not provide specific outcomes or results from these visits. There are mentions of strengthening ties, enhancing defense cooperation, and promoting regional stability, but detailed outcomes or specific agreements resulting from these visits are not included in the information provided.
 subject: History of the World

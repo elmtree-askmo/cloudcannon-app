@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     What is the marking scheme for the examination?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information does not provide specific details about the marking scheme for the Fiji Year 12 Chemistry Examination 2023. It mentions assessment objectives and the total marks for the examination but does not outline how marks are allocated for different sections or types of questions. For a comprehensive understanding of the marking scheme, it would be necessary to refer to official documents or guidelines from the Ministry of Education in Fiji.
 subject: Chemistry

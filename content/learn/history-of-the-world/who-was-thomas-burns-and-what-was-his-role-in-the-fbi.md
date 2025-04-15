@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     Who was Thomas Burns and what was his role in the FBI?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information primarily discusses various individuals named Burns, including William John Burns, who was a private investigator and law enforcement official, and another Thomas Burns who had a significant role in U.S. diplomacy. However, there is no specific information regarding a Thomas Burns associated with the FBI or his role within the organization. This lack of context limits the ability to provide a comprehensive answer about Thomas Burns and his contributions to the FBI.
 subject: History of the World

@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     Can you elaborate on your academic qualifications and how they relate to your expertise in sustainable design?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information primarily focuses on academic programs, principles, and practices related to sustainable design and engineering, but it does not provide specific details about my academic qualifications or personal expertise in sustainable design. If you have any other questions or need information on a related topic, feel free to ask!
 subject: Engineering

@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     What are the key details of the Job Search Skills Event, such as date, location, and target audience?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information does not provide specific details about a particular Job Search Skills Event, such as its date, location, or target audience. Instead, it includes general information about job search strategies, workshops, and events, but lacks concrete details about a specific event. If you have more specific information or context about a particular Job Search Skills Event, I would be happy to help you formulate a response.
 subject: Education Studies

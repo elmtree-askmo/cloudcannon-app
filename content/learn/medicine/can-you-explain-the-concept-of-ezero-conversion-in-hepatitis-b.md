@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     Can you explain the concept of E-zero conversion in Hepatitis B?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information primarily discusses hepatitis B e antigen (HBeAg) seroconversion and its implications in chronic hepatitis B (CHB) treatment, but it does not provide specific details about the concept of E-zero conversion in hepatitis B. There may be a gap in the information regarding this specific term, and further research or sources would be needed to provide a comprehensive explanation.
 subject: Medicine

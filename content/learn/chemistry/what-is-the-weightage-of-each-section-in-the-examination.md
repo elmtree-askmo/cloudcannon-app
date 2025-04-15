@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     What is the weightage of each section in the examination?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information does not provide specific details regarding the weightage of each section in the Fiji Year 12 Chemistry Examination for 2023. To obtain this information, one would typically refer to the official examination syllabus or guidelines provided by the Ministry of Education in Fiji, which may outline the distribution of marks across different sections of the examination.
 subject: Chemistry

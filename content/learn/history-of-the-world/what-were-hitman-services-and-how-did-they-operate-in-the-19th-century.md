@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     What were hitman services and how did they operate in the 19th century?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information primarily discusses the emergence and operation of hitman services in the 20th century, with limited references to their activities in the 19th century. While it mentions the rise of organized crime and the existence of criminal networks during that time, it does not provide specific details on how hitman services operated in the 19th century. Additionally, the information lacks a comprehensive historical context or examples from that period.
 subject: History of the World

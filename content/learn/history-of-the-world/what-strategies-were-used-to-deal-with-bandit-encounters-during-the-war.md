@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     What strategies were used to deal with bandit encounters during the war?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information primarily discusses strategies employed by the British and American forces during the Revolutionary War, as well as the broader context of the conflict. However, it does not provide specific details on strategies used to deal with bandit encounters during the war. There is a mention of bandit raids in a different context, but it does not relate directly to the Revolutionary War or the strategies employed by either side in that conflict.
 subject: History of the World

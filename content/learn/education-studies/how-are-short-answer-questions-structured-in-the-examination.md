@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     How are short answer questions structured in the examination?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information does not provide specific details about the structure of short answer questions in the Ministry of Education Fiji Year 12 Chemistry Examination for 2023. There are references to examination instructions and answer booklets, but no explicit description of how short answer questions are structured. Additional resources or documents would be needed to provide a comprehensive overview of this aspect of the examination.
 subject: Education Studies

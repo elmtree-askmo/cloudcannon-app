@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     Can you explain the concept of neural democracy rules in the context of visual perception?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information does not specifically mention "neural democracy rules" in the context of visual perception, nor does it provide a clear definition or explanation of this concept. The information primarily discusses shared neural mechanisms, visual processing, and the relationship between perception and imagery, but lacks details on neural democracy rules. If you have more specific information or context regarding this term, I would be happy to help further.
 subject: Psychology

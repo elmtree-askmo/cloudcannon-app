@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     What percentage of the US domestic market is supplied by international textile trade?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered data provides insights into the U.S. textile and apparel imports, including values and growth rates, but it does not specify the exact percentage of the U.S. domestic market that is supplied by international textile trade. To accurately determine this percentage, additional data on the total size of the U.S. textile market and the proportion of that market accounted for by imports would be necessary.
 subject: Economics

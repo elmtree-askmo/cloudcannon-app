@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     Where will the final exam take place?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information does not specify the location of the final exam for Latin courses or any specific details regarding where the exam will take place. It primarily discusses the content, structure, and scheduling of the exams without mentioning the physical or virtual location.
 subject: Education Studies

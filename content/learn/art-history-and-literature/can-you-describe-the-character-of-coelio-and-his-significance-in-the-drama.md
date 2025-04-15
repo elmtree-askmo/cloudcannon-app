@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     Can you describe the character of Coelio and his significance in the drama?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information does not provide specific details about the character of Coelio or his significance in any drama. There is a focus on various themes and characters from different plays, but no direct reference to Coelio or his role. If you have more specific information or context regarding Coelio, I would be happy to help analyze or elaborate on that.
 subject: Art History and Literature

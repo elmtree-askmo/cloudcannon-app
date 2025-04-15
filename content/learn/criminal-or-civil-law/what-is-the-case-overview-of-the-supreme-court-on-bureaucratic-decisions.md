@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     What is the case overview of the Supreme Court on bureaucratic decisions?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information primarily pertains to the U.S. Supreme Court's decisions regarding bureaucratic decisions and federal regulatory power, particularly focusing on the Chevron case and its implications. However, there is no specific information regarding the Supreme Court of India or its rulings on bureaucratic decisions, which is necessary to provide a comprehensive overview of that topic.
 subject: Criminal or Civil Law
