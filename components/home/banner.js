@@ -36,6 +36,7 @@ export default function Banner({ content, block, language = "en", utmParams = nu
               <div className={styles["download-group"]}>
                 <Link href={appStoreLink} target="_blank">
                   <Image 
+                    className={styles["download-group-img"]}
                     src="/appStore.svg" 
                     alt="appStore" 
                     width={227} 
@@ -43,14 +44,31 @@ export default function Banner({ content, block, language = "en", utmParams = nu
                     priority={true}
                     loading="eager"
                   />
+                  <Image
+                    className={styles["download-group-rating"]}
+                    src="/4.7.png" 
+                    alt="4.7 Star Rating in iOS"
+                    width={100} 
+                    height={100} 
+                    loading="eager"
+                  />
                 </Link>
                 <Link href={googlePlayLink} target="_blank">
                   <Image 
+                    className={styles["download-group-img"]}
                     src="/googlePlay.svg" 
                     alt="googlePlay" 
                     width={227} 
                     height={65} 
                     priority={true}
+                    loading="eager"
+                  />
+                  <Image
+                    className={styles["download-group-rating"]}
+                    src="/4.6.png" 
+                    alt="4.6 Star Rating in Android"
+                    width={100} 
+                    height={100} 
                     loading="eager"
                   />
                 </Link>
