@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     What is the marking scheme for Section A?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information does not provide specific details about the marking scheme for Section A of the Fiji Year 8 Basic Science Examination. There are general instructions and guidelines mentioned, but no explicit information regarding how marks are allocated for Section A. If you have access to the official examination guidelines or marking rubrics, that would be the best source for this information.
 subject: Education Studies

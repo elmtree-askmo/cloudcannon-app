@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     What are the submission guidelines for neural network projects?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information primarily pertains to submission guidelines for journal articles and conference papers related to neural networks, rather than specific guidelines for submitting neural network projects. There are mentions of submission processes for letters and articles in journals, as well as some details about project submissions in a course context, but no comprehensive guidelines for neural network project submissions are provided. If you have specific contexts or institutions in mind, I could help you find more targeted information.
 subject: Computer Science

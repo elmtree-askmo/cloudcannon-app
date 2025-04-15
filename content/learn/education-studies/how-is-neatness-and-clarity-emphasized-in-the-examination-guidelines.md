@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     How is neatness and clarity emphasized in the examination guidelines?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information does not specifically address the examination guidelines related to neatness and clarity in the Fiji Year 8 Examination. There are mentions of the examination's purpose and the number of students participating, but no details on the emphasis placed on neatness and clarity in the examination guidelines.
 subject: Education Studies

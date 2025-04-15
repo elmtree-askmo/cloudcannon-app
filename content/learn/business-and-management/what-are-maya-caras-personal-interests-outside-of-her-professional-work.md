@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     What are Maya Cara's personal interests outside of her professional work?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information primarily focuses on Maya Cara's professional background, academic interests, and teaching style, but does not provide any details regarding her personal interests outside of her professional work. There are no references to her hobbies, activities, or preferences that would give insight into her personal life.
 subject: Business and Management

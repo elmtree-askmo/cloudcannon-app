@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     What is the Dues Meitats method for evaluating internal consistency?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information does not mention the Dues Meitats method specifically, nor does it provide details about any method by that name for evaluating internal consistency. The information primarily discusses various established methods for assessing internal consistency, such as Cronbach's alpha, the split-half method, and Kuder-Richardson 20 (KR-20), but does not include the Dues Meitats method. If you have more specific details or context about this method, I would be happy to help further.
 subject: Education Studies

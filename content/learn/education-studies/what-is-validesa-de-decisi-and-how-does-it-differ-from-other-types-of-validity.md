@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     What is Validesa de Decisió and how does it differ from other types of validity?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information does not provide any specific details about "Validesa de Decisió" or its distinctions from other types of validity. It primarily discusses various types of validity in general, such as content validity, criterion validity, and construct validity, but does not mention "Validesa de Decisió" or its characteristics. If you have more specific information or context regarding "Validesa de Decisió," I would be happy to help further.
 subject: Education Studies

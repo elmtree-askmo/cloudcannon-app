@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     How does the foundation evaluate the effectiveness of its trauma counseling services?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information does not provide specific details on how the Anne Maria D’Amico Foundation evaluates the effectiveness of its trauma counseling services. While it mentions the use of trauma-informed care (TIC) frameworks and the importance of organizational support in implementing TIC, it lacks concrete evaluation methods or metrics used by the foundation to assess the impact of its counseling services. Further details on their evaluation processes or outcomes would be necessary to provide a comprehensive answer.
 subject: Health Studies

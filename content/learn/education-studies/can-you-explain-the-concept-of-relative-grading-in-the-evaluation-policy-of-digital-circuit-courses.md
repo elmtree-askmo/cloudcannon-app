@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     Can you explain the concept of relative grading in the evaluation policy of digital circuit courses?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information does not provide specific details about the concept of relative grading in the evaluation policy of digital circuit courses. It primarily focuses on course content, grading components, and general course structure without delving into grading policies or methodologies. If you have more specific information or context regarding relative grading, I would be happy to help further.
 subject: Education Studies

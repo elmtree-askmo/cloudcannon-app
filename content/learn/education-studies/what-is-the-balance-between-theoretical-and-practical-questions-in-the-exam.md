@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     What is the balance between theoretical and practical questions in the exam?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information does not provide specific details regarding the balance between theoretical and practical questions in the Fiji Year 8 Basic Science Examination 2017. There is no mention of the types or proportions of questions included in the exam, which limits the ability to provide a comprehensive response on this aspect.
 subject: Education Studies

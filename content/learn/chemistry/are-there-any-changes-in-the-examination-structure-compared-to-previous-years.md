@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     Are there any changes in the examination structure compared to previous years?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information does not provide specific details regarding changes in the examination structure for the Year 12 Chemistry Examination in Fiji for 2023 compared to previous years. It primarily includes general instructions, time allowances, and references to documents without explicit comparisons or changes noted. For a comprehensive overview of any changes, it would be necessary to have access to the examination structures from previous years for direct comparison.
 subject: Chemistry

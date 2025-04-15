@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     What were the legal implications of the CBC vs. Unknown Persons case?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information does not specifically mention a case titled "CBC vs. Unknown Persons," nor does it provide details about its legal implications. The information primarily discusses various cases involving "persons unknown" and the legal principles surrounding injunctions and claims against unidentified defendants, but it does not directly relate to the CBC case or its outcomes. If you have more specific details or context about the CBC case, I may be able to provide a more relevant response.
 subject: Criminal or Civil Law

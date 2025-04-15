@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     How is a location joint used in pattern making, and why is it important?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information primarily focuses on various aspects of metal casting, including parting lines, joining methods, and design considerations, but it does not provide specific details about the use of location joints in pattern making or their importance. There is a lack of relevant information regarding the specific role and significance of location joints in the context of pattern making for metal casting.
 subject: Engineering

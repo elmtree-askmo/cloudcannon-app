@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     What is the format of the final exam and how much time is allocated for each section?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information does not provide specific details regarding the format of the final exam or the time allocated for each section. It mentions that the final exam is a take-home exam covering material from the midterm through the end of the class, but it lacks further specifics about the structure or timing.
 subject: Education Studies

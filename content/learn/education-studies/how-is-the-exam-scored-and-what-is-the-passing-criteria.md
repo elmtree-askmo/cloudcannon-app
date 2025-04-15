@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     How is the exam scored and what is the passing criteria?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information does not provide specific details regarding how the Fiji Year 8 Basic Science Examination is scored or what the passing criteria are. There is a lack of data on grading scales, minimum passing marks, or any specific assessment criteria used in the examination. If you have access to additional resources or documents that outline these details, I would be happy to help interpret that information.
 subject: Education Studies

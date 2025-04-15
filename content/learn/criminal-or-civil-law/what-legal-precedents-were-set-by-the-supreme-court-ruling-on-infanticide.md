@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     What legal precedents were set by the Supreme Court ruling on infanticide?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information does not provide specific details about any Supreme Court ruling directly related to infanticide or the legal precedents set by such a ruling. It primarily discusses broader topics such as abortion rights, mental health defenses in infanticide cases, and the implications of various Supreme Court decisions, but lacks focused content on infanticide law itself. Therefore, I cannot provide a comprehensive response regarding the legal precedents set by the Supreme Court ruling on infanticide.
 subject: Criminal or Civil Law

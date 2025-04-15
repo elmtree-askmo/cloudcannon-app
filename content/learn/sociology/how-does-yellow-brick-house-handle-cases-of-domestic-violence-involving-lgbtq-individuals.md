@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     How does Yellow Brick House handle cases of domestic violence involving LGBTQ+ individuals?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information does not specifically address how Yellow Brick House handles cases of domestic violence involving LGBTQ+ individuals. While it mentions the organization's general support for victims of domestic violence and highlights its commitment to empowering women and children, there is no detailed information regarding specific policies or programs tailored for LGBTQ+ individuals. Additional research or direct inquiry with Yellow Brick House would be necessary to obtain this information.
 subject: Sociology

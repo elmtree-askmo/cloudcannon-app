@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     How have the public and political entities reacted to the Supreme Court's observations on bureaucratic decisions?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information primarily discusses the U.S. Supreme Court's decisions and public reactions in the context of federal administrative law, particularly regarding agency power and regulatory authority. It does not provide specific insights or reactions related to the Supreme Court's observations on bureaucratic decisions in India or any related political entities. Therefore, there is a gap in the information needed to address the question accurately.
 subject: Criminal or Civil Law

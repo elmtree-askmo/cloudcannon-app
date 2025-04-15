@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     Did the individual face any backlash from their family or community due to their activism?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information does not provide specific details regarding any backlash faced by the individual from their family or community due to their activism. It primarily discusses general themes related to activism, racial segregation, and the role of organizations like the NAACP, but lacks direct references to personal experiences of backlash or familial responses.
 subject: Sociology

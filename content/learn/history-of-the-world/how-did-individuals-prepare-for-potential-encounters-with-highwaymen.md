@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     How did individuals prepare for potential encounters with highwaymen?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information primarily discusses the historical context of highwaymen, their activities, and their portrayal in literature, but it does not provide specific details on how individuals prepared for encounters with highwaymen. There is a lack of information regarding the strategies or precautions taken by travelers during that time to avoid or deal with highway robbery.
 subject: History of the World

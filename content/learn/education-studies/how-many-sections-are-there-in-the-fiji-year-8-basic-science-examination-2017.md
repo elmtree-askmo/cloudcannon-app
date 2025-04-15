@@ -17,6 +17,7 @@ seo:
 author: QuickTakes
 question: >-
     How many sections are there in the Fiji Year 8 Basic Science Examination 2017?
+no_index: True
 answer: >-
     I cannot answer this question based on the available information. The gathered information does not specify the number of sections in the Fiji Year 8 Basic Science Examination 2017. It primarily includes instructions and general details about the examination but lacks specific details regarding the exam structure or the number of sections.
 subject: Education Studies
