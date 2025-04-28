@@ -68,6 +68,13 @@ export default function Header({ pathname, theme, language, setLanguage, utmPara
     router.push("/");
   };
 
+  const getCookie = (name) => {
+    const value = `; ${document.cookie}`;
+    const parts = value.split(`; ${name}=`);
+    if (parts.length === 2) return parts.pop().split(';').shift();
+    return "";
+  }
+
   useEffect(() => {
     const hideBannerTS = parseInt(localStorage.getItem("hideBannerTS"));
     if (!hideBannerTS) {
@@ -85,7 +92,17 @@ export default function Header({ pathname, theme, language, setLanguage, utmPara
   useEffect(() => {
     const localAppData = localStorage.getItem("appData");
     const appData = !!localAppData ? JSON.parse(localAppData) : {};
-    setIsLoggedIn(!!appData.userId);
+
+    // localStorage
+    if(appData && appData.userId) {
+      setIsLoggedIn(!!appData.userId);
+    } else {
+      // cookie
+      const qtApp = getCookie(`qtapp`);
+      const qtAppData = !!qtApp ? JSON.parse(qtApp) : {};
+      if(qtAppData)
+        setIsLoggedIn(!!qtAppData.userId);
+    }
   }, []);
 
   const customDropDownRender = (menus) => {
