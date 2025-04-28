@@ -75,7 +75,17 @@ export default function TopQuestion({ page, subjectKey, subjectTitle, questionKe
   useEffect(() => {
     const localAppData = localStorage.getItem("appData");
     const appData = !!localAppData ? JSON.parse(localAppData) : {};
-    setIsLoggedIn(!!appData.userId);
+
+    // localStorage
+    if(appData && appData.userId) {
+      setIsLoggedIn(!!appData.userId);
+    } else {
+      // cookie
+      const qtApp = getCookie(`qtapp`);
+      const qtAppData = !!qtApp ? JSON.parse(qtApp) : {};
+      if(qtAppData)
+        setIsLoggedIn(!!qtAppData.userId);
+    }
   }, []);
 
   const handleBackClick = () => {
