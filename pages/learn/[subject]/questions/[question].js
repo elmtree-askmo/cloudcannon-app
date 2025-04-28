@@ -72,6 +72,13 @@ export default function TopQuestion({ page, subjectKey, subjectTitle, questionKe
 
   const [isLoggedIn, setIsLoggedIn] = useState(false);
 
+  const getCookie = (name) => {
+    const value = `; ${document.cookie}`;
+    const parts = value.split(`; ${name}=`);
+    if (parts.length === 2) return parts.pop().split(';').shift();
+    return "";
+  }
+
   useEffect(() => {
     const localAppData = localStorage.getItem("appData");
     const appData = !!localAppData ? JSON.parse(localAppData) : {};
