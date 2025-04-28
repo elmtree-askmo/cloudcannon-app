@@ -22,7 +22,9 @@ export default function LocalStorage({}) {
         const { action, payload } = data;
         switch (action) {
           case "setMarketingSiteLocalStorage":
-            localStorage.setItem("appData", JSON.stringify(payload));
+            const appData = JSON.stringify(payload);
+            localStorage.setItem("appData", appData); // add to localStorage
+            document.cookie = `qtapp=${appData)}`; // add to cookie
             console.log("Successfully set localStorage data:", payload);
             break;
           default:
