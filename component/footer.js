@@ -152,7 +152,7 @@ export default function Footer({ theme, language = 'en', utmParams = null }) {
         </div>
         <div className={styles["footer"]}>
           <p>
-            EdKey, Inc. All Rights Reserved © 2024
+            EdKey, Inc. All Rights Reserved © {(new Date()).getFullYear()}
           </p>
         </div>
       </div>
