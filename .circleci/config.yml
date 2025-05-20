@@ -28,7 +28,7 @@ jobs:
       - run: |
           aws s3 sync ./out s3://staging.quicktakes.io/ --delete
       - run:
-          command: aws cloudfront create-invalidation --distribution-id E1GK6MTIKBXLSJ --paths /* && rm -rf build
+          command: aws cloudfront create-invalidation --distribution-id E1GK6MTIKBXLSJ --paths /* && rm -rf out
 
 workflows:
   build-and-push-staging:
