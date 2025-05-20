@@ -7,7 +7,7 @@ orbs:
 jobs:
   build-staging:
     docker:
-      - image: cimg/node:16.20
+      - image: cimg/node:24.0.2
     environment:
       DOCKER_BUILDKIT: "1"
     steps:
