@@ -1,0 +1,75 @@
+version: 2.1
+
+orbs:
+  aws-s3: circleci/aws-s3@3.0.0
+  aws-cli: circleci/aws-cli@2.0.3
+
+jobs:
+  build-staging:
+    docker:
+      - image: cimg/node:24.0.2
+    environment:
+      DOCKER_BUILDKIT: "1"
+    steps:
+      - checkout
+      - aws-cli/setup
+      - restore_cache:
+          key: dependency-cache-{{checksum "package.json"}}
+      - run:
+          command: npm install
+      - save_cache:
+          key: dependency-cache-{{checksum "package.json"}}
+          paths:
+            - node_modules
+            - ~/.npm
+            - ~/.cache
+      - run: |
+          npx next build
+      - run: |
+          aws s3 sync ./out s3://staging.quicktakes.io/ --delete
+      - run:
+          command: aws cloudfront create-invalidation --distribution-id E1GK6MTIKBXLSJ --paths /* && rm -rf out
+  build-prod:
+    docker:
+      - image: cimg/node:24.0.2
+    environment:
+      DOCKER_BUILDKIT: "1"
+    steps:
+      - checkout
+      - aws-cli/setup
+      - restore_cache:
+          key: dependency-cache-{{checksum "package.json"}}
+      - run:
+          command: npm install
+      - save_cache:
+          key: dependency-cache-{{checksum "package.json"}}
+          paths:
+            - node_modules
+            - ~/.npm
+            - ~/.cache
+      - run: |
+          npx next build
+      - run: |
+          aws s3 sync ./out s3://quicktakes.io/ --delete
+      - run:
+          command: aws cloudfront create-invalidation --distribution-id ETELF0326ONSX --paths /* && rm -rf out
+
+workflows:
+  build-and-push-staging:
+    jobs:
+      - build-staging:
+          context: 
+            - askmo_context
+          filters:
+            branches:
+              only:
+                - develop
+  build-and-push-prod:
+    jobs:
+      - build-prod:
+          context: 
+            - askmo_context
+          filters:
+            branches:
+              only:
+                - main
