@@ -24,7 +24,9 @@ jobs:
             - ~/.npm
             - ~/.cache
       - run: |
-          npx next build
+          aws s3 cp s3://s3-staging-edkey-environment-variables/env_vars_quicktakes_cloudcannon.env .env.aws-staging
+          echo "REACT_APP_REVISION=$(git rev-parse --short HEAD)" &>> .env.aws-staging
+          (set -a && source .env.aws-staging && npx next build)
       - run: |
           aws s3 sync ./out s3://staging.quicktakes.io/ --delete
       - run:
@@ -48,7 +50,9 @@ jobs:
             - ~/.npm
             - ~/.cache
       - run: |
-          npx next build
+          aws s3 cp s3://s3-prod-edkey-environment-variables/env_vars_quicktakes_cloudcannon.env .env.aws-prod
+          echo "REACT_APP_REVISION=$(git rev-parse --short HEAD)" &>> .env.aws-prod
+          (set -a && source .env.aws-prod && npx next build)
       - run: |
           aws s3 sync ./out s3://quicktakes.io/ --delete
       - run:
