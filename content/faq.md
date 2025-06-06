@@ -282,17 +282,13 @@ content_blocks:
           sp: Puedo escuchar la conferencia que grabé para recibir un QuickTake?
         answer:
           en: >-
-            While we do make recordings, those recordings are fed into an
-            AI-engine to produce a transcript, study guide, practice problems,
-            outline, and glossary of the recorded lecture. So, while you get
-            returned all these valuable study aids, we don't actually provide
-            the ability to hear the recording after it is uploaded to create
-            these documents. We are looking into possibly doing this and will
-            update our QuickTakes users if we're able to implement this
-            functionality.
+            Yes! We now offer the ability to listen to your recordings. From any
+            QuickTake where you've made a recording, you'll see "Soure: Live
+            Recording" just below the title. Simply click on the Live Recording
+            link and then press play. 
           zh_hk: >-
             儘管我們會錄音，並透過人工智能引擎生成講義、學習指南、練習題、大綱和詞彙表。但我們實際上並不提供聆聽錄音的功能。我們正在研究相關功能的可行性。若能實現此功能，我們會儘快通知QuickTakes的用戶。
-          fr:
+          fr: ''
           sp: >-
             Si bien hacemos grabaciones, esas grabaciones se introducen en un
             motor de inteligencia artificial para producir una transcripción,
