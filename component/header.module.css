@@ -2,14 +2,16 @@
   background: var(--student-bg-theme);
   color: #fff;
   height: 80px;
-  position: sticky;
-  top: 0;
+  position: sticky; /* changed back to sticky for proper scrolling behavior */
+  top: 0; /* will be adjusted by CSS when banner is visible */
   left: 0;
   right: 0;
   width: 100%;
-  z-index: 100;
+  z-index: 999; /* lower than banner but still above other content */
   box-shadow: 0px 1px 1px 0px #484D5C;
 }
+
+/* No header offset needed; banner sits below header */
 
 /* .header.b2b{
     background: #fff;
