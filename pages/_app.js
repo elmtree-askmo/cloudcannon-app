@@ -3,6 +3,7 @@ import mixpanel from "mixpanel-browser";
 import { MIXPANEL_ID } from "../constant/app.constant";
 import Header from "../component/header";
 import Footer from "../component/footer";
+import CampaignBanner from "../components/campaignBanner";
 import { useRouter } from "next/router";
 import Head from "next/head";
 import Script from "next/script";
@@ -105,6 +106,7 @@ export default function App({ Component, pageProps }) {
       <GoogleTagManager />
       <Script src="https://www.googleoptimize.com/optimize.js?id=OPT-KQRJT68"></Script>
       <div>
+        <CampaignBanner />
         <HeaderComponent 
           pathname={pathname} 
           theme={theme} 

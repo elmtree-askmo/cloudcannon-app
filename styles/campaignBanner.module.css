@@ -1,0 +1,333 @@
+.banner {
+    position: sticky; /* changed to sticky so it sticks to top when scrolling */
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    background: #FFF9DB; /* light yellow */
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.06);
+    min-height: 32px; /* flexible height for responsive text wrapping */
+    transition: all 0.3s ease; /* smooth transition for fade effect */
+  }
+  
+  /* Fade effect when scrolled */
+  .bannerFaded {
+    opacity: 0.3;
+    transform: translateY(-100%);
+    pointer-events: none; /* disable interactions when faded */
+  }
+  
+  /* Smooth transition back when scrolling to top */
+  .banner:not(.bannerFaded) {
+    opacity: 1;
+    transform: translateY(0);
+    pointer-events: auto; /* re-enable interactions */
+  }
+  
+  .bannerContent {
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 12px var(--header-footer-padding);
+    min-height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* changed to space-between to accommodate close button */
+    gap: 16px;
+    flex-wrap: wrap; /* allow content to wrap to next line */
+  }
+  
+  .bannerText {
+    display: flex;
+    align-items: center;
+    justify-content: center; /* center the text content */
+    gap: 8px;
+    color: #4D3B00; /* dark text on light yellow */
+    font-size: 14px;
+    font-weight: 500;
+    flex: 1;
+    flex-wrap: wrap; /* allow text to wrap */
+    align-items: flex-start; /* align items to top when wrapping */
+  }
+  
+  .emoji {
+    font-size: 18px;
+    line-height: 1;
+    flex-shrink: 0; /* prevent emojis from shrinking */
+  }
+  
+  .message {
+    line-height: 1.4;
+    display: flex;
+    align-items: center;
+    justify-content: center; /* center the message content */
+    gap: 8px;
+    flex: 1;
+    flex-wrap: wrap; /* allow text to wrap */
+    align-items: flex-start; /* align items to top when wrapping */
+  }
+  
+  .message strong {
+    font-weight: 700;
+    white-space: nowrap; /* keep strong text together */
+  }
+  
+  .campaignLink {
+    color: #0000FF !important; /* light blue link */
+    text-decoration: underline;
+    font-weight: 600;
+    font-size: 14px;
+    white-space: nowrap;
+    margin-left: auto !important; /* push link to the right */
+    flex-shrink: 0; /* prevent link from shrinking */
+  }
+  
+  .campaignLink:hover {
+    text-decoration: none;
+  }
+  
+  .note {
+    margin-left: 10px;
+    color: rgba(77, 59, 0, 0.75);
+    font-size: 12px; /* smaller and lighter */
+    flex-shrink: 0; /* prevent note from shrinking */
+  }
+  
+  /* Close button styles */
+  .closeButton {
+    background: none;
+    border: none;
+    color: #4D3B00;
+    font-size: 24px;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 4px 8px;
+    border-radius: 4px;
+    transition: background-color 0.2s ease;
+    flex-shrink: 0;
+    line-height: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 32px;
+    min-height: 32px;
+  }
+  
+  .closeButton:hover {
+    background-color: rgba(77, 59, 0, 0.1);
+  }
+  
+  .closeButton:active {
+    background-color: rgba(77, 59, 0, 0.2);
+  }
+  
+  /* no dismiss button */
+  
+  /* no slide animation for a subtle bar */
+  
+  /* Offset the page content (including sticky header) while banner is visible */
+  /* Add margin-top to body when banner is visible to prevent overlap */
+  body.banner-visible {
+    margin-top: 0; /* no body margin needed with sticky positioning */
+  }
+  
+  /* Ensure header sticks below banner when banner is visible */
+  body.banner-visible .header {
+    top: 60px !important; /* position header below banner (banner height + padding) */
+  }
+  
+  /* Ensure header stays at top when banner is dismissed */
+  body:not(.banner-visible) .header {
+    top: 0 !important;
+  }
+  
+  /* Responsive design */
+  @media (max-width: 1024px) {
+    body.banner-visible .header {
+      top: 58px !important; /* tablet banner height */
+    }
+    body:not(.banner-visible) .header {
+      top: 0 !important;
+    }
+    .bannerContent {
+      padding: 10px var(--header-footer-padding);
+      gap: 14px;
+      justify-content: center; /* ensure centering on tablets */
+    }
+    .bannerText {
+      font-size: 13px;
+      gap: 6px;
+      justify-content: center; /* center text on tablets */
+    }
+    .message {
+      justify-content: center; /* center message on tablets */
+    }
+    .emoji {
+      font-size: 16px;
+    }
+    .campaignLink {
+      font-size: 13px;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    body.banner-visible .header {
+      top: 80px !important; /* mobile banner height */
+    }
+    body:not(.banner-visible) .header {
+      top: 0 !important;
+    }
+    .bannerContent {
+      padding: 8px var(--header-footer-padding);
+      gap: 12px;
+      min-height: 28px;
+      justify-content: space-between; /* maintain space-between for close button */
+      flex-direction: row; /* keep horizontal layout on mobile */
+      align-items: center;
+    }
+    .bannerText {
+      font-size: 12px;
+      gap: 6px;
+      justify-content: center; /* center text on mobile */
+      width: auto; /* allow natural width */
+      text-align: center;
+      flex: 1;
+    }
+    .message {
+      justify-content: center; /* center message on mobile */
+      gap: 6px;
+      width: 100%; /* take full width */
+      flex-direction: row; /* keep emoji and text on same line */
+      align-items: center;
+      flex-wrap: wrap; /* allow wrapping if needed */
+    }
+    .campaignLink {
+      font-size: 12px;
+      margin-top: 0; /* rely on container gap for consistent spacing */
+      margin-left: 0 !important; /* remove left margin */
+      width: 100%; /* take full width for the link */
+      text-align: center;
+    }
+    .closeButton {
+      font-size: 20px;
+      min-width: 28px;
+      min-height: 28px;
+      padding: 2px 6px;
+      order: -1; /* move close button to the left on mobile */
+    }
+    .emoji {
+      font-size: 15px;
+    }
+    .note {
+      font-size: 11px;
+      margin-left: 8px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    body.banner-visible .header {
+      top: 85px !important; /* small mobile banner height */
+    }
+    body:not(.banner-visible) .header {
+      top: 0 !important;
+    }
+    .bannerContent {
+      padding: 6px var(--header-footer-padding);
+      gap: 8px;
+      min-height: 26px;
+      justify-content: space-between; /* maintain space-between for close button */
+      flex-direction: row; /* keep horizontal layout on small mobile */
+      align-items: center;
+    }
+    .bannerText {
+      font-size: 11px;
+      gap: 4px;
+      justify-content: center; /* center text on small mobile */
+      width: auto; /* allow natural width */
+      text-align: center;
+      flex: 1;
+    }
+    .message {
+      justify-content: center; /* center message on small mobile */
+      gap: 4px;
+      width: 100%; /* take full width */
+      flex-direction: row; /* keep emoji and text on same line */
+      align-items: center;
+      flex-wrap: wrap; /* allow wrapping if needed */
+    }
+    .campaignLink {
+      font-size: 11px;
+      margin-top: 0; /* rely on container gap for consistent spacing */
+      margin-left: 0 !important; /* remove left margin */
+      width: 100%; /* take full width for the link */
+      text-align: center;
+    }
+    .closeButton {
+      font-size: 18px;
+      min-width: 26px;
+      min-height: 26px;
+      padding: 2px 4px;
+      order: -1; /* move close button to the left on small mobile */
+    }
+    .emoji {
+      font-size: 14px;
+    }
+    .note {
+      font-size: 10px;
+      margin-left: 6px;
+    }
+  }
+  
+  @media (max-width: 360px) {
+    body.banner-visible .header {
+      top: 90px !important; /* extra small mobile banner height */
+    }
+    body:not(.banner-visible) .header {
+      top: 0 !important;
+    }
+    .bannerContent {
+      padding: 4px var(--header-footer-padding);
+      gap: 6px;
+      min-height: 24px;
+      justify-content: space-between; /* maintain space-between for close button */
+      flex-direction: row; /* keep horizontal layout on extra small mobile */
+      align-items: center;
+    }
+    .bannerText {
+      font-size: 10px;
+      gap: 3px;
+      justify-content: center; /* center text on extra small mobile */
+      width: auto; /* allow natural width */
+      text-align: center;
+      flex: 1;
+    }
+    .message {
+      justify-content: center; /* center message on extra small mobile */
+      gap: 3px;
+      width: 100%; /* take full width */
+      flex-direction: row; /* keep emoji and text on same line */
+      align-items: center;
+      flex-wrap: wrap; /* allow wrapping if needed */
+    }
+    .campaignLink {
+      font-size: 10px;
+      margin-top: 0; /* rely on container gap for consistent spacing */
+      margin-left: 0 !important; /* remove left margin */
+      width: 100%; /* take full width for the link */
+      text-align: center;
+    }
+    .closeButton {
+      font-size: 16px;
+      min-width: 24px;
+      min-height: 24px;
+      padding: 1px 3px;
+      order: -1; /* move close button to the left on extra small mobile */
+    }
+    .emoji {
+      font-size: 13px;
+    }
+    .note {
+      font-size: 9px;
+      margin-left: 4px;
+    }
+  }
+  
