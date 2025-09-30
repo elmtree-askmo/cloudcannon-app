@@ -18,3 +18,4 @@ export const SITEMAP = {
     '/teachers': ' ',
     '/teachers-try-it-now':' (Try it Now) '
 }
+export const CAMPAIGN_BANNER_ENABLED = false; // true for enable, false for disable

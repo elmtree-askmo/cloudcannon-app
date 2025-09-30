@@ -11,6 +11,8 @@ import { CloudCannonConnect } from "@cloudcannon/react-connector";
 import Hotjar from "@hotjar/browser";
 import { useEffect, useState, useMemo } from "react";
 
+import { CAMPAIGN_BANNER_ENABLED } from "../constant/app.constant";
+
 mixpanel.init(MIXPANEL_ID, { debug: false });
 const siteId = process.env.NEXT_PUBLIC_HOTJARID;
 const hotjarVersion = process.env.NEXT_PUBLIC_HOTJAR_VERSION;
@@ -106,7 +108,7 @@ export default function App({ Component, pageProps }) {
       <GoogleTagManager />
       <Script src="https://www.googleoptimize.com/optimize.js?id=OPT-KQRJT68"></Script>
       <div>
-        <CampaignBanner />
+        {CAMPAIGN_BANNER_ENABLED && <CampaignBanner />}
         <HeaderComponent 
           pathname={pathname} 
           theme={theme} 
