@@ -38,12 +38,13 @@ const CampaignBanner = () => {
       <div className={styles.bannerContent}>
         <div className={styles.bannerText}>
           <span className={styles.message}>
-            <span className={styles.emoji}>🎥</span>
+            <span>QuickTakes 🎓 Premium 50% Off: Just $30 for 3 months + a 3-day free trial. Try Now!</span>
+            {/* <span className={styles.emoji}>🎥</span>
             <strong> Post Your Study Tip on Social & Get $500</strong>
             <span className={styles.emoji}>💰</span>
-            <span className={styles.note}>(Eligible for U.S. or Canada Quicktakes Users)</span>
+            <span className={styles.note}>(Eligible for U.S. or Canada Quicktakes Users)</span> */}
             <a 
-              href="https://social.quicktakes.io" 
+              href="https://link.quicktakes.io/2025mid30" 
               target="_blank" 
               rel="noopener noreferrer"
               className={styles.campaignLink}
