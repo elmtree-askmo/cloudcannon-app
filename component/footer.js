@@ -89,7 +89,7 @@ export default function Footer({ theme, language = 'en', utmParams = null }) {
                 <Link href="https://www.tiktok.com/@quicktakes.io" target="_blank" >
                   <Image src="/socialmedia/tiktok.svg" alt="tiktok" width={22} height={22} />
                 </Link>
-                <Link href="https://www.youtube.com/@Edkey_QuickTakes" target="_blank" >
+                <Link href="https://www.youtube.com/@Quicktakes_Edkey" target="_blank" >
                   <Image src="/socialmedia/youtube.svg" alt="youtube" width={22} height={22} />
                 </Link>
                 <Link href="https://open.spotify.com/user/317iuopw7yk2ncum6bq4otwpzmo4?si=51d9c112b7f84e72" target="_blank">
