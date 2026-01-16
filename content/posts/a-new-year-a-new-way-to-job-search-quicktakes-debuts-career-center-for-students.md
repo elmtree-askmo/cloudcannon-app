@@ -1,13 +1,19 @@
 ---
 _schema: default
-date: 2026-01-16T00:00:00Z
+date: 2026-01-15T00:00:00Z
 title: >-
   A New Year, a New Way to Job Search: QuickTakes Debuts Career Center for
   Students
 article_title: >-
   A New Year, a New Way to Job Search: QuickTakes Debuts Career Center for
   Students
-description:
+description: >-
+  For millions of students preparing to enter an increasingly competitive job
+  market, the search for internships and entry-level positions has become a
+  demanding and often discouraging process. Long hours spent scrolling through
+  job boards, inconsistent salary information and a lack of clarity about which
+  roles actually align with one’s major or experience have become routine
+  obstacles in the path to early career success.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
