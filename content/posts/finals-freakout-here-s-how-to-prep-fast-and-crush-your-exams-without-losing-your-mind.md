@@ -2,15 +2,15 @@
 _schema: default
 date: 2025-05-02T12:00:00Z
 title: >-
-  Finals Freakout? Here's How to Prep Fast and Crush Your Exams (Without Losing
-  Your Mind)
+  [dev] Finals Freakout? Here's How to Prep Fast and Crush Your Exams (Without
+  Losing Your Mind)
 article_title: >-
-  Finals Freakout? Here's How to Prep Fast and Crush Your Exams (Without Losing
-  Your Mind)
+  [dev] Finals Freakout? Here's How to Prep Fast and Crush Your Exams (Without
+  Losing Your Mind)
 description: >-
-  Let’s be real: finals week can feel like a horror movie where the villain is
-  your to-do list. But here's the good news—you can go from “I’m doomed” to “I
-  got this” faster than you think.
+  [dev] Let’s be real: finals week can feel like a horror movie where the
+  villain is your to-do list. But here's the good news—you can go from “I’m
+  doomed” to “I got this” faster than you think.
 
   This isn’t about pulling all-nighters or downing your body weight in coffee.
   It’s about working smarter, not harder.
